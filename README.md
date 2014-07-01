@@ -1,4 +1,3 @@
-mwl-units
-=========
+# MWL Units
 
 Units for Mechwars:Legends
