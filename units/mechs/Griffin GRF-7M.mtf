@@ -1,0 +1,131 @@
+Version:1.1
+Griffin
+GRF-7M
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3068
+Rules Level:2
+
+Mass:55
+Engine:275 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:5
+Jump MP:5
+
+Armor:Ferro-Fibrous
+LA Armor:18
+RA Armor:18
+LT Armor:20
+RT Armor:20
+CT Armor:28
+HD Armor:9
+LL Armor:23
+RL Armor:23
+RTL Armor:6
+RTR Armor:6
+RTC Armor:8
+
+Weapons:5
+1 ISHeavyPPC, Right Arm
+1 ISERMediumLaser, Center Torso
+1 ISERMediumLaser, Right Torso
+1 ISERSmallLaser, Head
+1 ISMML9, Right Torso, Ammo:39
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISHeavyPPC
+ISHeavyPPC
+ISHeavyPPC
+ISHeavyPPC
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+ISMML9 LRM Ammo
+ISMML9 LRM Ammo
+ISMML9 SRM Ammo
+ISCASE
+Ferro-Fibrous
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISERMediumLaser
+Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+ISERMediumLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISERSmallLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous

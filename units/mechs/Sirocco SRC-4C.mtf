@@ -1,0 +1,123 @@
+Version:1.1
+Sirocco
+SRC-4C
+
+Config:Quad
+TechBase:Inner Sphere
+Era:3060
+Rules Level:2
+
+Mass:95
+Engine:285 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:40
+RA Armor:40
+LT Armor:25
+RT Armor:25
+CT Armor:40
+HD Armor:9
+LL Armor:40
+RL Armor:40
+RTL Armor:15
+RTR Armor:15
+RTC Armor:20
+
+Weapons:9
+1 ISERMediumLaser (R), Right Torso (R)
+1 ISERMediumLaser, Right Torso
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser (R), Left Torso (R)
+1 ISMediumPulseLaser, Head
+1 ISGaussRifle, Left Torso, Ammo:32
+1 ISGaussRifle, Right Torso
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser, Right Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Left Torso:
+ISERMediumLaser
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGauss Ammo
+ISGauss Ammo
+ISERMediumLaser
+ISERMediumLaser (R)
+
+Right Torso:
+ISERMediumLaser
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGauss Ammo
+ISGauss Ammo
+ISERMediumLaser
+ISERMediumLaser (R)
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMediumPulseLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

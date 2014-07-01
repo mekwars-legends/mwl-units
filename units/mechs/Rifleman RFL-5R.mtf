@@ -1,0 +1,133 @@
+Version:1.1
+Rifleman
+RFL-5R
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3075
+Rules Level:4
+
+Mass:60
+Engine:240 Fusion Engine
+Structure:Endo-Steel
+Gyro:XL Gyro
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Light Ferro-Fibrous
+LA Armor:14
+RA Armor:14
+LT Armor:19
+RT Armor:19
+CT Armor:23
+HD Armor:9
+LL Armor:19
+RL Armor:19
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:6
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser, Right Torso
+1 ISERLargeLaser, Left Arm
+1 ISERLargeLaser, Right Arm
+1 ISLBXAC5, Left Arm, Ammo:40
+1 ISLBXAC5, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5
+ISERLargeLaser
+ISERLargeLaser
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5
+ISERLargeLaser
+ISERLargeLaser
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISERMediumLaser
+ISLBXAC5 CL Ammo
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+ISCASE
+-Empty-
+
+Right Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISERMediumLaser
+ISLBXAC5 Ammo
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+ISCASE
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+Light Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Light Ferro-Fibrous
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Light Ferro-Fibrous
+Endo-Steel

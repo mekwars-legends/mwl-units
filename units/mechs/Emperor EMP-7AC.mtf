@@ -1,0 +1,135 @@
+Version:1.1
+Emperor
+EMP-7AC
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:3
+
+Mass:90
+Engine:270 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:3
+Jump MP:3
+
+Armor:Standard Armor
+LA Armor:30
+RA Armor:30
+LT Armor:30
+RT Armor:30
+CT Armor:44
+HD Armor:9
+LL Armor:38
+RL Armor:38
+RTL Armor:8
+RTR Armor:8
+RTC Armor:14
+
+Weapons:9
+1 ISPlasmaRifle, Right Arm
+1 ISPlasmaRifle, Left Arm
+1 ISLAC5, Right Arm, Ammo:80
+1 ISLAC5, Right Arm
+1 ISLAC5, Left Arm
+1 ISLAC5, Left Arm
+1 ISMediumPulseLaser, Left Torso
+1 ISMediumPulseLaser, Right Torso
+1 ISMediumLaser, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISPlasmaRifle
+ISPlasmaRifle
+ISLAC5
+ISLAC5
+ISLAC5
+ISLAC5
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISPlasmaRifle
+ISPlasmaRifle
+ISLAC5
+ISLAC5
+ISLAC5
+ISLAC5
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISLAC5 Ammo
+ISLAC5 Ammo
+ISMediumPulseLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+-Empty-
+-Empty-
+ISCASE
+
+Right Torso:
+Engine
+Engine
+Engine
+ISLAC5 Ammo
+ISLAC5 Ammo
+ISMediumPulseLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+-Empty-
+-Empty-
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+ISMediumLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-

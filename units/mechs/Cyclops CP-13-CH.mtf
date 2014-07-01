@@ -1,0 +1,130 @@
+Version:1.1
+Cyclops
+CP-13-CH
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:90
+Engine:360 Light Fusion Engine
+Structure:Endo-Steel
+Gyro:XL Gyro
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Hardened
+LA Armor:30
+RA Armor:30
+LT Armor:25
+RT Armor:25
+CT Armor:45
+HD Armor:9
+LL Armor:38
+RL Armor:38
+RTL Armor:10
+RTR Armor:10
+RTC Armor:12
+
+Weapons:3
+1 ISERPPC, Right Torso
+1 ISLRM20, Left Torso, Ammo:18
+1 ISC3SlaveUnit, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20 Ammo
+ISLRM20 Ammo
+ISLRM20 Ammo
+Endo-Steel
+ISCASE
+
+Right Torso:
+Engine
+Engine
+ISERPPC
+ISERPPC
+ISERPPC
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISC3SlaveUnit
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

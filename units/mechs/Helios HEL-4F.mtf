@@ -1,0 +1,131 @@
+Version:1.1
+Helios
+HEL-4F
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3060
+Rules Level:4
+
+Mass:60
+Engine:240 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Light Ferro-Fibrous
+LA Armor:19
+RA Armor:19
+LT Armor:22
+RT Armor:22
+CT Armor:29
+HD Armor:9
+LL Armor:19
+RL Armor:19
+RTL Armor:6
+RTR Armor:6
+RTC Armor:8
+
+Weapons:5
+1 ISERMediumLaser, Left Arm
+1 ISERMediumLaser, Left Arm
+1 ISLBXAC10, Right Arm, Ammo:20
+1 ISMML5, Right Torso, Ammo:72
+1 ISMML5, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISERMediumLaser
+ISERMediumLaser
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+ISMML5
+ISMML5
+ISMML5
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+ISMML5
+ISMML5
+ISMML5
+ISLBXAC10 CL Ammo
+ISLBXAC10 Ammo
+ISMML5 SRM Ammo
+ISMML5 SRM Ammo
+ISMML5 LRM Ammo
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISCASEII
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Endo-Steel
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

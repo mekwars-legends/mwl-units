@@ -1,0 +1,133 @@
+Version:1.1
+Black Knight
+BL-20-KNT
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:75
+Engine:300 Light Fusion Engine
+Structure:Reinforced
+Myomer:Standard
+
+Heat Sinks:15 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Heavy Ferro-Fibrous
+LA Armor:24
+RA Armor:24
+LT Armor:25
+RT Armor:25
+CT Armor:35
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:7
+RTR Armor:7
+RTC Armor:8
+
+Weapons:7
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Right Torso
+1 ISLargeLaser, Left Torso
+1 ISLargeLaser, Right Torso
+1 ISMediumPulseLaser, Left Arm
+1 ISMediumPulseLaser, Right Arm
+1 ISERPPC, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumPulseLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumPulseLaser
+ISERPPC
+ISERPPC
+ISERPPC
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+-Empty-
+
+Left Torso:
+Engine
+Engine
+ISLargeLaser
+ISLargeLaser
+ISMediumLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+ISLargeLaser
+ISLargeLaser
+ISMediumLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+Heavy Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous

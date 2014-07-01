@@ -1,0 +1,51 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+BattleArmor
+</UnitType>
+<Name>
+Angerona
+</Name>
+<Model>
+(Standard)
+</Model>
+<Trooper Count>
+6
+</Trooper Count>
+<chassis>
+biped
+</chassis>
+<weightclass>
+2
+</weightclass>
+<cruiseMP>
+3
+</cruiseMP>
+<jumpingMP>
+0
+</jumpingMP>
+<Armor>
+5
+</Armor>
+<Squad Equipment>
+ISLight Recoilless Rifle
+Improved Stealth
+BAAPMount
+BABasicManipulator
+Simple Camo
+</Squad Equipment>
+<type>
+IS Level 2
+</type>
+<year>
+3057
+</year>
+<motion_type>
+Jump
+</motion_type>

@@ -1,0 +1,137 @@
+Version:1.1
+C-ANG-O Archangel
+Invictus II
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3069
+Rules Level:2
+
+Mass:100
+Engine:300 Compact Fusion Engine
+Structure:Endo-Steel
+Gyro:Compact Gyro
+Cockpit:Small Cockpit
+Myomer:Standard
+
+Heat Sinks:13 Double
+Base Chassis Heat Sinks: 12
+Walk MP:3
+Jump MP:3
+
+Armor:Standard Armor
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:8
+1 ISImprovedC3CPU, Center Torso
+1 ISMediumPulseLaser, Center Torso
+1 ISMediumPulseLaser, Center Torso
+1 ISMediumPulseLaser, Head
+1 ISHeavyPPC, Right Arm
+1 ISERMediumLaser, Head
+1 ISGuardianECM, Center Torso
+1 Retractable Blade, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+Retractable Blade
+Retractable Blade
+Retractable Blade
+Retractable Blade
+Retractable Blade
+Retractable Blade
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+ISHeavyPPC
+ISHeavyPPC
+ISHeavyPPC
+ISHeavyPPC
+
+Left Torso:
+Jump Jet
+ISTargeting Computer
+ISTargeting Computer
+ISTargeting Computer
+ISTargeting Computer
+ISTargeting Computer
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Jump Jet
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+ISImprovedC3CPU
+ISImprovedC3CPU
+ISGuardianECM
+ISGuardianECM
+Jump Jet
+ISMediumPulseLaser
+ISMediumPulseLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+ISMediumPulseLaser
+ISERMediumLaser
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

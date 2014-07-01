@@ -1,0 +1,89 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+BARS
+</Name>
+
+<Model>
+(X)
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+IS Level 4
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+39
+31
+31
+25
+32
+</armor>
+
+<Body Equipment>
+ISCASE
+ISTargeting Computer
+ISRotaryAC5 Ammo
+ISRotaryAC5 Ammo
+ISRotaryAC5 Ammo
+ISC3BoostedSystemSlaveUnit
+</Body Equipment>
+
+<Front Equipment>
+ISSmallXPulseLaser
+ISSmallXPulseLaser
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISRotaryAC5
+</Turret Equipment>
+
+<tonnage>
+45.0
+</tonnage>
+

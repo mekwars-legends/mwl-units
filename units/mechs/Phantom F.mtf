@@ -1,0 +1,132 @@
+Version:1.1
+Phantom
+F
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3068
+Rules Level:3
+
+Mass:40
+Engine:360 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:12 Double
+Base Chassis Heat Sinks: 12
+Walk MP:9
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:12
+RA Armor:12
+LT Armor:11
+RT Armor:11
+CT Armor:12
+HD Armor:9
+LL Armor:13
+RL Armor:13
+RTL Armor:7
+RTR Armor:7
+RTC Armor:8
+
+Weapons:5
+1 CLECMSuite, Center Torso
+1 CLERMediumLaser, Right Torso
+1 CLERMediumLaser, Left Torso
+1 CLHeavyMediumLaser, Right Arm
+1 CLHeavyFlamer, Left Arm, Ammo:10
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLHeavyFlamer
+CLHeavyFlamer Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+CLERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+CLERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLECMSuite
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Ferro-Fibrous

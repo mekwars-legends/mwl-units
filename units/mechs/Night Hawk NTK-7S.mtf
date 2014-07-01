@@ -1,0 +1,131 @@
+Version:1.1
+Night Hawk
+NTK-7S
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:35
+Engine:210 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:6
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:10
+RA Armor:10
+LT Armor:12
+RT Armor:12
+CT Armor:15
+HD Armor:9
+LL Armor:15
+RL Armor:15
+RTL Armor:3
+RTR Armor:3
+RTC Armor:3
+
+Weapons:5
+1 ISLargeXPulseLaser, Right Arm
+1 ISLargeLaser, Center Torso
+1 ISERMediumLaser, Left Torso
+1 ISGuardianECM, Left Torso
+1 ISBloodhoundActiveProbe, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISLargeXPulseLaser
+ISLargeXPulseLaser
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+Engine
+ISGuardianECM
+ISGuardianECM
+ISBloodhoundActiveProbe
+ISBloodhoundActiveProbe
+ISBloodhoundActiveProbe
+ISERMediumLaser
+Endo-Steel
+Ferro-Fibrous
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISLargeLaser
+ISLargeLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

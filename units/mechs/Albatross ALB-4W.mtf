@@ -1,0 +1,135 @@
+Version:1.1
+Albatross
+ALB-4W
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:95
+Engine:380 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:14 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:32
+RA Armor:32
+LT Armor:28
+RT Armor:28
+CT Armor:48
+HD Armor:9
+LL Armor:40
+RL Armor:40
+RTL Armor:12
+RTR Armor:12
+RTC Armor:12
+
+Weapons:9
+1 ISMML5, Right Torso, Ammo:48
+1 ISMML5, Right Torso
+1 ISERSmallLaser, Left Torso
+1 ISERSmallLaser, Left Torso
+1 ISMediumXPulseLaser, Right Arm
+1 ISMediumXPulseLaser, Left Torso
+1 ISMediumXPulseLaser, Right Arm
+1 ISLargeVSPLaser, Right Arm
+1 ISLightGaussRifle, Left Arm, Ammo:16
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLargeVSPLaser
+ISLargeVSPLaser
+ISLargeVSPLaser
+ISLargeVSPLaser
+ISMediumXPulseLaser
+ISMediumXPulseLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+Engine
+ISMediumXPulseLaser
+ISERSmallLaser
+ISERSmallLaser
+ISLightGauss Ammo
+ISMML5 LRM Ammo
+ISMML5 SRM Ammo
+Ferro-Fibrous
+Ferro-Fibrous
+ISCASE
+
+Right Torso:
+Engine
+Engine
+Engine
+ISMML5
+ISMML5
+ISMML5
+ISMML5
+ISMML5
+ISMML5
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Ferro-Fibrous
+Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

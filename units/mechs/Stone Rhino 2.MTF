@@ -1,0 +1,157 @@
+Version:1.0
+Stone Rhino
+SERO-2
+
+Config:Biped
+TechBase:Clan
+Era:3055
+Rules Level:2
+
+Mass:100
+Engine:300 XL Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:16 Double
+Walk MP:3
+Jump MP:3
+
+Armor:Standard
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:44
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:13
+1 CLHeavyLargeLaser, Right Arm
+1 CLHeavyMediumLaser, Right Arm
+1 CLHeavySmallLaser, Right Arm
+1 CLHeavyLargeLaser, Left Arm
+1 CLHeavyMediumLaser, Left Arm
+1 CLHeavySmallLaser, Left Arm
+1 CLHeavyMediumLaser, Right Torso
+1 CLGaussRifle, Right Torso, Ammo:32
+1 CLHeavyMediumLaser, Left Torso
+1 CLGaussRifle, Left Torso
+1 CLAntiMissileSystem, Head, Ammo:24
+1 CLAntiPersonnelPod, Left Leg
+1 CLAntiPersonnelPod, Right Leg
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLHeavySmallLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLHeavySmallLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGauss Ammo
+CLGauss Ammo
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGauss Ammo
+CLGauss Ammo
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+CLAMS Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLAntiMissileSystem
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLAntiPersonnelPod
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLAntiPersonnelPod
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-

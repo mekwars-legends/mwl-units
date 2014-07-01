@@ -1,0 +1,135 @@
+Version:1.1
+Bandersnatch
+BNDR-01WB
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3052
+Rules Level:2
+
+Mass:75
+Engine:300 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Light Ferro-Fibrous
+LA Armor:18
+RA Armor:18
+LT Armor:23
+RT Armor:23
+CT Armor:25
+HD Armor:9
+LL Armor:18
+RL Armor:18
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:9
+1 ISLBXAC10, Right Arm, Ammo:40
+1 ISLBXAC10, Left Arm
+1 ISImprovedC3CPU, Center Torso
+1 ISERMediumLaser, Right Arm
+1 ISERMediumLaser, Right Arm
+1 ISERMediumLaser, Left Arm
+1 ISERMediumLaser, Left Arm
+1 ISMML5, Left Torso, Ammo:48
+1 ISMML5, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISERMediumLaser
+ISERMediumLaser
+Light Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISERMediumLaser
+ISERMediumLaser
+Light Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+Engine
+ISLBXAC10 Ammo
+ISLBXAC10 CL Ammo
+ISMML5 SRM Ammo
+ISCASE
+ISMML5
+ISMML5
+ISMML5
+Light Ferro-Fibrous
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISLBXAC10 Ammo
+ISLBXAC10 CL Ammo
+ISMML5 LRM Ammo
+ISCASE
+ISMML5
+ISMML5
+ISMML5
+Light Ferro-Fibrous
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Head:
+Life Support
+Sensors
+Cockpit
+Light Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Light Ferro-Fibrous
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Light Ferro-Fibrous
+-Empty-

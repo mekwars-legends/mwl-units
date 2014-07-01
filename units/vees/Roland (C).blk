@@ -1,0 +1,101 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Roland
+</Name>
+
+<Model>
+(C)
+</Model>
+
+<year>
+3063
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+65.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+
+</transporters>
+
+<engine_type>
+2
+</engine_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<omni>
+1
+</omni>
+
+<armor>
+40
+32
+32
+26
+40
+</armor>
+
+<Body Equipment>
+ISCASE
+ISTargeting Computer
+ISC3MasterUnit
+IS Ammo LRM-10
+IS Ammo LRM-10
+IS Streak SRM 4 Ammo
+</Body Equipment>
+
+<Front Equipment>
+ISStreakSRM4
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+PPC
+LRM 10
+</Turret Equipment>
+
+<source>
+TRO 3063
+</source>
+

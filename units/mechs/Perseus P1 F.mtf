@@ -1,0 +1,134 @@
+Version:1.1
+Perseus
+P1 F
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3058
+Rules Level:2
+
+Mass:75
+Engine:300 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:12 Double
+Base Chassis Heat Sinks: 12
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:21
+RA Armor:21
+LT Armor:24
+RT Armor:24
+CT Armor:36
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:8
+RTR Armor:8
+RTC Armor:9
+
+Weapons:7
+1 ISLightPPC, Right Torso
+1 ISLightPPC, Right Torso
+1 ISLightPPC, Left Torso
+1 ISGaussRifle, Right Arm, Ammo:16
+1 ISLightPPC, Left Torso
+1 ISMML9, Left Arm, Ammo:26
+1 ISImprovedC3CPU, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9 LRM Ammo
+ISMML9 SRM Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISGauss Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISGauss Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

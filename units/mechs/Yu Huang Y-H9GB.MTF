@@ -1,0 +1,132 @@
+Version:1.1
+Yu Huang
+Y-H9GB
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3076
+Rules Level:2
+
+Mass:90
+Engine:360 XL Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:15 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:29
+RA Armor:29
+LT Armor:28
+RT Armor:28
+CT Armor:43
+HD Armor:9
+LL Armor:37
+RL Armor:37
+RTL Armor:9
+RTR Armor:9
+RTC Armor:14
+
+Weapons:6
+1 ISUltraAC20, Right Arm, Ammo:15
+1 ISLargeLaser, Left Arm
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Left Arm
+1 ISLRM10, Center Torso, Ammo:12
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLargeLaser
+ISLargeLaser
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+
+Left Torso:
+Engine
+Engine
+Engine
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISUltraAC20 Ammo
+ISUltraAC20 Ammo
+ISUltraAC20 Ammo
+ISLRM10 Ammo
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISLRM10
+ISLRM10
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

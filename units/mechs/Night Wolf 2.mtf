@@ -1,0 +1,132 @@
+Version:1.1
+Night Wolf
+NTW 2
+
+Config:Biped
+TechBase:Clan
+Era:3070
+Rules Level:4
+
+Mass:90
+Engine:360 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:16 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:28
+RA Armor:28
+LT Armor:29
+RT Armor:29
+CT Armor:43
+HD Armor:9
+LL Armor:37
+RL Armor:37
+RTL Armor:9
+RTR Armor:9
+RTC Armor:14
+
+Weapons:6
+1 CLERLargeLaser, Right Torso
+1 CLStreakLRM15, Left Arm, Ammo:32
+1 CLStreakLRM15, Right Arm
+1 CLPlasmaCannon, Left Arm, Ammo:20
+1 CLECMSuite, Center Torso
+1 CLLaserAntiMissileSystem, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLPlasmaCannon
+CLStreakLRM15
+CLStreakLRM15
+CLStreakLRM15
+CLStreakLRM15 Ammo
+CLStreakLRM15 Ammo
+Endo-Steel
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLStreakLRM15
+CLStreakLRM15
+CLStreakLRM15
+CLStreakLRM15 Ammo
+CLStreakLRM15 Ammo
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLPlasmaCannon Ammo
+CLPlasmaCannon Ammo
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+CLERLargeLaser
+CLERLargeLaser
+CLERLargeLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLECMSuite
+CLLaserAntiMissileSystem
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

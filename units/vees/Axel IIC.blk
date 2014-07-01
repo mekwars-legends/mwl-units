@@ -1,0 +1,63 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Axel IIC
+</Name>
+<Tonnage>
+65
+</Tonnage>
+<cruiseMP>
+4
+</cruiseMP>
+<Armor>
+65
+45
+45
+30
+35
+</Armor>
+<Turret Equipment>
+CLLargePulseLaser
+CLLRM15
+CLArtemisIV
+CLLRM15
+CLArtemisIV
+</Turret Equipment>
+<Front Equipment>
+CLAPGaussRifle
+</Front Equipment>
+<Body Equipment>
+CLECMSuite
+CLLRM15 Ammo (Clan) Artemis-capable
+CLLRM15 Ammo (Clan) Artemis-capable
+CLLRM15 Ammo (Clan) Artemis-capable
+CLLRM15 Ammo (Clan) Artemis-capable
+CLAPGaussRifle Ammo
+</Body Equipment>
+<type>
+Clan
+</type>
+<year>
+3075
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>

@@ -1,0 +1,132 @@
+Version:1.1
+Albatross
+ALB-5U
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3063
+Rules Level:2
+
+Mass:95
+Engine:380 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:15 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:32
+RA Armor:32
+LT Armor:28
+RT Armor:28
+CT Armor:48
+HD Armor:9
+LL Armor:40
+RL Armor:40
+RTL Armor:12
+RTR Armor:12
+RTC Armor:12
+
+Weapons:6
+1 ISLargePulseLaser, Right Arm
+1 ISStreakSRM6, Right Torso, Ammo:15
+1 ISMML9, Left Torso, Ammo:52
+1 ISLBXAC10, Left Arm, Ammo:20
+1 ISERMediumLaser, Right Arm
+1 ISERMediumLaser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLargePulseLaser
+ISLargePulseLaser
+ISERMediumLaser
+ISERMediumLaser
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISArtemisIV
+ISLBXAC10 CL Ammo
+ISLBXAC10 Ammo
+ISCASE
+
+Right Torso:
+Engine
+Engine
+Engine
+ISStreakSRM6
+ISStreakSRM6
+ISMML9 SRM Ammo Artemis-capable
+ISMML9 SRM Ammo Artemis-capable
+ISMML9 LRM Ammo Artemis-capable
+ISMML9 LRM Ammo Artemis-capable
+ISStreakSRM6 Ammo
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Endo-Steel
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

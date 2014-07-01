@@ -1,0 +1,131 @@
+Version:1.1
+Sunder
+SD1-O F
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3054
+Rules Level:2
+
+Mass:90
+Engine:360 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:15 Double
+Base Chassis Heat Sinks: 15
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:30
+RA Armor:30
+LT Armor:28
+RT Armor:28
+CT Armor:41
+HD Armor:9
+LL Armor:33
+RL Armor:33
+RTL Armor:10
+RTR Armor:10
+RTC Armor:12
+
+Weapons:4
+1 ISMML7, Left Torso, Ammo:68
+1 ISMML7, Right Torso
+1 ISHeavyPPC, Right Arm
+1 ISLBXAC10, Left Arm, Ammo:20
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISHeavyPPC
+ISHeavyPPC
+ISHeavyPPC
+ISHeavyPPC
+-Empty-
+-Empty-
+-Empty-
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Left Torso:
+Engine
+Engine
+Engine
+ISMML7
+ISMML7
+ISMML7
+ISMML7
+ISMML7 LRM Ammo
+ISMML7 SRM Ammo
+ISLBXAC10 Ammo
+ISLBXAC10 CL Ammo
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISMML7
+ISMML7
+ISMML7
+ISMML7
+ISMML7 LRM Ammo
+ISMML7 SRM Ammo
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

@@ -1,0 +1,137 @@
+Version:1.1
+Penetrator
+PTR-4DX
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3053
+Rules Level:5
+
+Mass:75
+Engine:300 Fusion Engine
+Structure:Endo-Steel
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:13 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Ferro-Fibrous
+LA Armor:24
+RA Armor:24
+LT Armor:24
+RT Armor:24
+CT Armor:36
+HD Armor:9
+LL Armor:29
+RL Armor:29
+RTL Armor:8
+RTR Armor:8
+RTC Armor:9
+
+Weapons:10
+1 ISAntiMissileSystem, Center Torso
+1 ISAntiMissileSystem, Center Torso
+1 ISMediumXPulseLaser, Right Torso
+1 ISMediumXPulseLaser, Left Torso
+1 ISMediumXPulseLaser, Left Torso
+1 ISMediumXPulseLaser, Right Torso
+1 ISMediumXPulseLaser, Left Torso
+1 ISMediumXPulseLaser, Right Torso
+1 ISERLargeLaser, Left Arm
+1 ISERLargeLaser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISERLargeLaser
+ISERLargeLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISERLargeLaser
+ISERLargeLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+ISMediumXPulseLaser
+ISMediumXPulseLaser
+ISMediumXPulseLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+ISMediumXPulseLaser
+ISMediumXPulseLaser
+ISMediumXPulseLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISAntiMissileSystem
+ISAntiMissileSystem
+IS AMS Ammo
+IS AMS Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

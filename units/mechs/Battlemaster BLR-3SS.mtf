@@ -1,0 +1,138 @@
+Version:1.1
+Battlemaster
+BLR-3SS
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3052
+Rules Level:2
+
+Mass:85
+Engine:340 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:13 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:23
+RA Armor:23
+LT Armor:27
+RT Armor:27
+CT Armor:39
+HD Armor:9
+LL Armor:25
+RL Armor:25
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:12
+1 ISMediumPulseLaser, Left Torso
+1 ISMediumPulseLaser (R), Right Torso (R)
+1 ISMediumPulseLaser, Right Torso
+1 ISMediumPulseLaser, Right Torso
+1 ISMediumPulseLaser, Left Torso
+1 ISMediumPulseLaser (R), Left Torso (R)
+1 ISMML7, Right Arm, Ammo:85
+1 ISMML7, Right Arm
+1 ISMML7, Left Torso
+1 Hatchet, Left Arm
+1 ISGuardianECM, Center Torso
+1 ISERSmallLaser (R), Head (R)
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMML7
+ISMML7
+ISMML7
+ISMML7
+ISMML7
+ISMML7
+ISMML7
+ISMML7
+
+Left Torso:
+Engine
+Engine
+Engine
+ISMML7
+ISMML7
+ISMML7
+ISMML7
+ISMediumPulseLaser (R)
+ISMediumPulseLaser
+ISMediumPulseLaser
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISMediumPulseLaser
+ISMediumPulseLaser
+ISMediumPulseLaser (R)
+ISMML7 LRM Ammo
+ISMML7 LRM Ammo
+ISMML7 LRM Ammo
+ISMML7 SRM Ammo
+ISMML7 SRM Ammo
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISGuardianECM
+ISGuardianECM
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISERSmallLaser (R)
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

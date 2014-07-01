@@ -1,0 +1,137 @@
+Version:1.1
+JagerMech
+JM6-DLA
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:65
+Engine:260 XL Fusion Engine
+Structure:Endo-Steel
+Gyro:XL Gyro
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Light Ferro-Fibrous
+LA Armor:14
+RA Armor:14
+LT Armor:18
+RT Armor:18
+CT Armor:21
+HD Armor:9
+LL Armor:20
+RL Armor:20
+RTL Armor:6
+RTR Armor:6
+RTC Armor:6
+
+Weapons:10
+1 ISERMediumLaser, Right Torso
+1 ISERMediumLaser, Left Torso
+1 ISLAC2, Right Arm, Ammo:270
+1 ISLAC2, Left Arm
+1 ISLAC2, Left Arm
+1 ISLAC2, Right Arm
+1 ISLAC2, Left Arm
+1 ISLAC2, Right Arm
+1 ISLAC2, Left Arm
+1 ISLAC2, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLAC2
+ISLAC2
+ISLAC2
+ISLAC2
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISLAC2
+ISLAC2
+ISLAC2
+ISLAC2
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISERMediumLaser
+ISLAC2 Ammo
+ISLAC2 Ammo
+ISLAC2 Ammo
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+ISCASE
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISERMediumLaser
+ISLAC2 Ammo
+ISLAC2 Ammo
+ISLAC2 Ammo
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+ISCASE
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+Light Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

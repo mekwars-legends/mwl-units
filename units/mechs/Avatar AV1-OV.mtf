@@ -1,0 +1,133 @@
+Version:1.1
+Avatar
+AV1-OV
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3059
+Rules Level:4
+
+Mass:70
+Engine:280 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Base Chassis Heat Sinks: 10
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:16
+RA Armor:16
+LT Armor:22
+RT Armor:22
+CT Armor:30
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:8
+RTR Armor:8
+RTC Armor:9
+
+Weapons:6
+1 ISMediumLaser, Center Torso
+1 ISMediumLaser, Center Torso
+1 ISLRM15, Left Torso, Ammo:32
+1 ISLRM15, Right Torso
+1 ISLightGaussRifle, Right Arm, Ammo:16
+1 ISC3SlaveUnit, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISLRM15
+ISLRM15
+ISLRM15
+ISArtemisIV
+ISC3SlaveUnit
+ISLRM15 Ammo Artemis-capable
+ISLRM15 Ammo Artemis-capable
+-Empty-
+ISCASE
+
+Right Torso:
+Engine
+Engine
+Engine
+ISLRM15
+ISLRM15
+ISLRM15
+ISArtemisIV
+ISLightGauss Ammo
+ISLRM15 Ammo Artemis-capable
+ISLRM15 Ammo Artemis-capable
+-Empty-
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumLaser
+ISMediumLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

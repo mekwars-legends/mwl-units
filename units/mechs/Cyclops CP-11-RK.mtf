@@ -1,0 +1,129 @@
+Version:1.1
+Cyclops
+CP-11-RK
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3059
+Rules Level:2
+
+Mass:90
+Engine:360 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Light Ferro-Fibrous
+LA Armor:25
+RA Armor:25
+LT Armor:30
+RT Armor:30
+CT Armor:40
+HD Armor:9
+LL Armor:33
+RL Armor:33
+RTL Armor:8
+RTR Armor:8
+RTC Armor:12
+
+Weapons:3
+1 ISERMediumLaser, Left Arm
+1 ISHeavyGaussRifle, Right Torso, Ammo:12
+1 ISMML9, Left Torso, Ammo:26
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Left Torso:
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9 LRM Ammo
+ISMML9 SRM Ammo
+ISCASE
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+-Empty-
+-Empty-
+
+Right Torso:
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+IS Heavy Gauss Rifle Ammo
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+IS Heavy Gauss Rifle Ammo
+IS Heavy Gauss Rifle Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

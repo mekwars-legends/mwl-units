@@ -1,0 +1,130 @@
+Version:1.1
+Hunchback
+HBK-IIC 2
+
+Config:Biped
+TechBase:Clan
+Era:3059
+Rules Level:2
+
+Mass:50
+Engine:200 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:22 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:14
+RA Armor:14
+LT Armor:16
+RT Armor:16
+CT Armor:24
+HD Armor:9
+LL Armor:20
+RL Armor:20
+RTL Armor:6
+RTR Armor:6
+RTC Armor:7
+
+Weapons:4
+1 CLHeavyLargeLaser, Right Torso
+1 CLHeavyLargeLaser, Left Torso
+1 CLMediumPulseLaser, Left Arm
+1 CLMediumPulseLaser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLMediumPulseLaser
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLMediumPulseLaser
+-Empty-
+
+Left Torso:
+Engine
+Engine
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+
+Right Torso:
+Engine
+Engine
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

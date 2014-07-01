@@ -1,0 +1,132 @@
+Version:1.1
+Firestarter
+FS9-MW
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:2
+
+Mass:35
+Engine:210 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:6
+Jump MP:6
+
+Armor:Light Ferro-Fibrous
+LA Armor:9
+RA Armor:9
+LT Armor:9
+RT Armor:9
+CT Armor:14
+HD Armor:8
+LL Armor:12
+RL Armor:12
+RTL Armor:3
+RTR Armor:3
+RTC Armor:5
+
+Weapons:6
+1 ISFlamer, Right Arm
+1 ISFlamer, Left Arm
+1 ISERMediumLaser, Right Arm
+1 ISERMediumLaser, Left Arm
+1 ISSRM4, Right Torso, Ammo:50
+1 ISBeagleActiveProbe, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISFlamer
+ISERMediumLaser
+Endo-Steel
+Endo-Steel
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISFlamer
+ISERMediumLaser
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Left Torso:
+Jump Jet
+Jump Jet
+Jump Jet
+ISBeagleActiveProbe
+ISBeagleActiveProbe
+ISSRM4 Ammo
+ISSRM4 Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Jump Jet
+Jump Jet
+Jump Jet
+ISSRM4
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Light Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

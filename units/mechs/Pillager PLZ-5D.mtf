@@ -1,0 +1,132 @@
+Version:1.1
+Pillager
+PLZ-5D
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:100
+Engine:300 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:3
+Jump MP:5
+
+Armor:Standard Armor
+LA Armor:33
+RA Armor:33
+LT Armor:31
+RT Armor:31
+CT Armor:48
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:11
+RTR Armor:11
+RTC Armor:13
+
+Weapons:6
+1 ISRotaryAC5, Left Torso, Ammo:100
+1 ISRotaryAC5, Right Torso
+1 ISERMediumLaser, Right Arm
+1 ISERMediumLaser, Right Arm
+1 ISERMediumLaser, Left Arm
+1 ISMediumPulseLaser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+ISERMediumLaser
+
+Left Torso:
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+Endo-Steel
+ImprovedJump Jet
+ImprovedJump Jet
+IS Rotary AC/5 Ammo
+IS Rotary AC/5 Ammo
+ISCASE
+
+Right Torso:
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ImprovedJump Jet
+ImprovedJump Jet
+IS Rotary AC/5 Ammo
+IS Rotary AC/5 Ammo
+IS Rotary AC/5 Ammo
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ImprovedJump Jet
+ImprovedJump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMediumPulseLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ImprovedJump Jet
+ImprovedJump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ImprovedJump Jet
+ImprovedJump Jet

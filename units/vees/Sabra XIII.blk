@@ -1,0 +1,90 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Sabra
+</Name>
+
+<Model>
+XIII
+</Model>
+
+<year>
+3063
+</year>
+
+<type>
+IS Level 3
+</type>
+
+<tonnage>
+100.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+2
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+5
+</armor_tech>
+
+<armor>
+30
+19
+19
+12
+</armor>
+
+<Body Equipment>
+Cargo (0.5 tons)
+Communications Equipment (1 ton)
+Communications Equipment (1 ton)
+ISLongTomAmmo
+ISLongTomAmmo
+ISLongTomAmmo
+ISLongTomAmmo
+</Body Equipment>
+
+<Front Equipment>
+ISLongTom
+ISLongTom
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+ISSmallPulseLaser
+</Rear Equipment>
+
+<source>
+TRO 3063
+</source>
+

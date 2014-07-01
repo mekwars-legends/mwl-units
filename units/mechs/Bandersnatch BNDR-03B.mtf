@@ -1,0 +1,137 @@
+Version:1.1
+Bandersnatch
+BNDR-03B
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3052
+Rules Level:4
+
+Mass:75
+Engine:300 XL Fusion Engine
+Structure:Standard
+Gyro:XL Gyro
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:18
+RA Armor:18
+LT Armor:23
+RT Armor:23
+CT Armor:25
+HD Armor:9
+LL Armor:18
+RL Armor:18
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:10
+1 ISLAC5, Right Arm, Ammo:60
+1 ISLAC5, Right Arm
+1 ISLAC5, Left Arm
+1 ISLAC5, Left Arm
+1 ISMediumPulseLaser, Left Arm
+1 ISMediumPulseLaser, Right Arm
+1 ISThunderbolt5, Right Torso, Ammo:36
+1 ISThunderbolt5, Head
+1 ISThunderbolt5, Left Torso
+1 ISImprovedC3CPU, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLAC5
+ISLAC5
+ISLAC5
+ISLAC5
+ISMediumPulseLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLAC5
+ISLAC5
+ISLAC5
+ISLAC5
+ISMediumPulseLaser
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISThunderbolt5
+ISThunderbolt5 Ammo
+ISLAC5 Ammo
+ISLAC5 Ammo
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+ISCASE
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISThunderbolt5
+ISThunderbolt5 Ammo
+ISThunderbolt5 Ammo
+ISLAC5 Ammo
+Ferro-Fibrous
+Ferro-Fibrous
+ISImprovedC3CPU
+ISImprovedC3CPU
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISThunderbolt5
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous

@@ -1,0 +1,134 @@
+Version:1.1
+Albatross
+ALB-8C
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:95
+Engine:285 Compact Fusion Engine
+Structure:Endo-Steel
+Myomer:Triple Strength Myomer
+
+Heat Sinks:12 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Light Ferro-Fibrous
+LA Armor:32
+RA Armor:32
+LT Armor:28
+RT Armor:28
+CT Armor:48
+HD Armor:9
+LL Armor:40
+RL Armor:40
+RTL Armor:12
+RTR Armor:12
+RTC Armor:12
+
+Weapons:8
+1 ISLBXAC10, Left Arm, Ammo:20
+1 ISLRM15, Right Torso, Ammo:8
+1 ISStreakSRM6, Right Torso, Ammo:15
+1 ISLargePulseLaser, Right Arm
+1 ISERMediumLaser, Right Arm
+1 ISERMediumLaser, Right Arm
+1 ISSmallPulseLaser, Left Torso
+1 ISImprovedC3CPU, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLargePulseLaser
+ISLargePulseLaser
+ISERMediumLaser
+ISERMediumLaser
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+ISSmallPulseLaser
+ISStreakSRM6 Ammo
+ISLBXAC10 Ammo
+ISLBXAC10 CL Ammo
+ISLRM15 Ammo
+Triple Strength Myomer
+Triple Strength Myomer
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+ISCASE
+
+Right Torso:
+ISLRM15
+ISLRM15
+ISLRM15
+ISStreakSRM6
+ISStreakSRM6
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Head:
+Life Support
+Sensors
+Cockpit
+Light Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Triple Strength Myomer
+Triple Strength Myomer
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Triple Strength Myomer
+Triple Strength Myomer

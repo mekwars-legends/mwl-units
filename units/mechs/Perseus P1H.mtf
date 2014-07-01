@@ -1,0 +1,134 @@
+Version:1.1
+Perseus
+P1 H
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3058
+Rules Level:2
+
+Mass:75
+Engine:300 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:12 Double
+Base Chassis Heat Sinks: 12
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:21
+RA Armor:21
+LT Armor:24
+RT Armor:24
+CT Armor:36
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:8
+RTR Armor:8
+RTC Armor:9
+
+Weapons:7
+1 ISHeavyPPC, Right Arm
+1 ISLRM20, Left Arm, Ammo:18
+1 ISMediumPulseLaser, Left Arm
+1 ISRotaryAC2, Right Arm, Ammo:90
+1 ISERMediumLaser, Right Torso
+1 ISERMediumLaser, Right Torso
+1 ISERSmallLaser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISArtemisIV
+ISMediumPulseLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISHeavyPPC
+ISHeavyPPC
+ISHeavyPPC
+ISHeavyPPC
+ISRotaryAC2
+ISRotaryAC2
+ISRotaryAC2
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+ISLRM20 Ammo
+ISLRM20 Ammo
+ISLRM20 Ammo
+-Empty-
+ISCASE
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+IS Rotary AC/2 Ammo
+IS Rotary AC/2 Ammo
+ISERMediumLaser
+ISERMediumLaser
+ISCASE
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISERSmallLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

@@ -1,0 +1,131 @@
+Version:1.1
+Crusader
+CRD-9S
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:65
+Engine:260 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:16
+RA Armor:16
+LT Armor:21
+RT Armor:21
+CT Armor:24
+HD Armor:9
+LL Armor:21
+RL Armor:21
+RTL Armor:6
+RTR Armor:6
+RTC Armor:7
+
+Weapons:5
+1 ISImprovedHeavyGaussRifle, Center Torso, Ammo:12
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Right Arm
+1 ISMML5, Left Arm, Ammo:72
+1 ISMML5, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISMediumLaser
+ISMML5
+ISMML5
+ISMML5
+ISMML5 SRM Ammo
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISMediumLaser
+ISMML5
+ISMML5
+ISMML5
+ISMML5 LRM Ammo
+ISMML5 LRM Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+
+Right Torso:
+Engine
+Engine
+Engine
+IS Improved Heavy Gauss Rifle Ammo
+IS Improved Heavy Gauss Rifle Ammo
+IS Improved Heavy Gauss Rifle Ammo
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

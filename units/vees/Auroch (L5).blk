@@ -1,0 +1,82 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Auroch
+</Name>
+
+<Model>
+(L5)
+</Model>
+
+<year>
+3063
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+40.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<transporters>
+troopspace:8.0
+</transporters>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<armor>
+37
+26
+26
+23
+</armor>
+
+<Body Equipment>
+ISCASE
+IS Machine Gun Ammo - Half
+IS Ammo LRM-5
+</Body Equipment>
+
+<Front Equipment>
+LRM 5
+</Front Equipment>
+
+<Right Equipment>
+Machine Gun
+</Right Equipment>
+
+<Left Equipment>
+Machine Gun
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<source>
+TRO 3063
+</source>
+

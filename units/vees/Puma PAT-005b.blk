@@ -1,0 +1,98 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Puma Assault Tank
+</Name>
+
+<Model>
+PAT-005b
+</Model>
+
+<year>
+2725
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+95.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+2
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<internal_type>
+-1
+</internal_type>
+
+<armor>
+48
+32
+32
+24
+48
+</armor>
+
+<Body Equipment>
+ISLRM20 Ammo Artemis-capable
+ISLRM20 Ammo Artemis-capable
+ISLRM20 Ammo Artemis-capable
+ISLRM20 Ammo Artemis-capable
+ISStreakSRM2 Ammo
+IS Vehicle Flamer Ammo
+</Body Equipment>
+
+<Front Equipment>
+Medium Laser
+Medium Laser
+ISStreakSRM2
+ISStreakSRM2
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+ISCASE
+ISSmallPulseLaser
+Vehicle Flamer
+</Rear Equipment>
+
+<Turret Equipment>
+LRM 20
+ISArtemisIV
+LRM 20
+ISArtemisIV
+ISERPPC
+</Turret Equipment>
+
+<source>
+Star League
+</source>
+

@@ -1,0 +1,132 @@
+Version:1.1
+Merlin
+MLN-2C
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3068
+Rules Level:2
+
+Mass:60
+Engine:240 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:14 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:17
+RA Armor:17
+LT Armor:20
+RT Armor:20
+CT Armor:26
+HD Armor:9
+LL Armor:20
+RL Armor:20
+RTL Armor:8
+RTR Armor:8
+RTC Armor:11
+
+Weapons:6
+1 ISERMediumLaser, Right Arm
+1 ISERMediumLaser, Left Arm
+1 ISFlamer, Left Torso
+1 ISERPPC, Right Torso
+1 ISMML9, Right Torso, Ammo:39
+1 ISSmallPulseLaser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISERMediumLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISERMediumLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+ISFlamer
+ISSmallPulseLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+ISERPPC
+ISERPPC
+ISERPPC
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9 SRM Ammo
+ISMML9 SRM Ammo
+ISMML9 LRM Ammo
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Endo-Steel
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

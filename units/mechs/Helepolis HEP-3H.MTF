@@ -1,0 +1,150 @@
+Version:1.0
+Helepolis
+HEP-3H
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2750
+Rules Level:3
+
+Mass:75
+Engine:225 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:22
+RA Armor:22
+LT Armor:21
+RT Armor:21
+CT Armor:31
+HD Armor:9
+LL Armor:25
+RL Armor:25
+RTL Armor:10
+RTR Armor:10
+RTC Armor:12
+
+Weapons:5
+1 ISMediumLaser, Head
+1 ISSRM6, Center Torso, Ammo:15
+1 ISSniperCannon, Right Arm
+1 ISLRM10, Left Torso, Ammo:12
+1 ISERLargeLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISERLargeLaser
+ISERLargeLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISSniperArtillery
+ISSniperArtillery
+ISSniperArtillery
+ISSniperArtillery
+ISSniperArtillery
+ISSniperArtillery
+ISSniperArtillery
+ISSniperArtillery
+ISSniperArtillery
+ISSniperArtillery
+
+Left Torso:
+ISLRM10
+ISLRM10
+ISLRM10 Ammo
+ISSRM6 Ammo
+ISSniper Ammo
+ISSniper Ammo
+ISCASE
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISSniperArtillery
+ISSniperArtillery
+ISSniperArtillery
+ISSniperArtillery
+ISSniperArtillery
+ISSniperArtillery
+ISSniperArtillery
+ISSniperArtillery
+ISSniperArtillery
+ISSniperArtillery
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISSRM6
+ISSRM6
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMediumLaser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

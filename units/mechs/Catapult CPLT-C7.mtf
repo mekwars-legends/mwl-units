@@ -1,0 +1,140 @@
+Version:1.1
+Catapult
+CPLT-C7
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:2
+
+Mass:65
+Engine:260 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:16
+RA Armor:16
+LT Armor:23
+RT Armor:23
+CT Armor:26
+HD Armor:9
+LL Armor:22
+RL Armor:22
+RTL Armor:6
+RTR Armor:6
+RTC Armor:7
+
+Weapons:14
+1 ISMML3, Left Arm, Ammo:280
+1 ISMML3, Left Arm
+1 ISMML3, Left Arm
+1 ISMML3, Left Arm
+1 ISMML3, Left Arm
+1 ISMML3, Right Arm
+1 ISMML3, Right Arm
+1 ISMML3, Right Arm
+1 ISMML3, Right Arm
+1 ISMML3, Right Arm
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Right Torso
+1 ISMediumLaser, Center Torso
+1 ISMediumLaser, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISMML3
+ISMML3
+ISMML3
+ISMML3
+ISMML3
+ISMML3
+ISMML3
+ISMML3
+ISMML3
+ISMML3
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISMML3
+ISMML3
+ISMML3
+ISMML3
+ISMML3
+ISMML3
+ISMML3
+ISMML3
+ISMML3
+ISMML3
+
+Left Torso:
+ISMediumLaser
+ISMML3 LRM Ammo
+ISMML3 LRM Ammo
+ISMML3 SRM Ammo
+ISMML3 SRM Ammo
+ISCASE
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+ISMediumLaser
+ISMML3 LRM Ammo
+ISMML3 LRM Ammo
+ISMML3 SRM Ammo
+ISCASE
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumLaser
+ISMediumLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

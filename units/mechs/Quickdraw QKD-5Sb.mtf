@@ -1,0 +1,133 @@
+Version:1.1
+Quickdraw
+QKD-5Sb
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:60
+Engine:300 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:13 Double
+Walk MP:5
+Jump MP:5
+
+Armor:Ferro-Fibrous
+LA Armor:15
+RA Armor:15
+LT Armor:21
+RT Armor:21
+CT Armor:26
+HD Armor:9
+LL Armor:19
+RL Armor:19
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:7
+1 ISRocketLauncher10, Center Torso
+1 ISLRM10, Left Torso, Ammo:12
+1 ISMediumLaser, Right Torso
+1 ISMediumLaser, Right Torso
+1 ISMediumLaser, Right Torso
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Jump Jet
+Jump Jet
+ISLRM10
+ISLRM10
+ISLRM10 Ammo
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Ferro-Fibrous
+Ferro-Fibrous
+ISCASE
+-Empty-
+
+Right Torso:
+Jump Jet
+Jump Jet
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISRocketLauncher10
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous

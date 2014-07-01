@@ -1,0 +1,152 @@
+Version:1.0
+Wyvern IIC
+WVE-IIC
+
+Config:Biped
+TechBase:Clan
+Era:3060
+Rules Level:2
+
+Mass:45
+Engine:180 Fusion Engine
+Structure:Endo Steel
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:14
+RA Armor:14
+LT Armor:17
+RT Armor:17
+CT Armor:21
+HD Armor:9
+LL Armor:22
+RL Armor:22
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:7
+1 CLERLargeLaser, Right Arm
+2 CLERMediumLaser, Left Arm
+2 CLERSmallLaser, Right Arm
+1 CLFlamer, Center Torso
+2 CLMG, Left Torso, Ammo:200
+1 CLLRM10, Center Torso, Ammo:24
+1 CLSRM6, Right Torso, Ammo:30
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERMediumLaser
+CLERMediumLaser
+Endo Steel
+Endo Steel
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERLargeLaser
+CLERSmallLaser
+CLERSmallLaser
+Endo Steel
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+
+Left Torso:
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+Jump Jet
+CLMG
+CLMG
+CLMG Ammo (200)
+CLLRM10 Ammo
+CLLRM10 Ammo
+-Empty-
+-Empty-
+
+Right Torso:
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+Jump Jet
+CLSRM6
+CLSRM6 Ammo
+CLSRM6 Ammo
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLFlamer
+CLLRM10
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

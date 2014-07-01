@@ -1,0 +1,130 @@
+Version:1.1
+Duan Gung
+D9-G12
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:2
+
+Mass:25
+Engine:175 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:7
+Jump MP:6
+
+Armor:Standard Armor
+LA Armor:5
+RA Armor:5
+LT Armor:8
+RT Armor:8
+CT Armor:10
+HD Armor:9
+LL Armor:6
+RL Armor:6
+RTL Armor:2
+RTR Armor:2
+RTC Armor:3
+
+Weapons:4
+1 ISMediumLaser, Right Arm
+1 ISMediumLaser, Left Arm
+1 ISSRM4, Center Torso, Ammo:50
+1 ISSRM4, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMediumLaser
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+Jump Jet
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISSRM4 Ammo
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+Jump Jet
+ISSRM4 Ammo
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISSRM4
+ISSRM4
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

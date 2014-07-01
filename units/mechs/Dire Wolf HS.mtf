@@ -1,0 +1,136 @@
+Version:1.1
+Dire Wolf
+HS
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3070
+Rules Level:4
+
+Mass:100
+Engine:300 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:19 Double
+Base Chassis Heat Sinks: 15
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:41
+RL Armor:41
+RTL Armor:10
+RTR Armor:10
+RTC Armor:14
+
+Weapons:9
+1 CLLaserAntiMissileSystem, Head
+1 CLWatchdogECM, Center Torso
+1 CLUltraAC20, Right Torso, Ammo:10
+1 CLATM12, Right Arm, Ammo:30
+1 CLATM12, Left Arm
+1 CLERLargeLaser, Right Arm
+1 CLERMediumLaser, Right Arm
+1 CLERMediumLaser, Left Arm
+1 CLERLargeLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLERLargeLaser
+CLERMediumLaser
+CLATM12 ER Ammo
+CLATM12 Ammo
+CLATM12 HE Ammo
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLERLargeLaser
+CLERMediumLaser
+CLATM12 ER Ammo
+CLATM12 Ammo
+CLATM12 HE Ammo
+
+Left Torso:
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Torso:
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLWatchdogECM
+CLWatchdogECM
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLLaserAntiMissileSystem
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLUltraAC20 Ammo
+CLUltraAC20 Ammo

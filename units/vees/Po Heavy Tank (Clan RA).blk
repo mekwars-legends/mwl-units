@@ -1,0 +1,94 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Po Heavy Tank
+</Name>
+
+<Model>
+(Clan RA)
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+Clan Level 2
+</type>
+
+<tonnage>
+60.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<armor>
+40
+32
+32
+30
+34
+</armor>
+
+<Body Equipment>
+Clan Light Machine Gun Ammo - Half
+Clan Machine Gun Ammo - Half
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+</Body Equipment>
+
+<Front Equipment>
+CLMGA
+CLMG
+CLMG
+CLMG
+CLMG
+CLHeavyMediumLaser
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLLMGA
+CLLightMG
+CLLightMG
+CLLightMG
+CLLightMG
+CLHAG30
+</Turret Equipment>
+
+<source>
+TRO:MWL
+</source>
+

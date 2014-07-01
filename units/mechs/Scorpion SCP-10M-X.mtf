@@ -1,0 +1,118 @@
+Version:1.1
+Scorpion
+SCP-10M-X
+
+Config:Quad
+TechBase:Inner Sphere
+Era:3085
+Rules Level:2
+
+Mass:55
+Engine:385 XL Fusion Engine
+Structure:Endo-Steel
+Gyro:XL Gyro
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:7
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:18
+RA Armor:18
+LT Armor:14
+RT Armor:14
+CT Armor:21
+HD Armor:9
+LL Armor:18
+RL Armor:18
+RTL Armor:4
+RTR Armor:4
+RTC Armor:6
+
+Weapons:3
+1 ISMML5, Right Torso, Ammo:72
+1 ISMML5, Left Torso
+1 ISERPPC, Left Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+Endo-Steel
+ISERPPC
+ISERPPC
+ISERPPC
+ISMML5
+ISMML5
+ISMML5
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+ISMML5
+ISMML5
+ISMML5
+ISMML5 LRM Ammo
+ISMML5 SRM Ammo
+ISMML5 SRM Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

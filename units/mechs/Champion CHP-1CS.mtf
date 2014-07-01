@@ -1,0 +1,134 @@
+Version:1.1
+Champion
+CHP-1CS
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:60
+Engine:300 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:5
+Jump MP:0
+
+Armor:Light Ferro-Fibrous
+LA Armor:20
+RA Armor:20
+LT Armor:21
+RT Armor:21
+CT Armor:30
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:7
+RTR Armor:7
+RTC Armor:8
+
+Weapons:8
+1 ISERMediumLaser, Right Arm
+1 ISERMediumLaser, Right Arm
+1 ISERMediumLaser, Right Arm
+1 ISERMediumLaser, Right Arm
+1 ISLBXAC10, Left Arm, Ammo:20
+1 ISMML7, Right Torso, Ammo:34
+1 ISAngelECM, Left Torso
+1 ISImprovedC3CPU, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISERMediumLaser
+ISERMediumLaser
+ISERMediumLaser
+ISERMediumLaser
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+ISAngelECM
+ISAngelECM
+ISLBXAC10 CL Ammo
+ISLBXAC10 Ammo
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+ISCASE
+
+Right Torso:
+Engine
+Engine
+Engine
+ISMML7
+ISMML7
+ISMML7
+ISMML7
+ISMML7 SRM Ammo
+ISMML7 LRM Ammo
+Endo-Steel
+Endo-Steel
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

@@ -1,0 +1,62 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Myrmidon Medium Tank
+</Name>
+<Model>
+(MG)
+</Model>
+<Tonnage>
+40
+</Tonnage>
+<cruiseMP>
+5
+</cruiseMP>
+<Armor>
+35
+25
+25
+24
+35
+</Armor>
+<Turret Equipment>
+ISSNPPC
+ISLightMG
+ISLightMG
+ISLightMG
+ISLMGA
+ISLightMG
+ISLightMG
+ISLightMG
+ISLMGA
+</Turret Equipment>
+<Body Equipment>
+ISLightMG Ammo (200)
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+3072
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>

@@ -1,0 +1,130 @@
+Version:1.1
+Dragon
+DRG-7N
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3063
+Rules Level:2
+
+Mass:60
+Engine:300 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:5
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:14
+RA Armor:14
+LT Armor:16
+RT Armor:16
+CT Armor:27
+HD Armor:9
+LL Armor:18
+RL Armor:18
+RTL Armor:8
+RTR Armor:8
+RTC Armor:12
+
+Weapons:4
+1 ISMediumLaser, Left Torso
+1 ISAC5, Left Arm, Ammo:20
+1 ISGaussRifle, Right Arm, Ammo:16
+1 ISMRM10, Center Torso, Ammo:24
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISAC5
+ISAC5
+ISAC5
+ISAC5
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISGauss Ammo
+ISGauss Ammo
+ISMRM10 Ammo
+ISAC5 Ammo
+ISCASE
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMRM10
+ISMRM10
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

@@ -1,0 +1,133 @@
+Version:1.1
+Linebacker
+F
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3068
+Rules Level:3
+
+Mass:65
+Engine:390 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:15 Double
+Base Chassis Heat Sinks: 14
+Walk MP:6
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:20
+RA Armor:20
+LT Armor:22
+RT Armor:22
+CT Armor:25
+HD Armor:9
+LL Armor:24
+RL Armor:24
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:6
+1 CLSRM6, Left Torso, Ammo:45
+1 CLSRM6, Left Arm
+1 CLSRM6, Center Torso
+1 CLSRM6, Right Arm
+1 CLERPPC, Right Torso
+1 CLNarcBeacon (iOS), Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLSRM6
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLSRM6
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLSRM6
+CLNarcBeacon (iOS)
+CLSRM6 Ammo
+CLSRM6 Ammo
+-Empty-
+-Empty-
+Endo-Steel
+Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+CLERPPC
+CLERPPC
+CLSRM6 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLSRM6
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Ferro-Fibrous

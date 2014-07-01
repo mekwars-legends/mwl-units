@@ -1,0 +1,133 @@
+Version:1.1
+Adder
+N
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3070
+Rules Level:4
+
+Mass:35
+Engine:210 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:12 Double
+Base Chassis Heat Sinks: 10
+Walk MP:6
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:12
+RA Armor:12
+LT Armor:12
+RT Armor:12
+CT Armor:16
+HD Armor:9
+LL Armor:14
+RL Armor:14
+RTL Armor:4
+RTR Armor:4
+RTC Armor:6
+
+Weapons:6
+1 CLFlamer, Center Torso
+1 CLERLargeLaser, Right Arm
+1 CLPlasmaCannon, Left Arm, Ammo:20
+1 CLTAG, Left Arm
+1 CLECMSuite, Right Torso
+1 CLLaserAntiMissileSystem, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLPlasmaCannon
+CLTAG
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLERLargeLaser
+CLERLargeLaser
+CLERLargeLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLPlasmaCannon Ammo
+CLPlasmaCannon Ammo
+-Empty-
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLECMSuite
+CLLaserAntiMissileSystem
+-Empty-
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLFlamer
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

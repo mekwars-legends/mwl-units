@@ -1,0 +1,131 @@
+Version:1.1
+Vulcan
+VT-7S
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:40
+Engine:240 XL Fusion Engine
+Structure:Standard
+Myomer:ISMASC
+
+Heat Sinks:10 Double
+Walk MP:6
+Jump MP:6
+
+Armor:Ferro-Fibrous
+LA Armor:6
+RA Armor:6
+LT Armor:10
+RT Armor:10
+CT Armor:10
+HD Armor:8
+LL Armor:12
+RL Armor:12
+RTL Armor:5
+RTR Armor:5
+RTC Armor:5
+
+Weapons:5
+1 ISMediumLaser, Left Torso
+1 ISFlamer, Right Arm
+1 ISRotaryAC2, Right Torso, Ammo:90
+1 ISFlamer, Left Arm
+1 ISMediumLaser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISFlamer
+-Empty-
+-Empty-
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISFlamer
+-Empty-
+-Empty-
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+ISMediumLaser
+ISMediumLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMASC
+ISMASC
+
+Right Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+ISRotaryAC2
+ISRotaryAC2
+ISRotaryAC2
+IS Rotary AC/2 Ammo
+IS Rotary AC/2 Ammo
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous

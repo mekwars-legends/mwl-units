@@ -1,0 +1,130 @@
+Version:1.1
+Victor
+VTR-10Da
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:80
+Engine:320 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Light Ferro-Fibrous
+LA Armor:20
+RA Armor:20
+LT Armor:25
+RT Armor:25
+CT Armor:33
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:7
+RTR Armor:7
+RTC Armor:10
+
+Weapons:4
+1 ISLBXAC20, Right Torso, Ammo:25
+1 ISLightPPC, Left Torso
+1 ISLightPPC, Left Torso
+1 ISStreakSRM2, Center Torso, Ammo:50
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+
+Left Torso:
+Jump Jet
+Jump Jet
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISLightPPC
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Jump Jet
+Jump Jet
+ISLBXAC20
+ISStreakSRM2 Ammo
+ISLBXAC20 CL Ammo
+ISLBXAC20 CL Ammo
+ISLBXAC20 Ammo
+ISLBXAC20 Ammo
+ISLBXAC20 CL Ammo
+Light Ferro-Fibrous
+Endo-Steel
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISStreakSRM2
+Light Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+Light Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Light Ferro-Fibrous
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Light Ferro-Fibrous
+Endo-Steel

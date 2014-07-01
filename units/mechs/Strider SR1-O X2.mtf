@@ -1,0 +1,130 @@
+Version:1.1
+Strider
+SR1-O X2
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3057
+Rules Level:4
+
+Mass:40
+Engine:240 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Single
+Base Chassis Heat Sinks: 10
+Walk MP:6
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:12
+RA Armor:12
+LT Armor:14
+RT Armor:14
+CT Armor:15
+HD Armor:9
+LL Armor:14
+RL Armor:14
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:3
+1 ISMekTaser, Right Arm, Ammo:15
+1 ISLightPPC, Left Arm
+1 ISAngelECM, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLightPPC
+ISLightPPC
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISMekTaser
+ISMekTaser
+ISMekTaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+ISCASE
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+ISMekTaser Ammo
+ISMekTaser Ammo
+ISMekTaser Ammo
+-Empty-
+-Empty-
+ISCASE
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISAngelECM
+ISAngelECM
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+Endo-Steel

@@ -1,0 +1,131 @@
+Version:1.1
+Longbow
+LGB-8S
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:85
+Engine:255 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:26
+RA Armor:26
+LT Armor:26
+RT Armor:26
+CT Armor:37
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:10
+RTR Armor:10
+RTC Armor:10
+
+Weapons:5
+1 ISThunderbolt20, Left Arm, Ammo:30
+1 ISThunderbolt20, Right Arm
+1 ISLightPPC, Left Torso
+1 ISLightPPC, Right Torso
+1 ISERSmallLaser, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISThunderbolt20 Ammo
+ISThunderbolt20 Ammo
+ISThunderbolt20 Ammo
+ISThunderbolt20 Ammo
+ISThunderbolt20 Ammo
+ISLightPPC
+ISLightPPC
+-Empty-
+ISCASE
+
+Right Torso:
+Engine
+Engine
+Engine
+ISThunderbolt20 Ammo
+ISThunderbolt20 Ammo
+ISThunderbolt20 Ammo
+ISThunderbolt20 Ammo
+ISThunderbolt20 Ammo
+ISLightPPC
+ISLightPPC
+-Empty-
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISERSmallLaser
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

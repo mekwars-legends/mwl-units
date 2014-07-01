@@ -1,0 +1,135 @@
+Version:1.1
+Trebuchet
+TBT-8K
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3060
+Rules Level:2
+
+Mass:50
+Engine:250 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:5
+Jump MP:5
+
+Armor:Standard Armor
+LA Armor:16
+RA Armor:16
+LT Armor:15
+RT Armor:15
+CT Armor:23
+HD Armor:9
+LL Armor:17
+RL Armor:17
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:9
+1 ISC3SlaveUnit, Head
+1 ISLRM15, Right Torso, Ammo:16
+1 ISMRM10, Left Arm, Ammo:24
+1 ISMRM10, Left Arm
+1 ISSmallPulseLaser, Left Arm
+1 ISSmallPulseLaser, Left Arm
+1 ISMediumLaser, Right Arm
+1 ISMediumLaser, Right Arm
+1 ISMediumLaser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISMRM10
+ISMRM10
+ISMRM10
+ISMRM10
+ISSmallPulseLaser
+ISSmallPulseLaser
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISMRM10 Ammo
+ISLRM15 Ammo Artemis-capable
+ISLRM15 Ammo Artemis-capable
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+ISCASE
+
+Right Torso:
+Engine
+Engine
+Engine
+ISLRM15
+ISLRM15
+ISLRM15
+ISArtemisIV
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISC3SlaveUnit
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

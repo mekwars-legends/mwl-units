@@ -1,0 +1,131 @@
+Version:1.1
+Blackjack
+BJ2-OK
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3058
+Rules Level:4
+
+Mass:50
+Engine:200 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Base Chassis Heat Sinks: 10
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:14
+RA Armor:14
+LT Armor:18
+RT Armor:18
+CT Armor:22
+HD Armor:9
+LL Armor:18
+RL Armor:18
+RTL Armor:6
+RTR Armor:6
+RTC Armor:9
+
+Weapons:4
+1 ISGaussRifle, Right Arm, Ammo:16
+1 ISERPPC, Left Arm
+1 ISLaserAntiMissileSystem, Left Torso
+1 ISC3SlaveUnit, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISERPPC
+ISERPPC
+ISERPPC
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Left Torso:
+Engine
+Engine
+Engine
+ISLaserAntiMissileSystem
+ISLaserAntiMissileSystem
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+ISGauss Ammo
+ISGauss Ammo
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISC3SlaveUnit
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

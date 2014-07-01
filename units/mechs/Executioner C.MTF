@@ -1,0 +1,131 @@
+Version:1.1
+Executioner
+C
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3070
+Rules Level:2
+
+Mass:95
+Engine:380 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:15 Double
+Base Chassis Heat Sinks: 15
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:32
+RA Armor:32
+LT Armor:30
+RT Armor:30
+CT Armor:40
+HD Armor:9
+LL Armor:40
+RL Armor:40
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:4
+1 CLUltraAC20, Left Arm, Ammo:15
+1 CLLRM15, Right Arm, Ammo:32
+1 CLLRM15, Right Arm
+1 CLERSmallLaser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLLRM15
+CLLRM15
+CLArtemisIV
+CLLRM15
+CLLRM15
+CLArtemisIV
+CLLRM15 Ammo
+CLLRM15 Ammo
+CLLRM15 Ammo
+CLLRM15 Ammo
+
+Left Torso:
+Engine
+Engine
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLUltraAC20 Ammo
+CLUltraAC20 Ammo
+CLUltraAC20 Ammo
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+CLERSmallLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Endo-Steel
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

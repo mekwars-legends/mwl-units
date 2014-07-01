@@ -1,0 +1,101 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Sher Khan
+</Name>
+
+<Model>
+(CASE)
+</Model>
+
+<year>
+3063
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+75.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+50
+32
+32
+28
+46
+</armor>
+
+<Body Equipment>
+IS Ammo LRM-5
+IS MRM 10 Ammo
+IS MRM 10 Ammo
+ISAMS Ammo
+ISAMS Ammo
+IS LB 10-X AC Ammo
+IS LB 10-X Cluster Ammo
+ISCASE
+</Body Equipment>
+
+<Front Equipment>
+LRM 5
+LRM 5
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+MRM 10
+MRM 10
+MRM 10
+MRM 10
+ISAntiMissileSystem
+ISAntiMissileSystem
+ISLBXAC10
+</Turret Equipment>
+
+<source>
+TRO 3063
+</source>
+

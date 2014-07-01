@@ -1,0 +1,85 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Merkava
+</Name>
+
+<Model>
+Mk XVII
+</Model>
+
+<year>
+3063
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+80.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor>
+63
+47
+47
+28
+55
+</armor>
+
+<Body Equipment>
+ISCASE
+IS Streak SRM 4 Ammo
+IS Gauss Ammo
+IS Gauss Ammo
+ISC3SlaveUnit
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+PPC
+ISStreakSRM4
+ISStreakSRM4
+ISGaussRifle
+</Turret Equipment>
+
+<source>
+TRO 3063
+</source>
+

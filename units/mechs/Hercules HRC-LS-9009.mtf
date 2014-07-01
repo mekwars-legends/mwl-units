@@ -1,0 +1,134 @@
+Version:1.1
+Hercules
+HRC-LS-9009
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3056
+Rules Level:2
+
+Mass:70
+Engine:350 XL Fusion Engine
+Structure:Standard
+Myomer:Triple Strength Myomer
+
+Heat Sinks:12 Double
+Walk MP:5
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:18
+RA Armor:18
+LT Armor:22
+RT Armor:22
+CT Armor:34
+HD Armor:9
+LL Armor:24
+RL Armor:24
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:8
+1 ISSRM2, Left Torso, Ammo:50
+1 ISSRM2, Center Torso
+1 ISSRM2, Left Torso
+1 ISERPPC, Right Torso
+1 ISSmallPulseLaser, Left Torso
+1 ISSmallPulseLaser, Right Torso
+1 ISMediumPulseLaser, Left Arm
+1 ISLBXAC10, Right Arm, Ammo:20
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumPulseLaser
+Triple Strength Myomer
+Triple Strength Myomer
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+Triple Strength Myomer
+Triple Strength Myomer
+Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+Engine
+ISSmallPulseLaser
+ISSRM2
+ISSRM2
+ISSRM2 Ammo
+Triple Strength Myomer
+Triple Strength Myomer
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+Engine
+ISSmallPulseLaser
+ISERPPC
+ISERPPC
+ISERPPC
+ISLBXAC10 Ammo
+ISLBXAC10 CL Ammo
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISSRM2
+Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous

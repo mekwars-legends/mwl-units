@@ -1,0 +1,132 @@
+Version:1.1
+Phoenix Hawk
+PXH-5W
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3037
+Rules Level:4
+
+Mass:45
+Engine:270 XL Fusion Engine
+Structure:Endo-Steel
+Gyro:XL Gyro
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:6
+Jump MP:6
+
+Armor:Standard Armor
+LA Armor:12
+RA Armor:12
+LT Armor:16
+RT Armor:16
+CT Armor:20
+HD Armor:9
+LL Armor:16
+RL Armor:16
+RTL Armor:3
+RTR Armor:3
+RTC Armor:5
+
+Weapons:5
+1 ISLightPPC, Left Arm
+1 ISLightPPC, Right Arm
+1 ISMediumPulseLaser, Left Arm
+1 ISImprovedNarc, Right Arm, Ammo:8
+1 ISMGA, Left Arm, Ammo:200
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLightPPC
+ISLightPPC
+ISMediumPulseLaser
+ISMGA
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISImprovedNarc
+ISImprovedNarc
+ISImprovedNarc
+ISLightPPC
+ISLightPPC
+ISLightPPCCapacitor
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+Jump Jet
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+Jump Jet
+IS Ammo iNarc
+IS Ammo iNarc
+ISMG Ammo (100)
+Endo-Steel
+Endo-Steel
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

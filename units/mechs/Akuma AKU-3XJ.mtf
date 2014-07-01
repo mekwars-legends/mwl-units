@@ -1,0 +1,135 @@
+Version:1.1
+Akuma
+AKU-3XJ
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3064
+Rules Level:2
+
+Mass:90
+Engine:270 XL Fusion Engine
+Structure:Standard
+Myomer:Triple Strength Myomer
+
+Heat Sinks:10 Double
+Walk MP:3
+Jump MP:5
+
+Armor:Standard Armor
+LA Armor:30
+RA Armor:30
+LT Armor:28
+RT Armor:28
+CT Armor:43
+HD Armor:9
+LL Armor:38
+RL Armor:38
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:9
+1 ISLBXAC20, Right Torso, Ammo:15
+1 ISMML7, Left Torso, Ammo:34
+1 ISERSmallLaser, Left Arm
+1 ISERSmallLaser, Left Arm
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Left Arm
+1 ISSmallLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+ISERSmallLaser
+ISERSmallLaser
+ISSmallLaser
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+Triple Strength Myomer
+Triple Strength Myomer
+ISLBXAC20 CL Ammo
+ISLBXAC20 CL Ammo
+ISLBXAC20 Ammo
+
+Left Torso:
+Engine
+Engine
+Engine
+ISImprovedJump Jet
+ISImprovedJump Jet
+ISMML7
+ISMML7
+ISMML7
+ISMML7
+ISMML7 LRM Ammo
+ISMML7 SRM Ammo
+ISCASE
+
+Right Torso:
+Engine
+Engine
+Engine
+ISImprovedJump Jet
+ISImprovedJump Jet
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedJump Jet
+ISImprovedJump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+Triple Strength Myomer
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISImprovedJump Jet
+ISImprovedJump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISImprovedJump Jet
+ISImprovedJump Jet

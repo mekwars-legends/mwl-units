@@ -1,0 +1,83 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Pike Support Vehicle
+</Name>
+
+<Model>
+(3063)
+</Model>
+
+<year>
+2987
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+60.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor>
+35
+28
+28
+25
+36
+</armor>
+
+<Body Equipment>
+IS Ultra AC/2 Ammo
+IS Ultra AC/2 Ammo
+IS Ultra AC/2 Ammo
+IS Ultra AC/2 Ammo
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISUltraAC2
+ISUltraAC2
+ISUltraAC2
+</Turret Equipment>
+
+<source>
+Succession Wars
+</source>
+

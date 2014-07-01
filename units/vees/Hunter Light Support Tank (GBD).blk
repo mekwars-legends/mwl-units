@@ -1,0 +1,76 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Hunter Light Support Tank
+</Name>
+
+<Model>
+(GBD)
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+Clan Level 2
+</type>
+
+<tonnage>
+35.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<armor>
+30
+24
+24
+18
+</armor>
+
+<Body Equipment>
+Clan Ammo LRM-15 (Clan) Artemis-capable
+Clan Ammo LRM-15 (Clan) Artemis-capable
+Clan Ammo LRM-15 (Clan) Artemis-capable
+</Body Equipment>
+
+<Front Equipment>
+CLArtemisIV
+CLArtemisIV
+CLLRM15
+CLLRM15
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+CLSmallPulseLaser
+</Rear Equipment>
+

@@ -1,0 +1,135 @@
+Version:1.1
+Firestarter
+FS10-H
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:3
+
+Mass:35
+Engine:210 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:6
+Jump MP:6
+
+Armor:Standard Armor
+LA Armor:12
+RA Armor:12
+LT Armor:12
+RT Armor:12
+CT Armor:15
+HD Armor:8
+LL Armor:15
+RL Armor:15
+RTL Armor:3
+RTR Armor:3
+RTC Armor:5
+
+Weapons:9
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Right Arm
+1 ISFlamer, Left Arm
+1 ISFlamer, Right Arm
+1 ISMachine Gun, Left Torso, Ammo:200
+1 ISMachine Gun, Left Torso
+1 ISMachine Gun, Right Torso
+1 ISMachine Gun, Right Torso
+1 ISFlamer, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISMediumLaser
+ISFlamer
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISMediumLaser
+ISFlamer
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Jump Jet
+Jump Jet
+Jump Jet
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMachine Gun
+ISMachine Gun
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Jump Jet
+Jump Jet
+Jump Jet
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMachine Gun
+ISMachine Gun
+ISMG Ammo (100)
+ISCASE
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISFlamer
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

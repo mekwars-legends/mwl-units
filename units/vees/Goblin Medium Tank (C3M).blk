@@ -1,0 +1,80 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Goblin Medium Tank
+</Name>
+
+<Model>
+(C3M)
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+IS Level 4
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<engine_type>
+6
+</engine_type>
+
+<armor>
+30
+24
+24
+20
+30
+</armor>
+
+<Body Equipment>
+IS Machine Gun Ammo - Half
+ISC3MasterUnit
+ISCASE
+IS Ammo LRM-10
+IS Ammo LRM-10
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Machine Gun
+LRM 10
+Light PPC
+</Turret Equipment>
+
+<tonnage>
+45.0
+</tonnage>
+

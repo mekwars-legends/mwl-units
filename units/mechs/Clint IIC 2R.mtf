@@ -1,0 +1,129 @@
+Version:1.1
+Clint IIC
+2R
+
+Config:Biped
+TechBase:Clan
+Era:3060
+Rules Level:4
+
+Mass:40
+Engine:240 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:6
+Jump MP:6
+
+Armor:Standard Armor
+LA Armor:10
+RA Armor:10
+LT Armor:15
+RT Armor:15
+CT Armor:18
+HD Armor:9
+LL Armor:18
+RL Armor:18
+RTL Armor:5
+RTR Armor:5
+RTC Armor:5
+
+Weapons:3
+1 CLRotaryAC5, Right Arm, Ammo:60
+1 CLERMediumLaser, Center Torso
+1 CLERMediumLaser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Jump Jet
+CLERMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Jump Jet
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLRotaryAC5 Ammo
+CLRotaryAC5 Ammo
+CLRotaryAC5 Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLERMediumLaser
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

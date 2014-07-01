@@ -1,0 +1,131 @@
+Version:1.1
+Hammerhands
+HMH-5D
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3071
+Rules Level:2
+
+Mass:75
+Engine:225 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:3
+Jump MP:5
+
+Armor:Ferro-Fibrous
+LA Armor:20
+RA Armor:20
+LT Armor:21
+RT Armor:21
+CT Armor:32
+HD Armor:9
+LL Armor:23
+RL Armor:23
+RTL Armor:5
+RTR Armor:5
+RTC Armor:9
+
+Weapons:5
+1 ISERMediumLaser, Left Arm
+1 ISERMediumLaser, Right Arm
+1 ISAC10, Right Arm, Ammo:40
+1 ISAC10, Left Arm
+1 ISC3SlaveUnit, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISERMediumLaser
+ISAC10 Ammo
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISERMediumLaser
+ISAC10 Ammo
+
+Left Torso:
+ImprovedJump Jet
+ImprovedJump Jet
+ISAC10 Ammo
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+
+Right Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ImprovedJump Jet
+ImprovedJump Jet
+ISAC10 Ammo
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ImprovedJump Jet
+ImprovedJump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISC3SlaveUnit
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ImprovedJump Jet
+ImprovedJump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ImprovedJump Jet
+ImprovedJump Jet

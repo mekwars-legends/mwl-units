@@ -1,0 +1,129 @@
+Version:1.1
+Lao Hu
+LHU-4B
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3062
+Rules Level:2
+
+Mass:75
+Engine:375 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:5
+Jump MP:0
+
+Armor:Light Ferro-Fibrous
+LA Armor:24
+RA Armor:24
+LT Armor:25
+RT Armor:25
+CT Armor:33
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:7
+RTR Armor:7
+RTC Armor:10
+
+Weapons:3
+1 ISUltraAC10, Right Arm, Ammo:20
+1 ISLargePulseLaser, Left Arm
+1 ISMML9, Left Torso, Ammo:26
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLargePulseLaser
+ISLargePulseLaser
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISUltraAC10
+ISUltraAC10
+ISUltraAC10
+ISUltraAC10
+ISUltraAC10
+ISUltraAC10
+ISUltraAC10
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISArtemisIV
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+ISUltraAC10 Ammo
+ISUltraAC10 Ammo
+ISMML9 LRM Ammo Artemis-capable
+ISMML9 SRM Ammo Artemis-capable
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

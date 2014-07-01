@@ -1,0 +1,123 @@
+Version:1.1
+Sirocco
+SRC-7C
+
+Config:Quad
+TechBase:Inner Sphere
+Era:3075
+Rules Level:2
+
+Mass:95
+Engine:285 Fusion Engine
+Structure:Standard
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:15 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Light Ferro-Fibrous
+LA Armor:40
+RA Armor:40
+LT Armor:30
+RT Armor:30
+CT Armor:45
+HD Armor:9
+LL Armor:40
+RL Armor:40
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:8
+1 ISHeavyPPC, Left Torso
+1 ISHeavyPPC, Right Torso
+1 ISMediumPulseLaser (R), Center Torso (R)
+1 ISStreakSRM6, Left Torso, Ammo:15
+1 ISStreakSRM6, Right Torso
+1 ISMediumPulseLaser, Center Torso
+1 ISMediumPulseLaser, Head
+1 ISMediumPulseLaser (R), Center Torso (R)
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Left Torso:
+ISHeavyPPC
+ISHeavyPPC
+ISHeavyPPC
+ISHeavyPPC
+ISStreakSRM6
+ISStreakSRM6
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Right Torso:
+ISHeavyPPC
+ISHeavyPPC
+ISHeavyPPC
+ISHeavyPPC
+ISStreakSRM6
+ISStreakSRM6
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumPulseLaser
+ISStreakSRM6 Ammo
+ISMediumPulseLaser (R)
+ISMediumPulseLaser (R)
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMediumPulseLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Light Ferro-Fibrous
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Light Ferro-Fibrous
+Light Ferro-Fibrous

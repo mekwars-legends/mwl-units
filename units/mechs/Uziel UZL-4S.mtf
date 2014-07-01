@@ -1,0 +1,129 @@
+Version:1.1
+Uziel
+UZL-4S
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3065
+Rules Level:2
+
+Mass:50
+Engine:300 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:6
+Jump MP:6
+
+Armor:Standard Armor
+LA Armor:12
+RA Armor:12
+LT Armor:14
+RT Armor:14
+CT Armor:17
+HD Armor:9
+LL Armor:18
+RL Armor:18
+RTL Armor:4
+RTR Armor:4
+RTC Armor:6
+
+Weapons:3
+1 ISSNPPC, Left Arm
+1 ISLBXAC5, Right Arm, Ammo:20
+1 ISMML5, Left Torso, Ammo:48
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISSNPPC
+ISSNPPC
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+Jump Jet
+ISMML5
+ISMML5
+ISMML5
+ISMML5 LRM Ammo
+ISMML5 SRM Ammo
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+Jump Jet
+ISLBXAC5 CL Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Endo-Steel
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

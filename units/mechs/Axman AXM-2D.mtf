@@ -1,0 +1,129 @@
+Version:1.1
+Axman
+AXM-2D
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:65
+Engine:260 XL Fusion Engine
+Structure:Endo-Composite
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:20
+RA Armor:20
+LT Armor:22
+RT Armor:22
+CT Armor:31
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:8
+RTR Armor:8
+RTC Armor:8
+
+Weapons:3
+1 ISMRM40, Right Torso, Ammo:12
+1 ISSNPPC, Left Arm
+1 Hatchet, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISSNPPC
+ISSNPPC
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Composite
+Endo-Composite
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+Endo-Composite
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISTargeting Computer
+ISTargeting Computer
+ISMRM40 Ammo
+ISMRM40 Ammo
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Composite
+ISCASE
+
+Right Torso:
+Engine
+Engine
+Engine
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+ISApollo
+Endo-Composite
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Endo-Composite
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Composite
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

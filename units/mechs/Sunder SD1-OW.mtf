@@ -1,0 +1,133 @@
+Version:1.1
+Sunder
+SD1-OW
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3054
+Rules Level:4
+
+Mass:90
+Engine:360 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:15 Double
+Base Chassis Heat Sinks: 15
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:30
+RA Armor:30
+LT Armor:28
+RT Armor:28
+CT Armor:41
+HD Armor:9
+LL Armor:33
+RL Armor:33
+RTL Armor:10
+RTR Armor:10
+RTC Armor:12
+
+Weapons:6
+1 ISImprovedC3CPU, Center Torso
+1 ISMediumLaser, Right Torso
+1 ISMediumLaser, Right Torso
+1 ISLargeVSPLaser, Right Arm
+1 ISUltraAC20, Left Arm, Ammo:20
+1 ISMML3, Left Torso, Ammo:80
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLargeVSPLaser
+ISLargeVSPLaser
+ISLargeVSPLaser
+ISLargeVSPLaser
+-Empty-
+-Empty-
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Left Torso:
+Engine
+Engine
+Engine
+ISMML3
+ISMML3
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+ISMML3 SRM Ammo
+ISUltraAC20 Ammo
+ISUltraAC20 Ammo
+
+Right Torso:
+Engine
+Engine
+Engine
+ISMediumLaser
+ISMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+ISMML3 LRM Ammo
+ISUltraAC20 Ammo
+ISUltraAC20 Ammo
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

@@ -1,0 +1,133 @@
+Version:1.1
+Hermes
+HER-4WS
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3057
+Rules Level:2
+
+Mass:30
+Engine:270 XL Fusion Engine
+Structure:Endo-Steel
+Gyro:XL Gyro
+Cockpit:Small Cockpit
+Myomer:ISMASC
+
+Heat Sinks:10 Double
+Walk MP:9
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:9
+RA Armor:9
+LT Armor:10
+RT Armor:10
+CT Armor:15
+HD Armor:8
+LL Armor:12
+RL Armor:12
+RTL Armor:4
+RTR Armor:4
+RTC Armor:5
+
+Weapons:5
+1 ISMediumPulseLaser, Right Arm
+1 ISMediumPulseLaser, Left Arm
+1 ISMediumPulseLaser, Left Torso
+1 ISGuardianECM, Right Torso
+1 ISImprovedC3CPU, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISMediumPulseLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumPulseLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+Engine
+ISMASC
+ISMASC
+ISMediumPulseLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+ISGuardianECM
+ISGuardianECM
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

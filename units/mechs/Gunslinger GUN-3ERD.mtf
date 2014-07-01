@@ -1,0 +1,135 @@
+Version:1.1
+Gunslinger
+GUN-3ERD
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3062
+Rules Level:2
+
+Mass:85
+Engine:255 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:3
+Jump MP:3
+
+Armor:Standard Armor
+LA Armor:28
+RA Armor:28
+LT Armor:26
+RT Armor:26
+CT Armor:35
+HD Armor:9
+LL Armor:36
+RL Armor:36
+RTL Armor:10
+RTR Armor:10
+RTC Armor:19
+
+Weapons:9
+1 ISGaussRifle, Right Arm, Ammo:40
+1 ISGaussRifle, Left Arm
+1 ISGuardianECM, Right Torso
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser, Right Torso
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser, Right Torso
+1 ISImprovedC3CPU, Left Torso
+1 ISAntiMissileSystem, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISERMediumLaser
+ISERMediumLaser
+ISGauss Ammo
+ISGauss Ammo
+ISImprovedC3CPU
+ISImprovedC3CPU
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISERMediumLaser
+ISERMediumLaser
+ISGauss Ammo
+ISGauss Ammo
+ISGauss Ammo
+ISGuardianECM
+ISGuardianECM
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+IS AMS Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISAntiMissileSystem
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-

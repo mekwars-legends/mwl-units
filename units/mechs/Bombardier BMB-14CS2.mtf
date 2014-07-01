@@ -1,0 +1,130 @@
+Version:1.1
+Bombardier
+BMB-14CS2
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:65
+Engine:325 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:5
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:20
+RA Armor:20
+LT Armor:22
+RT Armor:22
+CT Armor:32
+HD Armor:9
+LL Armor:29
+RL Armor:29
+RTL Armor:8
+RTR Armor:8
+RTC Armor:9
+
+Weapons:4
+1 ISMML5, Right Arm, Ammo:48
+1 ISEnhancedLRM15, Left Torso, Ammo:32
+1 ISEnhancedLRM15, Right Torso
+1 ISImprovedC3CPU, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMML5
+ISMML5
+ISMML5
+ISMML5 SRM Ammo
+ISMML5 LRM Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+ISEnhancedLRM15
+ISEnhancedLRM15
+ISEnhancedLRM15
+ISEnhancedLRM15
+ISEnhancedLRM15
+ISEnhancedLRM15
+ISEnhancedLRM15 Ammo
+ISEnhancedLRM15 Ammo
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+ISEnhancedLRM15
+ISEnhancedLRM15
+ISEnhancedLRM15
+ISEnhancedLRM15
+ISEnhancedLRM15
+ISEnhancedLRM15
+ISEnhancedLRM15 Ammo
+ISEnhancedLRM15 Ammo
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

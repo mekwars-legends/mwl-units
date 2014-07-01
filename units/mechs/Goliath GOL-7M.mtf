@@ -1,0 +1,121 @@
+Version:1.1
+Goliath
+GOL-7M
+
+Config:Quad
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:80
+Engine:320 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:34
+RA Armor:34
+LT Armor:24
+RT Armor:24
+CT Armor:35
+HD Armor:9
+LL Armor:34
+RL Armor:34
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:7
+1 ISLightGaussRifle, Right Torso, Ammo:32
+1 ISMediumPulseLaser (R), Center Torso (R)
+1 ISMediumPulseLaser, Right Torso
+1 ISMediumPulseLaser (R), Center Torso (R)
+1 ISMediumPulseLaser, Right Torso
+1 ISTAG, Head
+1 ISLRM20, Left Torso, Ammo:18
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISArtemisIV
+ISLRM20 Ammo Artemis-capable
+ISLRM20 Ammo Artemis-capable
+ISLRM20 Ammo Artemis-capable
+
+Right Torso:
+Engine
+Engine
+Engine
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGauss Ammo
+ISLightGauss Ammo
+ISMediumPulseLaser
+ISMediumPulseLaser
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumPulseLaser (R)
+ISMediumPulseLaser (R)
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISTAG
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

@@ -1,0 +1,90 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Demona Combat Transport
+</Name>
+
+<Model>
+(Standard)
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+IS Level 3
+</type>
+
+<motion_type>
+Hover
+</motion_type>
+
+<transporters>
+troopspace:6.0
+</transporters>
+
+<cruiseMP>
+9
+</cruiseMP>
+
+<engine_type>
+0
+</engine_type>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+5
+</armor_tech>
+
+<armor>
+30
+25
+25
+20
+25
+</armor>
+
+<Body Equipment>
+ISGuardianECMSuite
+ISiNarc Pods
+ISiNarc Pods
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISERMediumLaser
+ISERMediumLaser
+ISImprovedNarc
+</Turret Equipment>
+
+<tonnage>
+45.0
+</tonnage>
+

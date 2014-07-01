@@ -1,0 +1,134 @@
+Version:1.1
+Hitman
+HM-1K
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:2
+
+Mass:30
+Engine:210 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:ISMASC
+
+Heat Sinks:10 Double
+Walk MP:7
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:7
+RA Armor:7
+LT Armor:10
+RT Armor:10
+CT Armor:12
+HD Armor:8
+LL Armor:14
+RL Armor:14
+RTL Armor:4
+RTR Armor:4
+RTC Armor:6
+
+Weapons:8
+1 ISERMediumLaser, Left Arm
+1 ISERMediumLaser, Left Arm
+1 ISERMediumLaser, Left Arm
+1 Sword, Right Arm
+1 ISGuardianECM, Left Torso
+1 ISBeagleActiveProbe, Right Torso
+1 ISTAG, Head
+1 ISAntiMissileSystem, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISERMediumLaser
+ISERMediumLaser
+ISERMediumLaser
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Sword
+Sword
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISGuardianECM
+ISGuardianECM
+ISAntiMissileSystem
+IS AMS Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISBeagleActiveProbe
+ISBeagleActiveProbe
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Endo-Steel
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISTAG
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISMASC
+ISMASC
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

@@ -1,0 +1,129 @@
+Version:1.1
+Mandrill
+MDL 3
+
+Config:Biped
+TechBase:Clan
+Era:3070
+Rules Level:2
+
+Mass:30
+Engine:120 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Ferro-Fibrous
+LA Armor:10
+RA Armor:10
+LT Armor:10
+RT Armor:10
+CT Armor:14
+HD Armor:8
+LL Armor:10
+RL Armor:10
+RTL Armor:4
+RTR Armor:4
+RTC Armor:6
+
+Weapons:3
+1 CLERSmallLaser, Head
+1 CLATM9, Right Torso, Ammo:28
+1 CLATM9, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+Jump Jet
+Jump Jet
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLATM9
+CLATM9
+CLATM9
+CLATM9
+CLATM9 ER Ammo
+CLATM9 Ammo
+
+Right Torso:
+Engine
+Engine
+Jump Jet
+Jump Jet
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLATM9
+CLATM9
+CLATM9
+CLATM9
+CLATM9 HE Ammo
+CLATM9 Ammo
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Ferro-Fibrous
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLERSmallLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink

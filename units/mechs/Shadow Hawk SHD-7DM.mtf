@@ -1,0 +1,133 @@
+Version:1.1
+Shadow Hawk
+SHD-7DM
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:2
+
+Mass:55
+Engine:275 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:5
+Jump MP:5
+
+Armor:Standard Armor
+LA Armor:18
+RA Armor:18
+LT Armor:19
+RT Armor:19
+CT Armor:23
+HD Armor:9
+LL Armor:20
+RL Armor:20
+RTL Armor:7
+RTR Armor:7
+RTC Armor:8
+
+Weapons:7
+1 ISMRM30, Right Torso, Ammo:8
+1 ISLAC5, Left Torso, Ammo:40
+1 ISERMediumLaser, Right Arm
+1 ISERMediumLaser, Left Arm
+1 ISStreakSRM2, Center Torso, Ammo:50
+1 ISStreakSRM2, Head
+1 ISTAG, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+ISLAC5
+ISLAC5
+ISTAG
+ISLAC5 Ammo
+ISLAC5 Ammo
+ISStreakSRM2 Ammo
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+ISMRM30
+ISMRM30
+ISMRM30
+ISMRM30
+ISMRM30
+ISMRM30 Ammo
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+ISStreakSRM2
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISStreakSRM2
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

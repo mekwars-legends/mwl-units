@@ -1,0 +1,133 @@
+Version:1.1
+Templar
+TLR1-SB
+
+Config:Biped
+TechBase:Inner Sphere
+Era:0
+Rules Level:4
+
+Mass:85
+Engine:340 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:15 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:28
+RA Armor:28
+LT Armor:26
+RT Armor:26
+CT Armor:44
+HD Armor:9
+LL Armor:36
+RL Armor:36
+RTL Armor:10
+RTR Armor:10
+RTC Armor:10
+
+Weapons:7
+1 ISMediumPulseLaser, Left Arm
+1 ISMediumPulseLaser, Left Arm
+1 ISERMediumLaser, Center Torso
+1 ISERMediumLaser, Center Torso
+1 ISStreakSRM4, Right Torso, Ammo:25
+1 ISSBGR, Right Arm, Ammo:16
+1 ISERPPC, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISMediumPulseLaser
+ISMediumPulseLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+ISERPPC
+ISERPPC
+ISERPPC
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISSBGauss Ammo
+ISSBGauss Ammo
+Endo-Steel
+ISSBGR
+ISSBGR
+ISSBGR
+ISSBGR
+ISSBGR
+ISSBGR
+ISSBGR
+
+Left Torso:
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Steel
+Endo-Steel
+ISTargeting Computer
+ISTargeting Computer
+ISTargeting Computer
+ISTargeting Computer
+
+Right Torso:
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISStreakSRM4
+ISStreakSRM4 Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISERMediumLaser
+ISERMediumLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+-Empty-

@@ -1,0 +1,86 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Scorpion Light Tank
+</Name>
+
+<Model>
+(Clan)
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+Clan Level 2
+</type>
+
+<tonnage>
+25.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+2
+</armor_tech>
+
+<armor>
+16
+12
+12
+11
+16
+</armor>
+
+<Body Equipment>
+Clan Ultra AC/5 Ammo
+Clan Ultra AC/5 Ammo
+Clan Ammo SRM-4
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLUltraAC5
+CLSRM4
+CLSRM4
+</Turret Equipment>
+

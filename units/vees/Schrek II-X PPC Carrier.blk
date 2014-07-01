@@ -1,0 +1,57 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Schrek II-X PPC Carrier
+</Name>
+<Tonnage>
+95
+</Tonnage>
+<cruiseMP>
+3
+</cruiseMP>
+<Armor>
+35
+34
+34
+33
+32
+</Armor>
+<Turret Equipment>
+ISLightPPC
+ISLightPPCCapacitor
+ISLightPPC
+ISLightPPCCapacitor
+ISLightPPC
+ISLightPPCCapacitor
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISTargeting Computer
+</Turret Equipment>
+<type>
+IS
+</type>
+<year>
+3076
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+6
+</armor_type>
+<engine_type>
+3
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>

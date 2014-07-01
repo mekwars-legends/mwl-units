@@ -1,0 +1,130 @@
+Version:1.1
+Patriot
+PKM-2T
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:65
+Engine:260 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:13 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:19
+RA Armor:19
+LT Armor:20
+RT Armor:20
+CT Armor:31
+HD Armor:9
+LL Armor:27
+RL Armor:27
+RTL Armor:9
+RTR Armor:9
+RTC Armor:10
+
+Weapons:4
+1 ISAntiMissileSystem, Head
+1 ISGuardianECM, Center Torso
+1 ISHeavyPPC, Right Arm
+1 ISThunderbolt20, Left Arm, Ammo:12
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISHeavyPPC
+ISHeavyPPC
+ISHeavyPPC
+ISHeavyPPC
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISThunderbolt20 Ammo
+ISThunderbolt20 Ammo
+ISThunderbolt20 Ammo
+ISThunderbolt20 Ammo
+IS AMS Ammo
+ISCASEII
+
+Right Torso:
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISGuardianECM
+ISGuardianECM
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISAntiMissileSystem
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

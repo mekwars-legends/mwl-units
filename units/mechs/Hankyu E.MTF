@@ -1,0 +1,133 @@
+Version:1.1
+Hankyu
+E
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3070
+Rules Level:2
+
+Mass:30
+Engine:240 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Base Chassis Heat Sinks: 10
+Walk MP:8
+Jump MP:6
+
+Armor:Ferro-Fibrous
+LA Armor:7
+RA Armor:7
+LT Armor:8
+RT Armor:8
+CT Armor:8
+HD Armor:9
+LL Armor:8
+RL Armor:8
+RTL Armor:4
+RTR Armor:4
+RTC Armor:5
+
+Weapons:6
+1 CLLMGA, Left Arm, Ammo:400
+1 CLLMGA, Right Arm
+1 CLMediumPulseLaser, Left Torso
+1 CLMediumPulseLaser, Right Torso
+1 CLSmallPulseLaser, Right Torso
+1 CLSmallPulseLaser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel
+Ferro-Fibrous
+CLLMGA
+CLLightMG
+CLLightMG
+CLLightMG
+CLLightMG
+CLLightMG Ammo (100)
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel
+Ferro-Fibrous
+CLLMGA
+CLLightMG
+CLLightMG
+CLLightMG
+CLLightMG
+CLLightMG Ammo (100)
+
+Left Torso:
+Engine
+Engine
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+CLMediumPulseLaser
+CLSmallPulseLaser
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+CLMediumPulseLaser
+CLSmallPulseLaser
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

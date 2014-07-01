@@ -1,0 +1,132 @@
+Version:1.1
+Cataphract III
+CTF-3X
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3060
+Rules Level:2
+
+Mass:70
+Engine:280 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:ISMASC
+
+Heat Sinks:12 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:21
+RA Armor:21
+LT Armor:22
+RT Armor:22
+CT Armor:31
+HD Armor:9
+LL Armor:29
+RL Armor:29
+RTL Armor:7
+RTR Armor:7
+RTC Armor:10
+
+Weapons:6
+1 ISMediumPulseLaser, Left Torso
+1 ISERPPC, Right Torso
+1 ISERMediumLaser, Right Torso
+1 ISERMediumLaser, Right Torso
+1 ISGaussRifle, Right Arm, Ammo:16
+1 ISGuardianECM, Left Leg
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGauss Ammo
+ISGauss Ammo
+
+Left Torso:
+Engine
+Engine
+Engine
+Jump Jet
+ISMASC
+ISMASC
+ISMASC
+ISMASC
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMediumPulseLaser
+
+Right Torso:
+Engine
+Engine
+Engine
+Jump Jet
+ISERPPC
+ISERPPC
+ISERPPC
+ISERMediumLaser
+ISERMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISGuardianECM
+ISGuardianECM
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

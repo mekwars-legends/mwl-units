@@ -1,0 +1,133 @@
+Version:1.1
+Atlas
+AS7-X
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:100
+Engine:300 Fusion Engine
+Structure:Endo-Composite
+Myomer:Standard
+
+Heat Sinks:16 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:7
+1 ISMediumXPulseLaser (R), Center Torso (R)
+1 ISMediumXPulseLaser (R), Center Torso (R)
+1 ISGaussRifle, Right Torso, Ammo:16
+1 ISMML9, Right Torso, Ammo:52
+1 ISMML9, Left Torso
+1 ISMediumXPulseLaser, Right Arm
+1 ISMediumXPulseLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumXPulseLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Composite
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumXPulseLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Composite
+
+Left Torso:
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9 SRM Ammo
+ISMML9 SRM Ammo
+ISMML9 LRM Ammo
+ISMML9 LRM Ammo
+ISGauss Ammo
+ISGauss Ammo
+ISCASEII
+
+Right Torso:
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumXPulseLaser (R)
+ISMediumXPulseLaser (R)
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Composite
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Composite
+Endo-Composite
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Composite
+Endo-Composite

@@ -1,0 +1,135 @@
+Version:1.1
+Toyama
+TYM-1D
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3057
+Rules Level:2
+
+Mass:75
+Engine:300 XL Fusion Engine
+Structure:Endo-Steel
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:15 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:20
+RA Armor:20
+LT Armor:20
+RT Armor:20
+CT Armor:30
+HD Armor:9
+LL Armor:25
+RL Armor:25
+RTL Armor:7
+RTR Armor:7
+RTC Armor:9
+
+Weapons:8
+1 ISLRM20, Right Torso, Ammo:12
+1 ISLBXAC10, Left Arm, Ammo:20
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser, Left Torso
+1 ISLightPPC, Right Arm
+1 ISLightPPC, Right Arm
+1 ISLightPPC, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10 Ammo
+ISLBXAC10 CL Ammo
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISLightPPC
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISERMediumLaser
+ISERMediumLaser
+ISERMediumLaser
+
+Right Torso:
+Engine
+Engine
+Engine
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20 Ammo
+ISLRM20 Ammo
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

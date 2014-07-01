@@ -1,0 +1,150 @@
+Version:1.0
+Turkina
+X
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3072
+Rules Level:4
+
+Mass:95
+Engine:285 XL Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:17 Double
+Walk MP:3
+Jump MP:3
+
+Armor:Standard Armor
+LA Armor:32
+RA Armor:32
+LT Armor:30
+RT Armor:30
+CT Armor:45
+HD Armor:9
+LL Armor:40
+RL Armor:40
+RTL Armor:10
+RTR Armor:10
+RTC Armor:10
+
+Weapons:5
+1 CLECMSuite, Head
+3 CLMediumPulseLaser, Left Torso
+3 CLMediumPulseLaser, Right Torso
+1 CLLRM20, Left Arm, Ammo:36
+1 CLLRM20, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLArtemisV
+CLArtemisV
+CLLRM20 Ammo (Clan) Artemis V-capable
+CLLRM20 Ammo (Clan) Artemis V-capable
+CLLRM20 Ammo (Clan) Artemis V-capable
+CLCASEII
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLArtemisV
+CLArtemisV
+CLLRM20 Ammo (Clan) Artemis V-capable
+CLLRM20 Ammo (Clan) Artemis V-capable
+CLLRM20 Ammo (Clan) Artemis V-capable
+CLCASEII
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+Jump Jet
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+Jump Jet
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLECMSuite
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Talons
+Talons
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Talons
+Talons
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

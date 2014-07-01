@@ -1,0 +1,132 @@
+Version:1.1
+Highlander
+HGN-742
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:90
+Engine:270 Light Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:3
+Jump MP:3
+
+Armor:Light Ferro-Fibrous
+LA Armor:30
+RA Armor:30
+LT Armor:29
+RT Armor:29
+CT Armor:44
+HD Armor:9
+LL Armor:38
+RL Armor:38
+RTL Armor:9
+RTR Armor:9
+RTC Armor:14
+
+Weapons:6
+1 ISGaussRifle, Right Torso, Ammo:16
+1 ISERLargeLaser, Left Arm
+1 ISMediumPulseLaser, Head
+1 ISMediumPulseLaser, Center Torso
+1 ISLRM15, Left Torso, Ammo:16
+1 ISImprovedC3CPU, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISERLargeLaser
+ISERLargeLaser
+-Empty-
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+ISLRM15
+ISLRM15
+ISLRM15
+ISArtemisIV
+ISImprovedC3CPU
+ISImprovedC3CPU
+ISLRM15 Ammo Artemis-capable
+ISLRM15 Ammo Artemis-capable
+Light Ferro-Fibrous
+ISCASE
+
+Right Torso:
+Engine
+Engine
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGauss Ammo
+ISGauss Ammo
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumPulseLaser
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMediumPulseLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Light Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Light Ferro-Fibrous

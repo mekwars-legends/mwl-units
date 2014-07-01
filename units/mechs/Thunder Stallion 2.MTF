@@ -1,0 +1,148 @@
+Version:1.0
+Thunder Stallion
+TDS-2
+
+Config:Quad
+TechBase:Clan
+Era:3060
+Rules Level:2
+
+Mass:85
+Engine:255 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:16 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:36
+RA Armor:36
+LT Armor:20
+RT Armor:20
+CT Armor:34
+HD Armor:9
+LL Armor:36
+RL Armor:36
+RTL Armor:16
+RTR Armor:16
+RTC Armor:20
+
+Weapons:3
+2 CLLRM15, Right Torso, Ammo:64
+2 CLLRM15, Left Torso
+2 CLLargePulseLaser, Right Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+CLLRM15
+CLLRM15
+CLLRM15
+CLLRM15
+CLLRM15 Ammo
+CLLRM15 Ammo
+CLLRM15 Ammo
+CLLRM15 Ammo
+CLLRM15 Ammo
+CLLRM15 Ammo
+CLLRM15 Ammo
+CLLRM15 Ammo
+
+Right Torso:
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLLRM15
+CLLRM15
+CLLRM15
+CLLRM15
+CLLargePulseLaser
+CLLargePulseLaser
+CLLargePulseLaser
+CLLargePulseLaser
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

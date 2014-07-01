@@ -1,0 +1,132 @@
+Version:1.1
+Grand Crusader
+GRN-D-11
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:80
+Engine:240 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:26
+RA Armor:26
+LT Armor:26
+RT Armor:26
+CT Armor:38
+HD Armor:9
+LL Armor:34
+RL Armor:34
+RTL Armor:8
+RTR Armor:8
+RTC Armor:12
+
+Weapons:6
+1 ISExtendedLRM15, Left Torso, Ammo:36
+1 ISExtendedLRM15, Right Torso
+1 ISLargePulseLaser, Left Arm
+1 ISLargePulseLaser, Right Arm
+1 ISGuardianECM, Center Torso
+1 ISMediumPulseLaser (R), Head (R)
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLargePulseLaser
+ISLargePulseLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISLargePulseLaser
+ISLargePulseLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+ISExtendedLRM15
+ISExtendedLRM15
+ISExtendedLRM15
+ISExtendedLRM15
+ISExtendedLRM15
+ISExtendedLRM15
+ISExtendedLRM15 Ammo
+ISExtendedLRM15 Ammo
+ISExtendedLRM15 Ammo
+
+Right Torso:
+Engine
+Engine
+Engine
+ISExtendedLRM15
+ISExtendedLRM15
+ISExtendedLRM15
+ISExtendedLRM15
+ISExtendedLRM15
+ISExtendedLRM15
+ISExtendedLRM15 Ammo
+ISExtendedLRM15 Ammo
+ISExtendedLRM15 Ammo
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISGuardianECM
+ISGuardianECM
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMediumPulseLaser (R)
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

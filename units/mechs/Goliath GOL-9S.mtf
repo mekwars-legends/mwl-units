@@ -1,0 +1,117 @@
+Version:1.1
+Goliath
+GOL-9S
+
+Config:Quad
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:80
+Engine:320 Light Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:34
+RA Armor:34
+LT Armor:24
+RT Armor:24
+CT Armor:35
+HD Armor:9
+LL Armor:34
+RL Armor:34
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:3
+1 ISImprovedHeavyGaussRifle, Center Torso, Ammo:16
+1 ISStreakSRM6, Left Torso, Ammo:15
+1 ISMediumPulseLaser, Left Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+IS Improved Heavy Gauss Rifle Ammo
+IS Improved Heavy Gauss Rifle Ammo
+IS Improved Heavy Gauss Rifle Ammo
+IS Improved Heavy Gauss Rifle Ammo
+ISStreakSRM6
+ISStreakSRM6
+ISMediumPulseLaser
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedHeavyGaussRifle
+ISStreakSRM6 Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

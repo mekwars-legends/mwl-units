@@ -1,0 +1,76 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Aero
+</UnitType>
+<Name>
+Jagatai
+</Name>
+<Model>
+J
+</Model>
+<Tonnage>
+70
+</Tonnage>
+<SafeThrust>
+6
+</SafeThrust>
+<Armor>
+65
+50
+50
+46
+</Armor>
+<Nose Equipment>
+CLHAG40
+CLHAG40 Ammo
+CLHAG40 Ammo
+CLHAG40 Ammo
+CLStreakSRM4
+CLStreakSRM4
+CLStreakSRM4 Ammo
+</Nose Equipment>
+<Left Wing Equipment>
+CLLargePulseLaser
+</Left Wing Equipment>
+<Right Wing Equipment> 
+CLLargePulseLaser
+</Right Wing Equipment>
+<Aft Equipment> 
+CLLargePulseLaser
+</Aft Equipment>
+<heatsinks>
+17
+</heatsinks>
+<sink_type>
+1
+</sink_type>
+<fuel>
+320
+</fuel>
+<type>
+Clan Level 2
+</type>
+<year>
+3016
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+1
+</armor_type>
+<engine_type>
+2
+</engine_type>
+<motion_type>
+aerodyne
+</motion_type>
+<omni>
+</omni>

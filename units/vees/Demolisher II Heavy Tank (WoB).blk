@@ -1,0 +1,103 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Demolisher II Heavy Tank
+</Name>
+
+<Model>
+(WoB)
+</Model>
+
+<year>
+3060
+</year>
+
+<type>
+IS Level 3
+</type>
+
+<tonnage>
+100.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+2
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+5
+</armor_tech>
+
+<armor>
+80
+68
+68
+66
+75
+</armor>
+
+<Body Equipment>
+ISCASE
+IS Ammo Thunderbolt-20
+IS Ammo Thunderbolt-20
+IS Ammo Thunderbolt-20
+IS Ammo Thunderbolt-20
+IS Ammo Thunderbolt-20
+IS Ammo Thunderbolt-20
+IS Ammo Thunderbolt-20
+IS Ammo Thunderbolt-20
+IS Ammo Thunderbolt-20
+IS Ammo Thunderbolt-20
+IS Streak SRM 2 Ammo
+ISC3iUnit
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Thunderbolt 20
+Thunderbolt 20
+ISERMediumLaser
+ISERMediumLaser
+ISStreakSRM2
+ISStreakSRM2
+</Turret Equipment>
+
+<source>
+Clan Invasion
+</source>
+

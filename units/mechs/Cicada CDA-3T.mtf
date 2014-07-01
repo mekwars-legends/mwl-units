@@ -1,0 +1,132 @@
+Version:1.1
+Cicada
+CDA-3T
+
+Config:Biped
+TechBase:Inner Sphere
+Era:0
+Rules Level:4
+
+Mass:40
+Engine:320 XL Fusion Engine
+Structure:Endo-Steel
+Cockpit:Small Cockpit
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:8
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:12
+RA Armor:12
+LT Armor:15
+RT Armor:15
+CT Armor:17
+HD Armor:9
+LL Armor:20
+RL Armor:20
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:5
+1 ISMediumLaser, Right Arm
+1 ISMediumLaser, Left Arm
+1 ISSmallPulseLaser, Head
+1 ISPlasmaRifle, Right Torso, Ammo:20
+1 ISTAG, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISPlasmaRifle
+ISPlasmaRifle
+ISPlasmaRifle Ammo
+ISPlasmaRifle Ammo
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+ISSmallPulseLaser
+ISTAG
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

@@ -1,0 +1,131 @@
+Version:1.1
+Nyx
+NX-100C
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:30
+Engine:300 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:10
+Jump MP:0
+
+Armor:Heavy Ferro-Fibrous
+LA Armor:8
+RA Armor:8
+LT Armor:11
+RT Armor:11
+CT Armor:12
+HD Armor:9
+LL Armor:10
+RL Armor:10
+RTL Armor:3
+RTR Armor:3
+RTC Armor:4
+
+Weapons:5
+1 ISERMediumLaser, Left Arm
+1 ISERMediumLaser, Right Arm
+1 ISStreakSRM4, Right Torso, Ammo:25
+1 ISC3SlaveUnit, Center Torso
+1 ISGuardianECM, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISERMediumLaser
+-Empty-
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISERMediumLaser
+-Empty-
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+-Empty-
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+ISGuardianECM
+ISGuardianECM
+ISStreakSRM4
+ISStreakSRM4 Ammo
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISC3SlaveUnit
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Heavy Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heavy Ferro-Fibrous
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heavy Ferro-Fibrous
+Endo-Steel

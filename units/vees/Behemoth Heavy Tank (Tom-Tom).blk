@@ -1,0 +1,87 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Behemoth Heavy Tank
+</Name>
+
+<Model>
+(Tom-Tom)
+</Model>
+
+<year>
+3068
+</year>
+
+<type>
+IS Level 4
+</type>
+
+<tonnage>
+100.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+2
+</cruiseMP>
+
+<armor>
+60
+48
+48
+40
+60
+</armor>
+
+<Body Equipment>
+ISCASE
+ISLongTomCannonAmmo
+ISLongTomCannonAmmo
+ISLongTomCannonAmmo
+ISLongTomCannonAmmo
+ISLongTomCannonAmmo
+ISLongTomCannonAmmo
+ISAMS Ammo
+ISAMS Ammo
+</Body Equipment>
+
+<Front Equipment>
+ISAntiMissileSystem
+ISAntiMissileSystem
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISLongTomCannon
+ISLongTomCannon
+ISERMediumLaser
+ISERMediumLaser
+</Turret Equipment>
+

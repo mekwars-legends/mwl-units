@@ -1,0 +1,121 @@
+Version:1.1
+Blue Flame
+BLF-23
+
+Config:Quad
+TechBase:Inner Sphere
+Era:3062
+Rules Level:3
+
+Mass:45
+Engine:225 Light Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:5
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:22
+RA Armor:22
+LT Armor:15
+RT Armor:15
+CT Armor:21
+HD Armor:9
+LL Armor:22
+RL Armor:22
+RTL Armor:7
+RTR Armor:7
+RTC Armor:7
+
+Weapons:7
+1 ISImprovedC3CPU, Right Torso
+1 ISLightPPC, Left Torso
+1 ISLightPPC, Left Torso
+1 ISLightPPC, Right Torso
+1 ISLightPPC, Right Torso
+1 ISMediumPulseLaser, Center Torso
+1 ISAntiMissileSystem, Right Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISLightPPC
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISImprovedC3CPU
+ISImprovedC3CPU
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISAntiMissileSystem
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumPulseLaser
+IS AMS Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

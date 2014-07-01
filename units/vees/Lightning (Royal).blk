@@ -1,0 +1,57 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Lightning
+</Name>
+<Model>
+(Royal)
+</Model>
+<Tonnage>
+35
+</Tonnage>
+<cruiseMP>
+11
+</cruiseMP>
+<Armor>
+20
+16
+16
+10
+</Armor>
+<Front Equipment>
+ISMediumPulseLaser
+ISMediumPulseLaser
+ISStreakSRM2
+ISStreakSRM2
+ISTAG
+</Front Equipment>
+<Body Equipment>
+ISStreakSRM2 Ammo
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+2750
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+1
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+Hover
+</motion_type>

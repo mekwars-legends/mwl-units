@@ -1,0 +1,131 @@
+Version:1.1
+Victor
+VTR-10Db
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:80
+Engine:320 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:20
+RA Armor:20
+LT Armor:25
+RT Armor:25
+CT Armor:33
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:7
+RTR Armor:7
+RTC Armor:10
+
+Weapons:5
+1 ISAC20, Right Arm, Ammo:20
+1 ISERMediumLaser, Left Torso
+1 ISStreakSRM6, Center Torso, Ammo:15
+1 ISGuardianECM, Left Torso
+1 ISERMediumLaser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+
+Left Torso:
+Jump Jet
+Jump Jet
+ISERMediumLaser
+ISERMediumLaser
+ISGuardianECM
+ISGuardianECM
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Jump Jet
+Jump Jet
+ISAC20 Ammo
+ISAC20 Ammo
+ISAC20 Ammo
+ISAC20 Ammo
+ISStreakSRM6 Ammo
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISStreakSRM6
+ISStreakSRM6
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

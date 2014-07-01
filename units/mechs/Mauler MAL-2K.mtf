@@ -1,0 +1,136 @@
+Version:1.1
+Mauler
+MAL-2K
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:90
+Engine:270 Fusion Engine
+Structure:Endo-Steel
+Cockpit:Small Cockpit
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:22
+RA Armor:22
+LT Armor:27
+RT Armor:27
+CT Armor:27
+HD Armor:9
+LL Armor:22
+RL Armor:22
+RTL Armor:10
+RTR Armor:10
+RTC Armor:10
+
+Weapons:9
+1 ISC3SlaveUnit, Head
+1 ISMRM30, Left Torso, Ammo:24
+1 ISMRM30, Right Torso
+1 ISLightPPC, Right Arm
+1 ISLightPPC, Left Arm
+1 ISLAC2, Left Torso, Ammo:90
+1 ISLAC2, Left Torso
+1 ISLAC2, Right Torso
+1 ISLAC2, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLightPPC
+ISLightPPC
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLightPPC
+ISLightPPC
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+ISMRM30
+ISMRM30
+ISMRM30
+ISMRM30
+ISMRM30
+ISApollo
+ISLAC2
+ISLAC2
+ISLAC2 Ammo
+ISMRM30 Ammo
+ISMRM30 Ammo
+ISCASE
+
+Right Torso:
+ISMRM30
+ISMRM30
+ISMRM30
+ISMRM30
+ISMRM30
+ISApollo
+ISLAC2
+ISLAC2
+ISLAC2 Ammo
+ISMRM30 Ammo
+-Empty-
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Endo-Steel
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+ISC3SlaveUnit
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

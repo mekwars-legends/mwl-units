@@ -1,0 +1,131 @@
+Version:1.1
+King Crab
+KGC-001W
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:100
+Engine:300 Light Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:30
+RA Armor:30
+LT Armor:31
+RT Armor:31
+CT Armor:45
+HD Armor:9
+LL Armor:39
+RL Armor:39
+RTL Armor:11
+RTR Armor:11
+RTC Armor:12
+
+Weapons:5
+1 ISImprovedC3CPU, Right Torso
+1 ISGaussRifle, Left Arm, Ammo:32
+1 ISGaussRifle, Right Arm
+1 ISLRM15, Left Torso, Ammo:16
+1 ISLargePulseLaser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Ferro-Fibrous
+ISGauss Ammo
+ISGauss Ammo
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Ferro-Fibrous
+ISGauss Ammo
+ISGauss Ammo
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+
+Left Torso:
+Engine
+Engine
+ISLRM15
+ISLRM15
+ISLRM15
+-Empty-
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+ISLRM15 Ammo
+ISLRM15 Ammo
+ISCASE
+
+Right Torso:
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+ISLargePulseLaser
+ISLargePulseLaser
+-Empty-
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Ferro-Fibrous
+Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+Ferro-Fibrous

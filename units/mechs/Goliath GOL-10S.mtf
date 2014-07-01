@@ -1,0 +1,120 @@
+Version:1.1
+Goliath
+GOL-10S
+
+Config:Quad
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:80
+Engine:320 XL Fusion Engine
+Structure:Standard
+Gyro:XL Gyro
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:34
+RA Armor:34
+LT Armor:24
+RT Armor:24
+CT Armor:35
+HD Armor:9
+LL Armor:34
+RL Armor:34
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:5
+1 ISERPPC, Left Torso
+1 ISGaussRifle, Right Torso, Ammo:16
+1 ISLRM15, Left Torso, Ammo:16
+1 ISGuardianECM, Right Leg
+1 ISMediumPulseLaser (R), Head (R)
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISERPPC
+ISERPPC
+ISERPPC
+ISLRM15
+ISLRM15
+ISLRM15
+ISLRM15 Ammo
+ISLRM15 Ammo
+ISCASE
+
+Right Torso:
+Engine
+Engine
+Engine
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGauss Ammo
+ISGauss Ammo
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMediumPulseLaser (R)
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISGuardianECM
+ISGuardianECM

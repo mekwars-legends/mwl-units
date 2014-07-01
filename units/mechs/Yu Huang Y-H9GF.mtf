@@ -1,0 +1,134 @@
+Version:1.1
+Yu Huang
+Y-H9GF
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3060
+Rules Level:2
+
+Mass:90
+Engine:360 XL Fusion Engine
+Structure:Endo-Steel
+Gyro:Compact Gyro
+Myomer:Triple Strength Myomer
+
+Heat Sinks:13 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:30
+RA Armor:30
+LT Armor:29
+RT Armor:29
+CT Armor:44
+HD Armor:9
+LL Armor:38
+RL Armor:38
+RTL Armor:9
+RTR Armor:9
+RTC Armor:14
+
+Weapons:7
+1 ISERPPC, Left Arm
+1 ISMediumPulseLaser, Left Arm
+1 ISMediumPulseLaser, Left Arm
+1 ISUltraAC20, Right Torso, Ammo:15
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser, Left Torso
+1 ISSmallLaser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISERPPC
+ISERPPC
+ISERPPC
+ISMediumPulseLaser
+ISMediumPulseLaser
+Endo-Steel
+Endo-Steel
+Triple Strength Myomer
+Triple Strength Myomer
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+
+Left Torso:
+Engine
+Engine
+Engine
+ISERMediumLaser
+ISERMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Triple Strength Myomer
+Triple Strength Myomer
+
+Right Torso:
+Engine
+Engine
+Engine
+ISUltraAC20
+Endo-Steel
+Endo-Steel
+Endo-Steel
+ISSmallLaser
+Endo-Steel
+Endo-Steel
+Triple Strength Myomer
+Triple Strength Myomer
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISUltraAC20 Ammo
+ISUltraAC20 Ammo
+ISUltraAC20 Ammo
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

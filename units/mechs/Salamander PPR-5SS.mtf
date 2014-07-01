@@ -1,0 +1,135 @@
+Version:1.1
+Salamander
+PPR-5SS
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3064
+Rules Level:4
+
+Mass:80
+Engine:320 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:13 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:26
+RA Armor:26
+LT Armor:26
+RT Armor:26
+CT Armor:38
+HD Armor:9
+LL Armor:34
+RL Armor:34
+RTL Armor:8
+RTR Armor:8
+RTC Armor:12
+
+Weapons:9
+1 ISThunderbolt5, Right Torso, Ammo:96
+1 ISThunderbolt5, Left Torso
+1 ISThunderbolt5, Right Torso
+1 ISThunderbolt5, Left Torso
+1 ISThunderbolt5, Right Torso
+1 ISThunderbolt5, Left Torso
+1 ISMML9, Left Arm, Ammo:26
+1 ISMediumXPulseLaser, Center Torso
+1 ISMediumXPulseLaser, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+Endo-Steel
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+ISThunderbolt5
+ISThunderbolt5
+ISThunderbolt5
+ISMML9 LRM Ammo
+ISThunderbolt5 Ammo
+ISThunderbolt5 Ammo
+ISThunderbolt5 Ammo
+ISThunderbolt5 Ammo
+ISCASE
+
+Right Torso:
+Engine
+Engine
+Engine
+ISThunderbolt5
+ISThunderbolt5
+ISThunderbolt5
+ISMML9 SRM Ammo
+ISThunderbolt5 Ammo
+ISThunderbolt5 Ammo
+ISThunderbolt5 Ammo
+ISThunderbolt5 Ammo
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumXPulseLaser
+ISMediumXPulseLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

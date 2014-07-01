@@ -1,0 +1,90 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Tomahawk MBT
+</Name>
+
+<Model>
+(Upgrade)
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+IS Level 4
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+6
+</engine_type>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+40
+33
+33
+30
+43
+</armor>
+
+<Body Equipment>
+ISCASE
+ISAMS Ammo
+IS Gauss Ammo
+IS Gauss Ammo
+ISRotaryAC2 Ammo
+ISRotaryAC2 Ammo
+ISC3SlaveUnit
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISAntiMissileSystem
+ISGaussRifle
+ISRotaryAC2
+</Turret Equipment>
+
+<tonnage>
+60.0
+</tonnage>
+

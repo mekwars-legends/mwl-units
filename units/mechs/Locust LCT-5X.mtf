@@ -1,0 +1,129 @@
+Version:1.1
+Locust
+LCT-5X
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3066
+Rules Level:4
+
+Mass:20
+Engine:200 Light Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:10
+Jump MP:0
+
+Armor:Heavy Ferro-Fibrous
+LA Armor:6
+RA Armor:6
+LT Armor:8
+RT Armor:8
+CT Armor:10
+HD Armor:9
+LL Armor:8
+RL Armor:8
+RTL Armor:2
+RTR Armor:2
+RTC Armor:2
+
+Weapons:3
+1 ISMediumXPulseLaser, Center Torso
+1 ISSmallXPulseLaser, Left Arm
+1 ISSmallXPulseLaser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISSmallXPulseLaser
+Endo-Steel
+Endo-Steel
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISSmallXPulseLaser
+Endo-Steel
+Endo-Steel
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+-Empty-
+
+Left Torso:
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumXPulseLaser
+Heavy Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous

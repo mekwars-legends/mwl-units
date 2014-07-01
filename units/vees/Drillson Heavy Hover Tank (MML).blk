@@ -1,0 +1,93 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Drillson Heavy Hover Tank
+</Name>
+
+<Model>
+(MML)
+</Model>
+
+<year>
+3069
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+50.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+9
+</cruiseMP>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+30
+25
+25
+20
+28
+</armor>
+
+<Body Equipment>
+IS Machine Gun Ammo - Half
+IS Ammo MML-5 LRM
+IS Ammo MML-5 LRM
+IS Ammo MML-5 SRM
+</Body Equipment>
+
+<Front Equipment>
+ISMML5
+Machine Gun
+Machine Gun
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Large Laser
+ISMML5
+</Turret Equipment>
+
+<source>
+humansphere custom
+</source>
+

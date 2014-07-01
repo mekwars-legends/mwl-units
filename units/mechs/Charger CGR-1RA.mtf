@@ -1,0 +1,133 @@
+Version:1.1
+Charger
+CGR-1RA
+
+Config:Biped
+TechBase:Clan
+Era:3070
+Rules Level:2
+
+Mass:80
+Engine:320 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:14 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:15
+RA Armor:15
+LT Armor:20
+RT Armor:20
+CT Armor:30
+HD Armor:9
+LL Armor:25
+RL Armor:25
+RTL Armor:5
+RTR Armor:5
+RTC Armor:7
+
+Weapons:7
+1 CLLRM20, Right Torso, Ammo:18
+1 CLMediumPulseLaser, Right Arm
+1 CLMediumPulseLaser, Right Torso
+1 CLMediumPulseLaser, Left Arm
+1 CLMediumPulseLaser, Left Torso
+1 CLAntiMissileSystem, Head
+1 CLPlasmaCannon, Left Arm, Ammo:20
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLMediumPulseLaser
+CLPlasmaCannon
+CLPlasmaCannon Ammo
+CLPlasmaCannon Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLMediumPulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+CLMediumPulseLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLArtemisIV
+CLLRM20 Ammo (Clan) Artemis-capable
+CLLRM20 Ammo (Clan) Artemis-capable
+CLLRM20 Ammo (Clan) Artemis-capable
+CLMediumPulseLaser
+Jump Jet
+Jump Jet
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Clan AMS Ammo
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLAntiMissileSystem
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

@@ -1,0 +1,138 @@
+Version:1.1
+Strider
+SR1-O X3
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3057
+Rules Level:4
+
+Mass:40
+Engine:240 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Single
+Base Chassis Heat Sinks: 10
+Walk MP:6
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:12
+RA Armor:12
+LT Armor:14
+RT Armor:14
+CT Armor:15
+HD Armor:9
+LL Armor:14
+RL Armor:14
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:11
+1 ISAngelECM, Right Torso
+1 ISBloodhoundActiveProbe, Left Torso
+1 ISSmallXPulseLaser, Left Torso
+1 ISMagshotGR, Left Arm, Ammo:150
+1 ISMagshotGR, Left Arm
+1 ISMagshotGR, Left Arm
+1 ISMagshotGR, Left Arm
+1 ISMagshotGR, Right Arm
+1 ISMagshotGR, Right Arm
+1 ISMagshotGR, Right Arm
+1 ISMagshotGR, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISMagshotGR
+ISMagshotGR
+ISMagshotGR
+ISMagshotGR
+ISMagshotGR
+ISMagshotGR
+ISMagshotGR
+ISMagshotGR
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISMagshotGR
+ISMagshotGR
+ISMagshotGR
+ISMagshotGR
+ISMagshotGR
+ISMagshotGR
+ISMagshotGR
+ISMagshotGR
+-Empty-
+-Empty-
+
+Left Torso:
+ISBloodhoundActiveProbe
+ISBloodhoundActiveProbe
+ISBloodhoundActiveProbe
+ISSmallXPulseLaser
+IS Magshot GR Ammo
+ISCASE
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+ISAngelECM
+ISAngelECM
+IS Magshot GR Ammo
+IS Magshot GR Ammo
+-Empty-
+ISCASE
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+Endo-Steel

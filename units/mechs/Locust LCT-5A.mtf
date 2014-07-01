@@ -1,0 +1,131 @@
+Version:1.1
+Locust
+LCT-5A
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:20
+Engine:200 XL Fusion Engine
+Structure:Endo-Steel
+Gyro:XL Gyro
+Cockpit:Small Cockpit
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:10
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:6
+RA Armor:6
+LT Armor:8
+RT Armor:8
+CT Armor:9
+HD Armor:9
+LL Armor:8
+RL Armor:8
+RTL Armor:2
+RTR Armor:2
+RTC Armor:3
+
+Weapons:3
+1 ISMGA, Right Arm, Ammo:200
+1 ISMGA, Left Arm
+1 ISMediumXPulseLaser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISMGA
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISMGA
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+Engine
+Heat Sink
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+Heat Sink
+ISMG Ammo (100)
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+ISMediumXPulseLaser
+Ferro-Fibrous
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous

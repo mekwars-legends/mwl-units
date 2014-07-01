@@ -1,0 +1,74 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Hetzer Wheeled Assault Gun
+</Name>
+
+<Model>
+(Clan GB)
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+Clan Level 2
+</type>
+
+<tonnage>
+40.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<armor>
+45
+35
+35
+30
+</armor>
+
+<Body Equipment>
+Clan Ultra AC/20 Ammo
+Clan Ultra AC/20 Ammo
+Clan Ultra AC/20 Ammo
+Clan Ultra AC/20 Ammo
+</Body Equipment>
+
+<Front Equipment>
+CLUltraAC20
+CLSmallPulseLaser
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+

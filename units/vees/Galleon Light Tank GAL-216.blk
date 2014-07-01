@@ -1,0 +1,87 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Galleon Light Tank
+</Name>
+
+<Model>
+GAL-216
+</Model>
+
+<year>
+3068
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+30.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+6
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+35
+25
+25
+24
+25
+</armor>
+
+<Body Equipment>
+BeagleActiveProbe
+ISGuardianECMSuite
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+RL10
+</Right Equipment>
+
+<Left Equipment>
+RL10
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISTAG
+ISERMediumLaser
+ISERMediumLaser
+</Turret Equipment>
+

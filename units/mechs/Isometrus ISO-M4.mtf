@@ -1,0 +1,136 @@
+Version:1.1
+Isometrus
+ISO-M4
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:2
+
+Mass:30
+Engine:300 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:10
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:10
+RA Armor:10
+LT Armor:10
+RT Armor:10
+CT Armor:15
+HD Armor:9
+LL Armor:14
+RL Armor:14
+RTL Armor:4
+RTR Armor:4
+RTC Armor:5
+
+Weapons:10
+1 ISERSmallLaser, Center Torso
+1 ISERSmallLaser, Center Torso
+1 ISERSmallLaser, Left Arm
+1 ISERSmallLaser, Left Arm
+1 ISERSmallLaser, Left Arm
+1 ISERSmallLaser, Right Arm
+1 ISERSmallLaser, Right Arm
+1 ISERSmallLaser, Right Arm
+1 ISGuardianECM, Left Torso
+1 ISBeagleActiveProbe, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISERSmallLaser
+ISERSmallLaser
+ISERSmallLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISERSmallLaser
+ISERSmallLaser
+ISERSmallLaser
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISGuardianECM
+ISGuardianECM
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISBeagleActiveProbe
+ISBeagleActiveProbe
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISERSmallLaser
+ISERSmallLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

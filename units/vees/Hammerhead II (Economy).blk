@@ -1,0 +1,94 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Hammerhead II
+</Name>
+
+<Model>
+(Economy)
+</Model>
+
+<year>
+3063
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+65.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+55
+25
+25
+21
+35
+</armor>
+
+<Body Equipment>
+ISCASE
+IS Streak SRM 2 Ammo
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISStreakSRM2
+ISStreakSRM2
+ISStreakSRM2
+ISStreakSRM2
+ISStreakSRM2
+ISStreakSRM2
+Large Laser
+Large Laser
+</Turret Equipment>
+
+<source>
+TRO 3063
+</source>
+

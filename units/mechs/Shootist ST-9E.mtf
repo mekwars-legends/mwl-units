@@ -1,0 +1,132 @@
+Version:1.1
+Shootist
+ST-9E
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3067
+Rules Level:2
+
+Mass:70
+Engine:280 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:22
+RA Armor:22
+LT Armor:22
+RT Armor:22
+CT Armor:35
+HD Armor:9
+LL Armor:29
+RL Armor:29
+RTL Armor:8
+RTR Armor:8
+RTC Armor:9
+
+Weapons:6
+1 ISERMediumLaser, Right Arm
+1 ISGaussRifle, Left Arm, Ammo:16
+1 ISPlasmaRifle, Right Torso, Ammo:20
+1 ISGuardianECM, Right Torso
+1 ISImprovedC3CPU, Left Torso
+1 ISERMediumLaser, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERMediumLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Left Torso:
+ISImprovedC3CPU
+ISImprovedC3CPU
+ISGauss Ammo
+ISGauss Ammo
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+ISCASE
+
+Right Torso:
+ISGuardianECM
+ISGuardianECM
+ISPlasmaRifle
+ISPlasmaRifle
+ISPlasmaRifle Ammo
+ISPlasmaRifle Ammo
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISERMediumLaser
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

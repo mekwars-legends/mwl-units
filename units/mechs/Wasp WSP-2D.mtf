@@ -1,0 +1,129 @@
+Version:1.1
+Wasp
+WSP-2D
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:2
+
+Mass:20
+Engine:120 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:6
+Jump MP:6
+
+Armor:Standard Armor
+LA Armor:5
+RA Armor:5
+LT Armor:7
+RT Armor:7
+CT Armor:8
+HD Armor:8
+LL Armor:6
+RL Armor:6
+RTL Armor:1
+RTR Armor:1
+RTC Armor:2
+
+Weapons:3
+1 ISMediumPulseLaser, Right Arm
+1 ISBeagleActiveProbe, Left Torso
+1 ISTAG, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumPulseLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+Heat Sink
+Heat Sink
+Heat Sink
+ISBeagleActiveProbe
+ISBeagleActiveProbe
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+Heat Sink
+Heat Sink
+Heat Sink
+ISTargeting Computer
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISTAG
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

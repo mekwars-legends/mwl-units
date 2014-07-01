@@ -1,0 +1,131 @@
+Version:1.1
+Men Shen
+MS1-O J
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3060
+Rules Level:4
+
+Mass:55
+Engine:330 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:ISMASC
+
+Heat Sinks:10 Double
+Base Chassis Heat Sinks: 10
+Walk MP:6
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:17
+RA Armor:17
+LT Armor:20
+RT Armor:20
+CT Armor:26
+HD Armor:9
+LL Armor:24
+RL Armor:24
+RTL Armor:6
+RTR Armor:6
+RTC Armor:7
+
+Weapons:4
+1 ISBeagleActiveProbe, Center Torso
+1 ISLargeXPulseLaser, Right Arm
+1 ISMML9, Left Arm, Ammo:39
+1 ISERFlamer, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISLargeXPulseLaser
+ISLargeXPulseLaser
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+ISMASC
+ISMASC
+ISMASC
+ISMML9 LRM Ammo
+ISMML9 LRM Ammo
+ISMML9 SRM Ammo
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISERFlamer
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISBeagleActiveProbe
+ISBeagleActiveProbe
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

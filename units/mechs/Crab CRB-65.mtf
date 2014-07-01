@@ -1,0 +1,136 @@
+Version:1.1
+Crab
+CRB-65
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:50
+Engine:300 Light Fusion Engine
+Structure:Endo-Steel
+Gyro:Compact Gyro
+Cockpit:Small Cockpit
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:6
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:16
+RA Armor:16
+LT Armor:16
+RT Armor:16
+CT Armor:20
+HD Armor:9
+LL Armor:24
+RL Armor:24
+RTL Armor:6
+RTR Armor:6
+RTC Armor:8
+
+Weapons:8
+1 ISLightPPC, Left Arm
+1 ISLightPPC, Center Torso
+1 ISLightPPC, Right Arm
+1 ISMediumXPulseLaser, Head
+1 ISSmallXPulseLaser, Head
+1 ISImprovedC3CPU, Right Torso
+1 ISGuardianECM, Left Torso
+1 ISLaserAntiMissileSystem, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLightPPC
+ISLightPPC
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLightPPC
+ISLightPPC
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+ISGuardianECM
+ISGuardianECM
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISLightPPC
+ISLightPPC
+ISLaserAntiMissileSystem
+ISLaserAntiMissileSystem
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+ISMediumXPulseLaser
+ISSmallXPulseLaser
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

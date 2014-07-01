@@ -1,0 +1,99 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Maxim Heavy Hover Transport
+</Name>
+
+<Model>
+(MML)
+</Model>
+
+<year>
+3090
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+50.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<transporters>
+troopspace:7.0
+</transporters>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+8
+</cruiseMP>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+34
+27
+27
+25
+35
+</armor>
+
+<Body Equipment>
+IS Ammo MML-3 LRM
+IS Ammo MML-3 LRM
+IS Ammo MML-3 SRM
+IS Ammo MG - Full
+</Body Equipment>
+
+<Front Equipment>
+ISMML3
+ISMML3
+ISMML3
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISMML3
+ISMML3
+Machine Gun
+Machine Gun
+</Turret Equipment>
+
+<source>
+humansphere custom
+</source>
+

@@ -1,0 +1,134 @@
+Version:1.1
+Hatchetman
+HCT-8S
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3085
+Rules Level:3
+
+Mass:45
+Engine:180 Light Fusion Engine
+Structure:Standard
+Myomer:Triple Strength Myomer
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Light Ferro-Fibrous
+LA Armor:14
+RA Armor:14
+LT Armor:16
+RT Armor:16
+CT Armor:21
+HD Armor:9
+LL Armor:22
+RL Armor:22
+RTL Armor:6
+RTR Armor:6
+RTC Armor:6
+
+Weapons:8
+1 ISPlasmaRifle, Right Torso, Ammo:30
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser, Right Torso
+1 ISMediumPulseLaser, Left Arm
+1 ISSmallPulseLaser, Left Arm
+1 ISFlamer, Left Torso
+1 Hatchet, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMediumPulseLaser
+ISSmallPulseLaser
+Triple Strength Myomer
+Triple Strength Myomer
+Light Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Hatchet
+Hatchet
+Hatchet
+Triple Strength Myomer
+Triple Strength Myomer
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISERMediumLaser
+ISERMediumLaser
+ISFlamer
+-Empty-
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISPlasmaRifle
+ISPlasmaRifle
+ISERMediumLaser
+ISPlasmaRifle Ammo
+ISPlasmaRifle Ammo
+ISPlasmaRifle Ammo
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Triple Strength Myomer
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Triple Strength Myomer

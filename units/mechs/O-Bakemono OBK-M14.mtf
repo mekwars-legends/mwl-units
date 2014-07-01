@@ -1,0 +1,132 @@
+Version:1.1
+O-Bakemono
+OBK-M14
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:80
+Engine:240 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:26
+RA Armor:26
+LT Armor:25
+RT Armor:25
+CT Armor:37
+HD Armor:9
+LL Armor:24
+RL Armor:24
+RTL Armor:9
+RTR Armor:9
+RTC Armor:10
+
+Weapons:6
+1 ISThunderbolt15, Left Arm, Ammo:32
+1 ISThunderbolt15, Right Arm
+1 ISMediumLaser, Center Torso
+1 ISMediumLaser, Center Torso
+1 ISSmallLaser, Head
+1 ISC3MasterComputer, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISThunderbolt15
+ISThunderbolt15
+ISThunderbolt15
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISThunderbolt15
+ISThunderbolt15
+ISThunderbolt15
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISThunderbolt15 Ammo
+ISThunderbolt15 Ammo
+ISThunderbolt15 Ammo
+ISThunderbolt15 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+ISCASE
+
+Right Torso:
+ISC3MasterComputer
+ISC3MasterComputer
+ISC3MasterComputer
+ISC3MasterComputer
+ISC3MasterComputer
+ISThunderbolt15 Ammo
+ISThunderbolt15 Ammo
+ISThunderbolt15 Ammo
+ISThunderbolt15 Ammo
+-Empty-
+-Empty-
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumLaser
+ISMediumLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISSmallLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

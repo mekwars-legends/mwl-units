@@ -1,0 +1,135 @@
+Version:1.1
+Hatchetman
+HCT-7A
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3083
+Rules Level:4
+
+Mass:45
+Engine:270 XL Fusion Engine
+Structure:Standard
+Myomer:Triple Strength Myomer
+
+Heat Sinks:10 Double
+Walk MP:6
+Jump MP:6
+
+Armor:Reactive
+LA Armor:12
+RA Armor:12
+LT Armor:15
+RT Armor:15
+CT Armor:20
+HD Armor:9
+LL Armor:15
+RL Armor:15
+RTL Armor:5
+RTR Armor:5
+RTC Armor:5
+
+Weapons:9
+1 Sword, Left Arm
+1 Sword, Right Arm
+1 ISSNPPC, Right Torso
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Center Torso
+1 ISMediumLaser, Right Torso
+1 ISSmallLaser, Left Torso
+1 ISSmallLaser, Right Torso
+1 ISC3SlaveUnit, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Sword
+Sword
+Sword
+Reactive
+Reactive
+Reactive
+Triple Strength Myomer
+Triple Strength Myomer
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Sword
+Sword
+Sword
+Reactive
+Reactive
+Reactive
+Triple Strength Myomer
+Triple Strength Myomer
+
+Left Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+Jump Jet
+ISMediumLaser
+ISSmallLaser
+Reactive
+Reactive
+Reactive
+Reactive
+
+Right Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+Jump Jet
+ISSNPPC
+ISSNPPC
+ISMediumLaser
+ISSmallLaser
+Reactive
+Reactive
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISC3SlaveUnit
+ISMediumLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Reactive
+Triple Strength Myomer
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Reactive
+Triple Strength Myomer

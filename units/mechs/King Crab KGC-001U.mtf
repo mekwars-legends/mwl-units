@@ -1,0 +1,131 @@
+Version:1.1
+King Crab
+KGC-001U
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:100
+Engine:300 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:30
+RA Armor:30
+LT Armor:31
+RT Armor:31
+CT Armor:45
+HD Armor:9
+LL Armor:39
+RL Armor:39
+RTL Armor:11
+RTR Armor:11
+RTC Armor:12
+
+Weapons:5
+1 ISUltraAC10, Right Arm, Ammo:50
+1 ISUltraAC10, Left Arm
+1 ISPlasmaRifle, Left Torso, Ammo:10
+1 ISMML7, Right Torso, Ammo:51
+1 ISMML7, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Endo-Steel
+ISUltraAC10 Ammo
+ISUltraAC10
+ISUltraAC10
+ISUltraAC10
+ISUltraAC10
+ISUltraAC10
+ISUltraAC10
+ISUltraAC10
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISUltraAC10 Ammo
+Endo-Steel
+ISUltraAC10
+ISUltraAC10
+ISUltraAC10
+ISUltraAC10
+ISUltraAC10
+ISUltraAC10
+ISUltraAC10
+
+Left Torso:
+ISMML7
+ISMML7
+ISMML7
+ISMML7
+ISPlasmaRifle
+ISPlasmaRifle
+Endo-Steel
+ISPlasmaRifle Ammo
+ISUltraAC10 Ammo
+ISUltraAC10 Ammo
+ISMML7 LRM Ammo
+ISCASE
+
+Right Torso:
+ISMML7
+ISMML7
+ISMML7
+ISMML7
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+ISUltraAC10 Ammo
+ISMML7 SRM Ammo
+ISMML7 SRM Ammo
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Endo-Steel
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

@@ -1,0 +1,130 @@
+Version:1.1
+Locust
+LCT-3G
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:20
+Engine:160 Light Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:8
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:4
+RA Armor:4
+LT Armor:6
+RT Armor:6
+CT Armor:10
+HD Armor:8
+LL Armor:6
+RL Armor:6
+RTL Armor:2
+RTR Armor:2
+RTC Armor:2
+
+Weapons:4
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser, Right Torso
+1 ISMediumPulseLaser, Head
+1 ISGuardianECM, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Steel
+Endo-Steel
+Endo-Steel
+VoidSignatureSystem
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Steel
+Endo-Steel
+Endo-Steel
+VoidSignatureSystem
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISGuardianECM
+ISGuardianECM
+ISERMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+VoidSignatureSystem
+
+Right Torso:
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISERMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+VoidSignatureSystem
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+IS Super Charger
+VoidSignatureSystem
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMediumPulseLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+VoidSignatureSystem
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+VoidSignatureSystem

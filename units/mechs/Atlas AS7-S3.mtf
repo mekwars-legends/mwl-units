@@ -1,0 +1,135 @@
+Version:1.1
+Atlas
+AS7-S3
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3062
+Rules Level:2
+
+Mass:100
+Engine:300 Light Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:14 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:41
+RL Armor:41
+RTL Armor:10
+RTR Armor:10
+RTC Armor:14
+
+Weapons:9
+1 ISSmallLaser, Head
+1 ISGaussRifle, Right Torso, Ammo:16
+1 ISGuardianECM, Left Torso
+1 ISLRM15, Left Torso, Ammo:16
+1 ISPPC, Right Arm
+1 ISPPC, Left Arm
+1 ISSmallLaser, Left Arm
+1 ISSmallLaser, Right Arm
+1 ISAntiMissileSystem, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISPPC
+ISPPC
+ISPPC
+ISSmallLaser
+ISAntiMissileSystem
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISPPC
+ISPPC
+ISPPC
+ISSmallLaser
+-Empty-
+
+Left Torso:
+Engine
+Engine
+ISGuardianECM
+ISGuardianECM
+ISLRM15
+ISLRM15
+ISLRM15
+ISArtemisIV
+IS AMS Ammo
+ISLRM15 Ammo Artemis-capable
+ISLRM15 Ammo Artemis-capable
+ISCASE
+
+Right Torso:
+Engine
+Engine
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISCASE
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISGauss Ammo
+ISGauss Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISSmallLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

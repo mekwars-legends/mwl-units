@@ -1,0 +1,137 @@
+Version:1.1
+Highlander
+HGN-743A
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:90
+Engine:270 Light Fusion Engine
+Structure:Standard
+Gyro:Compact Gyro
+Cockpit:Small Cockpit
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:3
+Jump MP:3
+
+Armor:Light Ferro-Fibrous
+LA Armor:30
+RA Armor:30
+LT Armor:28
+RT Armor:28
+CT Armor:40
+HD Armor:9
+LL Armor:38
+RL Armor:38
+RTL Armor:10
+RTR Armor:10
+RTC Armor:16
+
+Weapons:9
+1 ISGaussRifle, Right Arm, Ammo:16
+1 ISERMediumLaser, Right Torso
+1 ISERMediumLaser, Right Torso
+1 ISRocketLauncher15, Left Arm
+1 ISRocketLauncher15, Left Arm
+1 ISRocketLauncher15, Left Arm
+1 ISImprovedC3CPU, Head
+1 ISMML9, Left Torso, Ammo:52
+1 ISMML9, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+ISRocketLauncher15
+ISRocketLauncher15
+ISRocketLauncher15
+ISRocketLauncher15
+ISRocketLauncher15
+ISRocketLauncher15
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISGauss Ammo
+ISGauss Ammo
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+
+Left Torso:
+Engine
+Engine
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+
+Right Torso:
+Engine
+Engine
+ISERMediumLaser
+ISERMediumLaser
+-Empty-
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+ISMML9 LRM Ammo
+ISMML9 LRM Ammo
+ISMML9 SRM Ammo
+ISMML9 SRM Ammo
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+Jump Jet
+Light Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+Light Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+Light Ferro-Fibrous

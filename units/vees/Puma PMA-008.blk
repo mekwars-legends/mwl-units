@@ -1,0 +1,103 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Puma Assault Tank
+</Name>
+
+<Model>
+PMA-008
+</Model>
+
+<year>
+3068
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+95.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+4
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+51
+35
+35
+26
+51
+</armor>
+
+<Body Equipment>
+ISGuardianECMSuite
+ISTargeting Computer
+IS Ammo MML-9 LRM Artemis-capable
+IS Ammo MML-9 SRM Artemis-capable
+IS Ammo MML-9 LRM Artemis-capable
+ISAMS Ammo
+ISAMS Ammo
+ISAMS Ammo
+IS Ammo MML-9 SRM
+ISC3iUnit
+</Body Equipment>
+
+<Front Equipment>
+ISAntiMissileSystem
+ISAntiMissileSystem
+ISMML9
+ISArtemisIV
+ISAntiMissileSystem
+</Front Equipment>
+
+<Right Equipment>
+ISAntiMissileSystem
+</Right Equipment>
+
+<Left Equipment>
+ISAntiMissileSystem
+</Left Equipment>
+
+<Rear Equipment>
+ISAntiMissileSystem
+</Rear Equipment>
+
+<Turret Equipment>
+ISMML9
+ISArtemisIV
+ISMML9
+ISArtemisIV
+ISERPPC
+</Turret Equipment>
+

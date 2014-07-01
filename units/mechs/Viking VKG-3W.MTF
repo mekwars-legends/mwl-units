@@ -1,0 +1,152 @@
+Version:1.0
+Viking
+VKG-3W
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3072
+Rules Level:2
+
+Mass:90
+Engine:270 Fusion Engine
+Structure:Endo Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:30
+RA Armor:30
+LT Armor:28
+RT Armor:28
+CT Armor:44
+HD Armor:9
+LL Armor:38
+RL Armor:38
+RTL Armor:10
+RTR Armor:10
+RTC Armor:14
+
+Weapons:7
+2 ISMML9, Right Arm, Ammo:83
+2 ISMML9, Left Arm
+1 ISLAC2, Right Torso, Ammo:45
+1 ISLAC2, Left Torso
+1 ISImprovedC3CPU, Center Torso
+1 ISStreakSRM2, Right Leg, Ammo:50
+1 ISStreakSRM2, Left Leg
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+
+Left Torso:
+ISLAC2
+ISMML9 SRM Ammo
+ISMML9 LRM Ammo
+ISMML9 SRM Ammo
+ISMML9 LRM Ammo
+ISStreakSRM2 Ammo
+ISCASE
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+ISLAC2
+ISMML9 SRM Ammo
+ISMML9 LRM Ammo
+ISMML9 SRM Ammo
+ISLAC2 Ammo
+ISCASE
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISStreakSRM2
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISStreakSRM2
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

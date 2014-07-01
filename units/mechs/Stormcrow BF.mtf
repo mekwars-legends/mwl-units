@@ -1,0 +1,133 @@
+Version:1.1
+Stormcrow
+BF
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3070
+Rules Level:4
+
+Mass:55
+Engine:330 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:16 Double
+Base Chassis Heat Sinks: 10
+Walk MP:6
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:18
+RA Armor:18
+LT Armor:17
+RT Armor:17
+CT Armor:25
+HD Armor:9
+LL Armor:25
+RL Armor:25
+RTL Armor:9
+RTR Armor:9
+RTC Armor:10
+
+Weapons:6
+1 CLStreakLRM20, Right Arm, Ammo:12
+1 CLERMediumLaser, Left Arm
+1 CLERMediumLaser, Left Arm
+1 CLERMediumLaser, Left Arm
+1 CLERMediumLaser, Left Arm
+1 CLERMediumLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERMediumLaser
+CLERMediumLaser
+CLERMediumLaser
+CLERMediumLaser
+CLERMediumLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLStreakLRM20
+CLStreakLRM20
+CLStreakLRM20
+CLStreakLRM20
+CLStreakLRM20
+CLStreakLRM20 Ammo
+CLStreakLRM20 Ammo
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Left Torso:
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+-Empty-
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+-Empty-
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Endo-Steel
+Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

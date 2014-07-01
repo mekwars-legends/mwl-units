@@ -1,0 +1,131 @@
+Version:1.1
+Catapult
+CPLT-C4C
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3055
+Rules Level:2
+
+Mass:65
+Engine:260 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:15
+RA Armor:15
+LT Armor:17
+RT Armor:17
+CT Armor:22
+HD Armor:9
+LL Armor:23
+RL Armor:23
+RTL Armor:6
+RTR Armor:6
+RTC Armor:7
+
+Weapons:5
+1 ISSmallPulseLaser, Center Torso
+1 ISLargeLaser, Right Torso
+1 ISLRM20, Right Arm, Ammo:24
+1 ISLRM20, Left Arm
+1 ISBeagleActiveProbe, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+ISBeagleActiveProbe
+ISBeagleActiveProbe
+ISLRM20 Ammo
+ISLRM20 Ammo
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+ISLargeLaser
+ISLargeLaser
+ISLRM20 Ammo
+ISLRM20 Ammo
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISSmallPulseLaser
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

@@ -1,0 +1,133 @@
+Version:1.1
+Thanatos
+THS-5D
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3061
+Rules Level:2
+
+Mass:75
+Engine:375 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:16 Double
+Walk MP:5
+Jump MP:5
+
+Armor:Standard Armor
+LA Armor:20
+RA Armor:20
+LT Armor:25
+RT Armor:25
+CT Armor:28
+HD Armor:9
+LL Armor:27
+RL Armor:27
+RTL Armor:7
+RTR Armor:7
+RTC Armor:13
+
+Weapons:7
+1 ISC3SlaveUnit, Center Torso
+1 ISERMediumLaser, Right Torso
+1 ISERMediumLaser, Left Torso
+1 ISGuardianECM, Left Torso
+1 ISMML9, Right Arm, Ammo:26
+1 ISLargePulseLaser, Left Arm
+1 ISERMediumLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLargePulseLaser
+ISLargePulseLaser
+ISERMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISERMediumLaser
+ISGuardianECM
+ISGuardianECM
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISERMediumLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMML9 LRM Ammo
+ISMML9 SRM Ammo
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISC3SlaveUnit
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

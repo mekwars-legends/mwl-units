@@ -1,0 +1,66 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+VTOL
+</UnitType>
+<Name>
+Crow Scout VTOL
+</Name>
+<Model>
+(Export)
+</Model>
+<Tonnage>
+15
+</Tonnage>
+<cruiseMP>
+13
+</cruiseMP>
+<Armor>
+14
+9
+9
+6
+2
+</Armor>
+<Front Equipment>
+ISERSmallLaser
+ISERSmallLaser
+ISMachine Gun
+ISMachine Gun
+</Front Equipment>
+<Right Equipment>
+ISRocketLauncher10
+</Right Equipment>
+<Left Equipment>
+ISRocketLauncher10
+</Left Equipment>
+<Rear Equipment>
+ISRocketLauncher10
+</Rear Equipment>
+<Body Equipment>
+ISMG Ammo (100)
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+3067
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+VTOL
+</motion_type>

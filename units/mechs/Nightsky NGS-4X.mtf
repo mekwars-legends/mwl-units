@@ -1,0 +1,131 @@
+Version:1.1
+Nightsky
+NGS-4X
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3055
+Rules Level:4
+
+Mass:50
+Engine:300 XL Fusion Engine
+Structure:Endo-Composite
+Myomer:Standard
+
+Heat Sinks:13 Double
+Walk MP:6
+Jump MP:6
+
+Armor:Ferro-Fibrous
+LA Armor:14
+RA Armor:14
+LT Armor:18
+RT Armor:18
+CT Armor:23
+HD Armor:9
+LL Armor:20
+RL Armor:20
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:5
+1 ISSNPPC, Left Arm
+1 ISMediumXPulseLaser, Right Torso
+1 ISMediumXPulseLaser, Left Torso
+1 ISSmallXPulseLaser, Head
+1 ISMediumVibroBlade, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISSNPPC
+ISSNPPC
+-Empty-
+Endo-Composite
+Endo-Composite
+Endo-Composite
+Endo-Composite
+Endo-Composite
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumVibroBlade
+ISMediumVibroBlade
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+-Empty-
+Endo-Composite
+Endo-Composite
+
+Left Torso:
+Engine
+Engine
+Engine
+ISMediumXPulseLaser
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+Engine
+ISMediumXPulseLaser
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISSmallXPulseLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

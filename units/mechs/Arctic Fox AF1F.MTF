@@ -1,0 +1,132 @@
+Version:1.1
+Arctic Fox
+AF1F
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3072
+Rules Level:2
+
+Mass:30
+Engine:180 XL Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Base Chassis Heat Sinks: 10
+Walk MP:6
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:10
+RA Armor:10
+LT Armor:11
+RT Armor:11
+CT Armor:15
+HD Armor:9
+LL Armor:10
+RL Armor:10
+RTL Armor:3
+RTR Armor:3
+RTC Armor:4
+
+Weapons:5
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser, Left Torso
+1 ISMML7, Left Arm, Ammo:34
+1 ISMML7, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISMML7
+ISMML7
+ISMML7
+ISMML7
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISMML7
+ISMML7
+ISMML7
+ISMML7
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISERMediumLaser
+ISERMediumLaser
+ISERMediumLaser
+ISMML7 LRM Ammo
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMML7 SRM Ammo
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Endo-Steel
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

@@ -1,0 +1,134 @@
+Version:1.1
+Ymir
+BWP-4WB
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3132
+Rules Level:2
+
+Mass:90
+Engine:270 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:30
+RA Armor:30
+LT Armor:28
+RT Armor:28
+CT Armor:44
+HD Armor:9
+LL Armor:38
+RL Armor:38
+RTL Armor:10
+RTR Armor:10
+RTC Armor:14
+
+Weapons:8
+1 ISRotaryAC5, Left Arm, Ammo:60
+1 ISPlasmaRifle, Right Arm, Ammo:20
+1 ISMML5, Left Torso, Ammo:96
+1 ISMML5, Left Torso
+1 ISMML5, Right Torso
+1 ISMML5, Right Torso
+1 ISImprovedC3CPU, Center Torso
+1 ISTAG, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+IS Rotary AC/5 Ammo
+IS Rotary AC/5 Ammo
+IS Rotary AC/5 Ammo
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISPlasmaRifle
+ISPlasmaRifle
+ISPlasmaRifle Ammo
+ISPlasmaRifle Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISMML5
+ISMML5
+ISMML5
+ISMML5
+ISMML5
+ISMML5
+ISMML5 LRM Ammo
+ISMML5 LRM Ammo
+ISMML5 SRM Ammo
+ISMML5 SRM Ammo
+ISCASE
+-Empty-
+
+Right Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMML5
+ISMML5
+ISMML5
+ISMML5
+ISMML5
+ISMML5
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISTAG
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

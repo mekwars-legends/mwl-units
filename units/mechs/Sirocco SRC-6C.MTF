@@ -1,0 +1,123 @@
+Version:1.1
+Sirocco
+SRC-6C
+
+Config:Quad
+TechBase:Inner Sphere
+Era:3076
+Rules Level:2
+
+Mass:95
+Engine:285 Fusion Engine
+Structure:Standard
+Cockpit:Small Cockpit
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:3
+Jump MP:5
+
+Armor:Light Ferro-Fibrous
+LA Armor:40
+RA Armor:40
+LT Armor:30
+RT Armor:30
+CT Armor:45
+HD Armor:9
+LL Armor:40
+RL Armor:40
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:8
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser, Left Torso
+1 ISERLargeLaser, Left Torso
+1 ISLightGaussRifle, Right Torso, Ammo:32
+1 ISC3SlaveUnit, Right Torso
+1 ISGuardianECM, Head
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ImprovedJump Jet
+ImprovedJump Jet
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ImprovedJump Jet
+ImprovedJump Jet
+
+Left Torso:
+ISERLargeLaser
+ISERLargeLaser
+ISERMediumLaser
+ISERMediumLaser
+ISERMediumLaser
+ISERMediumLaser
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISC3SlaveUnit
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGauss Ammo
+ISLightGauss Ammo
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ImprovedJump Jet
+ImprovedJump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+ISGuardianECM
+ISGuardianECM
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ImprovedJump Jet
+ImprovedJump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ImprovedJump Jet
+ImprovedJump Jet

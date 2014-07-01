@@ -1,0 +1,132 @@
+Version:1.1
+Fafnir
+FNR-6U
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3132
+Rules Level:2
+
+Mass:100
+Engine:300 Light Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Light Ferro-Fibrous
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:46
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:16
+
+Weapons:6
+1 ISUltraAC20, Left Arm, Ammo:30
+1 ISUltraAC20, Right Arm
+1 ISLightPPC, Left Torso
+1 ISLightPPC, Right Torso
+1 ISLightPPC, Right Torso
+1 ISLightPPC, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+ISUltraAC20
+
+Left Torso:
+Engine
+Engine
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISUltraAC20 Ammo
+ISUltraAC20 Ammo
+ISUltraAC20 Ammo
+ISCASE
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISUltraAC20 Ammo
+ISUltraAC20 Ammo
+ISUltraAC20 Ammo
+ISCASE
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+Light Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

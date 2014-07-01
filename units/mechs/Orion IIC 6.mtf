@@ -1,0 +1,133 @@
+Version:1.1
+Orion IIC
+ONI-IIC 6
+
+Config:Biped
+TechBase:Clan
+Era:3070
+Rules Level:4
+
+Mass:75
+Engine:300 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:13 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:24
+RA Armor:24
+LT Armor:22
+RT Armor:22
+CT Armor:34
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:10
+RTR Armor:10
+RTC Armor:11
+
+Weapons:7
+1 CLStreakLRM20, Right Arm, Ammo:12
+1 CLERLargePulseLaser, Left Arm
+1 CLLBXAC10, Right Torso, Ammo:20
+1 CLERMicroLaser, Left Torso
+1 CLERMicroLaser, Left Torso
+1 CLERMicroLaser, Left Torso
+1 CLERMicroLaser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLERLargePulseLaser
+CLERLargePulseLaser
+CLERLargePulseLaser
+Ferro-Fibrous
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLStreakLRM20
+CLStreakLRM20
+CLStreakLRM20
+CLStreakLRM20
+CLStreakLRM20
+CLStreakLRM20 Ammo
+CLStreakLRM20 Ammo
+Ferro-Fibrous
+Endo-Steel
+
+Left Torso:
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLERMicroLaser
+CLERMicroLaser
+CLERMicroLaser
+CLERMicroLaser
+Ferro-Fibrous
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10 CL Ammo
+CLLBXAC10 Ammo
+Ferro-Fibrous
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Ferro-Fibrous
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Endo-Steel

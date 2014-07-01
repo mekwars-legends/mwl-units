@@ -1,0 +1,136 @@
+Version:1.1
+Spartan
+SPT-3W
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3064
+Rules Level:4
+
+Mass:80
+Engine:400 XL Fusion Engine
+Structure:Standard
+Gyro:XL Gyro
+Myomer:Standard
+
+Heat Sinks:16 Double
+Walk MP:5
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:26
+RA Armor:26
+LT Armor:26
+RT Armor:26
+CT Armor:31
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:8
+RTR Armor:8
+RTC Armor:12
+
+Weapons:9
+1 ISERMediumLaser, Right Arm
+1 ISERMediumLaser, Right Arm
+1 ISERMediumLaser, Right Arm
+1 ISTAG, Left Torso
+1 ISImprovedC3CPU, Right Torso
+1 ISLargeVSPLaser, Left Torso
+1 ISBloodhoundActiveProbe, Right Torso
+1 ISAntiMissileSystem, Left Torso
+1 ISAntiMissileSystem, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERMediumLaser
+ISERMediumLaser
+ISERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISLargeVSPLaser
+ISLargeVSPLaser
+ISLargeVSPLaser
+ISLargeVSPLaser
+ISTAG
+ISAntiMissileSystem
+IS AMS Ammo
+-Empty-
+ISCASEII
+
+Right Torso:
+Engine
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+ISBloodhoundActiveProbe
+ISBloodhoundActiveProbe
+ISBloodhoundActiveProbe
+ISAntiMissileSystem
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

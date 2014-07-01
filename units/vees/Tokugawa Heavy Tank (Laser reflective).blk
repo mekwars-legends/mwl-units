@@ -1,0 +1,96 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Tokugawa Heavy Tank
+</Name>
+
+<Model>
+(Laser reflective)
+</Model>
+
+<year>
+3070
+</year>
+
+<type>
+IS Level 4
+</type>
+
+<tonnage>
+60.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<armor_type>
+3
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+40
+33
+33
+26
+36
+</armor>
+
+<Body Equipment>
+ISCASE
+IS Ammo SRM-6
+IS Ammo SRM-6
+IS Ammo AC/10
+IS Ammo AC/10
+IS Ammo AC/10
+</Body Equipment>
+
+<Front Equipment>
+Medium Laser
+Medium Laser
+Medium Laser
+RL10
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+SRM 6
+Autocannon/10
+</Turret Equipment>
+
+<source>
+humansphere custom
+</source>
+

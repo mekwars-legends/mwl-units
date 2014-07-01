@@ -1,0 +1,137 @@
+Version:1.1
+Catapult
+CPLT-8H
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3060
+Rules Level:2
+
+Mass:65
+Engine:260 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:15 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:20
+RA Armor:20
+LT Armor:20
+RT Armor:20
+CT Armor:31
+HD Armor:9
+LL Armor:21
+RL Armor:21
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:11
+1 ISMediumLaser, Center Torso
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Right Torso
+1 ISLRM5, Left Arm, Ammo:96
+1 ISLRM5, Left Arm
+1 ISLRM5, Left Arm
+1 ISLRM5, Left Arm
+1 ISLRM5, Right Arm
+1 ISLRM5, Right Arm
+1 ISLRM5, Right Arm
+1 ISLRM5, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLRM5
+ISLRM5
+ISLRM5
+ISLRM5
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISLRM5
+ISLRM5
+ISLRM5
+ISLRM5
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMediumLaser
+ISLRM5 Ammo
+ISLRM5 Ammo
+ISLRM5 Ammo
+ISLRM5 Ammo
+ISCASE
+
+Right Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMediumLaser
+Ferro-Fibrous
+Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumLaser
+Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous

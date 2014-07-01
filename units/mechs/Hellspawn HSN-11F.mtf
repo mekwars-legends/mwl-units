@@ -1,0 +1,130 @@
+Version:1.1
+Hellspawn
+HSN-11F
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3067
+Rules Level:2
+
+Mass:45
+Engine:270 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:6
+Jump MP:6
+
+Armor:Standard Armor
+LA Armor:9
+RA Armor:9
+LT Armor:10
+RT Armor:10
+CT Armor:10
+HD Armor:8
+LL Armor:14
+RL Armor:14
+RTL Armor:4
+RTR Armor:4
+RTC Armor:4
+
+Weapons:4
+1 ISMML9, Left Torso, Ammo:52
+1 ISMML9, Right Arm
+1 ISMediumPulseLaser, Left Arm
+1 ISMediumPulseLaser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISMediumPulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISMediumPulseLaser
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9 SRM Ammo
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+Jump Jet
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9 SRM Ammo
+
+Right Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+Jump Jet
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMML9 LRM Ammo
+ISMML9 LRM Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

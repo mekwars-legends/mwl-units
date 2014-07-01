@@ -1,0 +1,95 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Glory Heavy Fire Support Vehicle
+</Name>
+
+<Model>
+(Arrow IV)
+</Model>
+
+<year>
+3067
+</year>
+
+<type>
+IS Level 3
+</type>
+
+<tonnage>
+85.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+2
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+5
+</armor_tech>
+
+<armor>
+90
+50
+50
+37
+60
+</armor>
+
+<Body Equipment>
+ISCASE
+ISGuardianECMSuite
+ISPlasmaRifleAmmo
+ISPlasmaRifleAmmo
+ISArrowIVAmmo
+ISArrowIVAmmo
+</Body Equipment>
+
+<Front Equipment>
+ISERMediumLaser
+ISERMediumLaser
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISERMediumLaser
+ISPlasmaRifle
+ISArrowIV
+</Turret Equipment>
+
+<source>
+3067Uu
+</source>
+

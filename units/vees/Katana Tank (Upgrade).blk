@@ -1,0 +1,92 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Katana Tank
+</Name>
+
+<Model>
+(Upgrade)
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+IS Level 4
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+0
+</engine_type>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+45
+30
+30
+20
+36
+</armor>
+
+<Body Equipment>
+IS Ammo MML-7 SRM Artemis-capable
+IS Ammo MML-7 SRM Artemis-capable
+IS Ammo MML-7 SRM Artemis-capable
+IS Ammo MML-7 LRM Artemis-capable
+IS Ammo MML-7 LRM Artemis-capable
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISArtemisIV
+ISArtemisIV
+ISArtemisIV
+Heavy PPC
+ISMML7
+ISMML7
+ISMML7
+</Turret Equipment>
+
+<tonnage>
+75.0
+</tonnage>
+

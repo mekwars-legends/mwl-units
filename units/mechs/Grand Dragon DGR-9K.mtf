@@ -1,0 +1,132 @@
+Version:1.1
+Grand Dragon
+DGR-9K
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:60
+Engine:360 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:ISMASC
+
+Heat Sinks:12 Double
+Walk MP:6
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:16
+RA Armor:16
+LT Armor:21
+RT Armor:21
+CT Armor:24
+HD Armor:9
+LL Armor:21
+RL Armor:21
+RTL Armor:6
+RTR Armor:6
+RTC Armor:7
+
+Weapons:6
+1 ISERPPC, Right Arm
+1 ISERMediumLaser, Left Arm
+1 ISERMediumLaser, Left Arm
+1 ISERMediumLaser, Left Arm
+1 ISLRM10, Center Torso, Ammo:24
+1 ISC3SlaveUnit, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERMediumLaser
+ISERMediumLaser
+ISERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISERPPC
+ISERPPC
+ISERPPC
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISC3SlaveUnit
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+ISLRM10 Ammo
+ISLRM10 Ammo
+ISMASC
+ISMASC
+ISMASC
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISLRM10
+ISLRM10
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

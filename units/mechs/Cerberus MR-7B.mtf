@@ -1,0 +1,135 @@
+Version:1.1
+Cerberus
+MR-7B
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:95
+Engine:380 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:15 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:30
+RA Armor:30
+LT Armor:28
+RT Armor:28
+CT Armor:41
+HD Armor:9
+LL Armor:31
+RL Armor:31
+RTL Armor:12
+RTR Armor:12
+RTC Armor:16
+
+Weapons:9
+1 ISGaussRifle, Left Arm, Ammo:16
+1 ISERPPC, Right Arm
+1 ISMediumPulseLaser, Right Arm
+1 ISMediumPulseLaser, Right Arm
+1 ISERMediumLaser, Right Torso
+1 ISERMediumLaser, Right Torso
+1 ISERMediumLaser, Left Torso
+1 ISAntiMissileSystem, Head
+1 ISImprovedC3CPU, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISGauss Ammo
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+Blue Shield Particle Field Damper
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISMediumPulseLaser
+ISMediumPulseLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+ISERPPC
+ISERPPC
+ISERPPC
+Blue Shield Particle Field Damper
+
+Left Torso:
+Engine
+Engine
+Engine
+ISERMediumLaser
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+IS AMS Ammo
+Blue Shield Particle Field Damper
+
+Right Torso:
+Engine
+Engine
+Engine
+ISERMediumLaser
+ISERMediumLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+ISImprovedC3CPU
+ISImprovedC3CPU
+Blue Shield Particle Field Damper
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISGauss Ammo
+Blue Shield Particle Field Damper
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISAntiMissileSystem
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Blue Shield Particle Field Damper
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Blue Shield Particle Field Damper

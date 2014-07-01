@@ -1,0 +1,91 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+VTOL
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Heirax XTR
+</Name>
+
+<Model>
+
+</Model>
+
+<year>
+3060
+</year>
+
+<type>
+IS Level 4
+</type>
+
+<tonnage>
+30.0
+</tonnage>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<transporters>
+TroopSpace: 12.0
+</transporters>
+
+<engine_type>
+2
+</engine_type>
+
+<cruiseMP>
+8
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+30
+22
+22
+20
+2
+</armor>
+
+<Body Equipment>
+ISGuardianECMSuite
+</Body Equipment>
+
+<Front Equipment>
+RL10
+RL10
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+</Rotor Equipment>
+
+<imagepath>
+.\data\images\fluff\vehicle\Heirax Transport.png
+</imagepath>
+

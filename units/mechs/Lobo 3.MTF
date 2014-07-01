@@ -1,0 +1,133 @@
+Version:1.1
+Lobo
+LOB 3
+
+Config:Biped
+TechBase:Clan
+Era:3055
+Rules Level:4
+
+Mass:40
+Engine:240 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:6
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:12
+RA Armor:12
+LT Armor:15
+RT Armor:15
+CT Armor:18
+HD Armor:9
+LL Armor:19
+RL Armor:19
+RTL Armor:5
+RTR Armor:5
+RTC Armor:5
+
+Weapons:7
+1 CLATM6, Left Torso, Ammo:30
+1 CLATM6, Right Torso
+1 CLLaserAntiMissileSystem, Head
+1 CLImprovedHeavyMediumLaser, Left Arm
+1 CLImprovedHeavyMediumLaser, Right Arm
+1 CLImprovedHeavySmallLaser, Left Torso
+1 CLERLargeLaser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLImprovedHeavyMediumLaser
+CLImprovedHeavyMediumLaser
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLImprovedHeavyMediumLaser
+CLImprovedHeavyMediumLaser
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+CLATM6
+CLATM6
+CLATM6
+CLImprovedHeavySmallLaser
+CLATM6 ER Ammo
+CLATM6 HE Ammo
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+CLATM6
+CLATM6
+CLATM6
+CLERLargeLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLATM6 HE Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLLaserAntiMissileSystem
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous

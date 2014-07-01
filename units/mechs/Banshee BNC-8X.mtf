@@ -1,0 +1,131 @@
+Version:1.1
+Banshee
+BNC-8X
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3075
+Rules Level:4
+
+Mass:95
+Engine:380 Light Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:21
+RA Armor:21
+LT Armor:30
+RT Armor:30
+CT Armor:40
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:10
+RTR Armor:10
+RTC Armor:17
+
+Weapons:5
+1 ISSmallPulseLaser, Head
+1 ISLBXAC20, Center Torso, Ammo:15
+1 ISSNPPC, Right Torso
+1 ISAntiMissileSystem, Right Torso
+1 Hatchet, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+
+Right Torso:
+Engine
+Engine
+ISAntiMissileSystem
+ISSNPPC
+ISSNPPC
+IS AMS Ammo
+ISLBXAC20 CL Ammo
+ISLBXAC20 CL Ammo
+ISLBXAC20 Ammo
+Endo-Steel
+Endo-Steel
+ISCASEII
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+IS Super Charger
+ISLBXAC20
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISSmallPulseLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

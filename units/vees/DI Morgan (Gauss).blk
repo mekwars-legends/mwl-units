@@ -1,0 +1,68 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+DI Morgan
+</Name>
+<Model>
+(Gauss)
+</Model>
+<Tonnage>
+100
+</Tonnage>
+<cruiseMP>
+2
+</cruiseMP>
+<Armor>
+48
+30
+30
+21
+30
+</Armor>
+<Turret Equipment>
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+</Turret Equipment>
+<Front Equipment>
+ISMachine Gun
+ISMachine Gun
+</Front Equipment>
+<Body Equipment>
+ISMG Ammo (100)
+ISC3SlaveUnit
+ISGauss Ammo
+ISGauss Ammo
+ISGauss Ammo
+ISGauss Ammo
+ISGauss Ammo
+ISGauss Ammo
+ISTargeting Computer
+</Body Equipment>
+<type>
+IS Level 2
+</type>
+<year>
+3075
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+6
+</armor_type>
+<engine_type>
+2
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>

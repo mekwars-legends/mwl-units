@@ -1,0 +1,95 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Stingray Tank
+</Name>
+
+<Model>
+
+</Model>
+
+<year>
+3063
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+75.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+50
+42
+42
+27
+</armor>
+
+<Body Equipment>
+ISCASE
+IS Ammo LRM-10 Artemis-capable
+IS Ammo LRM-10 Artemis-capable
+IS Ammo LRM-10 Artemis-capable
+IS Ammo LRM-10 Artemis-capable
+</Body Equipment>
+
+<Front Equipment>
+ISERMediumLaser
+ISERMediumLaser
+ISArtemisIV
+ISArtemisIV
+ISArtemisIV
+ISArtemisIV
+LRM 10
+LRM 10
+LRM 10
+LRM 10
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<source>
+TRO 3063
+</source>
+

@@ -1,0 +1,129 @@
+Version:1.1
+Griffin
+GRF-3L
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3060
+Rules Level:2
+
+Mass:55
+Engine:275 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:13 Double
+Walk MP:5
+Jump MP:5
+
+Armor:Stealth Armor
+LA Armor:17
+RA Armor:17
+LT Armor:18
+RT Armor:18
+CT Armor:26
+HD Armor:9
+LL Armor:24
+RL Armor:24
+RTL Armor:7
+RTR Armor:7
+RTC Armor:9
+
+Weapons:3
+1 ISLRM15, Left Torso, Ammo:16
+1 ISGuardianECM, Left Arm
+1 ISERPPC, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISGuardianECM
+ISGuardianECM
+ISERPPC
+ISERPPC
+ISERPPC
+Stealth Armor
+Stealth Armor
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Stealth Armor
+Stealth Armor
+
+Left Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+ISLRM15
+ISLRM15
+ISLRM15
+ISArtemisIV
+-Empty-
+Stealth Armor
+Stealth Armor
+
+Right Torso:
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+ISLRM15 Ammo Artemis-capable
+ISLRM15 Ammo Artemis-capable
+ISCASE
+-Empty-
+-Empty-
+Stealth Armor
+Stealth Armor
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Stealth Armor
+Stealth Armor
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Stealth Armor
+Stealth Armor

@@ -1,0 +1,59 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Heavy Tracked APC
+</Name>
+<Model>
+(Comstar) MWL
+</Model>
+<Tonnage>
+25
+</Tonnage>
+<cruiseMP>
+6
+</cruiseMP>
+<Armor>
+15
+14
+14
+14
+15
+</Armor>
+<Turret Equipment>
+ISERMediumLaser
+ISERMediumLaser
+</Turret Equipment>
+<Front Equipment>
+</Front Equipment>
+<transporters>
+TroopSpace:6
+</transporters>
+<Body Equipment>
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+3070
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+1
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>

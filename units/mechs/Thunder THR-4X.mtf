@@ -1,0 +1,131 @@
+Version:1.1
+Thunder
+THR-4X
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3055
+Rules Level:4
+
+Mass:70
+Engine:350 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:14 Double
+Walk MP:5
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:22
+RA Armor:22
+LT Armor:22
+RT Armor:22
+CT Armor:32
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:8
+RTR Armor:8
+RTC Armor:11
+
+Weapons:5
+1 ISMediumXPulseLaser, Right Torso
+1 ISMediumXPulseLaser, Center Torso
+1 ISMediumXPulseLaser, Left Torso
+1 ISSRM6, Left Torso, Ammo:15
+1 ISHVAC10, Right Arm, Ammo:24
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISHVAC10
+ISHVAC10
+ISHVAC10
+ISHVAC10
+ISHVAC10
+ISHVAC10
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+ISMediumXPulseLaser
+ISSRM6
+ISSRM6
+ISSRM6 Ammo
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+ISMediumXPulseLaser
+ISHVAC10 Ammo
+ISHVAC10 Ammo
+ISHVAC10 Ammo
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumXPulseLaser
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

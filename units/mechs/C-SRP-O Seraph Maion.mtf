@@ -1,0 +1,137 @@
+Version:1.1
+C-SRP-O Seraph
+Maion
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3069
+Rules Level:4
+
+Mass:85
+Engine:255 Light Fusion Engine
+Structure:Standard
+Cockpit:Small Cockpit
+Myomer:Triple Strength Myomer
+
+Heat Sinks:10 Double
+Base Chassis Heat Sinks: 10
+Walk MP:3
+Jump MP:5
+
+Armor:Standard Armor
+LA Armor:27
+RA Armor:27
+LT Armor:26
+RT Armor:26
+CT Armor:40
+HD Armor:9
+LL Armor:35
+RL Armor:35
+RTL Armor:9
+RTR Armor:9
+RTC Armor:13
+
+Weapons:9
+1 ISImprovedC3CPU, Left Torso
+1 Retractable Blade, Left Arm
+1 ISLBXAC10, Right Arm, Ammo:20
+1 ISSNPPC, Head
+1 ISERMediumLaser, Right Torso
+1 ISERMediumLaser, Left Torso
+1 ISERSmallLaser, Right Torso
+1 ISERSmallLaser, Left Torso
+1 ISStreakSRM6, Left Torso, Ammo:15
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Retractable Blade
+Retractable Blade
+Retractable Blade
+Retractable Blade
+Retractable Blade
+Retractable Blade
+Triple Strength Myomer
+Triple Strength Myomer
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+
+Left Torso:
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+ISStreakSRM6
+ISStreakSRM6
+ISERMediumLaser
+ISERSmallLaser
+ISImprovedJump Jet
+ISImprovedJump Jet
+ISImprovedJump Jet
+ISImprovedJump Jet
+
+Right Torso:
+Engine
+Engine
+ISImprovedJump Jet
+ISImprovedJump Jet
+ISERMediumLaser
+ISERSmallLaser
+ISImprovedJump Jet
+ISImprovedJump Jet
+ISLBXAC10 Ammo
+ISStreakSRM6 Ammo
+ISLBXAC10 CL Ammo
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedJump Jet
+ISImprovedJump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+ISSNPPC
+ISSNPPC
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Triple Strength Myomer
+Triple Strength Myomer
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Triple Strength Myomer
+Triple Strength Myomer

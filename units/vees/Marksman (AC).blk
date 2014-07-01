@@ -1,0 +1,86 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Marksman
+</Name>
+
+<Model>
+(AC)
+</Model>
+
+<year>
+2818
+</year>
+
+<type>
+IS
+</type>
+
+<tonnage>
+65.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<armor_type>
+0
+</armor_type>
+
+<armor>
+54
+20
+20
+20
+22
+</armor>
+
+<Body Equipment>
+ISAC20 Ammo
+ISAC20 Ammo
+ISAC20 Ammo
+</Body Equipment>
+
+<Front Equipment>
+ISAC20
+RL10
+RL10
+RL10
+RL15
+RL15
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Large Laser
+</Turret Equipment>
+

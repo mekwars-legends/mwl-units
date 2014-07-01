@@ -1,0 +1,93 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+VTOL
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Harbinger (NOTAR)
+</Name>
+
+<Model>
+
+</Model>
+
+<year>
+3060
+</year>
+
+<type>
+IS Level 4
+</type>
+
+<tonnage>
+30.0
+</tonnage>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+8
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+15
+10
+10
+7
+2
+</armor>
+
+<Body Equipment>
+IS Ammo SRM-6
+IS Machine Gun Ammo - Half
+</Body Equipment>
+
+<Front Equipment>
+SRM 6
+SRM 6
+SRM 6
+Machine Gun
+Machine Gun
+Machine Gun
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+BeagleActiveProbe
+</Rotor Equipment>
+
+<imagepath>
+.\data\images\fluff\vehicle\Harbinger.png
+</imagepath>
+

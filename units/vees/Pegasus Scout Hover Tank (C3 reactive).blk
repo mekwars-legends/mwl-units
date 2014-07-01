@@ -1,0 +1,93 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Pegasus Scout Hover Tank
+</Name>
+
+<Model>
+(C3 reactive)
+</Model>
+
+<year>
+3065
+</year>
+
+<type>
+IS Level 4
+</type>
+
+<tonnage>
+35.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+9
+</cruiseMP>
+
+<armor_type>
+2
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+18
+14
+14
+10
+16
+</armor>
+
+<Body Equipment>
+ISC3SlaveUnit
+ISGuardianECMSuite
+IS Streak SRM 2 Ammo
+</Body Equipment>
+
+<Front Equipment>
+BeagleActiveProbe
+ISMediumPulseLaser
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISStreakSRM2
+ISStreakSRM2
+ISStreakSRM2
+ISStreakSRM2
+</Turret Equipment>
+
+<source>
+human sphere custom
+</source>
+

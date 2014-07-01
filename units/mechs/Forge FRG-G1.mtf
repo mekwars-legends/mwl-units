@@ -1,0 +1,136 @@
+Version:1.1
+Forge
+FRG-G1
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3132
+Rules Level:4
+
+Mass:85
+Engine:255 Fusion Engine
+Structure:Standard
+Gyro:Heavy Duty Gyro
+Myomer:Standard
+
+Heat Sinks:13 Double
+Walk MP:3
+Jump MP:5
+
+Armor:Light Ferro-Fibrous
+LA Armor:28
+RA Armor:28
+LT Armor:28
+RT Armor:28
+CT Armor:42
+HD Armor:9
+LL Armor:36
+RL Armor:36
+RTL Armor:8
+RTR Armor:8
+RTC Armor:11
+
+Weapons:9
+1 ISMediumXPulseLaser, Right Torso
+1 ISSRM6, Left Torso, Ammo:30
+1 ISSRM6, Left Torso
+1 ISLightPPC, Left Arm
+1 ISLightPPC, Left Arm
+1 ISLightPPC, Right Arm
+1 ISLightPPC, Right Arm
+1 ISMediumXPulseLaser, Right Torso
+1 ISERMediumLaser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISLightPPC
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISLightPPC
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+-Empty-
+-Empty-
+
+Left Torso:
+ISImprovedJump Jet
+ISImprovedJump Jet
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISSRM6
+ISSRM6
+ISSRM6
+ISSRM6
+ISSRM6 Ammo
+ISSRM6 Ammo
+ISCASEII
+
+Right Torso:
+ISImprovedJump Jet
+ISImprovedJump Jet
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMediumXPulseLaser
+ISMediumXPulseLaser
+Light Ferro-Fibrous
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedJump Jet
+ISImprovedJump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISERMediumLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISImprovedJump Jet
+ISImprovedJump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISImprovedJump Jet
+ISImprovedJump Jet

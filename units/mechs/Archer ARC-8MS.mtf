@@ -1,0 +1,135 @@
+Version:1.1
+Archer
+ARC-8MS
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:70
+Engine:350 XL Fusion Engine
+Structure:Endo-Steel
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:14 Double
+Walk MP:5
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:22
+RA Armor:22
+LT Armor:24
+RT Armor:24
+CT Armor:33
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:6
+RTR Armor:6
+RTC Armor:10
+
+Weapons:8
+1 ISERMediumLaser, Right Arm
+1 ISMML5, Left Torso, Ammo:120
+1 ISMML5, Center Torso
+1 ISMML5, Left Torso
+1 ISMML5, Right Torso
+1 ISMML5, Right Torso
+1 ISERMediumLaser, Head
+1 ISERMediumLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISMML5
+ISMML5
+ISMML5
+ISMML5
+ISMML5
+ISMML5
+ISMML5 LRM Ammo
+ISMML5 SRM Ammo
+ISCASEII
+
+Right Torso:
+Engine
+Engine
+Engine
+ISMML5
+ISMML5
+ISMML5
+ISMML5
+ISMML5
+ISMML5
+ISMML5 LRM Ammo
+ISMML5 SRM Ammo
+ISCASEII
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMML5
+ISMML5
+ISMML5
+ISMML5 LRM Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISERMediumLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

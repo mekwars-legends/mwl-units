@@ -1,0 +1,133 @@
+Version:1.1
+Flea
+FLE-22
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:20
+Engine:120 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:6
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:4
+RA Armor:4
+LT Armor:5
+RT Armor:5
+CT Armor:8
+HD Armor:5
+LL Armor:4
+RL Armor:4
+RTL Armor:3
+RTR Armor:3
+RTC Armor:3
+
+Weapons:7
+1 ISERMediumLaser, Right Arm
+1 ISERMediumLaser, Left Arm
+1 ISERFlamer, Center Torso
+1 ISERFlamer, Center Torso
+1 ISSmallPulseLaser, Left Arm
+1 ISSmallPulseLaser, Right Arm
+1 ISSmallPulseLaser (R), Head (R)
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISSmallPulseLaser
+ISERMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISSmallPulseLaser
+ISERMediumLaser
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISERFlamer
+ISERFlamer
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISSmallPulseLaser (R)
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

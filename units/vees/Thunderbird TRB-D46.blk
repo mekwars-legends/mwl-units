@@ -1,0 +1,79 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Aero
+</UnitType>
+<Name>
+Thunderbird
+</Name>
+<Model>
+TRB-D46
+</Model>
+<Tonnage>
+100
+</Tonnage>
+<SafeThrust>
+5
+</SafeThrust>
+<Armor>
+110
+72
+72
+60
+</Armor>
+<Nose Equipment>
+ISERLargeLaser
+</Nose Equipment>
+<Right Wing Equipment>
+ISERLargeLaser
+ISMediumLaser
+ISLRM15
+IS Artemis IV FCS
+ISLRM15 Ammo Artemis-capable
+ISLRM15 Ammo Artemis-capable
+</Right Wing Equipment>
+<Left Wing Equipment>
+ISERLargeLaser
+ISMediumLaser
+ISLRM15
+IS Artemis IV FCS
+ISLRM15 Ammo Artemis-capable
+ISLRM15 Ammo Artemis-capable
+</Left Wing Equipment>
+<Aft>
+ISMediumLaser
+ISMediumLaser
+</Aft>
+<heatsinks>
+24
+</heatsinks>
+<sink_type>
+1
+</sink_type>
+<fuel>
+480
+</fuel>
+<type>
+IS Level 1
+</type>
+<year>
+2487
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+aerodyne
+</motion_type>

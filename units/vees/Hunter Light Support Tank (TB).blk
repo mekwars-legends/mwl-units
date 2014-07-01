@@ -1,0 +1,73 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Hunter Light Support Tank
+</Name>
+
+<Model>
+(TB)
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+IS Level 4
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<engine_type>
+6
+</engine_type>
+
+<armor>
+32
+24
+24
+16
+</armor>
+
+<Body Equipment>
+IS Ammo Thunderbolt-15
+IS Ammo Thunderbolt-15
+IS Ammo Thunderbolt-15
+IS Ammo Thunderbolt-15
+</Body Equipment>
+
+<Front Equipment>
+Thunderbolt 15
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<tonnage>
+35.0
+</tonnage>
+

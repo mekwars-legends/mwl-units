@@ -1,0 +1,118 @@
+Version:1.1
+Stalking Spider
+3P
+
+Config:Quad
+TechBase:Clan
+Era:3060
+Rules Level:2
+
+Mass:50
+Engine:250 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:5
+Jump MP:5
+
+Armor:Ferro-Fibrous
+LA Armor:20
+RA Armor:20
+LT Armor:15
+RT Armor:15
+CT Armor:21
+HD Armor:9
+LL Armor:20
+RL Armor:20
+RTL Armor:4
+RTR Armor:4
+RTC Armor:5
+
+Weapons:4
+1 CLPlasmaCannon, Right Torso, Ammo:40
+1 CLPlasmaCannon, Left Torso
+1 CLMediumPulseLaser, Right Torso
+1 CLMediumPulseLaser, Left Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Ferro-Fibrous
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Ferro-Fibrous
+
+Left Torso:
+CLPlasmaCannon
+CLMediumPulseLaser
+CLPlasmaCannon Ammo
+CLPlasmaCannon Ammo
+CLPlasmaCannon Ammo
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+CLPlasmaCannon
+CLMediumPulseLaser
+CLTargeting Computer
+CLTargeting Computer
+CLPlasmaCannon Ammo
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Ferro-Fibrous

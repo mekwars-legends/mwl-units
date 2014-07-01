@@ -1,0 +1,133 @@
+Version:1.1
+Tundra Wolf
+TDW-4P
+
+Config:Biped
+TechBase:Clan
+Era:3132
+Rules Level:4
+
+Mass:75
+Engine:300 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:CLMASC
+
+Heat Sinks:17 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:24
+RA Armor:24
+LT Armor:24
+RT Armor:24
+CT Armor:34
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:8
+RTR Armor:8
+RTC Armor:12
+
+Weapons:7
+1 CLECMSuite, Center Torso
+1 CLERLargePulseLaser, Left Torso
+1 CLERLargePulseLaser, Right Torso
+1 CLERMediumLaser, Left Arm
+1 CLLBXAC5, Right Arm, Ammo:20
+1 CLStreakSRM4, Left Arm, Ammo:25
+1 CLStreakSRM4, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLERMediumLaser
+CLStreakSRM4
+CLStreakSRM4
+CLStreakSRM4 Ammo
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLLBXAC5
+CLLBXAC5
+CLLBXAC5
+CLLBXAC5
+CLLBXAC5 CL Ammo
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+CLERLargePulseLaser
+CLERLargePulseLaser
+CLERLargePulseLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLMASC
+CLMASC
+CLMASC
+
+Right Torso:
+Engine
+Engine
+CLERLargePulseLaser
+CLERLargePulseLaser
+CLERLargePulseLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLECMSuite
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

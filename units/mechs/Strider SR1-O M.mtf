@@ -1,0 +1,131 @@
+Version:1.1
+Strider
+SR1-O M
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3057
+Rules Level:4
+
+Mass:40
+Engine:240 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Single
+Base Chassis Heat Sinks: 10
+Walk MP:6
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:12
+RA Armor:12
+LT Armor:14
+RT Armor:14
+CT Armor:15
+HD Armor:9
+LL Armor:14
+RL Armor:14
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:4
+1 ISMRM10, Left Arm, Ammo:48
+1 ISMRM10, Right Arm
+1 ISSmallXPulseLaser, Head
+1 ISC3SlaveUnit, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISMRM10
+ISMRM10
+ISApollo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISMRM10
+ISMRM10
+ISApollo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISMRM10 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+ISCASE
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+ISMRM10 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+ISCASE
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISC3SlaveUnit
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISSmallXPulseLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+Endo-Steel

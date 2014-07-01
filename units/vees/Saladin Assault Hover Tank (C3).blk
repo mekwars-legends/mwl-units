@@ -1,0 +1,82 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Saladin Assault Hover Tank
+</Name>
+
+<Model>
+(C3)
+</Model>
+
+<year>
+3067
+</year>
+
+<type>
+IS Level 4
+</type>
+
+<tonnage>
+35.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+8
+</cruiseMP>
+
+<armor_type>
+2
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+20
+10
+10
+8
+</armor>
+
+<Body Equipment>
+ISC3SlaveUnit
+</Body Equipment>
+
+<Front Equipment>
+Heavy PPC
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<source>
+human sphere
+</source>
+

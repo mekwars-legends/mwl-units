@@ -1,0 +1,131 @@
+Version:1.1
+Atlas
+AS9-KX
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:100
+Engine:300 Light Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:13 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:31
+RA Armor:31
+LT Armor:31
+RT Armor:31
+CT Armor:49
+HD Armor:9
+LL Armor:40
+RL Armor:40
+RTL Armor:11
+RTR Armor:11
+RTC Armor:12
+
+Weapons:5
+1 ISMediumVSPLaser (R), Right Torso (R)
+1 ISMediumVSPLaser, Center Torso
+1 ISLargeVSPLaser, Left Arm
+1 ISMRM30, Left Torso, Ammo:16
+1 ISSBGR, Right Arm, Ammo:16
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLargeVSPLaser
+ISLargeVSPLaser
+ISLargeVSPLaser
+ISLargeVSPLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISSBGR
+ISSBGR
+ISSBGR
+ISSBGR
+ISSBGR
+ISSBGR
+ISSBGR
+-Empty-
+
+Left Torso:
+Engine
+Engine
+ISMRM30
+ISMRM30
+ISMRM30
+ISMRM30
+ISMRM30
+ISApollo
+ISMRM30 Ammo
+ISMRM30 Ammo
+-Empty-
+ISCASE
+
+Right Torso:
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMediumVSPLaser (R)
+ISMediumVSPLaser (R)
+ISSBGauss Ammo
+ISSBGauss Ammo
+-Empty-
+-Empty-
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumVSPLaser
+ISMediumVSPLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

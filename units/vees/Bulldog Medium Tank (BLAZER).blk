@@ -1,0 +1,80 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Bulldog Medium Tank
+</Name>
+
+<Model>
+(BLAZER)
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+IS Level 4
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<engine_type>
+6
+</engine_type>
+
+<armor>
+24
+20
+20
+20
+20
+</armor>
+
+<Body Equipment>
+ISCASE
+IS Machine Gun Ammo - Half
+IS Ammo SRM-2
+</Body Equipment>
+
+<Front Equipment>
+Machine Gun
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Machine Gun
+SRM 2
+SRM 2
+Blazer Cannon
+</Turret Equipment>
+
+<tonnage>
+60.0
+</tonnage>
+

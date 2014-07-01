@@ -1,0 +1,127 @@
+Version:1.1
+Blitzkrieg
+BTZ-6F
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3061
+Rules Level:4
+
+Mass:50
+Engine:300 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:ISMASC
+
+Heat Sinks:10 Double
+Walk MP:6
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:10
+RA Armor:10
+LT Armor:15
+RT Armor:15
+CT Armor:18
+HD Armor:8
+LL Armor:18
+RL Armor:18
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:1
+1 ISHeavyGaussRifle, Center Torso, Ammo:12
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+
+Right Torso:
+Engine
+Engine
+Engine
+IS Heavy Gauss Rifle Ammo
+IS Heavy Gauss Rifle Ammo
+IS Heavy Gauss Rifle Ammo
+-Empty-
+-Empty-
+-Empty-
+ISMASC
+ISMASC
+ISMASC
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

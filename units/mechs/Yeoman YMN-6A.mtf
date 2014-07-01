@@ -1,0 +1,129 @@
+Version:1.1
+Yeoman
+YMN-6A
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3060
+Rules Level:4
+
+Mass:60
+Engine:240 XL Fusion Engine
+Structure:Standard
+Gyro:XL Gyro
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:15
+RA Armor:15
+LT Armor:21
+RT Armor:21
+CT Armor:23
+HD Armor:9
+LL Armor:15
+RL Armor:15
+RTL Armor:6
+RTR Armor:6
+RTC Armor:6
+
+Weapons:2
+1 ISArrowIV, Left Torso, Ammo:20
+1 ISArrowIV, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+
+Left Torso:
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISArrowIVAmmo
+ISArrowIVAmmo
+ISArrowIVAmmo
+ISArrowIVAmmo
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

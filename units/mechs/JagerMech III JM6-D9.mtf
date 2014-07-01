@@ -1,0 +1,131 @@
+Version:1.1
+JagerMech III
+JM6-D9
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3056
+Rules Level:4
+
+Mass:65
+Engine:325 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:5
+Jump MP:0
+
+Armor:Light Ferro-Fibrous
+LA Armor:16
+RA Armor:16
+LT Armor:22
+RT Armor:22
+CT Armor:26
+HD Armor:9
+LL Armor:20
+RL Armor:20
+RTL Armor:6
+RTR Armor:6
+RTC Armor:6
+
+Weapons:5
+1 ISLAC5, Left Arm, Ammo:60
+1 ISLAC5, Right Arm
+1 ISLargeLaser, Left Arm
+1 ISLargeLaser, Right Arm
+1 ISLaserAntiMissileSystem, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLAC5
+ISLAC5
+ISLargeLaser
+ISLargeLaser
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISLAC5
+ISLAC5
+ISLargeLaser
+ISLargeLaser
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISLAC5 Ammo
+ISLAC5 Ammo
+ISLAC5 Ammo
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+ISCASEII
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISTargeting Computer
+ISTargeting Computer
+ISTargeting Computer
+ISTargeting Computer
+ISTargeting Computer
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISLaserAntiMissileSystem
+ISLaserAntiMissileSystem
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

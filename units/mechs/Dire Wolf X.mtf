@@ -1,0 +1,137 @@
+Version:1.1
+Dire Wolf
+X
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3054
+Rules Level:2
+
+Mass:100
+Engine:300 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:15 Double
+Base Chassis Heat Sinks: 15
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:41
+RL Armor:41
+RTL Armor:10
+RTR Armor:10
+RTC Armor:14
+
+Weapons:10
+1 CLStreakSRM2, Head, Ammo:50
+1 CLATM6, Right Torso, Ammo:30
+1 CLLRM15, Left Torso, Ammo:8
+1 CLSRM4, Left Torso, Ammo:25
+1 CLLBXAC5, Right Arm, Ammo:40
+1 CLUltraAC10, Right Arm, Ammo:20
+1 CLERMicroLaser, Center Torso
+1 CLERMicroLaser, Center Torso
+1 CLLargePulseLaser, Left Arm
+1 CLHeavyMediumLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLLargePulseLaser
+CLLargePulseLaser
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLUltraAC10
+CLUltraAC10
+CLUltraAC10
+CLUltraAC10
+CLLBXAC5
+CLLBXAC5
+CLLBXAC5
+CLLBXAC5
+CLUltraAC10 Ammo
+CLUltraAC10 Ammo
+
+Left Torso:
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLLRM15
+CLLRM15
+CLArtemisIV
+CLSRM4
+CLArtemisIV
+CLLRM15 Ammo (Clan) Artemis-capable
+CLSRM4 Ammo (Clan) Artemis-capable
+CLStreakSRM2 Ammo
+
+Right Torso:
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLATM6
+CLATM6
+CLATM6
+CLATM6 Ammo
+CLATM6 ER Ammo
+CLATM6 HE Ammo
+CLLBXAC5 Ammo
+CLLBXAC5 CL Ammo
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLERMicroLaser
+CLERMicroLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLStreakSRM2
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

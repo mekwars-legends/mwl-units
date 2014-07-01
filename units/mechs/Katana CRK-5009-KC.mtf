@@ -1,0 +1,134 @@
+Version:1.1
+Katana
+CRK-5009-KC
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3057
+Rules Level:4
+
+Mass:85
+Engine:255 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:13 Double
+Walk MP:3
+Jump MP:3
+
+Armor:Reflective
+LA Armor:25
+RA Armor:25
+LT Armor:25
+RT Armor:25
+CT Armor:37
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:10
+RTR Armor:10
+RTC Armor:10
+
+Weapons:8
+1 ISLBXAC10, Left Torso, Ammo:20
+1 ISC3SlaveUnit, Center Torso
+1 ISLightPPC, Right Arm
+1 ISLightPPC, Right Arm
+1 ISLightPPC, Left Arm
+1 ISLightPPC, Left Arm
+1 ISStreakSRM6, Left Torso, Ammo:15
+1 ISStreakSRM6, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISLightPPC
+Reflective
+Reflective
+Reflective
+Reflective
+Reflective
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISLightPPC
+Reflective
+Reflective
+Reflective
+Reflective
+Reflective
+
+Left Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISStreakSRM6
+ISStreakSRM6
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+-Empty-
+
+Right Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISStreakSRM6
+ISStreakSRM6
+ISStreakSRM6 Ammo
+ISLBXAC10 Ammo
+ISLBXAC10 CL Ammo
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+ISC3SlaveUnit
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+Jump Jet

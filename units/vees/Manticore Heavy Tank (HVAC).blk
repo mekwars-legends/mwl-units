@@ -1,0 +1,89 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Manticore Heavy Tank
+</Name>
+
+<Model>
+(HVAC)
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+IS Level 4
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<engine_type>
+6
+</engine_type>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+43
+34
+34
+26
+42
+</armor>
+
+<Body Equipment>
+ISCASE
+IS Ammo SRM-6
+IS Ammo HVAC/10
+IS Ammo HVAC/10
+IS Ammo HVAC/10
+</Body Equipment>
+
+<Front Equipment>
+Medium Laser
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+ISVehicularMineDispenser
+</Rear Equipment>
+
+<Turret Equipment>
+SRM 6
+Hyper Velocity Auto Cannon/10
+</Turret Equipment>
+
+<tonnage>
+60.0
+</tonnage>
+

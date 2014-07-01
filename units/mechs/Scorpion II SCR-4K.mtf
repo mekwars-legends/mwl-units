@@ -1,0 +1,122 @@
+Version:1.1
+Scorpion II
+SCR-4K
+
+Config:Quad
+TechBase:Inner Sphere
+Era:2750
+Rules Level:2
+
+Mass:65
+Engine:260 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:30
+RA Armor:30
+LT Armor:20
+RT Armor:20
+CT Armor:30
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:10
+RTR Armor:10
+RTC Armor:12
+
+Weapons:8
+1 ISC3SlaveUnit, Head
+1 ISERMediumLaser, Center Torso
+1 ISERMediumLaser, Center Torso
+1 ISMediumLaser, Left Torso
+1 ISAntiMissileSystem (R), Left Torso
+1 ISMediumLaser, Right Torso
+1 ISGaussRifle, Right Torso, Ammo:16
+1 ISAntiMissileSystem, Left Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+ISGauss Ammo
+
+Left Torso:
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMediumLaser
+ISAntiMissileSystem
+ISAntiMissileSystem (R)
+IS AMS Ammo
+IS AMS Ammo
+ISCASE
+
+Right Torso:
+Engine
+Engine
+Engine
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISMediumLaser
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISERMediumLaser
+ISERMediumLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISC3SlaveUnit
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+ISGauss Ammo

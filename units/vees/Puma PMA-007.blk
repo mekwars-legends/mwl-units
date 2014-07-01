@@ -1,0 +1,102 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Puma Assault Tank
+</Name>
+
+<Model>
+PMA-007
+</Model>
+
+<year>
+3066
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+95.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+4
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+49
+33
+33
+24
+49
+</armor>
+
+<Body Equipment>
+IS Vehicle Flamer Ammo
+IS Ammo MML-7 LRM
+IS Ammo MML-7 SRM
+IS Ammo MML-7 LRM
+IS Ammo MML-7 SRM
+IS Machine Gun Ammo - Half
+ISC3iUnit
+IS Ammo MML-7 SRM
+IS Ammo MML-7 LRM
+</Body Equipment>
+
+<Front Equipment>
+ISMML7
+Medium Laser
+Medium Laser
+</Front Equipment>
+
+<Right Equipment>
+Machine Gun
+Machine Gun
+ISMGA
+</Right Equipment>
+
+<Left Equipment>
+Machine Gun
+Machine Gun
+ISMGA
+</Left Equipment>
+
+<Rear Equipment>
+Vehicle Flamer
+</Rear Equipment>
+
+<Turret Equipment>
+Heavy PPC
+ISMML7
+ISMML7
+</Turret Equipment>
+

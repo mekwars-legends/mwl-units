@@ -1,0 +1,132 @@
+Version:1.1
+Dragon Fire
+DGR-3F2
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:75
+Engine:300 Light Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Light Ferro-Fibrous
+LA Armor:24
+RA Armor:24
+LT Armor:25
+RT Armor:25
+CT Armor:37
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:6
+RTR Armor:6
+RTC Armor:8
+
+Weapons:6
+1 ISERMediumLaser, Right Torso
+1 ISERMediumLaser, Head
+1 ISSNPPC, Center Torso
+1 ISLBXAC10, Right Arm, Ammo:20
+1 ISLightGaussRifle, Left Arm, Ammo:16
+1 ISGuardianECM, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Endo-Steel
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Left Torso:
+Engine
+Engine
+ISGuardianECM
+ISGuardianECM
+ISLightGauss Ammo
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+ISERMediumLaser
+ISLBXAC10 CL Ammo
+ISLBXAC10 Ammo
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISSNPPC
+ISSNPPC
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISERMediumLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Light Ferro-Fibrous
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Light Ferro-Fibrous
+Endo-Steel

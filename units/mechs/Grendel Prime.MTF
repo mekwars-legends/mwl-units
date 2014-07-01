@@ -1,0 +1,133 @@
+Version:1.1
+Grendal
+Prime
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3053
+Rules Level:2
+
+Mass:45
+Engine:315 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:12 Double
+Base Chassis Heat Sinks: 10
+Walk MP:7
+Jump MP:7
+
+Armor:Ferro-Fibrous
+LA Armor:12
+RA Armor:12
+LT Armor:16
+RT Armor:16
+CT Armor:18
+HD Armor:9
+LL Armor:20
+RL Armor:20
+RTL Armor:6
+RTR Armor:6
+RTC Armor:9
+
+Weapons:6
+1 CLERMediumLaser, Left Arm
+1 CLERMediumLaser, Left Arm
+1 CLERMediumLaser, Head
+1 CLStreakSRM6, Right Torso, Ammo:30
+1 CLStreakSRM6, Right Arm
+1 CLFlamer, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERMediumLaser
+CLERMediumLaser
+-Empty-
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLStreakSRM6
+CLStreakSRM6
+CLStreakSRM6 Ammo
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+Jump Jet
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Jump Jet
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLStreakSRM6
+CLStreakSRM6
+CLStreakSRM6 Ammo
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+CLFlamer
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLERMediumLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

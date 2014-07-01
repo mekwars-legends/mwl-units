@@ -1,0 +1,73 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Schiltron
+</Name>
+<Model>
+E
+</Model>
+<Tonnage>
+80
+</Tonnage>
+<cruiseMP>
+3
+</cruiseMP>
+<Armor>
+46
+34
+34
+25
+40
+</Armor>
+<Turret Equipment>
+ISLAC5
+ISLAC5
+ISLAC5
+</Turret Equipment>
+<Front Equipment>
+ISMML9
+ISMML9
+ISMML9
+</Front Equipment>
+<Body Equipment>
+ISLAC5 Ammo
+ISLAC5 Ammo
+ISLAC5 Ammo
+ISMML9 LRM Ammo
+ISMML9 LRM Ammo
+ISMML9 LRM Ammo
+ISMML9 SRM Ammo
+ISMML9 SRM Ammo
+ISMML9 SRM Ammo
+ISC3MasterComputer
+ISGuardianECM
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+3076
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+1
+</armor_type>
+<engine_type>
+2
+</engine_type>
+<motion_type>
+Wheeled
+</motion_type>
+<omni>
+</omni>

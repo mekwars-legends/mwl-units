@@ -1,0 +1,134 @@
+Version:1.1
+Striker
+STC-3W
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3056
+Rules Level:4
+
+Mass:80
+Engine:320 Light Fusion Engine
+Structure:Endo-Steel
+Gyro:XL Gyro
+Cockpit:Small Cockpit
+Myomer:Standard
+
+Heat Sinks:13 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:26
+RA Armor:26
+LT Armor:26
+RT Armor:26
+CT Armor:40
+HD Armor:9
+LL Armor:34
+RL Armor:34
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:6
+1 ISERPPC, Right Torso
+1 ISMediumPulseLaser, Head
+1 ISMediumPulseLaser, Head
+1 ISLargeVSPLaser, Left Torso
+1 ISRotaryAC5, Left Arm, Ammo:40
+1 ISTAG, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+ISLargeVSPLaser
+ISLargeVSPLaser
+ISLargeVSPLaser
+ISLargeVSPLaser
+Endo-Steel
+IS Rotary AC/5 Ammo
+IS Rotary AC/5 Ammo
+ISCASE
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+IS Super Charger
+ISERPPC
+ISERPPC
+ISERPPC
+ISERPPCCapacitor
+ISTAG
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+ISMediumPulseLaser
+ISMediumPulseLaser
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
