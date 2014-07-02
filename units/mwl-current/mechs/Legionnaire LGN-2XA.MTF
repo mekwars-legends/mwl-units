@@ -1,0 +1,127 @@
+Version:1.1
+Legionnaire
+LGN-2XA
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3076
+Rules Level:3
+
+Mass:50
+Engine:350 XL Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:7
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:12
+RA Armor:12
+LT Armor:15
+RT Armor:15
+CT Armor:21
+HD Armor:9
+LL Armor:19
+RL Armor:19
+RTL Armor:4
+RTR Armor:4
+RTC Armor:6
+
+Weapons:1
+1 ISArrowIV, Right Torso, Ammo:10
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+
+Left Torso:
+Engine
+Engine
+Engine
+ISArrowIVAmmo
+ISArrowIVAmmo
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Endo-Steel
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

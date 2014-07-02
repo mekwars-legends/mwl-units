@@ -1,0 +1,152 @@
+Version:1.0
+BattleMaster
+BLR-4S
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3067
+Rules Level:2
+
+Mass:85
+Engine:340 Light Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:13 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:26
+RA Armor:26
+LT Armor:28
+RT Armor:28
+CT Armor:41
+HD Armor:9
+LL Armor:28
+RL Armor:28
+RTL Armor:8
+RTR Armor:8
+RTC Armor:11
+
+Weapons:7
+1 ISGaussRifle, Right Arm, Ammo:24
+2 ISSmallPulseLaser, Left Arm
+2 ISERMediumLaser, Right Torso
+1 ISMediumLaser, Right Torso
+2 ISERMediumLaser, Left Torso
+1 ISMediumLaser, Left Torso
+1 ISSRM6, Left Torso, Ammo:30
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISSmallPulseLaser
+ISSmallPulseLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+Ferro-Fibrous
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+ISERMediumLaser
+ISERMediumLaser
+ISMediumLaser
+ISSRM6
+ISSRM6
+ISArtemisIV
+ISSRM6 Ammo Artemis-capable
+ISSRM6 Ammo Artemis-capable
+ISCASE
+Ferro-Fibrous
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+ISERMediumLaser
+ISERMediumLaser
+ISMediumLaser
+ISGauss Ammo
+ISGauss Ammo
+ISGauss Ammo
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Ferro-Fibrous
+Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

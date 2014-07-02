@@ -1,0 +1,131 @@
+Version:1.1
+Grizzly
+GZY 4
+
+Config:Biped
+TechBase:Clan
+Era:3070
+Rules Level:4
+
+Mass:70
+Engine:280 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Ferro-Lamellor
+LA Armor:17
+RA Armor:17
+LT Armor:24
+RT Armor:24
+CT Armor:28
+HD Armor:9
+LL Armor:22
+RL Armor:22
+RTL Armor:6
+RTR Armor:6
+RTC Armor:7
+
+Weapons:5
+1 CLHAG30, Right Arm, Ammo:12
+1 CLERPPC, Left Arm
+1 CLSRM6, Right Torso, Ammo:15
+1 CLERMediumLaser, Left Torso
+1 CLERMediumLaser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLERPPC
+CLERPPC
+-Empty-
+-Empty-
+-Empty-
+Ferro-Lamellor
+Ferro-Lamellor
+Ferro-Lamellor
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+Endo-Steel
+
+Left Torso:
+CLERMediumLaser
+CLERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Ferro-Lamellor
+Ferro-Lamellor
+Ferro-Lamellor
+Ferro-Lamellor
+Endo-Steel
+
+Right Torso:
+CLSRM6
+CLSRM6 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+-Empty-
+-Empty-
+Ferro-Lamellor
+Ferro-Lamellor
+Ferro-Lamellor
+Ferro-Lamellor
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Ferro-Lamellor
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

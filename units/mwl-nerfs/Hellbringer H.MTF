@@ -1,0 +1,137 @@
+Version:1.1
+Hellbringer
+H
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3070
+Rules Level:2
+
+Mass:65
+Engine:325 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:15 Double
+Base Chassis Heat Sinks: 13
+Walk MP:5
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:15
+RA Armor:15
+LT Armor:15
+RT Armor:15
+CT Armor:22
+HD Armor:9
+LL Armor:20
+RL Armor:20
+RTL Armor:7
+RTR Armor:7
+RTC Armor:7
+
+Weapons:10
+1 CLERPPC, Right Arm
+1 CLHeavyLargeLaser, Left Arm
+1 CLHeavySmallLaser, Left Torso
+1 CLHeavySmallLaser, Left Torso
+1 CLHeavySmallLaser, Left Torso
+1 CLHeavySmallLaser, Left Torso
+1 CLLRM15, Left Torso, Ammo:16
+1 CLUltraAC5, Right Torso, Ammo:40
+1 CLActiveProbe, Center Torso
+1 CLLightTAG, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLERPPC
+CLERPPC
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+CLHeavySmallLaser
+CLHeavySmallLaser
+CLHeavySmallLaser
+CLHeavySmallLaser
+CLLRM15
+CLLRM15
+CLLRM15 Ammo
+CLLRM15 Ammo
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+CLUltraAC5
+CLUltraAC5
+CLUltraAC5
+CLUltraAC5 Ammo
+CLUltraAC5 Ammo
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLActiveProbe
+CLLightTAG
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink

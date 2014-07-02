@@ -1,0 +1,132 @@
+Version:1.1
+JagerMech
+JM7-G
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:2
+
+Mass:70
+Engine:280 XL Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:22
+RA Armor:22
+LT Armor:24
+RT Armor:24
+CT Armor:34
+HD Armor:9
+LL Armor:22
+RL Armor:22
+RTL Armor:6
+RTR Armor:6
+RTC Armor:6
+
+Weapons:6
+1 ISRotaryAC2, Left Arm, Ammo:180
+1 ISRotaryAC2, Right Arm
+1 ISLBXAC2, Left Arm, Ammo:90
+1 ISLBXAC2, Right Arm
+1 ISERMediumLaser, Center Torso
+1 ISERMediumLaser, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISRotaryAC2
+ISRotaryAC2
+ISRotaryAC2
+ISLBXAC2
+ISLBXAC2
+ISLBXAC2
+ISLBXAC2
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISRotaryAC2
+ISRotaryAC2
+ISRotaryAC2
+ISLBXAC2
+ISLBXAC2
+ISLBXAC2
+ISLBXAC2
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+IS Rotary AC/2 Ammo
+IS Rotary AC/2 Ammo
+ISLBXAC2 CL Ammo
+Ferro-Fibrous
+Ferro-Fibrous
+ISCASE
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+IS Rotary AC/2 Ammo
+IS Rotary AC/2 Ammo
+ISLBXAC2 Ammo
+Ferro-Fibrous
+Ferro-Fibrous
+ISCASE
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISERMediumLaser
+ISERMediumLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous

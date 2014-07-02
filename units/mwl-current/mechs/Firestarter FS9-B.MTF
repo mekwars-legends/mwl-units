@@ -1,0 +1,131 @@
+Version:1.1
+Firestarter
+FS9-B
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:2
+
+Mass:35
+Engine:210 Light Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:6
+Jump MP:7
+
+Armor:Light Ferro-Fibrous
+LA Armor:11
+RA Armor:11
+LT Armor:11
+RT Armor:11
+CT Armor:14
+HD Armor:9
+LL Armor:15
+RL Armor:15
+RTL Armor:4
+RTR Armor:4
+RTC Armor:5
+
+Weapons:5
+1 ISFlamer, Left Arm
+1 ISFlamer, Right Arm
+1 ISFlamer, Left Torso
+1 ISERMediumLaser, Left Torso
+1 ISImprovedC3CPU, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISFlamer
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISFlamer
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+ISERMediumLaser
+ISFlamer
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+ISImprovedC3CPU
+ISImprovedC3CPU
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ImprovedJump Jet
+ImprovedJump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Endo-Steel

@@ -1,0 +1,130 @@
+Version:1.1
+Thug
+THG-IIC
+
+Config:Biped
+TechBase:Clan
+Era:3070
+Rules Level:2
+
+Mass:80
+Engine:320 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:22 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:26
+RA Armor:26
+LT Armor:26
+RT Armor:26
+CT Armor:38
+HD Armor:9
+LL Armor:34
+RL Armor:34
+RTL Armor:8
+RTR Armor:8
+RTC Armor:12
+
+Weapons:4
+1 CLHeavyLargeLaser, Left Arm
+1 CLHeavyLargeLaser, Right Arm
+1 CLATM6, Left Torso, Ammo:40
+1 CLATM6, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+Endo-Steel
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+Endo-Steel
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Left Torso:
+CLATM6
+CLATM6
+CLATM6
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLATM6 Ammo
+CLATM6 HE Ammo
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Right Torso:
+CLATM6
+CLATM6
+CLATM6
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLATM6 Ammo
+CLATM6 HE Ammo
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink

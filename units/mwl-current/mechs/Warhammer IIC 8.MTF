@@ -1,0 +1,131 @@
+Version:1.1
+Warhammer
+WHM-IIC 8
+
+Config:Biped
+TechBase:Clan
+Era:3055
+Rules Level:4
+
+Mass:80
+Engine:320 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:20 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:24
+RA Armor:24
+LT Armor:24
+RT Armor:24
+CT Armor:30
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:5
+1 CLERLargeLaser, Right Arm
+1 CLERLargeLaser, Left Arm
+1 CLMekMortar8, Right Torso, Ammo:24
+1 CLMekMortar8, Left Torso
+1 CLLightActiveProbe, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLERLargeLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLERLargeLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+-Empty-
+-Empty-
+
+Left Torso:
+CLMekMortar8
+CLMekMortar8
+CLMekMortar8
+CLAPMortarAmmo8
+CLAPMortarAmmo8
+CLAPMortarAmmo8
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+CLMekMortar8
+CLMekMortar8
+CLMekMortar8
+CLAPMortarAmmo8
+CLAPMortarAmmo8
+CLAPMortarAmmo8
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+Ferro-Fibrous
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Ferro-Fibrous
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLLightActiveProbe
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink

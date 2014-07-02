@@ -1,0 +1,134 @@
+Version:1.1
+Stooping Hawk
+F
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3076
+Rules Level:2
+
+Mass:55
+Engine:275 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:12 Double
+Base Chassis Heat Sinks: 10
+Walk MP:5
+Jump MP:8
+
+Armor:Ferro-Fibrous
+LA Armor:18
+RA Armor:18
+LT Armor:21
+RT Armor:21
+CT Armor:29
+HD Armor:9
+LL Armor:20
+RL Armor:20
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:7
+1 CLHeavySmallLaser, Head
+1 CLHeavyMediumLaser, Left Arm
+1 CLHeavyMediumLaser, Left Arm
+1 CLMediumPulseLaser, Right Arm
+1 CLMediumPulseLaser, Right Arm
+1 CLStreakSRM4, Center Torso, Ammo:25
+1 CLStreakSRM4, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLMediumPulseLaser
+CLMediumPulseLaser
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLDouble Heat Sink
+CLDouble Heat Sink
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLStreakSRM4 Ammo
+-Empty-
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLStreakSRM4
+CLStreakSRM4
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLHeavySmallLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

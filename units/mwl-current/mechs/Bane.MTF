@@ -1,0 +1,148 @@
+Version:1.0
+Bane
+BE
+
+Config:Biped
+TechBase:Clan
+Era:3055
+Rules Level:2
+
+Mass:100
+Engine:300 XL Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:46
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:13
+
+Weapons:3
+5 CLUltraAC2, Left Arm
+5 CLUltraAC2, Right Arm, Ammo:180
+4 CLMG, Right Torso, Ammo:100
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLUltraAC2 Ammo
+CLUltraAC2 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLMG
+CLMG
+CLMG
+CLMG
+CLUltraAC2 Ammo
+CLUltraAC2 Ammo
+CLMG Ammo (100)
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

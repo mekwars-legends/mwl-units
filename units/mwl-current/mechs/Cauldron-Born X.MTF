@@ -1,0 +1,152 @@
+Version:1.0
+Cauldron-Born
+X
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3075
+Rules Level:4
+
+Mass:65
+Engine:325 XL Engine
+Structure:Endo Steel
+Myomer:Standard
+
+Heat Sinks:16 Double
+Walk MP:5
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:17
+RA Armor:17
+LT Armor:22
+RT Armor:22
+CT Armor:32
+HD Armor:9
+LL Armor:19
+RL Armor:19
+RTL Armor:8
+RTR Armor:8
+RTC Armor:9
+
+Weapons:7
+1 CLAngelECM, Right Torso
+1 CLERMediumPulseLaser, Right Torso
+1 CLERMediumPulseLaser, Left Torso
+1 CLERSmallPulseLaser, Left Torso
+1 CLTargeting Computer, Left Torso
+1 CLRotaryAC5, Right Arm, Ammo:60
+1 CLERMediumPulseLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLERMediumPulseLaser
+CLERMediumPulseLaser
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+Ferro-Fibrous
+Ferro-Fibrous
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLERMediumPulseLaser
+CLERMediumPulseLaser
+CLERSmallPulseLaser
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+Endo Steel
+Ferro-Fibrous
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLERMediumPulseLaser
+CLERMediumPulseLaser
+CLRotaryAC5 Ammo
+CLRotaryAC5 Ammo
+CLRotaryAC5 Ammo
+CLAngelECM
+CLAngelECM
+CLCASEII
+Endo Steel
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Endo Steel
+Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

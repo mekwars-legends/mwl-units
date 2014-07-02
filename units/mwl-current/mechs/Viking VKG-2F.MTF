@@ -1,0 +1,153 @@
+Version:1.0
+Viking
+VKG-2F
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3060
+Rules Level:2
+
+Mass:90
+Engine:270 Fusion Engine
+Structure:Endo Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:30
+RA Armor:30
+LT Armor:31
+RT Armor:31
+CT Armor:33
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:7
+RTR Armor:7
+RTC Armor:10
+
+Weapons:8
+1 ISSmallLaser, Right Torso
+1 ISSmallLaser, Left Torso
+2 ISMachine Gun, Right Leg
+2 ISMachine Gun, Left Leg, Ammo:100
+1 ISLRM15, Right Torso, Ammo:24
+1 ISLRM15, Left Torso
+1 ISLRM20, Right Arm, Ammo:24
+1 ISLRM20, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISArtemisIV
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISArtemisIV
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+ISSmallLaser
+ISLRM15
+ISLRM15
+ISLRM15
+ISArtemisIV
+ISMG Ammo (100)
+ISLRM15 Ammo Artemis-capable
+ISLRM20 Ammo Artemis-capable
+ISLRM20 Ammo Artemis-capable
+Endo-Steel
+ISCASE
+-Empty-
+
+Right Torso:
+ISSmallLaser
+ISLRM15
+ISLRM15
+ISLRM15
+ISArtemisIV
+ISLRM20 Ammo Artemis-capable
+ISLRM20 Ammo Artemis-capable
+ISLRM15 Ammo Artemis-capable
+ISLRM15 Ammo Artemis-capable
+Endo-Steel
+Endo-Steel
+ISCASE
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Endo-Steel
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISMachine Gun
+ISMachine Gun
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISMachine Gun
+ISMachine Gun
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

@@ -1,0 +1,120 @@
+Version:1.1
+White Flame
+WHF-3B
+
+Config:Quad
+TechBase:Inner Sphere
+Era:3065
+Rules Level:2
+
+Mass:70
+Engine:350 Light Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:5
+Jump MP:5
+
+Armor:Standard Armor
+LA Armor:30
+RA Armor:30
+LT Armor:23
+RT Armor:23
+CT Armor:34
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:7
+RTR Armor:7
+RTC Armor:10
+
+Weapons:6
+1 ISLargePulseLaser, Right Torso
+1 ISMediumPulseLaser, Right Torso
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser, Left Torso
+1 ISImprovedC3CPU, Left Torso
+1 ISAntiMissileSystem, Head
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Endo-Steel
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+ISERMediumLaser
+ISERMediumLaser
+IS AMS Ammo
+ISImprovedC3CPU
+ISImprovedC3CPU
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+ISLargePulseLaser
+ISLargePulseLaser
+ISMediumPulseLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISAntiMissileSystem
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Endo-Steel

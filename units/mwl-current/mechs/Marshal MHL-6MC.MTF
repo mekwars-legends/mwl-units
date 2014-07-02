@@ -1,0 +1,131 @@
+Version:1.1
+Marshal
+MHL-6MC
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3076
+Rules Level:2
+
+Mass:55
+Engine:220 Light Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Ferro-Fibrous
+LA Armor:18
+RA Armor:18
+LT Armor:19
+RT Armor:19
+CT Armor:27
+HD Armor:9
+LL Armor:24
+RL Armor:24
+RTL Armor:7
+RTR Armor:7
+RTC Armor:7
+
+Weapons:5
+1 ISMediumPulseLaser, Right Torso
+1 ISMML9, Right Torso, Ammo:26
+1 ISPlasmaRifle, Right Arm, Ammo:30
+1 ISLightPPC, Left Arm
+1 ISMGA, Left Torso, Ammo:200
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLightPPC
+ISLightPPC
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISPlasmaRifle
+ISPlasmaRifle
+ISPlasmaRifle Ammo
+ISPlasmaRifle Ammo
+ISPlasmaRifle Ammo
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Left Torso:
+Engine
+Engine
+ISMGA
+ISLightMG
+ISLightMG
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+ISLightMG Ammo (100)
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+ISMML9 SRM Ammo
+ISMediumPulseLaser
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9 LRM Ammo
+Ferro-Fibrous
+Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Ferro-Fibrous
+Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
