@@ -14,7 +14,15 @@ module.exports = function (grunt) {
                 flatten: true,
                 expand: true,
                 filter: 'isFile'
+            },
+            mwl: {
+                src: 'units/mwl-*/**/*',
+                dest: 'build',
+                flatten: true,
+                expand: true,
+                filter: 'isFile'
             }
+
         },
 
         clean : {
@@ -23,5 +31,5 @@ module.exports = function (grunt) {
     });
 
 
-    grunt.registerTask('default', ['clean', 'copy']);
+    grunt.registerTask('default', ['clean', 'copy:mm']);
 }
