@@ -1,35 +1,12 @@
-AC-2 Carrier.blk
 AC-2 Carrier (LB-C3i).blk
-AC-2 Carrier (LB-X).blk
-Achileus (David).blk
-Achileus (Flamer).blk
-Achileus (Laser).blk
-Achileus (MG).blk
-Achileus (TAG).blk
-Achileus (WoB).BLK
-Achileus (WoB-David).blk
-Achileus (WoB-Flamer).blk
-Achileus (WoB-Laser).blk
-Achileus (WoB-MG).blk
 Achileus (WoB-Scout).blk
-Achileus (WoB-TAG).blk
-Adder A.mtf
-Adder B.mtf
-Adder C.mtf
-Adder D.mtf
-Adder E.mtf
-Adder H.mtf
-Adder J.mtf
 Adder N.mtf
 Adder Prime.mtf
 Adder R.mtf
 Afreet.blk
 Afreet Elite.blk
-Afreet (HH).blk
 Afreet (HH) Elite.blk
-Afreet (Interdictor).BLK
 Afreet (Interdictor) Elite.BLK
-Afreet (JF).blk
 Afreet (JF) Elite.blk
 Ahab AHB-443.blk
 Ahab AHB-643.blk
@@ -39,10 +16,6 @@ Akuma AKU-1C.mtf
 Akuma AKU-2F.mtf
 Akuma AKU-3XJ.mtf
 Akuma AKU-3X.mtf
-Alacorn Mk III Heavy Tank.blk
-Alacorn Mk IV Heavy Tank.blk
-Alacorn Mk VI Heavy Tank.blk
-Alacorn Mk VII Heavy Tank.blk
 Albatross ALB-3Hp.mtf
 Albatross ALB-4HG Home Guard.mtf
 Albatross ALB-4W.mtf
@@ -63,8 +36,16 @@ Anvil ANV-9M.mtf
 Apollo APL-2Me.mtf
 Apollo APL-3M.mtf
 Apollo APL-4W.mtf
-Arbalest.mtf
 Arcas 2A.mtf
+C-ANG-O Archangel Comminus.mtf
+C-ANG-O Archangel Dominus.mtf
+C-ANG-O Archangel Eminus.mtf
+C-ANG-O Archangel Infernus II.mtf
+C-ANG-O Archangel Infernus.mtf
+C-ANG-O Archangel Invictus II.mtf
+C-ANG-O Archangel Invictus.mtf
+C-ANG-O Archangel Luminos.mtf
+C-ANG-O Archangel Zuriel.mtf
 Archer ARC-2RK.mtf
 Archer ARC-2TDF.mtf
 Archer ARC-4K.mtf
@@ -81,7 +62,6 @@ Archer ARC-GBD.mtf
 Archer IIC2.mtf
 Archer IIC-S.mtf
 Arctic Fox AF1P.mtf
-Arctic Wolf.mtf
 Argus AGS-3DM.mtf
 Argus AGS-3X.mtf
 Argus AGS-4AC.mtf
@@ -122,8 +102,6 @@ Awesome AWS-15M.mtf
 Awesome AWS-9K.mtf
 Awesome AWS-9MC.mtf
 Awesome AWS-9ME.mtf
-Axel IIC.blk
-Axel IIC (XL).blk
 Axel Mk 1.blk
 Axel Mk 2.blk
 Axel Mk 3.blk
@@ -190,10 +168,8 @@ Beagle Hover Scout (Interdictor).blk
 Bear Cub 4.mtf
 Bear Cub 5.mtf
 Bear Cub 6.mtf
-Bear Cub.mtf
 Behemoth Heavy Tank (Tom-Tom).blk
 Behemoth II Tank.blk
-Bellona Hover Tank (Laser).blk
 Bengal A.blk
 Bengal B.blk
 Bengal.blk
@@ -238,7 +214,6 @@ Blood Asp I.mtf
 Blood Asp J.mtf
 Bloodhound B4-HND.mtf
 Bloodhound B5-HND.mtf
-Blood Reaper.mtf
 Blue Flame BLF-23.mtf
 Blue Flame BLF-25.mtf
 Bolla Stealth Tank Eminus.blk
@@ -247,7 +222,6 @@ Bombardier BMB-18C.mtf
 Bombardier IIC.mtf
 Bombardier IIC-R.mtf
 Brahma BRM-6A.mtf
-Bruin.mtf
 Brutus Assault Tank (MML).blk
 Buccaneer BCN-3M.mtf
 Buccaneer BCN-3X.mtf
@@ -257,23 +231,10 @@ Bulldog Medium Tank (BLAZER).blk
 Bulldog Medium Tank (HVAC).blk
 Bulldog Medium Tank (LPPC).blk
 Bulldog Medium Tank (Stealth).blk
-Burke.blk
-Burke (HPPC).blk
 Burke IIC.blk
-Burke (Royal).blk
 Bushwacker BSW-S5.mtf
 Bushwacker BSW-X3.mtf
 Bushwacker BSW-X4.mtf
-C-ANG-O Archangel Comminus.mtf
-C-ANG-O Archangel Dominus.mtf
-C-ANG-O Archangel Eminus.mtf
-C-ANG-O Archangel Infernus II.mtf
-C-ANG-O Archangel Infernus.mtf
-C-ANG-O Archangel Invictus II.mtf
-C-ANG-O Archangel Invictus.mtf
-C-ANG-O Archangel Luminos.mtf
-C-ANG-O Archangel Zuriel.mtf
-Canis.mtf
 Cataphract CTF-3LV.mtf
 Cataphract CTF-5L.mtf
 Cataphract III CTF-3X.mtf
@@ -283,19 +244,7 @@ Catapult CPLT-8H.mtf
 Catapult CPLT-C2L.mtf
 Catapult CPLT-C7A.mtf
 Catapult CPLT-C7.mtf
-Cauldron-Born A.mtf
-Cauldron-Born B.mtf
-Cauldron-Born C.mtf
-Cauldron-Born D.mtf
-Cauldron-Born E.mtf
-Cauldron-Born H.mtf
 Cauldron-Born HV.mtf
-Cauldron-Born Prime.mtf
-Cauldron-Born X.mtf
-Cavalier (Flamer).blk
-Cavalier (Laser).blk
-Cavalier (MG).blk
-Cavalier (SRM).blk
 C-DVA-O Deva Asmodaeus.mtf
 C-DVA-O Deva Comminus.mtf
 C-DVA-O Deva Dominus.mtf
@@ -385,7 +334,6 @@ Clint CLNT-2-2R.mtf
 Clint CLNT-2-V.mtf
 Clint CLNT-6SS.mtf
 Clint IIC 2R.mtf
-Clint IIC.mtf
 C-MK-O Malak Alphon.mtf
 C-MK-O Malak Comminus.mtf
 C-MK-O Malak Dominus.mtf
@@ -404,7 +352,6 @@ Commando COM-8T.mtf
 Commando COM-9DA.mtf
 Commando COM-9D.mtf
 Commando COM-9S.mtf
-Commando IIC.mtf
 Condor Heavy Hover Tank (C3i).blk
 Condor Heavy Hover Tank (FCE).blk
 Condor Heavy Hover Tank (FCE Davion).blk
@@ -430,10 +377,7 @@ Corsair CSR-V14.blk
 Corsair CSR-V18.blk
 Corsair CSR-V20.blk
 Corsair CSR-X12 Rigid Night.blk
-Corvis.mtf
 Cossack C-SK2.mtf
-Cougar X2.mtf
-Cougar X3.mtf
 Cougar Z.mtf
 C-PRT-O Preta Asmodaeus.mtf
 C-PRT-O Preta Caelestis.mtf
@@ -451,7 +395,6 @@ Crab CRB-33.mtf
 Crab CRB-65.mtf
 Crab IIC 3H.mtf
 Crab IIC.mtf
-Crimson Hawk.mtf
 Crimson Langur Prime.mtf
 Crinos Mk I.blk
 Crinos Mk II.blk
@@ -489,11 +432,6 @@ Cyclops CP-12-G.mtf
 Cyclops CP-12-L.mtf
 Cyclops CP-13-CH.mtf
 Cyclops CP-13-C.mtf
-Cygnus.mtf
-Cyrano.blk
-Cyrano (ML).blk
-Cyrano (Plasma).blk
-Cyrano (Royal).blk
 Dagger DAR4-XP.blk
 Dagger DARO-1A.blk
 Dagger DARO-1B.blk
@@ -504,7 +442,6 @@ Daimyo DMO-6K.mtf
 Daimyo DMO-7K.mtf
 Dao Mk I.blk
 Dao Mk II.blk
-Dark Crow.mtf
 Deathstalker F-77.blk
 Deathstalker F-78.blk
 Defiance DFC-OA.blk
@@ -519,11 +456,6 @@ Demolisher Heavy Tank (Ultra).blk
 Demolisher II Heavy Tank (WoB).blk
 Demolisher II Heavy Tank (X).blk
 Demona Combat Transport (Standard).blk
-Demon.blk
-Demon (HGR).blk
-Demon (Horned Demon).blk
-Demon (PPC).blk
-Demon (Royal).blk
 Demon Tank (3067).blk
 Dervish DV-7DX.mtf
 Devastator DVS-3SB.mtf
@@ -531,9 +463,6 @@ Devastator DVS-4B.mtf
 Devastator DVS-4D.mtf
 Devastator DVS-4.mtf
 Devastator DVS-TDF.mtf
-DI Morgan.blk
-DI Morgan (Gauss).blk
-DI Morgan (LRM).blk
 Diomedes.blk
 Diomedes (Ultra).blk
 Dire Wolf A.mtf
@@ -547,9 +476,6 @@ Dire Wolf Prime.mtf
 Dire Wolf S.mtf
 Dire Wolf W.mtf
 Dire Wolf X.mtf
-DI Schmitt Tank.blk
-Djinn.blk
-Djinn (Stealth).blk
 Dragon Fire DGR-3F2.mtf
 Dragon Fire DGR-4L.mtf
 Dragon Fire DGR-5C.mtf
@@ -574,21 +500,13 @@ Eisensturm EST-OB.blk
 Eisensturm EST-O.blk
 Eisensturm EST-OC.blk
 Eisensturm EST-R3.blk
-Elemental (AP Gauss).blk
 Elemental (AP Gauss) Elite.blk
-Elemental (ER Laser).blk
 Elemental (ER Laser) Elite.blk
-Elemental (Flamer).blk
 Elemental (Flamer) Elite.blk
-Elemental (Headhunter).blk
 Elemental (Headhunter) Elite.blk
-Elemental (HMG).blk
 Elemental (HMG) Elite.blk
-Elemental (Laser).blk
 Elemental (Laser) Elite.blk
-Elemental (MG).blk
 Elemental (MG) Elite.blk
-Elemental (Pulse Laser).blk
 Elemental (Pulse Laser) Elite.blk
 Elemental (TAG).blk
 Elemental (TAG) Elite.blk
@@ -628,22 +546,6 @@ Fafnir Peter FNR-4A.mtf
 Falconer FLC-11R.mtf
 Falcon Hawk FNHK-10K1A.mtf
 Falcon Hawk FNHK-10K1B.mtf
-Fa Shih Battle Armor (King David).BLK
-Fa Shih Battle Armor (Plasma).BLK
-Fa Shih (Flamer).blk
-Fa Shih (Laser).blk
-Fa Shih (LRR).blk
-Fa Shih (MG).blk
-Fa Shih (TAG).blk
-Fenrir (ERML).blk
-Fenrir Longshot.blk
-Fenrir (MG).blk
-Fenrir (Mortar).blk
-Fenrir (MPL).blk
-Fenrir (SL).blk
-Fenrir (SPL).blk
-Fenrir (SRM).blk
-Fenrir (VSP).blk
 Fireball ALM-13D.mtf
 Fire Falcon V.mtf
 Fire Javelin JVN-11N.mtf
@@ -657,7 +559,6 @@ Fire Moth G.mtf
 Fire Moth H.mtf
 Fire Moth K.mtf
 Fire Moth Prime.mtf
-Fire Scorpion.mtf
 Firestarter FS10-H.mtf
 Firestarter FS10-M.mtf
 Firestarter FS9-M.mtf
@@ -675,18 +576,12 @@ Forge FRG-E2.mtf
 Forge FRG-F1.mtf
 Forge FRG-F2.mtf
 Forge FRG-G1.mtf
-Fortune Wheeled Assault Vehicle (Thunderbolt).blk
 Fox Armored Car (Dark Age).blk
 Foxhound (Reynard).blk
 Fulcrum Heavy Hovertank (X).blk
 Fulcrum II Heavy Hovertank.blk
-Fury.blk
-Fury (C3M).blk
-Fury (C3S).blk
-Fury (C3S II).blk
 Fury (CS).blk
 Fury IIC.blk
-Fury (Royal).blk
 Fury (WoB).blk
 Galahad GLH-4D.mtf
 Gallant Urban Assault Tank (3067).blk
@@ -713,18 +608,12 @@ Garm GRM-02B.mtf
 Ghora (Standard).blk
 Glass Spider 3.mtf
 Glass Spider.mtf
-Glory Heavy Fire Support Vehicle (Arrow IV).blk
-Gnome Battle Armor (LRM).BLK
 Gnome Battle Armor (LRM) Elite.BLK
-Gnome.blk
 Gnome Elite.blk
 Gnome (Upgrade-Bearhunter).blk
 Gnome (Upgrade-Bearhunter) Elite.blk
-Gnome (Upgrade).blk
 Gnome (Upgrade) Elite.blk
-Gnome (Upgrade-MRR).blk
 Gnome (Upgrade-MRR) Elite.blk
-Gnome (Upgrade-Pulse Laser).blk
 Gnome (Upgrade-Pulse Laser) Elite.blk
 Goblin Infantry Support Vehicle II.blk
 Goblin Medium Tank (Bugbear).blk
@@ -734,9 +623,7 @@ Goblin Medium Tank (Extended B).blk
 Goblin Medium Tank (Extended).blk
 Goblin Medium Tank (Hobgoblin).blk
 Goblin Medium Tank (Kurita).blk
-Golem Assault Armor (Support).BLK
 Golem Assault Armor (Support) Elite.BLK
-Golem.blk
 Golem Elite.blk
 Golem (Fast Attack).blk
 Golem (Fast Attack) Elite.blk
@@ -761,30 +648,12 @@ Grand Titan T-IT-N11W.mtf
 Grand Titan T-IT-N12M.mtf
 Grasshopper GHR-5R.mtf
 Grasshopper GHR-9K.mtf
-Gray Death Heavy Suit.BLK
 Gray Death Heavy Suit (Varangian).BLK
-Gray Death Standard (Flamer).blk
-Gray Death Standard (Laser).blk
-Gray Death Standard (LRR).blk
 Gray Death Standard (Magshot).blk
-Gray Death Standard (MG).blk
 Gray Death Standard (Varangian).blk
-Great Wyrm.mtf
 Grenadier.blk
-Grenadier (Flamer).blk
 Grenadier (Gauss).blk
-Grenadier (H-K).blk
-Grenadier (H-K NARC).blk
 Grenadier (Laser).blk
-Grenadier (LRR).blk
-Grenadier (TAG).blk
-Grendel A.mtf
-Grendel B.mtf
-Grendel C.mtf
-Grendel D.mtf
-Grendel E.mtf
-Grendel F.mtf
-Grendel H.mtf
 Grendel S.mtf
 Griffin GRF-1P.mtf
 Griffin GRF-3LA.mtf
@@ -797,12 +666,10 @@ Griffin GRF-7M.mtf
 Griffin GRF-8M.mtf
 Griffin GRF-9K.mtf
 Griffin GRF-9S.mtf
-Griffin IIC.mtf
 Grim Reaper GRM-R-PR32V.mtf
 Grim Reaper GRM-R-PR33A.mtf
 Grizzly 4.mtf
 Grizzly 5.mtf
-Grizzly.mtf
 Guillotine GLT-3CS.mtf
 Guillotine GLT-5P.mtf
 Guillotine GLT-5TC.mtf
@@ -811,14 +678,12 @@ Guillotine GLT-7ME.mtf
 Guillotine GLT-7M.mtf
 Guillotine GLT-8M.mtf
 Guillotine GLT-9CS.mtf
-Guillotine IIC.mtf
 Gunslinger GUN-3ERD.mtf
 Gunslinger GUN-4ERD.mtf
 Gunslinger GUN-5ERD.mtf
 Gunslinger GUN-8ERD.mtf
 Gurkha GUR-3G.mtf
 Gyrfalcon Gunship VTOL (Standard).blk
-Hachiman Fire Support Tank.blk
 Hammerhands HMH-4D2.mtf
 Hammerhands HMH-4D3.mtf
 Hammerhead HMR-HDb.blk
@@ -829,17 +694,8 @@ Hammerhead HMR-HG.blk
 Hammerhead II .blk
 Hammerhead II (Economy).blk
 Hammer HMR-5P.mtf
-Hankyu A.mtf
-Hankyu B.mtf
-Hankyu C.mtf
-Hankyu D.mtf
-Hankyu E.mtf
-Hankyu F.mtf
-Hankyu H.mtf
-Hankyu Prime.mtf
 Hankyu Q.mtf
 Ha Otoko HKO-1CA.mtf
-Ha Otoko.mtf
 Harasser Missile Platform (Medium Laser).blk
 Harbinger Armored Fist (NOTAR).blk
 Harbinger (NOTAR).blk
@@ -1413,13 +1269,11 @@ Penetrator PTR-4DX.mtf
 Penetrator PTR-8S.mtf
 Percival.blk
 Percival (Type S).blk
-Perseus P1 E.mtf
 Perseus P1 F.mtf
 Perseus P1G.mtf
 Perseus P1H.mtf
 Pershing.blk
 Phalanx Support Tank .blk
-Phoenix Hawk IIC.mtf
 Phoenix Hawk PHK-2K.mtf
 Phoenix Hawk PHX-6L.mtf
 Phoenix Hawk PXH-5W.mtf
@@ -1431,7 +1285,6 @@ Pillager PLG-4ZS Werewolf Hunter.mtf
 Pillager PLG-5Z2.mtf
 Pillager PLZ-5D.mtf
 Pinion 5.mtf
-Piranha.mtf
 Po Heavy Tank (Clan RA).blk
 Po Heavy Tank HVAC.blk
 Po Heavy Tank (LBX).blk
@@ -1444,7 +1297,6 @@ Pollaxe PLX-1A.mtf
 Pouncer S.mtf
 Praetorian PRN4-A.mtf
 Praetorian PRN4-AP.mtf
-Predator.mtf
 Preta C-PRT-O Eminus III.mtf
 Preta C-PRT-O Eminus II.mtf
 Privateer PV-1K.mtf
@@ -1462,10 +1314,6 @@ Puma PMA-005.blk
 Puma PMA-007.blk
 Puma PMA-008.blk
 Puma (Royal).blk
-Purifier (Laser).blk
-Purifier (NARC).blk
-Purifier (PPC).blk
-Purifier (TAG).blk
 Quiang-Ton.blk
 Quiang-Ton (Export).blk
 Quiang-Ton (Jui-Jie-Bian).blk
@@ -1473,12 +1321,6 @@ Quickdraw QKD-5MS.mtf
 Quickdraw QKD-5Sb.mtf
 Quickdraw QKD-6VS.mtf
 Quickdraw QKD-9W.mtf
-Raiden (Flamer).blk
-Raiden (Laser).blk
-Raiden (MG).blk
-Raiden (MRM).blk
-Raiden (Original).blk
-Raiden (Tsunami).blk
 Raijin II RJN-200-A2.mtf
 Rakshasa MDG-SS.mtf
 Rapier RPR-100b.blk
@@ -1487,9 +1329,6 @@ Rapier RPR-101.blk
 Rapier RPR-102.blk
 Rapier RPR-200.blk
 Rapier RPR-300.blk
-Ravager Assault Battle Armor.BLK
-Ravager Assault Battle Armor (Level I) .BLK
-Ravager Assault Battle Armor (MH).BLK
 Raven RVN-5L.mtf
 Raven RVN-5LV.mtf
 Raven RVN-5LX.mtf
@@ -1512,7 +1351,6 @@ Riever F-100.blk
 Riever F-700a.blk
 Riever F-700b.blk
 Riever F-700.blk
-Rifleman IIC.mtf
 Rifleman II RFL-3N-2CS.mtf
 Rifleman II RFL-3N-CS3.mtf
 Rifleman RFL-4K.mtf
@@ -1541,16 +1379,12 @@ Roland (Prime).blk
 Rommel Tank (Clan).blk
 Rommel Tank (Howitzer).blk
 Rottweiler Battle Armor (Firedrake).BLK
-Rottweiler.blk
-Rottweiler (Close Combat).blk
-Rottweiler (Upgrade).blk
 Rusalka S-RSL-0 Comminus.blk
 Rusalka S-RSL-0 Dominus.blk
 Rusalka S-RSL-0 Eminus.blk
 Rusalka S-RSL-0 Infernus.blk
 Rusalka S-RSL-0 Invictus.blk
 Rusalka S-RSL-0 Luminos.blk
-Ryoken II.mtf
 S-3 Sai.blk
 S-4C Sai.blk
 S-4 Sai.blk
@@ -1604,14 +1438,6 @@ Sarpedon.blk
 Sarpedon (Glaukos).blk
 Sarpedon (Model A).blk
 Saxon APC Laser.blk
-Schiltron A.blk
-Schiltron B.blk
-Schiltron C.blk
-Schiltron D.blk
-Schiltron E.blk
-Schiltron F.blk
-Schiltron Prime.blk
-Schrek II-X PPC Carrier.blk
 Schrek PPC Carrier (C3S).blk
 Scimitar Medium Hover Tank (C3 master).blk
 Scimitar Medium Hover Tank (LBX).blk
@@ -1637,8 +1463,6 @@ Scytha D.blk
 Scytha J.blk
 Scytha K.blk
 Scytha Prime.blk
-Se'irim (Anti Infantry).blk
-Se'irim.blk
 Sentinel IIC.mtf
 Sentinel STN-3CS.mtf
 Sentinel STN-3RK.mtf
@@ -1671,8 +1495,6 @@ Shade S-HA-0 Infernus.blk
 Shade S-HA-0 Invictus.blk
 Shade S-HA-0 Luminos.blk
 Shadow Cat G.mtf
-Shadow Cat II.mtf
-Shadow Hawk IIC.mtf
 Shadow Hawk SHD-10M.mtf
 Shadow Hawk SHD-11CZ.mtf
 Shadow Hawk SHD-11M.mtf
@@ -1683,9 +1505,6 @@ Shadow Hawk SHD-7M-X.mtf
 Shadow Hawk SHD-8M.mtf
 Shandra Advanced Scout Vehicle.blk
 Sha Yu SYU-8B.mtf
-Shedu.blk
-Shedu (Recon).blk
-Shedu (Support).blk
 Sher Khan (Apollo).blk
 Sher Khan.blk
 Sher Khan (CASE).blk
@@ -1728,7 +1547,6 @@ Slayer SL-CX1.blk
 Sloth Battle Armor (Interdictor).BLK
 Sloth.blk
 Snow Fox 4.mtf
-Snow Fox.mtf
 Spad SPD-502.blk
 Spad SPD-503.blk
 Spad SPD-504.blk
@@ -1755,7 +1573,6 @@ Stalker STK-6ME.mtf
 Stalker STK-7M.mtf
 Stalker STK-8M.mtf
 Stalking Spider 3P.mtf
-Stalking Spider.mtf
 Standard (CS-Flamer).blk
 Standard (CS-Laser).blk
 Standard (CS-MG).blk
@@ -1794,11 +1611,9 @@ Stormcrow H.mtf
 Stormcrow I.mtf
 Stormcrow Prime.mtf
 Storm Tempest TMP-3M2.mtf
-Strider SR1-O H.mtf
 Strider SR1-O I.mtf
 Strider SR1-O K.mtf
 Strider SR1-O L.mtf
-Strider SR1-O M.mtf
 Strider SR1-O X2.mtf
 Strider SR1-O X3.mtf
 Striga S-STR-0 Comminus.blk
@@ -1838,12 +1653,8 @@ Summoner M.mtf
 Summoner Prime.mtf
 Summoner Q.mtf
 Summoner V.mtf
-Sun Cobra.mtf
-Sunder SD1-O F.mtf
-Sunder SD1-O G.mtf
 Sunder SD1-OK.mtf
 Sunder SD1-OW.mtf
-Supernova.mtf
 Svantovit Infantry Fighting Vehicle (ATM) Masada.blk
 Svantovit Infantry Fighting Vehicle (SSRM).blk
 Swift C.blk
@@ -1877,13 +1688,8 @@ Thanatos TNS-6S.mtf
 Theseus.blk
 Theseus Medium Battle Armor (Support) Killshot.BLK
 Theseus (RL).blk
-Thor (AC).blk
-Thor.blk
-Thor (C3i).blk
-Thor (Clan).blk
 Thorn IIC.mtf
 Thresher 4.mtf
-Thresher.mtf
 Thrush TR-7.blk
 Thrush TR-7p.blk
 Thrush TR-8.blk
@@ -1899,9 +1705,6 @@ Thug THG-13M.mtf
 Thug THG-14K.mtf
 Thug THG-14M.mtf
 Thug THG-14X.mtf
-Thunderbird Battle Armor [AP Gauss].BLK
-Thunderbird Battle Armor [ER Laser].BLK
-Thunderbird Battle Armor [Pulse Laser].BLK
 Thunderbird TRB-D36b.blk
 Thunderbird TRB-D36.blk
 Thunderbird TRB-D46.blk
@@ -1916,7 +1719,6 @@ Thunder Hawk TDK-7M.mtf
 Thunder Hawk TDK-7SS.mtf
 Thunder Hawk TDK-9F.mtf
 Thunder Stallion 4.mtf
-Thunder Stallion.mtf
 Thunder THR-2LV.mtf
 Thunder THR-4X.mtf
 Timber Wolf A.mtf
@@ -2006,10 +1808,8 @@ Undine Elite.blk
 Undine (Upgrade).blk
 Undine (Upgrade) Elite.blk
 UrbanMech IIC 3.mtf
-UrbanMech IIC.mtf
 UrbanMech UM-R64M.mtf
 UrbanMech UM-R64.mtf
-Ursus.mtf
 Uziel UZL-4S.mtf
 Vagabond VGB-ND4.mtf
 Vagabond VGB-ND5.mtf
@@ -2068,9 +1868,6 @@ Visigoth D.blk
 Visigoth J.blk
 Visigoth K.blk
 Visigoth Prime.blk
-Void.blk
-Void Caltrop.BLK
-Void (DCA).blk
 Von Luckner Heavy Tank (C3i).blk
 Von Luckner Heavy Tank (LRM).blk
 Vulcan II VLC-N2.mtf
@@ -2088,7 +1885,6 @@ War Dog WR-DG-04FC.mtf
 Warg Assault Battle Armor.BLK
 Warg Assault Battle Armor Elite.BLK
 Warhammer IICG.mtf
-Warhammer IIC.mtf
 Warhammer WHM-4LV.mtf
 Warhammer WHM-4T.mtf
 Warhammer WHM-5LS Short-Hammer.mtf
@@ -2140,7 +1936,6 @@ White Knight WNT-4K.mtf
 White Knight WNT-4KX.mtf
 Whitworth WTH-3TB.mtf
 Wirbelwind Flakpanzer (Standard).blk
-Wolfhound IIC.mtf
 Wolfhound WLF-5DS.mtf
 Wolf Trap WFT-1.mtf
 Wolf Trap WFT-2.mtf
@@ -2156,8 +1951,6 @@ Wusun A.blk
 Wusun B.blk
 Wusun C.blk
 Wusun Prime.blk
-Wyvern IIC 3.mtf
-Wyvern IIC.mtf
 Wyvern WVE-8RK.mtf
 Wyvern WVE-CF2.mtf
 Xanthos XNT-33O.mtf
@@ -2177,13 +1970,8 @@ Yin Long.blk
 Ymir BWP-4WB.mtf
 Yu Huang Y-H10L.mtf
 Yu Huang Y-H9GF.mtf
-Zephyr.blk
-Zephyr (C3i).blk
 Zephyr Hovertank (CS-RK).blk
 Zephyr IIC.blk
-Zephyr (LRM).blk
-Zephyr (Royal).blk
-Zephyr (SRM-2).blk
 Zephyrus.blk
 Zephyrus II (Field Refit).blk
 Zero ZRO-114.blk
