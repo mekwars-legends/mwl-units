@@ -1,5 +1,3 @@
-Note  again some of these will be name issuea and some will be post jihad design
-
 AC2 Carrier.blk
 AC 2 Carrier (LB-X).blk
 AC2 Carrier Primitive.blk
@@ -10,10 +8,10 @@ Achileus [MG].blk
 Achileus [TAG].blk
 Achileus (WoB).blk
 Achileus (WoB) [David].blk
-Achileus (WoB) [Flamer].blk
+Achileus (WoB)  [Flamer].blk
 Achileus (WoB) IS.blk
-Achileus (WoB) [Laser].blk
-Achileus (WoB) [MG].blk
+Achileus (WoB)  [Laser].blk
+Achileus (WoB)  [MG].blk
 Achileus (WoB) [TAG].blk
 Aerie PA(L).blk
 Aerie PA(L) (Salvage).blk
@@ -180,6 +178,7 @@ Behemoth (Stone Rhino) 5.mtf
 Behemoth (Stone Rhino) 6.mtf
 Behemoth (Stone Rhino).mtf
 Bellerophon BEL-1X.mtf
+Bellona  Hover Tank (Laser).blk
 Beowulf BEO-X-7a.mtf
 Beowulf C.mtf
 Beowulf IIC.mtf
@@ -418,7 +417,7 @@ Daishi (Dire Wolf) D.mtf
 Daishi (Dire Wolf) E.mtf
 Daishi (Dire Wolf) H.mtf
 Daishi (Dire Wolf) Hohiro.mtf
-Daishi (Dire Wolf) Prime.mtf
+Daishi (Dire Wolf)  Prime.mtf
 Daishi (Dire Wolf) Prometheus.mtf
 Daishi (Dire Wolf) S.mtf
 Daishi (Dire Wolf) U.mtf
@@ -1101,7 +1100,7 @@ Kobold Battle Armor [SL Flamer].blk
 Kobold Battle Armor [SL Flamer] (CS).blk
 Kobold Battle Armor [SL Flamer] (GB).blk
 Kobold Battle Armor [SL TAG].blk
-Kobold Battle Armor [SL TAG] (CS).blk
+Kobold Battle Armor [SL TAG]  (CS).blk
 Kobold Battle Armor [SL TAG] (GB).blk
 Kobold X-C3.blk
 Kodiak Cale.mtf
@@ -1658,7 +1657,7 @@ Puma (Adder) D.mtf
 Puma (Adder) E.mtf
 Puma (Adder) H.mtf
 Puma (Adder) J.mtf
-Puma (Adder) Prime.mtf
+Puma (Adder)  Prime.mtf
 Puma Assault Tank PAT-001.blk
 Puma Assault Tank PAT-002.blk
 Puma Assault Tank PAT-005b.blk
@@ -2361,6 +2360,7 @@ Winston Combat Vehicle (Support).blk
 Winston Combat Vehicle (TSEMP).blk
 Winston Combat Vehicle (XXL).blk
 Winterhawk APC (Standard).blk
+Wolfhound  IIC.mtf
 Wolfhound WLF-1 (Allard).mtf
 Wolfhound WLF-1A.mtf
 Wolfhound WLF-1B.mtf

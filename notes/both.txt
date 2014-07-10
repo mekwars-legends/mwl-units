@@ -236,7 +236,6 @@ Behemoth Heavy Tank.blk
 Behemoth Heavy Tank (Flamer).blk
 Behemoth Heavy Tank (Kurita).blk
 Bellona Hover Tank.blk
-Bellona Hover Tank (Laser).blk
 Beowulf BEO-12.mtf
 Beowulf BEO-14.mtf
 Berserker BRZ-A3.mtf
@@ -504,7 +503,7 @@ Crimson Hawk 3.mtf
 Crimson Langur A.mtf
 Crimson Langur B.mtf
 Crimson Langur C.mtf
-Crimson Langur Prime.mtf
+Crimson Langur  Prime.mtf
 Crockett CRK-5003-0.mtf
 Crockett CRK-5003-1b.mtf
 Crockett CRK-5003-1.mtf
@@ -1074,8 +1073,8 @@ Jenner JR7-C2.mtf
 Jenner JR7-C3.mtf
 Jenner JR7-C4.mtf
 Jenner JR7-C.mtf
-JES II Strategic Missile Carrier (Ammo).blk
-JES II Strategic Missile Carrier.blk
+JES II Strategic Missile  Carrier (Ammo).blk
+JES II Strategic Missile  Carrier.blk
 JES I Tactical Missile Carrier (3082 Upgrade).blk
 JES I Tactical Missile Carrier.blk
 Jinggau JN-G7L.mtf
@@ -2115,7 +2114,6 @@ Wight WGT-2SC.mtf
 Wight WGT-3SC.mtf
 Winston Combat Vehicle.blk
 Winston Combat Vehicle (LAC).blk
-Wolfhound IIC.mtf
 Wolfhound WLF-2.mtf
 Wolfhound WLF-2X.mtf
 Wolfhound WLF-3M.mtf

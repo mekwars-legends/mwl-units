@@ -1,5 +1,3 @@
-Note: Not all of these are customs some of them are naming issues. 
-
 AC-2 Carrier.blk
 AC-2 Carrier (LB-C3i).blk
 AC-2 Carrier (LB-X).blk
@@ -195,10 +193,11 @@ Bear Cub 6.mtf
 Bear Cub.mtf
 Behemoth Heavy Tank (Tom-Tom).blk
 Behemoth II Tank.blk
+Bellona Hover Tank (Laser).blk
 Bengal A.blk
 Bengal B.blk
 Bengal.blk
-Berserker BRZ-A3H.mtf
+Berserker  BRZ-A3H.mtf
 Berserker BRZ-A4.mtf
 Berserker BRZ-AJ.mtf
 Bishamon BSN-6K.mtf
@@ -453,6 +452,7 @@ Crab CRB-65.mtf
 Crab IIC 3H.mtf
 Crab IIC.mtf
 Crimson Hawk.mtf
+Crimson Langur Prime.mtf
 Crinos Mk I.blk
 Crinos Mk II.blk
 Crockett CRK-5003-6.mtf
@@ -511,6 +511,7 @@ Defiance DFC-OA.blk
 Defiance DFC-OB.blk
 Defiance DFC-O.blk
 Defiance DFC-OC.blk
+Defiance  DFN-3S.mtf
 Demolisher Heavy Tank (Apollo).blk
 Demolisher Heavy Tank.blk
 Demolisher Heavy Tank (CS-KA).blk
@@ -1064,7 +1065,7 @@ Jenner JR7-MI.mtf
 Jenner JR7-X.mtf
 Jenner JR7-XT.mtf
 Jenner JR-8F.mtf
-JES II Strategic Missile Carrier (Dark Age).blk
+JES II Strategic Missile  Carrier (Dark Age).blk
 Jian.blk
 Jian (LRM).blk
 Jinggau JN-G9A.mtf
@@ -1206,7 +1207,7 @@ Lynx LNX-10R.mtf
 Lynx LNX-9Cr.mtf
 Mad Cat III.mtf
 Mad Cat III-S.mtf
-Mad Cat Mk II 2 HA.mtf
+Mad Cat Mk II  2 HA.mtf
 Mad Dog A.mtf
 Mad Dog B.mtf
 Mad Dog C.mtf
@@ -1863,6 +1864,7 @@ Tatsu MIK-OC.blk
 Tempest TMP-3M4.mtf
 Tempest TMP-TPL2 Home Guard.mtf
 Templar TLR1-BB.mtf
+Templar  TLR1-OE.mtf
 Templar TLR1-OV.mtf
 Templar TLR1-SB.mtf
 Tengu.blk
@@ -1888,9 +1890,9 @@ Thrush TR-8.blk
 Thug IIC.mtf
 Thug THG-12D.mtf
 Thug THG-12KA.mtf
-Thug THG-12P.mtf
+Thug  THG-12P.mtf
 Thug THG-12T.mtf
-Thug THG-12V.mtf
+Thug  THG-12V.mtf
 Thug THG-12WS.mtf
 Thug THG-12Z.mtf
 Thug THG-13M.mtf
@@ -1909,7 +1911,7 @@ Thunderbolt TDR-20Sa.mtf
 Thunderbolt TDR-5T.mtf
 Thunderbolt TDR-9MS.mtf
 Thunderbolt TDR-9RK.mtf
-Thunderbolt TDR-CJF.mtf
+Thunderbolt  TDR-CJF.mtf
 Thunder Hawk TDK-7M.mtf
 Thunder Hawk TDK-7SS.mtf
 Thunder Hawk TDK-9F.mtf
@@ -2138,6 +2140,7 @@ White Knight WNT-4K.mtf
 White Knight WNT-4KX.mtf
 Whitworth WTH-3TB.mtf
 Wirbelwind Flakpanzer (Standard).blk
+Wolfhound IIC.mtf
 Wolfhound WLF-5DS.mtf
 Wolf Trap WFT-1.mtf
 Wolf Trap WFT-2.mtf
