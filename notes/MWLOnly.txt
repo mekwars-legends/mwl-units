@@ -771,7 +771,6 @@ Highlander HGN-739A.mtf
 Highlander HGN-742.mtf
 Highlander HGN-743A.mtf
 Highlander IIC 4.mtf
-Highlander IIC.mtf
 Hiryo Armored Infantry Transport (Light PPC).blk
 Hitman HM-1K.mtf
 Hollander BZK-F3A.mtf
@@ -809,7 +808,6 @@ Hunchback HBK-6L.mtf
 Hunchback HBK-6SS.mtf
 Hunchback HBK-7M.mtf
 Hunchback HBK-7S.mtf
-Hunchback IIC.mtf
 Hunchback IIC R.mtf
 Hunter Light Support Tank (Assault).blk
 Hunter Light Support Tank (ELRM).blk
@@ -847,7 +845,6 @@ Ice Ferret H.mtf
 Ice Ferret HW.mtf
 Ice Ferret L.mtf
 Ice Ferret Prime.mtf
-Icestorm.mtf
 Ignis.blk
 Ignis (SRM).blk
 Imp IMP-4E Turtleback.mtf
@@ -857,11 +854,6 @@ Imp IMP-5E.mtf
 Incubus 3.mtf
 Incubus 4.mtf
 Incubus 5.mtf
-Infiltrator Mk I.blk
-Infiltrator Mk II Battle Armor (Magnetic).BLK
-Infiltrator Mk II.blk
-Infiltrator Mk II (Sensor).blk
-Infiltrator Mk I (Spec Ops).blk
 Initiate INI-05.mtf
 Ironhold Assault Battle Armor.BLK
 Ironhold Assault Battle Armor Elite.BLK
@@ -916,7 +908,6 @@ Jengiz H.blk
 Jengiz Prime.blk
 Jengiz W.blk
 Jenner IIC 5.mtf
-Jenner IIC.mtf
 Jenner JR7-MI.mtf
 Jenner JR7-X.mtf
 Jenner JR7-XT.mtf
@@ -925,31 +916,16 @@ JES II Strategic Missile  Carrier (Dark Age).blk
 Jian.blk
 Jian (LRM).blk
 Jinggau JN-G9A.mtf
-Jupiter.mtf
-Kage (DEST).blk
-Kage (ECM).blk
-Kage (Flamer).blk
-Kage (Laser).blk
-Kage (MG).blk
-Kage (TAG).blk
-Kage (Vibro).blk
-Kanazuchi Assault Battle Armor Cyclops.BLK
-Kanazuchi.blk
-Kanazuchi (Upgrade).blk
 Kangaroo.blk
 Kangaroo (Guardian).blk
 Katana.blk
 Katana CRK-5003-2.mtf
 Katana CRK-5003-8W.mtf
-Katana CRK-5003-CJ.mtf
-Katana CRK-5003-CM.mtf
-Katana CRK-5003-C.mtf
 Katana CRK-5009-KC.mtf
 Katana (Crockett) CRK-5004-CM.mtf
 Katana (Crockett) CRK-5004-C.mtf
 Katana (Crockett) CRK-5004-CS.mtf
 Katana Tank (Upgrade).blk
-Kestrel VTOL Comstar (MWL).blk
 Kestrel VTOL (MWL).blk
 King Crab IIC.mtf
 King Crab KGC-001CS.mtf
@@ -959,7 +935,6 @@ King Crab KGC-001W.mtf
 King Crab KGC-011.mtf
 King Crab KGC-IIC 2.mtf
 King Crab KGC-IIC 3.mtf
-Kinnol MBT.blk
 Kintaro IIC.mtf
 Kintaro KTO-21B.mtf
 Kintaro KTO-25K.mtf
@@ -985,19 +960,13 @@ Kobold (Comstar).blk
 Kobold (Comstar-Flamer).blk
 Kobold (Comstar-TAG).blk
 Kodiak KDK-RD.mtf
-Kodiak.mtf
 Komodo KIM-2MX.mtf
 Komodo KIM-4DC.mtf
-Kopis (Anti-Infantry).blk
-Kopis (Standard).blk
 Korvin.blk
 Koschei KSC-4V.mtf
 Koshi 2.mtf
 Koshi.mtf
-Kuma.mtf
 Ku Wheeled Assault Tank (IFV) Turhan II.blk
-Kyudo KY2-D02.mtf
-Kyudo KY2-D03.mtf
 Lancelot LNC25-11.mtf
 Lancelot LNC-IIC.mtf
 Lancer LX-2A.blk
@@ -1008,9 +977,6 @@ Legacy LGC-01X.mtf
 Legacy LGC-02M.mtf
 Legacy LGC-04.mtf
 Legacy LGC-06.mtf
-Lightning.blk
-Lightning (ERML).blk
-Lightning (ERSL).blk
 Lightning IIC.blk
 Lightning LTN-G15b.blk
 Lightning LTN-G15.blk
@@ -1019,8 +985,6 @@ Lightning LTN-G16L.blk
 Lightning LTN-G16O.blk
 Lightning LTN-G16S.blk
 Lightning LTN-G16T.blk
-Lightning (RL).blk
-Lightning (Royal).blk
 Linebacker HM.mtf
 Linebacker J.mtf
 Lineholder KW3-LH2.mtf
@@ -1028,7 +992,6 @@ Lineholder KW3-LHW.mtf
 Lineholder KW5-LHW2.mtf
 Lion Support Tank (Bombast Laser).blk
 Lobo RC.mtf
-Locust IIC.mtf
 Locust LCT-2E.mtf
 Locust LCT-3G.mtf
 Locust LCT-3SS.mtf
@@ -1039,18 +1002,8 @@ Longbow LGB-12KC.mtf
 Longbow LGB-12M.mtf
 Longbow LGB-7VL.mtf
 Longbow LGB-8S.mtf
-Longinus Battle Armor Hacked (David).BLK
-Longinus Battle Armor (Magnetic).BLK
-Longinus (David).blk
-Longinus (Flamer).blk
-Longinus (Laser).blk
 Longinus (Lt Gauss).blk
-Longinus (MG).blk
-Longinus (WoB-David).blk
-Longinus (WoB-Flamer).blk
 Longinus (WoB-Gauss).blk
-Longinus (WoB-Laser).blk
-Longinus (WoB-MG).blk
 LRM Carrier (CS-RK).blk
 LRM Carrier (Laser).blk
 Lucifer II LCF-R16K.blk
@@ -1079,18 +1032,15 @@ Maelstrom MTR-6X.mtf
 Magi.blk
 Magi Infantry Support Vehicle (CS-RK).blk
 Magi (UCSV).blk
-Main Gauche Light Support Tank (IFV).blk
 Main Gauche Light Support Tank (LB-X).blk
 Main Gauche Light Support Tank (XL-LB).blk
 Mandrill 2.mtf
 Mandrill 3.mtf
-Mandrill.mtf
 Manticore Heavy Tank (BLAZER).blk
 Manticore Heavy Tank (C3i).blk
 Manticore Heavy Tank (HVAC).blk
 Manticore Heavy Tank (Stealth).blk
 Manticore Heavy Tank (X).blk
-Marauder IIC.mtf
 Marauder II MAD-4CS.mtf
 Marauder II MAD-4DM.mtf
 Marauder II MAD-8X.mtf
@@ -1119,7 +1069,6 @@ Marsden II-A.blk
 Marsden II-A (LB-X).blk
 Marsden II.blk
 Matador 3.mtf
-Matador.mtf
 Mauler MAL-2K.mtf
 Mauler MAL-3RC.mtf
 Mauler MAL-3RZ.mtf
@@ -1131,7 +1080,6 @@ Maxim Heavy Hover Transport (SRM).blk
 Maxim (I) Heavy Hover Transport (C3M).blk
 Maxim (I) Heavy Hover Transport (C3S).blk
 Mengqin MNG-8L.blk
-Men Shen MS1-O G.mtf
 Men Shen MS1-O J.mtf
 Men Shen MS1-O NV.mtf
 Merkava Mk XVII (AMS).blk
@@ -1171,10 +1119,6 @@ Naginata NG-C4C Nagamaki.mtf
 Naginata NG-C4H.mtf
 Naifu Attack VTOL (Standard).blk
 Nemera Mk XI.blk
-Nephilim.blk
-Nephilim (Gauss).blk
-Nephilim (Seeker).blk
-Nephilim (Support).blk
 Nexus II NXS2-C.mtf
 Night Gyr G.mtf
 Night Gyr I.mtf
@@ -1214,13 +1158,11 @@ O-Bakemono OBK-M13.mtf
 O-Bakemono OBK-M14.mtf
 Ocelot II.blk
 Ocelot II (RCV).blk
-Ocelot.mtf
 Oni ON-1.blk
 Ontos Heavy Tank (3053).blk
 Ontos Heavy Tank (Light Gauss XL).blk
 Ontos Heavy Tank (LPPC).blk
 Orion IIC 6.mtf
-Orion IIC.mtf
 Orion ON2-W.mtf
 Orion ON4-M.mtf
 Orion ON5-VA.mtf
