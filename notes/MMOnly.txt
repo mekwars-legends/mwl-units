@@ -320,7 +320,6 @@ Chameleon CLN-4V.mtf
 Chameleon CLN-7V.mtf
 Chameleon Q-'Mech CLN-7VQ.mtf
 Champion C.mtf
-Chimera CMA-2k.mtf
 Cizin (Standard).blk
 Cizin (Support).blk
 Clan Medium BA (Bar).blk

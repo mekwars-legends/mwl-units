@@ -1,0 +1,4258 @@
+AC 2 Carrier (LB-X).blk	MM
+AC-2 Carrier (LB-C3i).blk	MWL
+AC2 Carrier Primitive.blk	MM
+AC2 Carrier.blk	MM
+Achileus (WoB)  [Flamer].blk	MM
+Achileus (WoB)  [Laser].blk	MM
+Achileus (WoB)  [MG].blk	MM
+Achileus (WoB) [David].blk	MM
+Achileus (WoB) [TAG].blk	MM
+Achileus (WoB) IS.blk	MM
+Achileus (WoB).blk	MM
+Achileus (WoB-Scout).blk	MWL
+Achileus [David].blk	MM
+Achileus [Flamer].blk	MM
+Achileus [Laser].blk	MM
+Achileus [MG].blk	MM
+Achileus [TAG].blk	MM
+Adder N.mtf	MWL
+Adder Prime.mtf*	MWL
+Adder R.mtf	MWL
+Aerie PA(L) (Salvage).blk	MM
+Aerie PA(L).blk	MM
+Aeron Strike VTOL (BAP).blk	MM
+Aeron Strike VTOL.blk	MM
+Aesir Medium AA Vehicle (HAG).blk	MM
+Aesir Medium AA Vehicle (Standard).blk	MM
+Afreet (HH) Elite.blk	MWL
+Afreet (Interdictor) Elite.BLK	MWL
+Afreet (JF) Elite.blk	MWL
+Afreet Elite.blk	MWL
+Afreet Medium Battle Armor (HH).blk	MM
+Afreet Medium Battle Armor (Interdictor).blk	MM
+Afreet Medium Battle Armor (JF).blk	MM
+Afreet Medium Battle Armor.blk	MM
+Afreet.blk	MWL
+Agrotera AGT-1A.mtf	MM
+Ahab AHB-443.blk	MWL
+Ahab AHB-643.blk	MWL
+Ahab AHB-MD.blk	MWL
+Ahab AHB-X.blk	MWL
+Ailette Rescue PA(L).blk	MM
+Ailette Zero-G Engineering Exoskeleton (Standard).blk	MM
+Air Car.blk	MM
+Aithon Assault Transport.blk	MM
+Ajax Assault Tank C.blk	MM
+Ajax Assault Tank D.blk	MM
+Akuma AKU-1C.mtf	MWL
+Akuma AKU-2F.mtf	MWL
+Akuma AKU-3X.mtf	MWL
+Akuma AKU-3XJ.mtf	MWL
+Alacorn Heavy Tank Mk III.blk	MM
+Alacorn Heavy Tank Mk IV.blk	MM
+Alacorn Heavy Tank Mk VI.blk	MM
+Alacorn Heavy Tank Mk VII.blk	MM
+Alacorn Mk I.blk	MM
+Alacorn Mk II.blk	MM
+Albatross ALB-3Hp.mtf	MWL
+Albatross ALB-4HG Home Guard.mtf	MWL
+Albatross ALB-4W.mtf	MWL
+Albatross ALB-5U.mtf	MWL
+Albatross ALB-5W Dantalion.mtf	MM
+Albatross ALB-8C.mtf	MWL
+Alfar AL-A1.mtf	MM
+Alfar AL-D1 Dokkalfar.mtf	MM
+Amazon BattleArmor MRR.blk	MM
+Amazon BattleArmor PPC.blk	MM
+Ammon 2.blk	MWL
+Anat APC (Standard).blk	MM
+Angerona (Standard).blk	MWL
+Angerona Scout Suit (Recon).blk	MM
+Angerona Scout Suit.blk	MM
+Anhur P-Stealth.blk	MM
+Annihilator ANH-1E.mtf	MM
+Annihilator ANH-2HG.mtf	MWL
+Annihilator ANH-3HS.mtf	MWL
+Annihilator ANH-5RC.mtf	MWL
+Annihilator ANH-9SA.mtf	MWL
+Annihilator Bryan Gausszilla.mtf	MM
+Antlion LK-3D.mtf	MM
+Anubis ABS-3C.mtf	MWL
+Anubis ABS-3LV.mtf	MWL
+Anubis ABS-3MC.mtf	MM
+Anubis ABS-5Y.mtf	MM
+Anubis ABS-5Z.mtf	MM
+Anvil ANV-12M.mtf	MWL
+Anvil ANV-6Q.mtf	MWL
+Anvil ANV-9M.mtf	MWL
+Anvil ANV-9MER.mtf	MWL
+Anzu ZU-G60.mtf	MM
+Anzu ZU-J70.mtf	MM
+APC (Hover LRM).blk	MM
+APC (Hover MG).blk	MM
+APC (Hover Sensors).blk	MM
+APC (Hover SRM).blk	MM
+APC (Hover).blk	MM
+APC (Tracked LRM).blk	MM
+APC (Tracked MG).blk	MM
+APC (Tracked SRM).blk	MM
+APC (Tracked).blk	MM
+APC (Wheeled LRM).blk	MM
+APC (Wheeled MG).blk	MM
+APC (Wheeled SRM).blk	MM
+APC (Wheeled).blk	MM
+Apollo APL-2Me.mtf	MWL
+Apollo APL-3M.mtf	MWL
+Apollo APL-4M.mtf	MM
+Apollo APL-4W.mtf	MWL
+Aquagladius AQS-3.mtf	MM
+Aquagladius AQS-4.mtf	MM
+Arana MilitiaMech ARA-S-1.mtf	MM
+Arbalest .mtf	MM
+Arbiter ARB-001.mtf	MM
+Arcas 2A.mtf	MWL
+Arcas 3.mtf	MM
+Archangel C-ANG-O Berith.mtf	MM
+Archangel C-ANG-O Invictus.mtf	MM
+Archangel C-ANG-OA Dominus.mtf	MM
+Archangel C-ANG-OB Infernus.mtf	MM
+Archangel C-ANG-OC Comminus.mtf	MM
+Archangel C-ANG-OD Luminos.mtf	MM
+Archangel C-ANG-OE Eminus.mtf	MM
+Archangel C-ANG-OS Caelestis.mtf	MM
+Archer ARC-2RK.mtf	MWL
+Archer ARC-2TDF.mtf	MWL
+Archer ARC-4K.mtf	MWL
+Archer ARC-4RK.mtf	MWL
+Archer ARC-5RK.mtf	MWL
+Archer ARC-6E.mtf	MWL
+Archer ARC-6K.mtf	MWL
+Archer ARC-6Sr.mtf	MWL
+Archer ARC-6SS.mtf	MWL
+Archer ARC-7C.mtf	MWL
+Archer ARC-8MS.mtf	MWL
+Archer ARC-9KC.mtf	MM
+Archer ARC-EWB Skobal.mtf	MWL
+Archer ARC-GBD.mtf	MWL
+Archer C.mtf	MM
+Archer IIC2.mtf	MWL
+Archer IIC-S.mtf	MWL
+Archer Wolf.mtf	MM
+Arctic Fox AF1P.mtf	MWL
+Arctic Wolf .mtf	MM
+Arctic Wolf II A.mtf	MM
+Arctic Wolf II B.mtf	MM
+Arctic Wolf II C.mtf	MM
+Arctic Wolf II Prime.mtf	MM
+Ares ARS-V1 Aphrodite.mtf	MM
+Ares ARS-V1 Hades.mtf	MM
+Ares ARS-V1 Hephaestus.mtf	MM
+Ares ARS-V1 Hera.mtf	MM
+Ares ARS-V1 Zeus.mtf	MM
+Argus AGS-3DM.mtf	MWL
+Argus AGS-3X.mtf	MWL
+Argus AGS-4AC.mtf	MWL
+Argus AGS-5E.mtf	MWL
+Armored Personnel Carrier (Hover Primitive).blk	MM
+Armored Personnel Carrier (Tracked Primitive).blk	MM
+Armored Personnel Carrier (Wheeled Primitive).blk	MM
+Arrow IV Assault Vehicle (Standard).blk	MM
+Artemis ART-1S.mtf	MWL
+Assassin Alice.mtf	MM
+Assassin ASN-22.mtf	MWL
+Assassin Servitor.mtf	MM
+Asshur Fast Reconnaissance Vehicle (PAC).blk	MM
+Asterion Medium Battle Armor (Upgrade) [MRR].blk	MM
+Asterion Medium Battle Armor (Upgrade) [PPC].blk	MM
+Asterion Medium Battle Armor [MRR].blk	MM
+Asterion Medium Battle Armor [PPC].blk	MM
+Asura Medium Battle Armor (Anti Infantry).blk	MM
+Asura Medium Battle Armor (SRM).blk	MM
+Asura Medium Battle Armor.blk	MM
+Athena XR.blk	MM
+Atlas AS-700 Jurn.mtf	MM
+Atlas AS7-6V.mtf	MWL
+Atlas AS7-D (Danielle).mtf	MM
+Atlas AS7-D(C).mtf	MM
+Atlas AS7-D7.mtf	MWL
+Atlas AS7-K2 (Jedra).mtf	MM
+Atlas AS7-K4.mtf	MM
+Atlas AS7-K-DC.mtf	MM
+Atlas AS7-R.mtf	MWL
+Atlas AS7-S5.mtf	MWL
+Atlas AS7-W.mtf	MWL
+Atlas AS7-WGS Samsonov.mtf	MM
+Atlas AS7-X.mtf	MWL
+Atlas AS9-K.mtf	MWL
+Atlas AS9-KX.mtf	MWL
+Atlas C.mtf	MM
+Atlas IIC.mtf	MWL
+Atlas III AS7-D2.mtf	MM
+Atlas III AS7-D3.mtf	MM
+Auroch (L5).blk	MWL
+Auroch.blk	MWL
+Aurora G.blk	MWL
+Aurora.blk	MWL
+Avalanche AVL-1O.mtf	MM
+Avalanche AVL-1OA.mtf	MM
+Avalanche AVL-1OB.mtf	MM
+Avalanche AVL-1OC.mtf	MM
+Avalanche AVL-1ON.mtf	MM
+Avalanche AVL-1OR.mtf	MM
+Avar A.blk	MWL
+Avar B.blk	MWL
+Avar C.blk	MWL
+Avar D.blk	MWL
+Avar J.blk	MWL
+Avar Prime.blk	MWL
+Avatar AV1-OK.mtf	MWL
+Avatar AV1-OS.mtf	MWL
+Avatar AV1-OU.mtf	MM
+Avatar AV1-OV.mtf	MWL
+Awesome AWS-10MC.mtf	MWL
+Awesome AWS-10ME.mtf	MWL
+Awesome AWS-13W.mtf	MWL
+Awesome AWS-15M.mtf	MWL
+Awesome AWS-9K.mtf	MWL
+Awesome AWS-9Ma.mtf	MM
+Awesome AWS-9MC.mtf	MWL
+Awesome AWS-9ME.mtf	MWL
+Awesome AWS-9Q (Klatt).mtf	MM
+Axel Heavy Tank IIC (XL).blk	MM
+Axel Heavy Tank Mk 1.blk	MM
+Axel Heavy Tank Mk 2.blk	MM
+Axel IIC Tank.blk	MM
+Axel Mk 3.blk	MWL
+Axel Mk 4.blk	MWL
+Axman AXM-2D.mtf	MWL
+Axman AXM-3RK.mtf	MWL
+Axman AXM-5R.mtf	MWL
+Axman AXM-6T.mtf	MM
+Axman AXN-1NA.mtf	MWL
+Baboon (Howler) 2.mtf	MM
+Baboon (Howler) 3.mtf	MM
+Baboon (Howler).mtf	MM
+Badger (C) Tracked Transport Prime.blk	MM
+Badger Tracked Transport R.blk	MWL
+Bakeneko BKN-1K.mtf	MM
+Balac Strike VTOL (Hybrid).blk	MM
+Balius E.mtf	MM
+Ballista Artillery Trailer (Standard).blk	MM
+Ballista Self Propelled Artillery Tank.blk	MM
+Bandersnatch BNDR-01D.mtf	MWL
+Bandersnatch BNDR-01D1.mtf	MWL
+Bandersnatch BNDR-01WB.mtf	MWL
+Bandersnatch BNDR-03B.mtf	MWL
+Bandersnatch BNDR-9M.mtf	MWL
+Bandersnatch Horus.mtf	MM
+Bandit Hovercraft R.blk	MWL
+Bandit Mk II.blk	MM
+Bandit Warthog.blk	MM
+Banshee BNC-12S.mtf	MWL
+Banshee BNC-1DM.mtf	MWL
+Banshee BNC-1E.mtf	MM
+Banshee BNC-20SC.mtf	MWL
+Banshee BNC-3S Reinesblatt.mtf	MM
+Banshee BNC-5S (Sawyer).mtf	MM
+Banshee BNC-5S (Vandergriff).mtf	MM
+Banshee BNC-6SB.mtf	MWL
+Banshee BNC-8X.mtf	MWL
+Banshee BNC-9S2.mtf	MM
+Banzai BNZ-X.mtf	MM
+Bardiche Heavy Strike Tank (Minesweeper).blk	MM
+Bardiche Heavy Strike Tank (Standard).blk	MM
+Barghest BGS-1Tr.mtf	MWL
+Barghest BGS-1V.mtf	MWL
+Barouche Hovercraft.blk	MM
+BARS (Bushido).blk	MWL
+BARS (Cell G).blk	MWL
+BARS (Cell).blk	MWL
+BARS (X).blk	MWL
+BARS C.blk	MWL
+BARS.blk	MWL
+Base A.blk	MWL
+Base VC.blk	MWL
+Bashkir A.blk	MWL
+Bashkir B.blk	MWL
+Bashkir C.blk	MWL
+Bashkir D.blk	MWL
+Bashkir F.blk	MWL
+Bashkir Prime.blk	MWL
+Battle Hawk BH-K306 Skobel.mtf	MWL
+Battle Hawk BH-K308.mtf	MWL
+BattleAxe BKX-1X.mtf	MM
+Battleaxe BKX-8IF.mtf	MWL
+Battleaxe BKX-8L.mtf	MWL
+BattleMaster BLR-10K.mtf	MWL
+BattleMaster BLR-10S.mtf	MM
+Battlemaster BLR-10S.mtf	MWL
+BattleMaster BLR-1G Red Corsair.mtf	MM
+BattleMaster BLR-1Gd.mtf	MM
+BattleMaster BLR-1GHE HellSinger.mtf	MM
+Battlemaster BLR-3KA.mtf	MWL
+BattleMaster BLR-3M (Rogers).mtf	MM
+Battlemaster BLR-3SS.mtf	MWL
+BattleMaster BLR-4S Calvin II.mtf	MM
+BattleMaster BLR-4S Calvin.mtf	MM
+Battlemaster BLR-4SB.mtf	MWL
+Battlemaster BLR-5R.mtf	MWL
+Battlemaster BLR-7L.mtf	MWL
+BattleMaster BLR-8S.mtf	MWL
+BattleMaster BLR-CMr.mtf	MWL
+BattleMaster BLR-K5.mtf	MWL
+BattleMaster BLR-K7.mtf	MWL
+BattleMech Recovery Vehicle.blk	MM
+Batu A.blk	MWL
+Batu B.blk	MWL
+Batu C.blk	MWL
+Batu D.blk	MWL
+Batu J.blk	MWL
+Batu Prime.blk	MWL
+Beagle (Sealed).blk	MM
+Beagle Hover Scout (3067).blk	MWL
+Beagle Hover Scout (C3i).blk	MM
+Beagle Hover Scout (Interdictor).blk	MWL
+Beagle Hover Scout (LRRP).blk	MM
+Beagle Hover Scout (TAG).blk	MM
+Beagle.blk	MM
+Bear Cub .mtf	MM
+Bear Cub 4.mtf	MWL
+Bear Cub 5.mtf	MWL
+Bear Cub 6.mtf	MWL
+Behemoth (Stone Rhino) 2.mtf	MM
+Behemoth (Stone Rhino) 3.mtf	MM
+Behemoth (Stone Rhino) 4.mtf	MM
+Behemoth (Stone Rhino) 5.mtf	MM
+Behemoth (Stone Rhino) 6.mtf	MM
+Behemoth (Stone Rhino).mtf	MM
+Behemoth Heavy Tank (Tom-Tom).blk	MWL
+Behemoth II Heavy Tank (Standard).blk	MM
+Behemoth II Heavy Tank (Support).blk	MM
+Behemoth II Tank.blk	MWL
+Bellerophon BEL-1X.mtf	MM
+Bellona  Hover Tank (Laser).blk	MM
+Bengal A.blk	MWL
+Bengal B.blk	MWL
+Bengal.blk	MWL
+Beowulf BEO-X-7a.mtf	MM
+Beowulf C.mtf	MM
+Beowulf IIC.mtf	MM
+Berserker  BRZ-A3H.mtf	MWL
+Berserker BRZ-A4.mtf	MWL
+Berserker BRZ-AJ.mtf	MWL
+Bishamon BSN-6K.mtf	MWL
+Bishop Transport VTOL (Standard).blk	MM
+Black Hawk (Nova) A.mtf	MM
+Black Hawk (Nova) B.mtf	MM
+Black Hawk (Nova) C.mtf	MM
+Black Hawk (Nova) D.mtf	MM
+Black Hawk (Nova) E.mtf	MM
+Black Hawk (Nova) F.mtf	MM
+Black Hawk (Nova) H.mtf	MM
+Black Hawk (Nova) I.mtf	MM
+Black Hawk (Nova) Prime.mtf	MM
+Black Hawk (Nova) S.mtf	MM
+Black Hawk (Nova) T.mtf	MM
+Black Hawk (Nova) U.mtf	MM
+Black Hawk 3.mtf	MM
+Black Hawk-KU BHKU-O Albert.mtf	MM
+Black Hawk-KU BHKU-OG.mtf	MM
+Black Hawk-KU BHKU-OK.mtf	MWL
+Black Hawk-KU BHKU-OR.mtf	MM
+Black Knight BL-10-KNT Ross.mtf	MM
+Black Knight BL13-KNT.mtf	MWL
+Black Knight BL15-KNT.mtf	MWL
+Black Knight BL16-KNT.mtf	MWL
+Black Knight BL-20-KNT.mtf	MWL
+Black Knight BL-6b-KNT.mtf	MWL
+Black Knight BL-6-KLC.mtf	MWL
+Black Knight BL-6-KNT Ian.mtf	MM
+Black Knight BL-6-RR.mtf	MM
+Black Knight BL-CG-KNT.mtf	MWL
+Black Knight BL-KG-KNT.mtf	MWL
+Black Knight BLK-NT-2Y.mtf	MM
+Black Knight BLK-NT-3A.mtf	MM
+Black Knight BLK-NT-3B.mtf	MM
+Black Knight BLK-NT-4D.mtf	MM
+Black Knight BLK-NT-5H.mtf	MM
+Black Knight BL-KNT-IIC.mtf	MWL
+Black Lanner B JF (MWL).mtf	MWL
+Black Watch BKW-7D.mtf	MWL
+Black Watch BKW-7W.mtf	MWL
+Black Watch BKW-8R.mtf	MWL
+Black Wolf Battle Armor(ER Pulse).blk	MM
+Black Wolf Battle Armor(Flamer).blk	MM
+Black Wolf Battle Armor(Heavy Mortar).blk	MM
+Black Wolf Battle Armor(LBX).blk	MM
+Black Wolf Battle Armor(Plasma).blk	MM
+Blackjack BJ-2DB.mtf	MWL
+Blackjack BJ2-OH.mtf	MWL
+Blackjack BJ2-OK.mtf	MWL
+Blackjack BJ2-OM.mtf	MWL
+Blackjack BJ2-OP.mtf	MWL
+Blackjack BJ2-OR.mtf	MM
+Blackjack BJ2-OU.mtf	MM
+Blackjack BJ2-OX.mtf	MM
+Blackjack BJ-2r.mtf	MM
+Blackjack BJ-3L.mtf	MWL
+Blackjack BJ-5.mtf	MWL
+Blackjack BJ-8D.mtf	MWL
+Blackwasp Mk 30.blk	MWL
+Blade BLD-7R.mtf	MM
+Blitzkrieg BTZ-4F.mtf	MM
+Blitzkrieg BTZ-5F.mtf	MWL
+Blitzkrieg BTZ-6F.mtf	MWL
+Blizzard Hover Transport (Black).blk	MWL
+Blizzard Hover Transport (SRM).blk	MM
+Blizzard Hover Transport Black Blizzard.blk	MM
+Blizzard Hover Transport.blk	MM
+Blood Asp I.mtf	MWL
+Blood Asp J.mtf	MWL
+Blood Reaper .mtf	MM
+Bloodhound B4-HND.mtf	MWL
+Bloodhound B5-HND.mtf	MWL
+Blue Flame BLF-23.mtf	MWL
+Blue Flame BLF-25.mtf	MWL
+Bolla Stealth Tank D.blk	MM
+Bolla Stealth Tank Eminus.blk	MWL
+Bombard BMB-010.mtf	MM
+Bombard BMB-013.mtf	MM
+Bombard BMB-1X.mtf	MM
+Bombardier BMB-14CS2.mtf	MWL
+Bombardier BMB-18C.mtf	MWL
+Bombardier IIC.mtf	MWL
+Bombardier IIC-R.mtf	MWL
+Bowman 3.mtf	MM
+Bowman 4.mtf	MM
+Brahma BRM-6A.mtf	MWL
+Bruin .mtf	MM
+Brunel Dump Truck AC20.blk	MM
+Brunel Dump Truck LRM.blk	MM
+Brunel Dump Truck.blk	MM
+Brutus Assault Tank (MML).blk	MWL
+Buccaneer BCN-3M.mtf	MWL
+Buccaneer BCN-3X.mtf	MWL
+Buccaneer BCN-4R.mtf	MWL
+Buffalo Drone Bomb.blk	MM
+Buffel VII Engineering Support Vehicle (Cargo).blk	MM
+Buffel VII Engineering Support Vehicle Reverse Buffel.blk	MM
+Buffel VII Engineering Support Vehicle.blk	MM
+Buffel VIII Engineering Support Vehicle.blk	MM
+Buitre Heavy VTOL.blk	MWL
+Bulldog Medium Tank (BLAZER).blk	MWL
+Bulldog Medium Tank (Cell).blk	MM
+Bulldog Medium Tank (HVAC).blk	MWL
+Bulldog Medium Tank (LPPC).blk	MWL
+Bulldog Medium Tank (Stealth).blk	MWL
+Bulldog Medium Tank.blk	MM
+Bullet Suicide Drone.blk	MM
+Bulwark Assault Vehicle (Original).blk	MM
+Bulwark Assault Vehicle (Standardl).blk	MM
+Buraq Fast Battle Armor (HK).blk	MM
+Buraq Fast Battle Armor (Standard).blk	MM
+Buraq Fast Battle Armor (Support).blk	MM
+Burke Defense Tank (HPPC).blk	MM
+Burke Defense Tank (Royal).blk	MM
+Burke Defense Tank.blk	MM
+Burke II Superheavy Tank (Standard).blk	MM
+Burke IIC.blk	MWL
+Burrock 2.mtf	MM
+Bushwacker BSW-S5.mtf	MWL
+Bushwacker BSW-X3.mtf	MWL
+Bushwacker BSW-X4.mtf	MWL
+Buster Class HaulerMech BC XV (AC).mtf	MM
+Buster Class HaulerMech BC XV (PPC).mtf	MM
+Buster Class HaulerMech BC XV.mtf	MM
+Buster XXI HaulerMech (Standard).mtf	MM
+Cadaver CVR-A1.mtf	MM
+Cadaver CVR-T1.mtf	MM
+Caesar CES-3R Archangel.mtf	MM
+Calliope CAL-1MAF.mtf	MM
+C-ANG-O Archangel Comminus.mtf*	MWL
+C-ANG-O Archangel Dominus.mtf*	MWL
+C-ANG-O Archangel Eminus.mtf*	MWL
+C-ANG-O Archangel Infernus II.mtf	MWL
+C-ANG-O Archangel Infernus.mtf*	MWL
+C-ANG-O Archangel Invictus II.mtf	MWL
+C-ANG-O Archangel Invictus.mtf*	MWL
+C-ANG-O Archangel Luminos.mtf*	MWL
+C-ANG-O Archangel Zuriel.mtf	MWL
+Canis .mtf	MM
+Caravan Heavy Transport.blk	MM
+Carbine ConstructionMech CON-1 (Rocket).mtf	MM
+Carbine ConstructionMech CON-1.mtf	MM
+Carbine ConstructionMech CON-7.mtf	MM
+Carbine ConstructionMech CON-8.mtf	MM
+Cardinal Transport (RAF).blk	MM
+Cardinal Transport (Standard).blk	MM
+Carronade CRN-7M.mtf	MM
+Carter MERV.blk	MM
+Cataphract CTF-0X.mtf	MM
+Cataphract CTF-2X George.mtf	MM
+Cataphract CTF-3LV.mtf	MWL
+Cataphract CTF-3X Sara.mtf	MM
+Cataphract CTF-5L.mtf	MWL
+Cataphract CTF-5MOC Naomi.mtf	MM
+Cataphract III CTF-3X.mtf	MWL
+Cataphract III CTF-3XT.mtf	MWL
+Catapult CPLT-7H.mtf	MWL
+Catapult CPLT-8H.mtf	MWL
+Catapult CPLT-C1 Jenny.mtf	MM
+Catapult CPLT-C2L.mtf	MWL
+Catapult CPLT-C7.mtf	MWL
+Catapult CPLT-C7A.mtf	MWL
+Catapult II CPLT-L7.mtf	MM
+Catapult II CPLT-L7L.mtf	MM
+Cattlemaster CTL-2 (Hunter).mtf	MM
+Cattlemaster CTL-3R (Herder).mtf	MM
+Cattlemaster RA-4 HerderMech.mtf	MM
+Cauldron-Born (Ebon Jaguar) (Samantha).mtf	MM
+Cauldron-Born (Ebon Jaguar) A.mtf	MM
+Cauldron-Born (Ebon Jaguar) B.mtf	MM
+Cauldron-Born (Ebon Jaguar) C.mtf	MM
+Cauldron-Born (Ebon Jaguar) D.mtf	MM
+Cauldron-Born (Ebon Jaguar) E.mtf	MM
+Cauldron-Born (Ebon Jaguar) H.mtf	MM
+Cauldron-Born (Ebon Jaguar) Prime.mtf	MM
+Cauldron-Born (Ebon Jaguar) U.mtf	MM
+Cauldron-Born (Ebon Jaguar) X.mtf	MM
+Cauldron-Born HV.mtf	MWL
+Cavalier [Flamer].blk	MM
+Cavalier [Laser].blk	MM
+Cavalier [MG].blk	MM
+Cavalier [SRM].blk	MM
+Cavalry (Inflitrator).blk	MM
+Cavalry Attack Helicopter Cadence Rain.blk	MM
+Cave Lion (Standard).mtf	MM
+C-DVA-O Deva Asmodaeus.mtf	MWL
+C-DVA-O Deva Comminus.mtf	MWL
+C-DVA-O Deva Dominus.mtf	MWL
+C-DVA-O Deva Eminus.mtf	MWL
+C-DVA-O Deva Exanimus.mtf	MWL
+C-DVA-O Deva Infernus.mtf	MWL
+C-DVA-O Deva Invictus.mtf	MWL
+C-DVA-O Deva Luminos.mtf	MWL
+Celerity CLR-02-X-D.mtf	MM
+Centaur BattleArmor (Standard).blk	MM
+Centipede Scout Car.blk	MM
+Centurion CN10-B.mtf	MWL
+Centurion CN10-B1.mtf	MWL
+Centurion CN10-B2.mtf	MWL
+Centurion CN11-O.mtf	MM
+Centurion CN11-OA.mtf	MM
+Centurion CN11-OB.mtf	MM
+Centurion CN11-OC.mtf	MM
+Centurion CN11-OD.mtf	MM
+Centurion CN11-OE.mtf	MM
+Centurion CN9-D6.mtf	MWL
+Centurion CN9-H.mtf	MM
+Centurion CN9-MV.mtf	MWL
+Centurion CN9-S.mtf	MWL
+Centurion CN9-SG.mtf	MWL
+Centurion CN9-SX.mtf	MWL
+Centurion CN9-YLW Yen Lo Wang.mtf	MM
+Centurion CN9-YLW.mtf	MWL
+Centurion CNT-1D.blk	MWL
+Centurion CNT-3S.blk	MWL
+Cephalus A.mtf	MM
+Cephalus B.mtf	MM
+Cephalus C.mtf	MM
+Cephalus D.mtf	MM
+Cephalus E.mtf	MM
+Cephalus Prime.mtf	MM
+Cephalus U.mtf	MM
+Cerberus MR-7B.mtf	MWL
+Cerberus MR-V3C.mtf	MWL
+Cerberus MR-V5C.mtf	MWL
+Cerberus MR-W2.mtf	MWL
+Cestus CTS-6RK.mtf	MWL
+Cestus CTS-7CS.mtf	MWL
+Cestus CTS-7D.mtf	MWL
+Cestus CTS-7S.mtf	MWL
+C-GRG-O Grigori Asmodaeus.mtf	MWL
+C-GRG-O Grigori Caelestis.mtf	MWL
+C-GRG-O Grigori Comminus.mtf	MWL
+C-GRG-O Grigori Dominus.mtf	MWL
+C-GRG-O Grigori Eminus.mtf	MWL
+C-GRG-O Grigori Infernus V.mtf	MWL
+C-GRG-O Grigori Infernus.mtf	MWL
+C-GRG-O Grigori Invictus.mtf	MWL
+C-GRG-O Grigori Luminos.mtf	MWL
+Chaeronea 2.blk	MWL
+Chaeronea 3.blk	MWL
+Chaeronea.blk	MWL
+Chaffee Servicemech BT1.mtf	MM
+Chalchiuhtotolin Support Tank (XL).blk	MM
+Challenger MBT XV.blk	MM
+Chameleon CLN-4V.mtf	MM
+Chameleon CLN-7V.mtf	MM
+Chameleon Q-'Mech CLN-7VQ.mtf	MM
+Champion C.mtf	MM
+Champion CHP-1CS.mtf	MWL
+Champion CHP-3D.mtf	MWL
+Champion CHP-4C.mtf	MWL
+Champion CHP-4C3.mtf	MWL
+Champion II CHM-3W.mtf	MWL
+Champion II CHM-3WAP.mtf	MWL
+Champion IIC.mtf	MWL
+Charger CGR-1RA.mtf	MWL
+Charger CGR-2RA.mtf	MWL
+Charger CGR-6J.mtf	MWL
+Charger CGR-6K.mtf	MWL
+Charger CGR-7K.mtf	MWL
+Charger CGR-A9R.mtf	MWL
+Charonea 2.blk	MWL
+Charonea 3.blk	MWL
+Charonea 4.blk	MWL
+Charonea 5.blk	MWL
+Charonea.blk	MWL
+Cheetah F-10.blk	MWL
+Cheetah F-11.blk	MWL
+Cheetah F-11-R.blk	MWL
+Cheetah F-11-RR.blk	MWL
+Cheetah F-12-S.blk	MWL
+Cheetah F-13.blk	MWL
+Cheetah F-14-S.blk	MWL
+Cheetah OF-17.blk	MWL
+Chevalier Light Tank (VSPL).blk	MWL
+Chimera CMA-2K.mtf	MWL
+Chimera CMA-2S.mtf	MWL
+Chimera CMA-3A.mtf	MWL
+Chimera CMA-K.mtf	MWL
+Chimera CMA-S.mtf	MWL
+Chippewa CHP-W10.blk	MWL
+Chippewa CHP-W5.blk	MWL
+Chippewa CHP-W5b.blk	MWL
+Chippewa CHP-W7.blk	MWL
+Chippewa CHP-W7T.blk	MWL
+Chippewa CHP-W8.blk	MWL
+Chippewa IIC.blk	MWL
+Churchill Mk XX (AC 20).blk	MWL
+Churchill Mk XX (Gauss).blk	MWL
+Churchill Mk XX.blk	MWL
+Cicada CDA-3T.mtf	MWL
+Cicada CDA-6P.mtf	MWL
+Cizin (Standard).blk	MM
+Cizin (Support).blk	MM
+Clan Medium BA (Bar).blk	MM
+Clan Medium BA (Rache).blk	MM
+Clan Medium BA (Rapid).blk	MM
+Clan Medium BA (Volk).blk	MM
+Claymore G.blk	MWL
+Claymore.blk	MWL
+Clint CLNT-2-2R.mtf	MWL
+Clint CLNT-2-3T Denton.mtf	MM
+Clint CLNT-2-V.mtf	MWL
+Clint CLNT-6SS.mtf	MWL
+Clint IIC .mtf	MM
+Clint IIC 2.mtf	MM
+Clint IIC 2R.mtf	MWL
+C-MK-O Malak Alphon.mtf	MWL
+C-MK-O Malak Comminus.mtf	MWL
+C-MK-O Malak Dominus.mtf	MWL
+C-MK-O Malak Eminus.mtf	MWL
+C-MK-O Malak Exanimus.mtf	MWL
+C-MK-O Malak Infernus.mtf	MWL
+C-MK-O Malak Invictus.mtf	MWL
+C-MK-O Malak Luminos.mtf	MWL
+C-MK-O Malak Maion.mtf	MWL
+C-MK-O Malak Rashnu.mtf	MWL
+Cobra CBR-02W.mtf	MWL
+Cobra CBR-03S.mtf	MWL
+Cobra CBR-05.mtf	MWL
+Cobra Transport VTOL (Command).blk	MM
+Cobra Transport VTOL (M.A.S.H.).blk	MM
+Colossus CL-P3.mtf	MM
+Colossus CLS-4S.mtf	MM
+Colossus CLS-5S.mtf	MM
+Commando COM-1A.mtf	MM
+Commando COM-1B.mtf	MM
+Commando COM-1C.mtf	MM
+Commando COM-2N.mtf	MWL
+Commando COM-7S2 Freyr.mtf	MM
+Commando COM-8S.mtf	MM
+Commando COM-8T.mtf	MWL
+Commando COM-9D.mtf	MWL
+Commando COM-9DA.mtf	MWL
+Commando COM-9S.mtf	MWL
+Commando IIC .mtf	MM
+Condor Heavy Hover Tank (C3i).blk	MWL
+Condor Heavy Hover Tank (FCE Davion).blk	MWL
+Condor Heavy Hover Tank (FCE Liao).blk	MWL
+Condor Heavy Hover Tank (FCE).blk	MWL
+Condor Heavy Hover Tank (Fission).blk	MM
+Condor Heavy Hover Tank (Laser Upgrade).blk	MM
+Condor Multi-Purpose Tank.blk	MWL
+Constable Pacification Suit (ECM).blk	MM
+Constable Pacification Suit (Imp Sensors).blk	MM
+Constable Pacification Suit (LMG).blk	MM
+Constable Pacification Suit (SRM).blk	MM
+Constable Pacification Suit (TAG).blk	MM
+Coolant Truck (Hover).blk	MM
+Coolant Truck (Tracked).blk	MM
+Coolant Truck 135-K.blk	MM
+Copper SecurityMech CPK-19.mtf	MM
+Copperhead CPR-HD-002.mtf	MM
+Copperhead CPR-HD-003.mtf	MM
+Copperhead CPR-HD-004.mtf	MM
+Corax CRX-O.blk	MWL
+Corax CRX-OA.blk	MWL
+Corax CRX-OB.blk	MWL
+Corax CRX-OC.blk	MWL
+Corona (SRM) Elite.blk	MWL
+Corona Elite.blk	MWL
+Corona Heavy Battle Armor (SRM).blk	MM
+Corona Heavy Battle Armor.blk	MM
+Corsair CSR-V12.blk	MWL
+Corsair CSR-V12b.blk	MWL
+Corsair CSR-V12M.blk	MWL
+Corsair CSR-V14.blk	MWL
+Corsair CSR-V18.blk	MWL
+Corsair CSR-V20.blk	MWL
+Corsair CSR-X12 Rigid Night.blk	MWL
+Corvis .mtf	MM
+Cossack C-SK2.mtf	MWL
+Cougar I.mtf	MM
+Cougar X 2.mtf	MM
+Cougar X 3.mtf	MM
+Cougar Z.mtf	MWL
+Cougar-XR.mtf	MM
+Coyotl A.mtf	MM
+Coyotl Prime.mtf	MM
+C-PRT-O Preta Asmodaeus.mtf	MWL
+C-PRT-O Preta Caelestis.mtf	MWL
+C-PRT-O Preta Comminus.mtf	MWL
+C-PRT-O Preta Dominus.mtf	MWL
+C-PRT-O Preta Eminus.mtf	MWL
+C-PRT-O Preta Exanimus.mtf	MWL
+C-PRT-O Preta Infernus.mtf	MWL
+C-PRT-O Preta Invictus.mtf	MWL
+C-PRT-O Preta Luminos.mtf	MWL
+Crab CRB-27CS.mtf	MWL
+Crab CRB-27L.mtf	MWL
+Crab CRB-27sl.mtf	MM
+Crab CRB-29L.mtf	MWL
+Crab CRB-33.mtf	MWL
+Crab CRB-65.mtf	MWL
+Crab IIC 3H.mtf	MWL
+Crab IIC.mtf	MWL
+Crane Heavy Transport (Standard).blk	MM
+Crimson Hawk .mtf	MM
+Crimson Hawk 4.mtf	MM
+Crimson Langur D.mtf	MM
+Crimson Langur E.mtf	MM
+Crimson Langur Prime.mtf	MWL
+Crinos Mk I.blk	MWL
+Crinos Mk II.blk	MWL
+Crockett CRK-5003-6.mtf	MWL
+Crockett CRK-5003-7.mtf	MWL
+Crockett CRK-5004-1.mtf	MM
+Crockett IIC 2.mtf	MWL
+Crockett IIC.mtf	MWL
+Cronus CNS-10M.mtf	MWL
+Cronus CNS-3M.mtf	MM
+Cronus CNS-6M.mtf	MWL
+Cronus CRS-3M.mtf	MWL
+Crossbow CRS-X.mtf	MM
+Crossbow D.mtf	MM
+Crossbow U.mtf	MM
+Crosscut ForestryMech ED-X4.mtf	MM
+Crosscut LoggerMech ED-X2 (Flamer).mtf	MM
+Crosscut LoggerMech ED-X2 (Rocket).mtf	MM
+Crosscut LoggerMech ED-X2.mtf	MM
+Crosscut LoggerMech ED-XX Ichabod.mtf	MM
+Crow (Export).blk	MWL
+Crow Scout Helicopter (C3).blk	MM
+Crow Scout Helicopter (Export).blk	MM
+Crow Scout Helicopter.blk	MM
+Crusader CRD-3E.mtf	MWL
+Crusader CRD-3R Crael.mtf	MM
+Crusader CRD-4BR.mtf	MM
+Crusader CRD-7KA.mtf	MWL
+Crusader CRD-7L2.mtf	MWL
+Crusader CRD-9M.mtf	MWL
+Crusader CRD-9S.mtf	MWL
+C-SRP-O Seraph Comminus.mtf	MWL
+C-SRP-O Seraph Dominus.mtf	MWL
+C-SRP-O Seraph Eminus.mtf	MWL
+C-SRP-O Seraph Infernus.mtf	MWL
+C-SRP-O Seraph Invictus.mtf	MWL
+C-SRP-O Seraph Israfil.mtf	MWL
+C-SRP-O Seraph Luminos.mtf	MWL
+C-SRP-O Seraph Maion.mtf	MWL
+C-SRP-O Seraph Raguel.mtf	MWL
+C-SRP-O Seraph Ramiel.mtf	MWL
+Cuchulainn Support Armor (Clan).blk	MM
+Cuchulainn Support Armor (IS).blk	MM
+Cudgel CDG-1B.mtf	MM
+Cudgel CDG-2A.mtf	MM
+Cudgel CDG-2B.mtf	MM
+Cuirass CDR-1X.mtf	MM
+Cuirass CDR-2BC.mtf	MM
+Cuirass CDR-2X.mtf	MM
+Culverin CLV-N A.mtf	MWL
+Culverin CLV-N B.mtf	MWL
+Culverin CLV-N Prime.mtf	MWL
+Cyclops CP-11-A-DC.mtf	MM
+Cyclops CP-11-CS.mtf	MWL
+Cyclops CP-11-L.mtf	MWL
+Cyclops CP-11-RK.mtf	MWL
+Cyclops CP-12-F.mtf	MWL
+Cyclops CP-12-G.mtf	MWL
+Cyclops CP-12-L.mtf	MWL
+Cyclops CP-13-C.mtf	MWL
+Cyclops CP-13-CH.mtf	MWL
+Cygnus .mtf	MM
+Cyrano Gunship (Fury).blk	MM
+Cyrano Gunship (ML).blk	MM
+Cyrano Gunship (Plasma).blk	MM
+Cyrano Gunship (Royal).blk	MM
+Cyrano Gunship.blk	MM
+Daboku DCMS-MX90-D.mtf	MM
+Daedalus DAD-3C.mtf	MM
+Daedalus DAD-3D.mtf	MM
+Daedalus DAD-4A.mtf	MM
+Daedalus DAD-4B.mtf	MM
+Daedalus GTX2 (Militarized).mtf	MM
+Daedalus GTX2A Stevedore.mtf	MM
+Daedalus GTX2B Navvy.mtf	MM
+Dagger DAR4-XP.blk	MWL
+Dagger DARO-1.blk	MWL
+Dagger DARO-1A.blk	MWL
+Dagger DARO-1B.blk	MWL
+Daikyu DAI-01B.mtf	MWL
+Daikyu Tabitha.mtf	MM
+Daimyo DMO-1K2 Al-Shahab.mtf	MM
+Daimyo DMO-6K.mtf	MWL
+Daimyo DMO-6KC.mtf	MWL
+Daimyo DMO-7K.mtf	MWL
+Daishi (Dire Wolf)  Prime.mtf	MM
+Daishi (Dire Wolf) A.mtf	MM
+Daishi (Dire Wolf) B.mtf	MM
+Daishi (Dire Wolf) C.mtf	MM
+Daishi (Dire Wolf) D.mtf	MM
+Daishi (Dire Wolf) E.mtf	MM
+Daishi (Dire Wolf) H.mtf	MM
+Daishi (Dire Wolf) Hohiro.mtf	MM
+Daishi (Dire Wolf) Prometheus.mtf	MM
+Daishi (Dire Wolf) S.mtf	MM
+Daishi (Dire Wolf) U.mtf	MM
+Daishi (Dire Wolf) W.mtf	MM
+Daishi (Dire Wolf) Widowmaker.mtf	MM
+Daishi (Dire Wolf) X.mtf	MM
+Danai Arrow.blk	MM
+Dao Mk I.blk	MWL
+Dao Mk II.blk	MWL
+Dark Crow .mtf	MM
+Darter Scout Car (BAP).blk	MM
+Darter Scout Car (C3).blk	MM
+Darter Scout Car (ECM).blk	MM
+Darter Scout Car (SRM).blk	MM
+Darter Scout Car.blk	MM
+Dasher (Fire Moth) A.mtf	MM
+Dasher (Fire Moth) Aletha.mtf	MM
+Dasher (Fire Moth) B.mtf	MM
+Dasher (Fire Moth) C.mtf	MM
+Dasher (Fire Moth) D.mtf	MM
+Dasher (Fire Moth) E.mtf	MM
+Dasher (Fire Moth) F.mtf	MM
+Dasher (Fire Moth) G.mtf	MM
+Dasher (Fire Moth) H.mtf	MM
+Dasher (Fire Moth) K.mtf	MM
+Dasher (Fire Moth) Prime.mtf	MM
+Dasher II 3.mtf	MM
+Dasher II 4.mtf	MM
+Deathstalker F-77.blk	MWL
+Deathstalker F-78.blk	MWL
+Deep Lord MilitiaMech RCL-Z1M.mtf	MM
+Defiance  DFN-3S.mtf	MWL
+Defiance DFC-O.blk	MWL
+Defiance DFC-OA.blk	MWL
+Defiance DFC-OB.blk	MWL
+Defiance DFC-OC.blk	MWL
+Deimos D.mtf	MM
+Deimos E.mtf	MM
+Demolisher Heavy Tank (Apollo).blk	MWL
+Demolisher Heavy Tank (CS-KA).blk	MWL
+Demolisher Heavy Tank (Standard Mk. I).blk	MM
+Demolisher Heavy Tank (Standard Mk. II).blk	MM
+Demolisher Heavy Tank (Ultra).blk	MWL
+Demolisher Heavy Tank II -X.blk	MM
+Demolisher Heavy Tank.blk	MWL
+Demolisher II Heavy Tank (Thunderbolt).blk	MM
+Demolisher II Heavy Tank (WoB).blk	MWL
+Demolisher II Heavy Tank (X).blk	MWL
+DemolitionMech WI-DM.mtf	MM
+DemolitionMech WI-DM2.mtf	MM
+Demon Medium Tank (Armor).blk	MM
+Demon Medium Tank (Rifle).blk	MM
+Demon Medium Tank.blk	MM
+Demon Tank (3067).blk	MWL
+Demon Tank (HGR).blk	MM
+Demon Tank (Horned Demon).blk	MM
+Demon Tank (PPC).blk	MM
+Demon Tank (Royal).blk	MM
+Demon Tank CX-2.blk	MM
+Demon Tank.blk	MM
+Demona Combat Transport (Standard).blk	MWL
+Dervish DV-1S.mtf	MM
+Dervish DV-6Md.mtf	MM
+Dervish DV-7DX.mtf	MWL
+Dervish DV-8D2 Lightbringer.mtf	MM
+Destrier Siege Vehicle (Standard).blk	MM
+Deva C-DVA-O Achilleus.mtf	MM
+Deva C-DVA-O Invictus.mtf	MM
+Deva C-DVA-OA Dominus.mtf	MM
+Deva C-DVA-OB Infernus.mtf	MM
+Deva C-DVA-OC Comminus.mtf	MM
+Deva C-DVA-OD Luminos.mtf	MM
+Deva C-DVA-OE Eminus.mtf	MM
+Deva C-DVA-OS Caelestis.mtf	MM
+Deva C-DVA-OU Exanimus.mtf	MM
+Devastator DVS-3SB.mtf	MWL
+Devastator DVS-4.mtf	MWL
+Devastator DVS-4B.mtf	MWL
+Devastator DVS-4D.mtf	MWL
+Devastator DVS-TDF.mtf	MWL
+Devastator Heavy Tank.blk	MM
+DI Morgan Assault Tank (Gauss).blk	MM
+DI Morgan Assault Tank (LRM).blk	MM
+DI Morgan Assault Tank.blk	MM
+DI Multipurpose VTOL (Gunship).blk	MM
+DI Multipurpose VTOL (Standard).blk	MM
+DI Schmitt Tank (Standard).blk	MM
+DI Schmitt Tank (Targetting Computer).blk	MM
+Dig Lord MiningMech MOD RCL-4M.mtf	MM
+Dig Lord MiningMech RCL-4.mtf	MM
+Dig Lord RCL-Z1 Armed MiningMech.mtf	MM
+Diomede D-M3D-3 ConstructionMech.mtf	MM
+Diomede D-M3D-4 DemolitionMech.mtf	MM
+Diomede D-M3D-M.mtf	MM
+Diomedes (Ultra).blk	MWL
+Diomedes.blk	MWL
+Dire Wolf B.mtf	MWL
+Dire Wolf HS.mtf	MWL
+Djinn Battle Armor (Stealth).blk	MM
+Djinn Battle Armor.blk	MM
+Dola DOL-1A1.mtf	MM
+Dola DOL-1A2 Yoh Ti Ts'angs.mtf	MM
+Doloire DLR-O.mtf	MM
+Doloire DLR-OA.mtf	MM
+Doloire DLR-OB.mtf	MM
+Doloire DLR-OC.mtf	MM
+Doloire DLR-OD.mtf	MM
+Donar Assault Helicopter (Recon).blk	MM
+Donar Assault Helicopter.blk	MM
+Dragon DRG-2Y Yoriyoshi.mtf	MM
+Dragon DRG-5K-DC.mtf	MM
+Dragon Fire DGR-3F2.mtf	MWL
+Dragon Fire DGR-4L.mtf	MWL
+Dragon Fire DGR-5C.mtf	MWL
+Dragon Fire DGR-6FC2 (Gregory).mtf	MM
+Dragon Fire DGR-8FC.mtf	MWL
+Dragon Fire Kishi DGR-6FC2.mtf	MWL
+Dragon II DRG-11K.mtf	MM
+Dragon II DRG-11R.mtf	MM
+Dragonfly (Viper) A.mtf	MM
+Dragonfly (Viper) B.mtf	MM
+Dragonfly (Viper) C.mtf	MM
+Dragonfly (Viper) D.mtf	MM
+Dragonfly (Viper) E.mtf	MM
+Dragonfly (Viper) F.mtf	MM
+Dragonfly (Viper) G.mtf	MM
+Dragonfly (Viper) H.mtf	MM
+Dragonfly (Viper) I.mtf	MM
+Dragonfly (Viper) Prime.mtf	MM
+Dragonfly (Viper) U.mtf	MM
+Dragonfly (Viper) Z.mtf	MM
+Dragoon AEM-01.mtf	MM
+Dragoon AEM-02.mtf	MM
+Dragoon AEM-03.mtf	MM
+Dragoon AEM-04.mtf	MM
+Drillson Heavy Hover Tank (MML).blk	MWL
+Drillson Heavy Hover Tank (SSRM).blk	MWL
+Dromedary Water Transport .blk	MM
+Duan Gung D9-G12.mtf	MWL
+Durendal DND-5D.mtf	MWL
+Durendal DND-5DE.mtf	MWL
+Durendal DND-5DL.mtf	MWL
+Durendal DND-6DE.mtf	MWL
+Eagle EGL-4M.mtf	MWL
+Eagle EGL-R10.blk	MWL
+Eagle EGL-R16.blk	MWL
+Eagle EGL-R4.blk	MWL
+Eagle EGL-R6.blk	MWL
+Eagle EGL-R6b.blk	MWL
+Eagle EGL-R9.blk	MWL
+Ebony MEB-12.mtf	MM
+Ebony MEB-13.mtf	MM
+Eisenfaust EFT-2.mtf	MM
+Eisensturm EST-O.blk	MWL
+Eisensturm EST-OA.blk	MWL
+Eisensturm EST-OB.blk	MWL
+Eisensturm EST-OC.blk	MWL
+Eisensturm EST-R3.blk	MWL
+Eldingar Hover Sled (HumHov).blk	MM
+Elemental (AP Gauss) Elite.blk	MWL
+Elemental (ER Laser) Elite.blk	MWL
+Elemental (Flamer) Elite.blk	MWL
+Elemental (Headhunter) Elite.blk	MWL
+Elemental (HMG) Elite.blk	MWL
+Elemental (Laser) Elite.blk	MWL
+Elemental (MG) Elite.blk	MWL
+Elemental (Pulse Laser) Elite.blk	MWL
+Elemental (TAG) Elite.blk	MWL
+Elemental (TAG).blk	MWL
+Elemental Battle Armor (Fire) [AP Gauss].blk	MM
+Elemental Battle Armor (Fire) [Flamer].blk	MM
+Elemental Battle Armor (Fire) [Pulse Laser].blk	MM
+Elemental Battle Armor (Headhunter).blk	MM
+Elemental Battle Armor (Space) [Flamer].blk	MM
+Elemental Battle Armor (Space) [MG].blk	MM
+Elemental Battle Armor (Space) [Pulse Laser].blk	MM
+Elemental Battle Armor [AP Gauss].blk	MM
+Elemental Battle Armor [ER Laser].blk	MM
+Elemental Battle Armor [Flamer].blk	MM
+Elemental Battle Armor [HMG].blk	MM
+Elemental Battle Armor [Laser].blk	MM
+Elemental Battle Armor [MG].blk	MM
+Elemental Battle Armor [Pulse Laser].blk	MM
+Elemental II Battle Armor Production.blk	MM
+Elemental II Battle Armor X.blk	MM
+Emperor EMP-6M2.mtf	MWL
+Emperor EMP-6ME Mercury Elite.mtf	MM
+Emperor EMP-6R.mtf	MWL
+Emperor EMP-7A.mtf	MWL
+Emperor EMP-7AC.mtf	MWL
+Emperor EMP-7RK.mtf	MWL
+Emperor EMP-8A.mtf	MWL
+Emperor Nerran.mtf	MM
+Enfield END-8Q.mtf	MWL
+Enforcer ENF-4R Daniel.mtf	MM
+Enforcer ENF-4V.mtf	MWL
+Enforcer ENF-5D Daniel.mtf	MM
+Enforcer ENF-5D2.mtf	MWL
+Enforcer ENF-5R.mtf	MWL
+Enforcer III ENF-8D.mtf	MWL
+Engineering Vehicle (Autocannon).blk	MM
+Engineering Vehicle (Flamer).blk	MM
+Engineering Vehicle.blk	MM
+Enyo Strike Tank ER Pulse.blk	MM
+Enyo Strike Tank Sholef.blk	MM
+Enyo Strike Tank XR.blk	MM
+Erlang Shen.blk	MWL
+Error OMG-UR-FD.hmp	MWL
+Estevez AA.blk	MM
+Estevez MBT.blk	MM
+Excalibur Cernunnos.mtf	MM
+Excalibur EXC-B1A.mtf	MWL
+Excalibur EXC-C4.mtf	MWL
+Excalibur EXC-CS2.mtf	MWL
+Excalibur IIC.mtf	MWL
+Exhumer EXR-2X.mtf	MM
+Exhumer EXR-3P.mtf	MM
+Exterminator EXT-4DS.mtf	MWL
+Exterminator EXT-4DX Caine.mtf	MM
+Exterminator EXT-4H.mtf	MWL
+Exterminator EXT-6CS.mtf	MM
+Exterminator EXT-IIC.mtf	MWL
+Eyrie (Standard).mtf	MM
+Fa Shih Battle Armor (Support) [King David].blk	MM
+Fa Shih Battle Armor (Support) [Plasma].blk	MM
+Fa Shih Battle Armor [Flamer].blk	MM
+Fa Shih Battle Armor [Laser].blk	MM
+Fa Shih Battle Armor [LRR].blk	MM
+Fa Shih Battle Armor [MG].blk	MM
+Fa Shih Battle Armor [TAG].blk	MM
+Fa Shih Battle Armor 2 [MG].blk	MM
+Fafnir FNR-4A Peter.mtf	MM
+Fafnir FNR-5C.mtf	MWL
+Fafnir FNR-6R.mtf	MWL
+Fafnir FNR-7S.mtf	MWL
+Falcon Hawk FNHK-10K1A.mtf	MWL
+Falcon Hawk FNHK-10K1B.mtf	MWL
+Falconer FLC-11R.mtf	MWL
+Fennec FEC-5CM.mtf	MM
+Fenrir Battle Armor [ERML].blk	MM
+Fenrir Battle Armor [MG].blk	MM
+Fenrir Battle Armor [Mortar].blk	MM
+Fenrir Battle Armor [MPL].blk	MM
+Fenrir Battle Armor [SL].blk	MM
+Fenrir Battle Armor [SPLAS].blk	MM
+Fenrir Battle Armor [SRM].blk	MM
+Fenrir Battle Armor [VSP].blk	MM
+Fenrir Battle Armor Longshot.blk	MM
+Fenrir II Assault Battlearmor (AI).blk	MM
+Fenrir II Assault Battlearmor (LRM).blk	MM
+Fenrir II Assault Battlearmor (ML).blk	MM
+Fenrir II Assault Battlearmor (MRR).blk	MM
+Fenrir II Assault Battlearmor (SRM).blk	MM
+Fenris (Ice Ferret) A.mtf	MM
+Fenris (Ice Ferret) B.mtf	MM
+Fenris (Ice Ferret) C.mtf	MM
+Fenris (Ice Ferret) D.mtf	MM
+Fenris (Ice Ferret) E.mtf	MM
+Fenris (Ice Ferret) H.mtf	MM
+Fenris (Ice Ferret) L.mtf	MM
+Fenris (Ice Ferret) Prime.mtf	MM
+Fenris (Ice Ferret) U.mtf	MM
+Fensalir Combat WiGE (HAG).blk	MM
+Fensalir Combat WiGE (Infantry).blk	MM
+Fensalir Combat WiGE.blk	MM
+Ferret Light Scout VTOL (Armor) Wild Weasel.blk	MM
+Ferret Light Scout VTOL (Cargo).blk	MM
+Ferret Light Scout VTOL (Fermi).blk	MM
+Ferret Light Scout VTOL.blk	MM
+Fire Falcon V.mtf	MWL
+Fire Javelin JVN-11N.mtf	MWL
+Fire Moth A.mtf*	MWL
+Fire Moth B.mtf*	MWL
+Fire Moth C.mtf*	MWL
+Fire Moth D.mtf*	MWL
+Fire Moth E.mtf*	MWL
+Fire Moth F.mtf*	MWL
+Fire Moth G.mtf*	MWL
+Fire Moth H.mtf*	MWL
+Fire Moth K.mtf*	MWL
+Fire Moth Prime.mtf*	MWL
+Fire Scorpion .mtf	MM
+Fireball ALM-13D.mtf	MWL
+Firebee FRB-1E(WAM-B).mtf	MM
+Firebee FRB-2E.mtf	MM
+Firefly FFL-3A.mtf	MM
+Firestarter FS10-H.mtf	MWL
+Firestarter FS10-M.mtf	MWL
+Firestarter FS9-M.mtf	MWL
+Firestarter FS9-M4.mtf	MM
+Firestarter FS9-MW.mtf	MWL
+Firestarter FS9-O I.mtf	MWL
+Firestarter FS9-O P.mtf	MWL
+Firestarter FS9-OR.mtf	MM
+Firestarter FS9-OU.mtf	MM
+Flagstaff III.blk	MWL
+Flagstaff IV.blk	MWL
+Flamberge 2.mtf	MM
+Flamberge A.mtf	MM
+Flamberge D.mtf	MM
+Flashfire FLS-P2.mtf	MM
+Flashfire FLS-P4.mtf	MM
+Flashfire FLS-P5.mtf	MM
+Flashman FLS-11SK.mtf	MWL
+Flashman FLS-IIC.mtf	MWL
+Flatbed Truck (Armor).blk	MM
+Flatbed Truck (LRM).blk	MM
+Flatbed Truck (Mortar).blk	MM
+Flatbed Truck (RL).blk	MM
+Flatbed Truck (SRM).blk	MM
+Flatbed Truck.blk	MM
+Flea FLE-14.mtf	MM
+Flea FLE-22.mtf	MWL
+Flea FLE-PX.mtf	MWL
+Forge FRG-E1.mtf	MWL
+Forge FRG-E2.mtf	MWL
+Forge FRG-F1.mtf	MWL
+Forge FRG-F2.mtf	MWL
+Forge FRG-G1.mtf	MWL
+Fortune Wheeled Assault Vehicle [Thunderbolt].blk	MM
+Fox Armored Car (Dark Age).blk	MWL
+Fox Armored Car (Interdictor).blk	MM
+Foxhound (Reynard).blk	MWL
+Fulcrum Heavy Hover Tank Hybrid.blk	MM
+Fulcrum Heavy Hovertank (X).blk	MWL
+Fulcrum Heavy Hovertank X.blk	MM
+Fulcrum II Heavy Hovertank.blk	MWL
+Fury (CS).blk	MWL
+Fury (WoB).blk	MWL
+Fury Command Tank (C3M).blk	MM
+Fury Command Tank (C3S).blk	MM
+Fury Command Tank (Fury II).blk	MM
+Fury Command Tank (Fury III).blk	MM
+Fury Command Tank (Fury IIIm).blk	MM
+Fury Command Tank (Original).blk	MM
+Fury Command Tank (Royal).blk	MM
+Fury Command Tank.blk	MM
+Fury CX-17.blk	MM
+Fury IIC.blk	MWL
+Fusilier BattleArmor (Standard).blk	MM
+Fusilier BattleArmor (Upgraded).blk	MM
+Fwltur FWL-3R SalvageMech.mtf	MM
+Fwltur FWL-3V SalvageMech.mtf	MM
+Gabriel Reconnaissance Hovercraft (ERSL).blk	MM
+Gabriel Reconnaissance Hovercraft (TDF).blk	MM
+Gabriel Reconnaissance Hovercraft.blk	MM
+Galahad (Glass Spider) 2.mtf	MM
+Galahad (Glass Spider) 3.mtf	MM
+Galahad (Glass Spider).mtf	MM
+Galahad GLH-3D Laodices.mtf	MM
+Galahad GLH-4D.mtf	MWL
+Gallant GLT-10-0.mtf	MM
+Gallant Urban Assault Tank (3067).blk	MWL
+Gallant Urban Assault Tank (CGRK).blk	MWL
+Gallant Urban Assault Tank.blk	MM
+Galleon Light Tank (3050).blk	MWL
+Galleon Light Tank GAL-200 (RL).blk	MWL
+Galleon Light Tank GAL-216.blk	MWL
+Galleon Light Tank Maxwell.blk	MM
+Gallowglas GAL-5GLSA.mtf	MWL
+Gallowglas GAL-6GLS.mtf	MWL
+Gallowglas GAL-7GLS.mtf	MWL
+Gambit GBT-1G.mtf	MM
+Gambit GBT-1L.mtf	MM
+Gargoyle CR.mtf	MWL
+Gargoyle I.mtf	MWL
+Garm GRM-01C2.mtf	MWL
+Garm GRM-02B.mtf	MWL
+Garrot Superheavy Transport.blk	MM
+Garuda Heavy VTOL.blk	MM
+Gauntlet GTL-1O.mtf	MM
+Gauntlet GTL-1OA.mtf	MM
+Gauntlet GTL-1OB.mtf	MM
+Gauntlet GTL-1OC.mtf	MM
+GD Infiltrator Suit (Firedrake).blk	MM
+GD Infiltrator Suit (ISensors).blk	MM
+GD Infiltrator Suit (Light TAG).blk	MM
+GD Infiltrator Suit (Mine).blk	MM
+GD Infiltrator Suit (Remote Sensors).blk	MM
+Ghora (Standard).blk	MWL
+Ghost GST-50.mtf	MM
+Ghost GST-90.mtf	MM
+Gladiator (Executioner) A.mtf	MM
+Gladiator (Executioner) B.mtf	MM
+Gladiator (Executioner) C.mtf	MM
+Gladiator (Executioner) D.mtf	MM
+Gladiator (Executioner) E.mtf	MM
+Gladiator (Executioner) F.mtf	MM
+Gladiator (Executioner) G.mtf	MM
+Gladiator (Executioner) H.mtf	MM
+Gladiator (Executioner) I.mtf	MM
+Gladiator (Executioner) K.mtf	MM
+Gladiator (Executioner) P.mtf	MM
+Gladiator (Executioner) Prime.mtf	MM
+Gladiator Exoskeleton (Standard) [AG].blk	MM
+Gladiator Exoskeleton (Standard) [BC ID].blk	MM
+Gladiator Exoskeleton The Spider.blk	MM
+Gladiator GLD-1R.mtf	MM
+Gladiator GLD-2R.mtf	MM
+Gladiator GLD-3R.mtf	MM
+Gladiator GLD-4R.mtf	MM
+Gladiator-S Exoskeleton.blk	MM
+Glaive Medium Tank (MFB).blk	MM
+Glory Heavy Fire Support Vehicle (3090 Upgrade).blk	MM
+Glory Heavy Fire Support Vehicle [Arrow IV].blk	MM
+Gnome (Upgrade) Elite.blk	MWL
+Gnome (Upgrade-Bearhunter) Elite.blk	MWL
+Gnome (Upgrade-Bearhunter).blk	MWL
+Gnome (Upgrade-MRR) Elite.blk	MWL
+Gnome (Upgrade-Pulse Laser) Elite.blk	MWL
+Gnome Battle Armor (LRM) Elite.BLK	MWL
+Gnome Battle Armor (LRM).blk	MM
+Gnome Battle Armor (Upgrade) [MRR].blk	MM
+Gnome Battle Armor (Upgrade) [Pulse Laser].blk	MM
+Gnome Battle Armor (Upgrade).blk	MM
+Gnome Battle Armor.blk	MM
+Gnome Elite.blk	MWL
+Goblin Infantry Support Vehicle II.blk	MWL
+Goblin Medium Tank (Bugbear).blk	MWL
+Goblin Medium Tank (C3M).blk	MWL
+Goblin Medium Tank (CS).blk	MWL
+Goblin Medium Tank (Extended B).blk	MWL
+Goblin Medium Tank (Extended).blk	MWL
+Goblin Medium Tank (Hobgoblin).blk	MWL
+Goblin Medium Tank (Kurita).blk	MWL
+Golem (Fast Attack) Elite.blk	MWL
+Golem (Fast Attack).blk	MWL
+Golem Assault Armor (Fast Assault).blk	MM
+Golem Assault Armor (Rock Golem).blk	MM
+Golem Assault Armor (Support) Elite.BLK	MWL
+Golem Assault Armor (Support).blk	MM
+Golem Assault Armor.blk	MM
+Golem Elite.blk	MWL
+Goliath GOL-10S.mtf	MWL
+Goliath GOL-7M.mtf	MWL
+Goliath GOL-9S.mtf	MWL
+Gorilla Exoskeleton PEX-2B.blk	MM
+Goshawk (Vapor Eagle) 2.mtf	MM
+Goshawk (Vapor Eagle) 3.mtf	MM
+Goshawk (Vapor Eagle) 4.mtf	MM
+Goshawk (Vapor Eagle).mtf	MM
+Goshawk II 2.mtf	MM
+Goshawk II 3.mtf	MM
+Goshawk II.mtf	MM
+Gossamer (XL) VTOL.blk	MM
+Gossamer VTOL.blk	MM
+Gotha GTHA-100.blk	MWL
+Gotha GTHA-300.blk	MWL
+Gotha GTHA-500.blk	MWL
+Gotha GTHA-500b.blk	MWL
+Gotha GTHA-600.blk	MWL
+Gotterdammerung GTD-20S.mtf	MM
+Gouwu che (Standard).blk	MWL
+Grand Crusader GRN-D-05.mtf	MWL
+Grand Crusader GRN-D-11.mtf	MWL
+Grand Crusader GRN-D-12.mtf	MWL
+Grand Crusader II GRN-D-06.mtf	MWL
+Grand Dragon DGR-10K.mtf	MWL
+Grand Dragon DGR-9K.mtf	MWL
+Grand Dragon Douglas.mtf	MM
+Grand Dragon DRG-10K.mtf	MM
+Grand Dragon DRG-1G Emory.mtf	MM
+Grand Dragon DRG-5K Emory.mtf	MM
+Grand Dragon DRG-7K Mark.mtf	MM
+Grand Dragon DRG-8K.mtf	MWL
+Grand Titan T-IT-N10MA.mtf	MWL
+Grand Titan T-IT-N11W.mtf	MWL
+Grand Titan T-IT-N12M.mtf	MWL
+Grand Titan T-IT-N13M.mtf	MM
+Grand Titan Vengeance T-IT-N14R.mtf	MM
+Grasshopper (Reynolds).mtf	MM
+Grasshopper GHR-5R.mtf	MWL
+Grasshopper GHR-7K Gravedigger.mtf	MM
+Grasshopper GHR-7P.mtf	MM
+Grasshopper GHR-9K.mtf	MWL
+Gravedigger GDR-1C.mtf	MM
+Gravedigger GDR-1D.mtf	MM
+Gray Death Heavy Suit (Varangian).BLK	MWL
+Gray Death Heavy Suit.blk	MM
+Gray Death Scout Suit The Willow Wisps.blk	MM
+Gray Death Scout Suit.blk	MM
+Gray Death Standard (Magshot).blk	MWL
+Gray Death Standard (Varangian).blk	MWL
+Gray Death Standard Suit [Flamer].blk	MM
+Gray Death Standard Suit [Laser].blk	MM
+Gray Death Standard Suit [LRR].blk	MM
+Gray Death Standard Suit [MG].blk	MM
+Gray Death Standard Suit [SRM].blk	MM
+Gray Death Strike Armor (Harjel).blk	MM
+Gray Death Strike Armor Production.blk	MM
+Gray Death Strike Armor Prototype.blk	MM
+Great Turtle GTR-1.mtf	MM
+Great Turtle GTR-2.mtf	MM
+Great Wyrm .mtf	MM
+Great Wyrm Aemelia.mtf	MM
+Grenadier Battle Armor (Hunter-Killer) [MagShot].blk	MM
+Grenadier Battle Armor (Hunter-Killer) [NARC].blk	MM
+Grenadier Battle Armor [Flamer].blk	MM
+Grenadier Battle Armor [Heavy Flamer].blk	MM
+Grenadier Battle Armor [Hunter-Killer C3 HRR].blk	MM
+Grenadier Battle Armor [Hunter-Killer SVSP MAgshot].blk	MM
+Grenadier Battle Armor [LRR].blk	MM
+Grenadier Battle Armor [MagShot].blk	MM
+Grenadier Battle Armor [SL].blk	MM
+Grenadier Battle Armor [TAG].blk	MM
+Grendel (Mongrel) A.mtf	MM
+Grendel (Mongrel) B.mtf	MM
+Grendel (Mongrel) C.mtf	MM
+Grendel (Mongrel) D.mtf	MM
+Grendel (Mongrel) E.mtf	MM
+Grendel (Mongrel) F.mtf	MM
+Grendel (Mongrel) H.mtf	MM
+Grendel S.mtf	MWL
+Griffin GRF-1E Sparky.mtf	MM
+Griffin GRF-1E2 Sparky 2.0.mtf	MM
+Griffin GRF-1P.mtf	MWL
+Griffin GRF-3L.mtf	MWL
+Griffin GRF-3LA.mtf	MWL
+Griffin GRF-3TC.mtf	MWL
+Griffin GRF-3W.mtf	MWL
+Griffin GRF-5S.mtf	MWL
+Griffin GRF-6S Francine II.mtf	MM
+Griffin GRF-6S Francine.mtf	MM
+Griffin GRF-6S2.mtf	MM
+Griffin GRF-7CS.mtf	MWL
+Griffin GRF-7M.mtf	MWL
+Griffin GRF-8M.mtf	MWL
+Griffin GRF-9K.mtf	MWL
+Griffin GRF-9S.mtf	MWL
+Griffin IIC .mtf	MM
+Grigori C-GRG-O Invictus.mtf	MM
+Grigori C-GRG-O Rufus.mtf	MM
+Grigori C-GRG-O Tamiel.mtf	MM
+Grigori C-GRG-OA Dominus.mtf	MM
+Grigori C-GRG-OB Infernus.mtf	MM
+Grigori C-GRG-OC Comminus.mtf	MM
+Grigori C-GRG-OD Luminos.mtf	MM
+Grigori C-GRG-OE Eminus.mtf	MM
+Grigori C-GRG-OS Caelestis.mtf	MM
+Grigori C-GRG-OU Exanimus.mtf	MM
+Grim Reaper GRM-R (Einar).mtf	MM
+Grim Reaper GRM-R-PR32V.mtf	MWL
+Grim Reaper GRM-R-PR33A.mtf	MWL
+Grim Reaper GRM-R-PR62A.mtf	MM
+Grizzly .mtf	MM
+Grizzly 4.mtf	MWL
+Grizzly 5.mtf	MWL
+Ground Car.blk	MM
+Groundhog Exoskeleton CEX-205.blk	MM
+Guillotine GLT-3CS.mtf	MWL
+Guillotine GLT-5P.mtf	MWL
+Guillotine GLT-5TC.mtf	MWL
+Guillotine GLT-6CS.mtf	MWL
+Guillotine GLT-6WB3.mtf	MM
+Guillotine GLT-7M.mtf	MWL
+Guillotine GLT-7ME.mtf	MWL
+Guillotine GLT-8M.mtf	MWL
+Guillotine GLT-9CS.mtf	MWL
+Guillotine IIC .mtf	MM
+Gulltoppr OmniMonitor (A).blk	MM
+Gulltoppr OmniMonitor (B).blk	MM
+Gulltoppr OmniMonitor (Prime).blk	MM
+Gun GN-2O.mtf	MM
+Gun GN-2OA.mtf	MM
+Gun GN-2OC.mtf	MM
+Gun Trailer (Ambush).blk	MM
+Gun Trailer (Artillery AAA).blk	MM
+Gun Trailer (LRM).blk	MM
+Gun Trailer (Mjolnir).blk	MM
+Gun Trailer (Siege).blk	MM
+Gun Trailer (Sniper Cannon).blk	MM
+Gun Trailer (Stronghold).blk	MM
+Gun Trailer (Thumper).blk	MM
+Gun Trailer (Thunderbolt).blk	MM
+Gun Trailer (Ultra).blk	MM
+Gunslinger GUN-3ERD.mtf	MWL
+Gunslinger GUN-4ERD.mtf	MWL
+Gunslinger GUN-5ERD.mtf	MWL
+Gunslinger GUN-8ERD.mtf	MWL
+Gunslinger Jared.mtf	MM
+Gunsmith CH11-NG.mtf	MM
+Gurkha GUR-3G.mtf	MWL
+Gurkha GUR-8G.mtf	MM
+Gurzil Support Tank (Standard).blk	MM
+Gyrfalcon (Standard).mtf	MM
+Gyrfalcon 2.mtf	MM
+Gyrfalcon 3.mtf	MM
+Gyrfalcon 4.mtf	MM
+Gyrfalcon Gunship VTOL (Standard).blk	MWL
+Ha Otoko .mtf	MM
+Ha Otoko HKO-1CA.mtf	MWL
+Ha Otoko-HR.mtf	MM
+Hachiman Fire Support Tank (Standard).blk	MM
+Hachiwara HCA-3T.mtf	MM
+Hachiwara HCA-4T.mtf	MM
+Hachiwara HCA-4U.mtf	MM
+Hachiwara HCA-6P.mtf	MM
+Hadur Fast Support Vehicle (Standard).blk	MM
+Hammer HMR-5P.mtf	MWL
+Hammerhands HMH-3D Kessem.mtf	MM
+Hammerhands HMH-4D2.mtf	MWL
+Hammerhands HMH-4D3.mtf	MWL
+Hammerhead HMR-HD.blk	MWL
+Hammerhead HMR-HDb.blk	MWL
+Hammerhead HMR-HE.blk	MWL
+Hammerhead HMR-HF.blk	MWL
+Hammerhead HMR-HG.blk	MWL
+Hammerhead II (Economy).blk	MWL
+Hammerhead II .blk	MWL
+Hankyu (Arctic Cheetah) A.mtf	MM
+Hankyu (Arctic Cheetah) B.mtf	MM
+Hankyu (Arctic Cheetah) C.mtf	MM
+Hankyu (Arctic Cheetah) D.mtf	MM
+Hankyu (Arctic Cheetah) E.mtf	MM
+Hankyu (Arctic Cheetah) F.mtf	MM
+Hankyu (Arctic Cheetah) H.mtf	MM
+Hankyu (Arctic Cheetah) Prime.mtf	MM
+Hankyu Q.mtf	MWL
+Hanse MBT (Standard).blk	MM
+Harasser Missile Platform (Medium Laser).blk	MWL
+Harasser Missile Platform (MML).blk	MM
+Harasser Missile Platform (Thunderbolt).blk	MM
+Harasser Missile Platform Leaping Lisa.blk	MM
+Harbinger (NOTAR).blk	MWL
+Harbinger Armored Fist (NOTAR).blk	MWL
+Harpy Attack VTOL (Standard).blk	MWL
+Harvester Agromech HVR-99.mtf	MM
+Harvester Ant Agromech KIC-3.mtf	MM
+Harvester Ant KIC-3 (LRM).mtf	MM
+Harvester Ant KIC-3 (MG).mtf	MM
+Hasek Mechanized Combat Vehicle (Standard).blk	MM
+Hatamoto HTM-31X.mtf	MWL
+Hatamoto-Chi HTM-26T.mtf	MM
+Hatamoto-Chi HTM-27T Daniel II.mtf	MM
+Hatamoto-Chi HTM-27T Daniel.mtf	MM
+Hatamoto-Chi HTM-27T.mtf	MM
+Hatamoto-Chi HTM-28T (Shin).mtf	MM
+Hatamoto-Chi HTM-30T.mtf	MWL
+Hatamoto-Chi HTM-37T.mtf	MWL
+Hatamoto-Godai HTM-30Z.mtf	MM
+Hatamoto-Hi HTM-27U.mtf	MM
+Hatamoto-Kaeru HTM-35K.mtf	MM
+Hatamoto-Kaeru HTM-35X.mtf	MM
+Hatamoto-Mizo HTM-27Y.mtf	MM
+Hatamoto-Suna HTM-30S.mtf	MM
+Hatchetman HCT-3F Austin.mtf	MM
+Hatchetman HCT-3F.mtf	MM
+Hatchetman HCT-3TDF.mtf	MWL
+Hatchetman HCT-3X.mtf	MWL
+Hatchetman HCT-5S Austin.mtf	MM
+Hatchetman HCT-5TC.mtf	MWL
+Hatchetman HCT-6RK.mtf	MWL
+Hatchetman HCT-7A.mtf	MWL
+Hatchetman HCT-7D.mtf	MWL
+Hatchetman HCT-8S.mtf	MWL
+Hauberk Battle Armor Commando.blk	MM
+Hauberk Battle Armor U15.blk	MM
+Hauberk Battle Armor.blk	MM
+Hauberk II Battle Armor.blk	MM
+Hauptmann HA1-O S.mtf	MWL
+Hauptmann HA1-OI.mtf	MWL
+Hauptmann HA1-OM.mtf	MM
+Hauptmann HA1-ON.mtf	MWL
+Hauptmann HA1-OT.mtf	MM
+Havoc HVC-P6.mtf	MM
+Hawk Moth II Gunship (MML).blk	MM
+Hawk Moth II Gunship (Sniper).blk	MM
+Hawk Moth II Gunship (Standard).blk	MM
+HawkWolf HWK-3F.mtf	MM
+HawkWolf HWK-4F.mtf	MM
+Heavy BattleMech Recovery Vehicle.blk	MM
+Heavy Hover APC (Comstar) MWL.blk	MWL
+Heavy Hover APC (LRM).blk	MM
+Heavy Hover APC (MG).blk	MM
+Heavy Hover APC (Scout Tank).blk	MM
+Heavy Hover APC (SRM).blk	MM
+Heavy Hover APC MWL.blk	MWL
+Heavy Hover APC.blk	MM
+Heavy LRM Carrier (ELRM).blk	MWL
+Heavy NLRM Carrier.blk	MM
+Heavy Tracked APC (Comstar) MWL.blk	MWL
+Heavy Tracked APC (LRM).blk	MM
+Heavy Tracked APC (MG).blk	MM
+Heavy Tracked APC (SRM).blk	MM
+Heavy Tracked APC MWL.blk	MWL
+Heavy Tracked APC.blk	MM
+Heavy Transport B1.blk	MM
+Heavy Weapons Carrier (PPC).blk	MM
+Heavy Wheeled APC (Comstar) MWL.blk	MWL
+Heavy Wheeled APC (LRM).blk	MM
+Heavy Wheeled APC (MG).blk	MM
+Heavy Wheeled APC (SRM).blk	MM
+Heavy Wheeled APC (WoB).blk	MM
+Heavy Wheeled APC MWL.blk	MWL
+Heavy Wheeled APC.blk	MM
+HeavyHauler Exoskeleton (Standard).blk	MM
+Hector HOR-1B.mtf	MM
+Hector HOR-1C.mtf	MM
+Heimdall Ground Monitor Tank B.blk	MM
+Heimdall Ground Monitor Tank C.blk	MM
+Heimdall Ground Monitor Tank D.blk	MM
+Heirax Transport.blk	MWL
+Heirax XTR.blk	MWL
+Heirax ZMM.blk	MWL
+Helepolis HEP-1H.mtf	MM
+Helios HEL-3DR.mtf	MWL
+Helios HEL-4C.mtf	MWL
+Helios HEL-4F.mtf	MWL
+Helios HEL-5W.mtf	MWL
+Hellbringer A.mtf*	MWL
+Hellbringer B.mtf*	MWL
+Hellbringer C.mtf*	MWL
+Hellbringer D.mtf*	MWL
+Hellbringer E.mtf*	MWL
+Hellbringer H.mtf*	MWL
+Hellbringer Prime.mtf*	MWL
+Hellcat HCT-213.blk	MWL
+Hellcat HCT-213D.blk	MWL
+Hellcat HCT-213R.blk	MWL
+Hellcat HCT-21D.blk	MWL
+Hellcat II HCT-213C.blk	MWL
+HellcatII HCT212.blk	MWL
+HellcatII HCT213B.blk	MWL
+HellcatII HCT214.blk	MWL
+HellcatII HCT215.blk	MWL
+Hellfire 3.mtf	MM
+Hellfire I.mtf	MWL
+Hellhound (Conjurer) 2.mtf	MM
+Hellhound (Conjurer) 3.mtf	MM
+Hellhound (Conjurer) 4.mtf	MM
+Hellhound (Conjurer) 5.mtf	MM
+Hellhound (Conjurer).mtf	MM
+Hellion D.mtf	MM
+Hellion F.mtf	MM
+Hellion G.mtf	MM
+Hellion Q.mtf	MWL
+Hellspawn HSN-11F.mtf	MWL
+Hellspawn HSN-7D2 Halperin.mtf	MM
+Hellspawn HSN-7T.mtf	MWL
+Hephaestus (AP) Jump Tank.blk	MM
+Hephaestus Jump Tank.blk	MM
+Hephaestus Scout Tank B.blk	MM
+Hephaestus Scout Tank D.blk	MM
+Hercules HRC-LS-9003.mtf	MWL
+Hercules HRC-LS-9004.mtf	MWL
+Hercules HRC-LS-9009.mtf	MWL
+Hercules Julius.mtf	MM
+Hermes HER-1A.mtf	MM
+Hermes HER-1B.mtf	MM
+Hermes HER-1S.mtf	MM
+Hermes HER-4SB.mtf	MWL
+Hermes HER-4WS.mtf	MWL
+Hermes II HER-2M Mercury.mtf	MM
+Hermes II HER-2S.mtf	MM
+Hermes II HER-4K Hermes III.mtf	MM
+Hermes II HER-5PP.mtf	MWL
+Hermes II HER-6M.mtf	MWL
+Hermes II HER-6S.mtf	MWL
+Hermes II HER-9M (1).mtf	MWL
+Hermes II HER-9M.mtf	MWL
+Hermes IIC.mtf	MWL
+Hermes III HER-4K.mtf	MWL
+Hessian (Infantry).blk	MWL
+Hessian (Scout).blk	MWL
+Hessian.blk	MWL
+Hetzer Wheeled Assault Gun (Clan GB).blk	MWL
+Hetzer Wheeled Assault Gun (Jadgpanzer II).blk	MM
+Hetzer Wheeled Assault Gun (LBX).blk	MWL
+Highlander HGN-641-X-2.mtf	MM
+Highlander HGN-732 Colleen.mtf	MM
+Highlander HGN-733.mtf	MM
+Highlander HGN-733C.mtf	MM
+Highlander HGN-733P.mtf	MM
+Highlander HGN-734-R.mtf	MWL
+Highlander HGN-739A.mtf	MWL
+Highlander HGN-742.mtf	MWL
+Highlander HGN-743A.mtf	MWL
+Highlander IIC .mtf	MM
+Highlander IIC 4.mtf	MWL
+Hipparch Cavalry Tank.blk	MM
+Hiryo Armored Infantry Transport (Light PPC).blk	MWL
+Hiryo Armored Infantry Transport BloodHound.blk	MM
+Hi-Scout Drone (NapFind).blk	MM
+Hi-Scout Drone (PathTrak).blk	MM
+Hi-Scout Drone Carrier.blk	MM
+Hitman HM-1K.mtf	MWL
+Hitotsume Kozo HKZ-1F.mtf	MM
+Hitotsume Kozo HKZ-1P.mtf	MM
+Hollander BZK-F3A.mtf	MWL
+Hollander BZK-FL5.mtf	MWL
+Hollander II BZK-F11.mtf	MWL
+Hollander II v9 BZK-F9.mtf	MWL
+Hollander III BZK-D1.mtf	MM
+Hollander III BZK-D2.mtf	MM
+Hollander III BZK-D3.mtf	MM
+Hoplite C2.mtf	MWL
+Hoplite HOP-4Bb.mtf	MM
+Hoplite HOP-4C.mtf	MM
+Hoplite HOP-4CS.mtf	MWL
+Hoplite HOP-4D.mtf	MM
+Hoplite HOP-5CS.mtf	MWL
+Horned Demon.blk	MWL
+Horned Owl 6.mtf	MWL
+Hornet HNT-151.mtf	MM
+Hornet HNT-152.mtf	MM
+Hornet HNT-172A.mtf	MWL
+Hornet HNT-181.mtf	MWL
+Hound HD-2F.mtf	MM
+Hover Scout.blk	MM
+Hover Tank.blk	MM
+Huitzilopochtli Assault Tank (AAA).blk	MWL
+Huitzilopochtli Assault Tank 'Huey' (AAA).blk	MM
+Huitzilopochtli Assault Tank 'Huey'.blk	MM
+Huitzilopochtli Assault Tank.blk	MWL
+Humming Bird Rescue VTOL.blk	MM
+Hunchback HBK-4G Hohiro.mtf	MM
+Hunchback HBK-4G Shakir.mtf	MM
+Hunchback HBK-4G.mtf	MM
+Hunchback HBK-4H.mtf	MM
+Hunchback HBK-4J.mtf	MM
+Hunchback HBK-4N.mtf	MM
+Hunchback HBK-4P.mtf	MM
+Hunchback HBK-4SP.mtf	MM
+Hunchback HBK-5G.mtf	MWL
+Hunchback HBK-5J.mtf	MWL
+Hunchback HBK-5KA.mtf	MWL
+Hunchback HBK-5M2.mtf	MWL
+Hunchback HBK-5PP.mtf	MWL
+Hunchback HBK-5RK.mtf	MWL
+Hunchback HBK-5SP.mtf	MWL
+Hunchback HBK-5T.mtf	MWL
+Hunchback HBK-6K.mtf	MWL
+Hunchback HBK-6L.mtf	MWL
+Hunchback HBK-6SS.mtf	MWL
+Hunchback HBK-7M.mtf	MWL
+Hunchback HBK-7R.mtf	MM
+Hunchback HBK-7S.mtf	MWL
+Hunchback IIC .mtf	MM
+Hunchback IIC R.mtf	MWL
+Hunter Light Support Tank (Amphibious).blk	MM
+Hunter Light Support Tank (Assault).blk	MWL
+Hunter Light Support Tank (ELRM).blk	MWL
+Hunter Light Support Tank (GBD).blk	MWL
+Hunter Light Support Tank (NLRM).blk	MWL
+Hunter Light Support Tank (TB).blk	MWL
+Huntsman.mtf	MWL
+Huron Warrior HUR-WO-R4TA.mtf	MWL
+Huron Warrior HUR-WO-R5O.mtf	MWL
+Hurricane PA (L) P17.blk	MM
+Huscarl HSCL-1-O.blk	MWL
+Huscarl HSCL-1-OA.blk	MWL
+Huscarl HSCL-1-OB.blk	MWL
+Huscarl HSCL-1-OC.blk	MWL
+Huskey (Standard).blk	MWL
+Hussar HSR-200-D.mtf	MM
+Hussar HSR-300-D.mtf	MM
+Hussar HSR-350-D.mtf	MM
+Hussar HSR-500-DP.mtf	MWL
+Hussar HSR-500-DR.mtf	MWL
+Hussar HSR-900-D.mtf	MM
+Hussar HSR-IIC.mtf	MWL
+HW1 Hwacha.blk	MM
+Hydaspes 2.blk	MWL
+Hydaspes.blk	MWL
+Hyena SalvageMech HYN-4A.mtf	MM
+Icarus ICR-1X.mtf	MM
+Icarus II ICR-1S.mtf	MM
+Ice Ferret G.mtf	MWL
+Ice Ferret HW.mtf	MWL
+Icestorm .mtf	MM
+Ignis (SRM).blk	MWL
+Ignis.blk	MWL
+Imp IMP-2E.mtf	MM
+Imp IMP-3E.mtf	MM
+Imp IMP-4E Turtleback.mtf	MWL
+Imp IMP-4P.mtf	MWL
+Imp IMP-4X.mtf	MWL
+Imp IMP-5E.mtf	MWL
+Incubus 3.mtf	MWL
+Incubus 4.mtf	MWL
+Incubus 5.mtf	MWL
+Incubus II.mtf	MM
+Infiltrator Mk II Battle Armor (Magnetic).blk	MM
+Infiltrator Mk. I Battle Armor (Special Ops).blk	MM
+Infiltrator Mk. I Battle Armor.blk	MM
+Infiltrator Mk. II Battle Armor (Marine).blk	MM
+Infiltrator Mk. II Battle Armor (Sensor).blk	MM
+Infiltrator Mk. II Battle Armor Coral Intent.blk	MM
+Infiltrator Mk. II Battle Armor.blk	MM
+Initiate INI-05.mtf	MWL
+Ironhold Assault Battle Armor (Anti-Tank).blk	MM
+Ironhold Assault Battle Armor (Fire) Elite.blk	MWL
+Ironhold Assault Battle Armor (Fire).blk	MM
+Ironhold Assault Battle Armor Elite.blk	MWL
+Ironhold Assault Battle Armor.blk	MM
+Ironsides IRN-SD1.blk	MWL
+Ironsides IRN-SD1b.blk	MWL
+Ironsides IRN-SD2.blk	MWL
+Ironsides IRN-SD3.blk	MWL
+IS Standard Battle Armor (Level I) [Flamer].blk	MM
+IS Standard Battle Armor (Level I) [Laser].blk	MM
+IS Standard Battle Armor (Level I) [LRR].blk	MM
+IS Standard Battle Armor (Level I) [MG].blk	MM
+IS Standard Battle Armor (Level I) [SRM].blk	MM
+IS Standard Battle Armor [Flamer].blk	MM
+IS Standard Battle Armor [Hive].blk	MM
+IS Standard Battle Armor [Laser].blk	MM
+IS Standard Battle Armor [LRR].blk	MM
+IS Standard Battle Armor [MG].blk	MM
+IS Standard Battle Armor [SRM].blk	MM
+Isometrus ISO-M3.mtf	MWL
+Isometrus ISO-M4.mtf	MWL
+Issus 2.blk	MWL
+Issus 4.blk	MWL
+Issus 5.blk	MWL
+Issus 6.blk	MWL
+Issus.blk	MWL
+Iveco Burro II SuperHeavy Cargo Truck.blk	MM
+J. Edgar Light Hover Tank (Cell).blk	MM
+J. Edgar Light Hover Tank (Kurita RS).blk	MWL
+J. Edgar Light Hover Tank (TAG RS).blk	MWL
+J-27 Ordnance Transport (Armor).blk	MM
+J-27 Ordnance Transport (Fusion).blk	MM
+J-27 Ordnance Transport (Trailer).blk	MM
+J-27 Ordnance Transport.blk	MM
+J-37 Ordnance Transport (Original).blk	MM
+J-37 Ordnance Transport.blk	MM
+Jabberwocky ConstructionMech JAW-66D.mtf	MM
+Jabberwocky DemolitionMech JAW-66C.mtf	MM
+Jabberwocky EngineerMech JAW-66B.mtf	MM
+Jackal JA-KL-65.mtf	MWL
+Jackalope JLP-BD.mtf	MM
+Jackalope JLP-C.mtf	MM
+Jackalope JLP-KA Wolpertinger.mtf	MM
+Jackalope JLP-KA.mtf	MM
+Jackrabbit JKR-8T.mtf	MM
+Jackrabbit JKR-9R.mtf	MM
+Jade Hawk (Standard).mtf	MM
+Jade Hawk 2.mtf	MM
+Jade Hawk 3.mtf	MM
+Jade Hawk JHK-03.mtf	MM
+Jade Hawk JHK-04.mtf	MM
+Jadgpanzer II .blk	MWL
+Jagatai A.blk	MWL
+Jagatai B.blk	MWL
+Jagatai C.blk	MWL
+Jagatai D.blk	MWL
+Jagatai F MWL.blk	MWL
+Jagatai J.blk	MWL
+Jagatai Prime.blk	MWL
+Jagatai W.blk	MWL
+JagerMech III JM6-D9.mtf	MWL
+JagerMech JM6-A.mtf	MM
+Jagermech JM6-AP.mtf	MWL
+JagerMech JM6-DD3.mtf	MWL
+Jagermech JM6-DG.mtf	MM
+JagerMech JM6-DG.mtf	MWL
+JagerMech JM6-DLA.mtf	MWL
+JagerMech JM6-S.mtf	MM
+Jagermech JM7-Da.mtf	MWL
+JagerMech JM7-G.mtf	MWL
+Jaguar (Standard).mtf	MM
+Jaguar (Tarcomp).blk	MWL
+Jaguar 2.mtf	MM
+Jaguar.blk	MWL
+Javelin JVN-10F Fire Javelin.mtf	MM
+Javelin JVN-10P.mtf	MM
+Javelin JVN-11A Fire Javelin.mtf	MM
+Javelin JVN-11C.mtf	MWL
+Javelin JVN-11D Farrell.mtf	MM
+Javelin JVN-11P.mtf	MM
+Javelin JVN-11V.mtf	MWL
+Javelin JVN-12H.mtf	MWL
+Jeep (Standard).blk	MM
+Jengiz A.blk	MWL
+Jengiz B.blk	MWL
+Jengiz C.blk	MWL
+Jengiz D.blk	MWL
+Jengiz G.blk	MWL
+Jengiz H.blk	MWL
+Jengiz Prime.blk	MWL
+Jengiz W.blk	MWL
+Jenner IIC .mtf	MM
+Jenner IIC 2.mtf	MM
+Jenner IIC 5.mtf	MWL
+Jenner JR7-A.mtf	MM
+Jenner JR7-D.mtf	MM
+Jenner JR7-F.mtf	MM
+Jenner JR7-K Grace II.mtf	MM
+Jenner JR7-K Grace.mtf	MM
+Jenner JR7-K.mtf	MM
+Jenner JR7-MI.mtf	MWL
+Jenner JR7-X.mtf	MWL
+Jenner JR7-XT.mtf	MWL
+Jenner JR-8F.mtf	MWL
+Jenner Samuli.mtf	MM
+JES II Strategic Missile  Carrier (Dark Age).blk	MWL
+JES II Strategic Missile Carrier (Support).blk	MM
+JES III Missile Carrier (C3).blk	MM
+JES III Missile Carrier (MML).blk	MM
+JES III Missile Carrier (Speed).blk	MM
+JES III Missile Carrier (Standard).blk	MM
+JES III Missile Carrier (Thunderbolt).blk	MM
+Jet Sled (Standard).blk	MM
+JI2A1 Attack APC (MML).blk	MM
+JI2A1 Attack APC (Standard).blk	MM
+Jian (LRM).blk	MWL
+Jian.blk	MWL
+Jifty Transportable Field Repair Unit JI-50 (Hoist).blk	MM
+Jifty Transportable Field Repair Unit JI-50 (MG).blk	MM
+Jifty Transportable Field Repair Unit JI-50 (ML).blk	MM
+Jifty Transportable Field Repair Unit JI-50 (Q-Vehicle).blk	MM
+Jifty Transportable Field Repair Unit JI-50.blk	MM
+Jinggau JN-G8BX Rush.mtf	MM
+Jinggau JN-G9A.mtf	MWL
+Juggernaut JG-R9T1.mtf	MM
+Juggernaut JG-R9T2.mtf	MM
+Juggernaut JG-R9T3.mtf	MM
+Juggernaut JG-R9TX1 Leapin' Lil.mtf	MM
+Juliano JLN-5A.mtf	MM
+Jupiter .mtf	MM
+Jupiter 4.mtf	MM
+K-27 Ordnance Transport (Killjoy).blk	MM
+Kage Light Battle Armor (DEST).blk	MM
+Kage Light Battle Armor (Space).blk	MM
+Kage Light Battle Armor (Vibro-Claw).blk	MM
+Kage Light Battle Armor [ECM].blk	MM
+Kage Light Battle Armor [Flamer].blk	MM
+Kage Light Battle Armor [Laser].blk	MM
+Kage Light Battle Armor [MG].blk	MM
+Kage Light Battle Armor [TAG].blk	MM
+Kage Light Battle Armor C.blk	MM
+Kalki Cruise Missile Launcher .blk	MM
+Kamakiri Attack VTOL (Gauss).blk	MM
+Kamakiri Attack VTOL (Standard).blk	MM
+Kanazuchi Assault Battle Armor (Upgrade) [Battle Claw].blk	MM
+Kanazuchi Assault Battle Armor [Battle Claw].blk	MM
+Kanazuchi Assault Battle Armor [Industrial Drill].blk	MM
+Kanazuchi Assault Battle Armor [Salvage Arm].blk	MM
+Kanazuchi Assault Battle Armor Cyclops.blk	MM
+Kanga Medium Hovertank (AC).blk	MM
+Kanga Medium Hovertank.blk	MM
+Kangaroo (Guardian).blk	MWL
+Kangaroo.blk	MWL
+Kanga-X Jump Tank.blk	MM
+Karhu G.mtf	MM
+Karhu Syngman.mtf	MM
+Karnov UR Gunship.blk	MM
+Karnov UR Transport (3055 Upgrade).blk	MM
+Karnov UR Transport (Artillery).blk	MM
+Karnov UR Transport.blk	MM
+Katana (Crockett) CRK-5003-2.mtf	MM
+Katana (Crockett) CRK-5003-C.mtf	MM
+Katana (Crockett) CRK-5003-CJ.mtf	MM
+Katana (Crockett) CRK-5003-CM.mtf	MM
+Katana (Crockett) CRK-5004-C.mtf	MWL
+Katana (Crockett) CRK-5004-CM.mtf	MWL
+Katana (Crockett) CRK-5004-CS.mtf	MWL
+Katana CRK-5003-2.mtf	MWL
+Katana CRK-5003-8W.mtf	MWL
+Katana CRK-5009-KC.mtf	MWL
+Katana Tank (Upgrade).blk	MWL
+Katana.blk	MWL
+Kelswa Assault Tank (Standard).blk	MM
+Kestrel VTOL (Clan).blk	MM
+Kestrel VTOL (MedEvac).blk	MM
+Kestrel VTOL (ML).blk	MM
+Kestrel VTOL (MWL).blk	MWL
+Kestrel VTOL (SL).blk	MM
+Kestrel VTOL (SRM).blk	MM
+Kestrel VTOL Scout.blk	MM
+Kestrel VTOL.blk	MM
+Kheper KHP-7R.mtf	MM
+King Crab IIC.mtf	MWL
+King Crab KGC-000.mtf	MM
+King Crab KGC-0000.mtf	MM
+King Crab KGC-000b.mtf	MM
+King Crab KGC-001CS.mtf	MWL
+King Crab KGC-001L.mtf	MWL
+King Crab KGC-001U.mtf	MWL
+King Crab KGC-001W.mtf	MWL
+King Crab KGC-007.mtf	MM
+King Crab KGC-008B.mtf	MM
+King Crab KGC-011.mtf	MWL
+King Crab KGC-IIC 2.mtf	MWL
+King Crab KGC-IIC 3.mtf	MWL
+Kinnol MBT (RAC).blk	MM
+Kinnol MBT .blk	MM
+Kintaro IIC.mtf	MWL
+Kintaro KTO-18.mtf	MM
+Kintaro KTO-19.mtf	MM
+Kintaro KTO-20.mtf	MM
+Kintaro KTO-21B.mtf	MWL
+Kintaro KTO-25K.mtf	MWL
+Kirghiz A.blk	MWL
+Kirghiz B.blk	MWL
+Kirghiz C.blk	MWL
+Kirghiz D.blk	MWL
+Kirghiz E.blk	MWL
+Kirghiz Prime.blk	MWL
+Kishi Ceremonial Armor.blk	MM
+Kiso Command Mech K-3N-KRHQ.mtf	MM
+Kiso K-3N-KR4.mtf	MM
+Kiso K-3N-KR5.mtf	MM
+Kit Fox A.mtf*	MWL
+Kit Fox B.mtf*	MWL
+Kit Fox C.mtf*	MWL
+Kit Fox D.mtf*	MWL
+Kit Fox E.mtf*	MWL
+Kit Fox F.mtf*	MWL
+Kit Fox G.mtf*	MWL
+Kit Fox H.mtf*	MWL
+Kit Fox M.mtf*	MWL
+Kit Fox Prime.mtf*	MWL
+Kit Fox S.mtf*	MWL
+Kit Fox W.mtf*	MWL
+Kite Reconnaissance Vehicle.blk	MM
+Kobold (Comstar).blk	MWL
+Kobold (Comstar-Flamer).blk	MWL
+Kobold (Comstar-TAG).blk	MWL
+Kobold Battle Armor [GL Flamer] (CS).blk	MM
+Kobold Battle Armor [GL Flamer] (GB).blk	MM
+Kobold Battle Armor [GL Flamer].blk	MM
+Kobold Battle Armor [GL SPL] (CS).blk	MM
+Kobold Battle Armor [GL SPL] (GB).blk	MM
+Kobold Battle Armor [GL SPL].blk	MM
+Kobold Battle Armor [GL TAG] (CS).blk	MM
+Kobold Battle Armor [GL TAG] (GB).blk	MM
+Kobold Battle Armor [GL TAG].blk	MM
+Kobold Battle Armor [SL Flamer] (CS).blk	MM
+Kobold Battle Armor [SL Flamer] (GB).blk	MM
+Kobold Battle Armor [SL Flamer].blk	MM
+Kobold Battle Armor [SL TAG]  (CS).blk	MM
+Kobold Battle Armor [SL TAG] (GB).blk	MM
+Kobold Battle Armor [SL TAG].blk	MM
+Kobold Battle Armor IIC.blk	MM
+Kobold X-C3.blk	MM
+Kodiak .mtf	MM
+Kodiak Cale.mtf	MM
+Kodiak II (Standard).mtf	MM
+Kodiak II 2.mtf	MM
+Kodiak KDK-RD.mtf	MWL
+Komodo KIM-2MX.mtf	MWL
+Komodo KIM-4DC.mtf	MWL
+Kopis Assault Battle Armor (AI Mk II).blk	MM
+Kopis Assault Battle Armor (Anti-Infantry).blk	MM
+Kopis Assault Battle Armor (Mortar).blk	MM
+Kopis Assault Battle Armor AI Mk IIr.blk	MM
+Kopis Assault Battle Armor.blk	MM
+Korvin.blk	MWL
+Koryu Submarine (Civilian).blk	MM
+Koryu Submarine (Military).blk	MM
+Koschei KSC-4V.mtf	MWL
+Koschei KSC-6L.mtf	MM
+Koshi (Mist Lynx) A.mtf	MM
+Koshi (Mist Lynx) B.mtf	MM
+Koshi (Mist Lynx) C.mtf	MM
+Koshi (Mist Lynx) D.mtf	MM
+Koshi (Mist Lynx) E.mtf	MM
+Koshi (Mist Lynx) F.mtf	MM
+Koshi (Mist Lynx) G.mtf	MM
+Koshi (Mist Lynx) H.mtf	MM
+Koshi (Mist Lynx) P.mtf	MM
+Koshi (Mist Lynx) Prime.mtf	MM
+Koshi (Mist Lynx) Z.mtf	MM
+Koshi (Standard) 2.mtf	MM
+Koshi (Standard) 3.mtf	MM
+Koshi (Standard).mtf	MM
+Koshi 2.mtf	MWL
+Koshi.mtf	MWL
+Koto KTO-2A.mtf	MM
+Koto KTO-3A.mtf	MM
+Koto KTO-4A.mtf	MM
+Koto KT-P2.mtf	MM
+Kraken (Bane) 2.mtf	MM
+Kraken (Bane) 3.mtf	MM
+Kraken (Bane) 4.mtf	MM
+Kraken (Bane).mtf	MM
+Kraken-XR.mtf	MM
+Krise PA(L) (Standard).blk	MM
+Kruger Combat Car (Original).blk	MM
+Kruger Combat Car (Standard).blk	MM
+Ku Wheeled Assault Tank (IFV) Turhan II.blk	MWL
+Kuma .mtf	MM
+Kuma 3.mtf	MM
+Kuma 4.mtf	MM
+Kyudo KY2-D-01.mtf	MM
+Kyudo KY2-D-02.mtf	MM
+Kyudo KY2-D-03.mtf	MM
+Lament LMT-2R.mtf	MM
+Lament LMT-3C.mtf	MM
+Lament LMT-3R.mtf	MM
+Lament LMT-4RC.mtf	MM
+Lamprey Transport Helicopter.blk	MM
+Lancelot LNC25-01sl.mtf	MM
+Lancelot LNC25-01X.mtf	MM
+Lancelot LNC25-02.mtf	MM
+Lancelot LNC25-03.mtf	MM
+Lancelot LNC25-07.mtf	MM
+Lancelot LNC25-11.mtf	MWL
+Lancelot LNC-IIC.mtf	MWL
+Lancer LX-2.blk	MWL
+Lancer LX-2A.blk	MWL
+Lao Hu LHU-3C1.mtf	MWL
+Lao Hu LHU-4B.mtf	MWL
+Legacy LGC-01X.mtf	MWL
+Legacy LGC-02M.mtf	MWL
+Legacy LGC-04.mtf	MWL
+Legacy LGC-06.mtf	MWL
+Legionnaire LGN-2D Raul.mtf	MM
+Legionnaire LGN-2F.mtf	MM
+Leonidas BA (David LGR).blk	MM
+Leonidas BA (FireDrake).blk	MM
+Leonidas BA (Improved Sensors).blk	MM
+Leonidas BA (Light TAG).blk	MM
+Leonidas BA (MG).blk	MM
+Lexan Surveillance Helo (Prototype).blk	MM
+Lexan Surveillance VTOL.blk	MM
+Lightning Attack Hovercraft (ERML).blk	MM
+Lightning Attack Hovercraft (ERSL).blk	MM
+Lightning Attack Hovercraft (RL).blk	MM
+Lightning Attack Hovercraft (Royal).blk	MM
+Lightning Attack Hovercraft CX-3.blk	MM
+Lightning Attack Hovercraft.blk	MM
+Lightning IIC.blk	MWL
+Lightning LTN-G15.blk	MWL
+Lightning LTN-G15b.blk	MWL
+Lightning LTN-G16D.blk	MWL
+Lightning LTN-G16L.blk	MWL
+Lightning LTN-G16O.blk	MWL
+Lightning LTN-G16S.blk	MWL
+Lightning LTN-G16T.blk	MWL
+Linebacker G.mtf	MM
+Linebacker HM.mtf	MWL
+Linebacker J.mtf	MWL
+Lineholder KW1-LH2.mtf	MM
+Lineholder KW3-LH2.mtf	MWL
+Lineholder KW3-LHW.mtf	MWL
+Lineholder KW5-LHW2.mtf	MWL
+Lion Support Tank (Bombast Laser).blk	MWL
+Lobo 2.mtf	MM
+Lobo RC.mtf	MWL
+Locust IIC .mtf	MM
+Locust IIC 3.mtf	MM
+Locust IIC 8.mtf	MM
+Locust LCT-1L.mtf	MM
+Locust LCT-1M.mtf	MM
+Locust LCT-1S.mtf	MM
+Locust LCT-1V.mtf	MM
+Locust LCT-1V2.mtf	MM
+Locust LCT-2E.mtf	MWL
+Locust LCT-3D.mtf	MM
+Locust LCT-3G.mtf	MWL
+Locust LCT-3M.mtf	MM
+Locust LCT-3S.mtf	MM
+Locust LCT-3SS.mtf	MWL
+Locust LCT-3V.mtf	MM
+Locust LCT-5A.mtf	MWL
+Locust LCT-5M3.mtf	MM
+Locust LCT-5X.mtf	MWL
+Locust LCT-6V.mtf	MWL
+Loki (Hellbringer) A.mtf	MM
+Loki (Hellbringer) B.mtf	MM
+Loki (Hellbringer) C.mtf	MM
+Loki (Hellbringer) D.mtf	MM
+Loki (Hellbringer) E.mtf	MM
+Loki (Hellbringer) F.mtf	MM
+Loki (Hellbringer) G.mtf	MM
+Loki (Hellbringer) H.mtf	MM
+Loki (Hellbringer) Mk II (Prime).mtf	MM
+Loki (Hellbringer) Mk II A.mtf	MM
+Loki (Hellbringer) Mk II B.mtf	MM
+Loki (Hellbringer) Prime.mtf	MM
+Longbow LGB-0C.mtf	MM
+Longbow LGB-0W.mtf	MM
+Longbow LGB-12KC.mtf	MWL
+Longbow LGB-12M.mtf	MWL
+Longbow LGB-14C2.mtf	MM
+Longbow LGB-7Q.mtf	MM
+Longbow LGB-7VL.mtf	MWL
+Longbow LGB-8S.mtf	MWL
+Longinus Battle Armor (Magnetic) (WOB).blk	MM
+Longinus Battle Armor (Magnetic).blk	MM
+Longinus Battle Armor [David] (WoB).blk	MM
+Longinus Battle Armor [David].blk	MM
+Longinus Battle Armor [Flamer] (WoB).blk	MM
+Longinus Battle Armor [Flamer].blk	MM
+Longinus Battle Armor [Laser] (WoB).blk	MM
+Longinus Battle Armor [Laser].blk	MM
+Longinus Battle Armor [MG] (WoB).blk	MM
+Longinus Battle Armor [MG].blk	MM
+Longinus Battle Armor Hacked [David].blk	MM
+Longinus Battle Armor Hacked [MG].blk	MM
+Longshot LNG-1B.mtf	MM
+Longshot LNG-2.mtf	MM
+Longshot LNG-3.mtf	MM
+Longshot LNG-3C.mtf	MM
+Longshot LNG-4.mtf	MM
+LRM Carrier (CS-RK).blk	MWL
+LRM Carrier (Laser).blk	MWL
+LRM Carrier Primitive.blk	MM
+LTV-4 Hover Tank.blk	MM
+Lu Wei Bing LN-4B.mtf	MM
+Lucifer II LCF-R16K.blk	MWL
+Lucifer II LCF-R16KR.blk	MWL
+Lucifer LCF-R15.blk	MWL
+Lucifer LCF-R16.blk	MWL
+Lucifer LCF-R20.blk	MWL
+Lucifer LCF-X30.blk	MWL
+Luduan Scout Vehicle.blk	MM
+Lumberjack LM1A.mtf	MM
+Lumberjack LM4C.mtf	MM
+Lumberjack LM4P.mtf	MM
+Lupus A.mtf	MM
+Lupus B.mtf	MM
+Lupus Prime.mtf	MM
+Lynx LNX-10R.mtf	MWL
+Lynx LNX-8Q.mtf	MM
+Lynx LNX-9Cr.mtf	MWL
+M.A.S.H. Truck (ICE).blk	MM
+M.A.S.H. Truck (Small).blk	MM
+M.A.S.H. Truck.blk	MM
+Mackie MSK-5S.mtf	MM
+Mackie MSK-6S.mtf	MM
+Mackie MSK-7A.mtf	MM
+Mackie MSK-8B.mtf	MM
+Mackie MSK-9H.mtf	MM
+Mackie MSK-9HKR Kill Roys Little Buddy.mtf	MM
+Mad Cat (Timber Wolf) A.mtf	MM
+Mad Cat (Timber Wolf) B.mtf	MM
+Mad Cat (Timber Wolf) Bounty Hunter 2.mtf	MM
+Mad Cat (Timber Wolf) C.mtf	MM
+Mad Cat (Timber Wolf) D.mtf	MM
+Mad Cat (Timber Wolf) E.mtf	MM
+Mad Cat (Timber Wolf) F.mtf	MM
+Mad Cat (Timber Wolf) H.mtf	MM
+Mad Cat (Timber Wolf) Prime.mtf	MM
+Mad Cat (Timber Wolf) Pryde.mtf	MM
+Mad Cat (Timber Wolf) S.mtf	MM
+Mad Cat (Timber Wolf) U.mtf	MM
+Mad Cat (Timber Wolf) Z.mtf	MM
+Mad Cat III (Eve).mtf	MM
+Mad Cat III (Standard).mtf	MM
+Mad Cat III 5.mtf	MM
+Mad Cat III Dark Age RS .mtf	MM
+Mad Cat III X.mtf	MM
+Mad Cat III.mtf	MWL
+Mad Cat III-S.mtf	MWL
+Mad Cat Mk II  2 HA.mtf	MWL
+Mad Cat Mk II 2.mtf	MM
+Mad Cat Mk II 3.mtf	MM
+Mad Cat Mk II 4.mtf	MM
+Mad Cat Mk II 5.mtf	MM
+Mad Cat Mk II 6.mtf	MM
+Mad Cat Mk II Enhanced.mtf	MM
+Mad Cat Mk IV (Prime).mtf	MM
+Mad Cat Mk IV A.mtf	MM
+Mad Cat Mk IV B.mtf	MM
+Mad Cat Mk IV C.mtf	MM
+Mad Cat Mk IV PR 2.mtf	MM
+Mad Cat Mk IV PR.mtf	MM
+Mad Dog A.mtf*	MWL
+Mad Dog B.mtf*	MWL
+Mad Dog C.mtf*	MWL
+Mad Dog D.mtf*	MWL
+Mad Dog E.mtf*	MWL
+Mad Dog F.mtf*	MWL
+Mad Dog GB.mtf	MWL
+Mad Dog H.mtf*	MWL
+Mad Dog Prime SR.mtf	MWL
+Mad Dog Prime.mtf*	MWL
+Mad Dog V.mtf	MWL
+Maelstrom MTR-6X.mtf	MWL
+Magi (UCSV).blk	MWL
+Magi Infantry Support Vehicle (CS-RK).blk	MWL
+Magi.blk	MWL
+Main Gauche Light Support Tank (LB-X).blk	MWL
+Main Gauche Light Support Tank (XL-LB).blk	MWL
+Main Gauche Light Support Tank IFV.blk	MM
+Malak C-MK-O Invictus.mtf	MM
+Malak C-MK-O Mi.mtf	MM
+Malak C-MK-OA Dominus.mtf	MM
+Malak C-MK-OB Infernus.mtf	MM
+Malak C-MK-OC Comminus.mtf	MM
+Malak C-MK-OD Luminos.mtf	MM
+Malak C-MK-OE Eminus.mtf	MM
+Malak C-MK-OS Caelestis.mtf	MM
+Malice MAL-XP.mtf	MM
+Malice MAL-XT.mtf	MM
+Malice MAL-XV.mtf	MM
+Malice MAL-XY.mtf	MM
+Mamono IFV (Standard).blk	MM
+Man O' War (Gargoyle) (Conal).mtf	MM
+Man O' War (Gargoyle) A.mtf	MM
+Man O' War (Gargoyle) B.mtf	MM
+Man O' War (Gargoyle) C.mtf	MM
+Man O' War (Gargoyle) D.mtf	MM
+Man O' War (Gargoyle) E.mtf	MM
+Man O' War (Gargoyle) G.mtf	MM
+Man O' War (Gargoyle) H.mtf	MM
+Man O' War (Gargoyle) M.mtf	MM
+Man O' War (Gargoyle) Prime.mtf	MM
+Man O' War (Gargoyle) T.mtf	MM
+Mandrill .mtf	MM
+Mandrill 2.mtf	MWL
+Mandrill 3.mtf	MWL
+Mangonel MNL-4S.mtf	MM
+Manteuffel Attack Tank E.blk	MM
+Manticore Heavy Tank (BLAZER).blk	MWL
+Manticore Heavy Tank (C3i).blk	MWL
+Manticore Heavy Tank (HVAC).blk	MWL
+Manticore Heavy Tank (Stealth).blk	MWL
+Manticore Heavy Tank (X).blk	MWL
+Manticore II Heavy Tank (Standard).blk	MM
+Manticore The Ballista.blk	MM
+Mantis Light Attack VTOL (ECCM).blk	MM
+Mantis MTS-L.mtf	MM
+Mantis MTS-S.mtf	MM
+Mantis MTS-T.mtf	MM
+Mantis MTS-T2.mtf	MM
+Mantis MTS-T3.mtf	MM
+Mantis SA-MN.mtf	MM
+Marauder BattleArmor MH.blk	MM
+Marauder BattleArmor.blk	MM
+Marauder Bounty Hunter 3015.mtf	MM
+Marauder Bounty Hunter 3044.mtf	MM
+Marauder C.mtf	MM
+Marauder II Bounty Hunter.mtf	MM
+Marauder II MAD-4A.mtf	MM
+Marauder II MAD-4CS.mtf	MWL
+Marauder II MAD-4DM.mtf	MWL
+Marauder II MAD-4H.mtf	MM
+Marauder II MAD-5A.mtf	MM
+Marauder II MAD-8X.mtf	MWL
+Marauder IIC .mtf	MM
+Marauder MAD-1R.mtf	MM
+Marauder MAD-2MAF.mtf	MWL
+Marauder MAD-2R.mtf	MM
+Marauder MAD-2RP.mtf	MWL
+Marauder MAD-3D.mtf	MM
+Marauder MAD-3L.mtf	MM
+Marauder MAD-3LC.mtf	MWL
+Marauder MAD-3M.mtf	MM
+Marauder MAD-3MC.mtf	MWL
+Marauder MAD-3R.mtf	MM
+Marauder MAD-3TC.mtf	MWL
+Marauder MAD-4CS.mtf	MWL
+Marauder MAD-4X.mtf	MM
+Marauder MAD-5CS.mtf	MWL
+Marauder MAD-5D-K.mtf	MWL
+Marauder MAD-5LL.mtf	MWL
+Marauder MAD-5M2.mtf	MWL
+Marauder MAD-5SS Champion.mtf	MWL
+Marauder MAD-5T2 Sentinal.mtf	MWL
+Marauder MAD-5TC.mtf	MWL
+Marauder MAD-6S.mtf	MWL
+Marauder MAD-7CCAF.mtf	MWL
+Marauder MAD-7SB.mtf	MWL
+Marauder MAD-9D.mtf	MM
+Marauder MAD-9K.mtf	MWL
+Marauder MAD-9Mx.mtf	MWL
+Marauder MAD-SD Douglass.mtf	MM
+Marco MR-8C.mtf	MM
+Marco MR-8D.mtf	MM
+Marco MR-8E.mtf	MM
+Marksman (AC).blk	MWL
+Marksman (LPPC).blk	MWL
+Marksman MBT M1J.blk	MM
+Marksman.blk	MWL
+Marsden I.blk	MM
+Marsden II MBT II (Primitive).blk	MM
+Marsden II.blk	MWL
+Marsden II-A (LB-X).blk	MWL
+Marsden II-A.blk	MWL
+Marshal MHL-2L.mtf	MM
+Marshal MHL-3MC.mtf	MM
+Marshal MHL-X1.mtf	MM
+Marten Scout VTOL (Infantry).blk	MM
+Marten Scout VTOL (Standard).blk	MM
+Masakari (Warhawk) A.mtf	MM
+Masakari (Warhawk) B.mtf	MM
+Masakari (Warhawk) C.mtf	MM
+Masakari (Warhawk) D.mtf	MM
+Masakari (Warhawk) E.mtf	MM
+Masakari (Warhawk) F.mtf	MM
+Masakari (Warhawk) H.mtf	MM
+Masakari (Warhawk) Prime.mtf	MM
+Matador .mtf	MM
+Matador 3.mtf	MWL
+Mauler MAL-2K.mtf	MWL
+Mauler MAL-3RC.mtf	MWL
+Mauler MAL-3RZ.mtf	MWL
+Maultier Hover APC (BA).blk	MM
+Maultier Hover APC (Basic).blk	MM
+Maultier Hover APC (Fusion).blk	MM
+Maultier Hover APC (Intermediate).blk	MM
+Maultier Hover APC (MG).blk	MM
+Maultier Hover APC.blk	MM
+Mauna Kea Command Vessel (LB-X).blk	MM
+Mauna Kea Command Vessel (LRM).blk	MM
+Mauna Kea Command Vessel (LRT).blk	MM
+Mauna Kea Command Vessel.blk	MM
+Maxim (I) Heavy Hover Transport (C3M).blk	MWL
+Maxim (I) Heavy Hover Transport (C3S).blk	MWL
+Maxim Heavy Hover Transport (C3 reactive).blk	MWL
+Maxim Heavy Hover Transport (C3i LRM).blk	MWL
+Maxim Heavy Hover Transport (C3i).blk	MWL
+Maxim Heavy Hover Transport (MML).blk	MWL
+Maxim Heavy Hover Transport (SRM).blk	MWL
+Maxim Mk II Transport (ECM).blk	MM
+Men Shen MS1-O J.mtf	MWL
+Men Shen MS1-O NV.mtf	MWL
+Men Shen MS1-OG.mtf	MM
+Men Shen MS1-OU.mtf	MM
+Mengqin MNG-8L.blk	MWL
+Mercury II MCY-100.mtf	MM
+Mercury MCY-98.mtf	MM
+Merkava Heavy Tank MK VI.blk	MM
+Merkava Heavy Tank Mk VII.blk	MM
+Merkava Mk XVII (AMS).blk	MWL
+Merkava Mk XVII.blk	MWL
+Merlin MLN-1A.mtf	MM
+Merlin MLN-1B.mtf	MM
+Merlin MLN-1C.mtf	MM
+Merlin MLN-2A.mtf	MWL
+Merlin MLN-2C.mtf	MWL
+Merlin MLN-3C.mtf	MWL
+Merlin MLN-RA.mtf	MWL
+Merlin MLN-SX.mtf	MM
+Merlin Porter.mtf	MM
+MHI Amphibious APC (Standard).blk	MM
+MHI Defense AA Tank (Standard).blk	MM
+Mifeng Gunship .blk	MWL
+Minion Advanced Tactical Vehicle (Gauss).blk	MWL
+Minion Advanced Tactical Vehicle Magshot.blk	MM
+Minion Advanced Tactical Vehicle Silver Bullet.blk	MM
+Mist Lynx A.mtf*	MWL
+Mist Lynx B.mtf*	MWL
+Mist Lynx C.mtf*	MWL
+Mist Lynx D.mtf*	MWL
+Mist Lynx E.mtf*	MWL
+Mist Lynx F.mtf*	MWL
+Mist Lynx G.mtf*	MWL
+Mist Lynx H.mtf*	MWL
+Mist Lynx P.mtf*	MWL
+Mist Lynx Prime.mtf*	MWL
+Mist Lynx S.mtf*	MWL
+MIT23 MASH Vehicle.blk	MM
+MIT24 MASH Vehicle (Standard).blk	MM
+Mobile Headquarters (ICE - LL).blk	MM
+Mobile Headquarters (ICE - LRM).blk	MM
+Mobile Headquarters (ICE).blk	MM
+Mobile Headquarters (LL).blk	MM
+Mobile Headquarters (LRM).blk	MM
+Mobile Headquarters.blk	MM
+Mobile Long Tom (Ammo Carriage).blk	MM
+Mobile Long Tom (Support Carriage).blk	MM
+Mobile Long Tom Artillery (Unofficial).blk	MM
+Mobile Long Tom Artillery.blk	MWL
+Mobile Long Tom LT-MOB-25.blk	MM
+Mobile Sniper Artillery .blk	MWL
+Mobile Tactical Command HQ.blk	MM
+Mobile Thumper Artillery .blk	MWL
+Moltke Main Battle Tank M-1.blk	MWL
+Moltke Main Battle Tank M-2.blk	MWL
+Mongoose MON-66.mtf	MM
+Mongoose MON-66GX Gunslinger.mtf	MM
+Mongoose MON-67.mtf	MM
+Mongoose MON-68.mtf	MM
+Mongoose MON-69.mtf	MM
+Mongoose MON-70.mtf	MM
+Mongoose MON-96.mtf	MWL
+Mongrel MGL-T1.mtf	MM
+Mongrel MGL-T2.mtf	MM
+Monitor Naval Vessel.blk	MM
+Montgomery II.blk	MWL
+Morgenstern MR-1S.blk	MWL
+Morgenstern MR-1SA.blk	MWL
+Morgenstern MR-1SB.blk	MWL
+Morgenstern MR-1SC.blk	MWL
+Morgenstern MR-1SD.blk	MWL
+Morningstar City Command Vehicle [HPG].blk	MM
+Morpheus MR-P1.mtf	MM
+Morpheus MRP-3S.mtf	MM
+Morpheus MRP-3T.mtf	MM
+Morpheus MRP-3W.mtf	MM
+Morrigan 4.mtf	MM
+Morrigan 5.mtf	MM
+Morrigu Fire Support Vehicle (HAG).blk	MM
+Mortar Carrier (Standard).blk	MM
+Mortis MS-1A.mtf	MM
+Mortis MS-1P.mtf	MM
+Mosquito Light Fighter.blk	MM
+Myrmidon Medium Tank (Anti-Infantry).blk	MM
+Myrmidon Medium Tank (MG).blk	MWL
+Nacon Armored Scout (Standard).blk	MM
+Naginata NG-C3KC.mtf	MWL
+Naginata NG-C4C Nagamaki.mtf	MWL
+Naginata NG-C4H.mtf	MWL
+Naifu Attack VTOL (Standard).blk	MWL
+Narumkami Heavy Tank NK-1C.blk	MM
+Narumkami Heavy Tank NK-BC3.blk	MM
+Neanderthal NTL-AG.mtf	MM
+Neanderthal NTL-UG.mtf	MM
+Nemera Mk XI.blk	MWL
+Nephilim Assault Battle Armor (Capture Team)[HMG].blk	MM
+Nephilim Assault Battle Armor (Gauss).blk	MM
+Nephilim Assault Battle Armor (Narc).blk	MM
+Nephilim Assault Battle Armor (Seeker) [MG].blk	MM
+Nephilim Assault Battle Armor (Support).blk	MM
+Nephilim Assault Battle Armor [Standard].blk	MM
+Neptune Submarine (Hunter-Killer).blk	MM
+Neptune Submarine (LRT).blk	MM
+Neptune Submarine (SRT).blk	MM
+Neptune Submarine.blk	MM
+Nexus II NXS2-C.mtf	MWL
+Nexus NXS1-A.mtf	MM
+Night Gyr G.mtf	MWL
+Night Gyr I.mtf	MWL
+Night Gyr J.mtf	MWL
+Night Gyr V.mtf	MWL
+Night Hawk NTK-3RK.mtf	MWL
+Night Hawk NTK-7S.mtf	MWL
+Night Hawk NTK-RA.mtf	MWL
+Night Stalker NSR-K1.mtf	MM
+Night Stalker NSR-K3.mtf	MM
+Night Stalker NSR-K4.mtf	MM
+Night Stalker NSR-K7.mtf	MM
+Night Stalker NSR-KC.mtf	MM
+Night Wolf 2.mtf	MWL
+Nighthawk PA(L) Mk. XXI.blk	MM
+Nighthawk PA(L) Mk. XXII.blk	MM
+Nighthawk PA(L) Mk. XXX (Bounty Hunter).blk	MM
+Nighthawk PA(L) Mk. XXX.blk	MM
+Nightshade (Royal).blk	MWL
+Nightshade (WoB).blk	MWL
+Nightshade ECM VTOL (Armor).blk	MM
+Nightshade ECM VTOL (LAC).blk	MM
+Nightshade ECM VTOL (Light PPC).blk	MM
+Nightshade ECM VTOL (Royal).blk	MM
+Nightshade ECM VTOL.blk	MM
+Nightsky NGS-4X.mtf	MWL
+Nightsky NGS-7S.mtf	MWL
+Nightsky NGS-7ST.mtf	MWL
+Nightsky NGS-8S.mtf	MWL
+Nightstar NSR-8F.mtf	MWL
+Nightstar NSR-9FCS.mtf	MWL
+Nightstar NSR-9FS.mtf	MWL
+Nightstar NSR-9J Brubaker.mtf	MM
+Nightstar NSR-9JS.mtf	MWL
+Nike Tank.blk	MM
+Ninja-To NJT-5.mtf	MWL
+Nishikigoi Koi Variant.blk	MM
+Nisos Attack WIGE (Standard).blk	MM
+Nisos Attack WIGE (Support).blk	MM
+Nobori-nin (Huntsman) A.mtf	MM
+Nobori-nin (Huntsman) B.mtf	MM
+Nobori-nin (Huntsman) C.mtf	MM
+Nobori-nin (Huntsman) D.mtf	MM
+Nobori-nin (Huntsman) E.mtf	MM
+Nobori-nin (Huntsman) F.mtf	MM
+Nobori-nin (Huntsman) H.mtf	MM
+Nobori-nin (Huntsman) N.mtf	MM
+Nobori-nin (Huntsman) Prime.mtf	MM
+No-Dachi NDA-3K.mtf	MWL
+No-Dachi NDA-4X.mtf	MWL
+Nova A.mtf*	MWL
+Nova B.mtf*	MWL
+Nova C.mtf*	MWL
+Nova Cat H.mtf	MM
+Nova Cat I.mtf	MM
+Nova D.mtf*	MWL
+Nova E.mtf*	MWL
+Nova F.mtf*	MWL
+Nova H.mtf*	MWL
+Nova Prime.mtf*	MWL
+Nova S.mtf*	MWL
+Nuberu Anti Aircraft Tank 2 Numantia.blk	MM
+Nuberu Anti Aircraft Tank.blk	MM
+Nyx NX-100.mtf	MM
+Nyx NX-100C.mtf	MWL
+Nyx NX-110.mtf	MM
+Nyx NX-90K.mtf	MWL
+Nyx NX-90S.mtf	MWL
+O-65 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV.blk	MM
+O-66 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV.blk	MM
+O-Bakemono OBK-M11KC.mtf	MWL
+O-Bakemono OBK-M13.mtf	MWL
+O-Bakemono OBK-M14.mtf	MWL
+Ocelot .mtf	MM
+Ocelot II (RCV).blk	MWL
+Ocelot II.blk	MWL
+Ogre BA (Interdictor).blk	MM
+Ogre BA (Standard).blk	MM
+OMEGA SHP-4X.mtf	MM
+Omen 2.mtf	MM
+Onager 2.mtf	MM
+Oni Battle Armor [Narc].blk	MM
+Oni Battlearmor Bearhunter.blk	MM
+Oni Battlearmor MRR.blk	MM
+Oni Battlearmor PPC.blk	MM
+Oni ON-1.blk	MWL
+Onslaught SA-OS.mtf	MM
+Onslaught SA-OS2.mtf	MM
+Onslaught SA-OS3.mtf	MM
+Ontos Heavy Tank (3053).blk	MWL
+Ontos Heavy Tank (Light Gauss XL).blk	MWL
+Ontos Heavy Tank (LPPC).blk	MWL
+Ontos Heavy Tank Heat.blk	MM
+Orion IIC .mtf	MM
+Orion IIC 6.mtf	MWL
+Orion ON1-K (Kerensky).mtf	MM
+Orion ON1-K.mtf	MM
+Orion ON1-M-DC.mtf	MM
+Orion ON1-V.mtf	MM
+Orion ON1-VA.mtf	MM
+Orion ON1-V-DC.mtf	MM
+Orion ON2-W.mtf	MWL
+Orion ON3-M.mtf	MM
+Orion ON4-M.mtf	MWL
+Orion ON5-VA.mtf	MWL
+Osiris OSR-7D.mtf	MWL
+Osprey OSP-26 Lawrence.mtf	MM
+Osteon (Jaguar).mtf	MM
+Osteon A.mtf	MM
+Osteon B.mtf	MM
+Osteon C.mtf	MM
+Osteon D.mtf	MM
+Osteon E.mtf	MM
+Osteon F.mtf	MM
+Osteon G.mtf	MM
+Osteon Prime.mtf	MM
+Osteon U.mtf	MM
+Ostroc OSR-2C Michi.mtf	MM
+Ostroc OSR-2C.mtf	MM
+Ostroc OSR-2D.mtf	MM
+Ostroc OSR-2L.mtf	MM
+Ostroc OSR-2M.mtf	MM
+Ostroc OSR-3C.mtf	MM
+Ostroc OSR-3L.mtf	MWL
+Ostroc OSR-4LL.mtf	MWL
+Ostroc OSR-4MC.mtf	MWL
+Ostroc OSR-4RL.mtf	MWL
+Ostroc OSR-4T.mtf	MWL
+Ostroc OSR-5W Ruff.mtf	MWL
+Ostroc OSR-6R.mtf	MWL
+Ostrogoth A.blk	MWL
+Ostrogoth B.blk	MWL
+Ostrogoth C.blk	MWL
+Ostrogoth Prime.blk	MWL
+Ostscout OTT-10S.mtf	MWL
+Ostscout OTT-11CS.mtf	MWL
+Ostscout OTT-7J.mtf	MM
+Ostscout OTT-7Jb.mtf	MM
+Ostscout OTT-7K.mtf	MM
+Ostsol OTL-4D.mtf	MM
+Ostsol OTL-4F.mtf	MM
+Ostsol OTL-5D.mtf	MM
+Ostsol OTL-9M2.mtf	MWL
+Ostwar OWR-2M.mtf	MM
+Owens OW-1 K.mtf	MWL
+Owens OW-1G.mtf	MM
+Owens OW-1R.mtf	MM
+PAB-28 Sniper Suit.blk	MM
+Pack Hunter .mtf	MM
+Pack Hunter 2.mtf	MM
+Pack Hunter 3.mtf	MM
+Pack Hunter 4.mtf	MM
+Pack Hunter II .mtf	MM
+Pack Hunter II 2.mtf	MM
+Pack Hunter II 3.mtf	MM
+Pack Hunter II 4.mtf	MM
+Pack Hunter II Isis.mtf	MM
+Packrat Gespenst.blk	MM
+Packrat LRPV PKR-T5 (ICE).blk	MM
+Packrat LRPV PKR-T5 (ML).blk	MM
+Packrat LRPV PKR-T5 (SRM2).blk	MM
+Packrat LRPV PKR-T5.blk	MM
+Padilla Tube Artillery Tank (LTC).blk	MM
+Padilla Tube Artillery Tank (Thumper).blk	MM
+Padilla Tube Artillery Tank.blk	MM
+Paladin Defense System (Standard).blk	MM
+Paladin PAL-1.mtf	MM
+Paladin PAL-2.mtf	MM
+Paladin PAL-3.mtf	MM
+Pandarus LFA-1A.mtf	MM
+Panther PNT-10G.mtf	MWL
+Panther PNT-10K.mtf	MM
+Panther PNT-10RG.mtf	MWL
+Panther PNT-12KC.mtf	MM
+Panther PNT-22K.mtf	MWL
+Panther PNT-8Z.mtf	MM
+Panther PNT-9R.mtf	MM
+Panther PNT-C.mtf	MM
+Panther PNT-CA.mtf	MM
+Panther PNT-GBD.mtf	MWL
+Panther.blk	MWL
+Panzer IX.blk	MWL
+Panzer X (X6).blk	MWL
+Panzer X (XB).blk	MWL
+Panzer X.blk	MWL
+Panzerfaust (Wirbelwind).blk	MWL
+Panzerfaust.blk	MWL
+Paramour Mobile Repair Vehicle (MFB).blk	MM
+Paramour Mobile Repair Vehicle (Standard).blk	MM
+Parash 2.mtf	MM
+Parash.mtf	MM
+Pariah (Septicemia) A-Z.mtf	MM
+Pariah (Septicemia) B-Z.mtf	MM
+Pariah (Septicemia) C-Z.mtf	MM
+Pariah (Septicemia) D-Z.mtf	MM
+Pariah (Septicemia) E.mtf	MM
+Pariah (Septicemia) F.mtf	MM
+Pariah (Septicemia) US.mtf	MM
+Pariah (Septicemia) UW.mtf	MM
+Pariah (Septicemia) Z.mtf	MM
+Pariah B.mtf	MM
+Partisan AA Vehicle (3134 Upgrade).blk	MM
+Partisan AA Vehicle (Standard).blk	MM
+Partisan Air Defense Tank (Quad RAC2).blk	MWL
+Partisan Heavy Tank (C3S).blk	MWL
+Partisan Heavy Tank (LAC5).blk	MWL
+Partisan Heavy Tank (LBX-5).blk	MWL
+Partisan Partisan Heavy Tank (C3S).blk	MM
+Pathfinder PFF-2.mtf	MM
+Pathfinder PFF-2T.mtf	MM
+Patriot PKM-2T.mtf	MWL
+Patriot PKM-3M.mtf	MWL
+Patron LoaderMech .mtf	MM
+Patron MilitiaMech PTN-2.mtf	MM
+Patron MilitiaMech PTN-2M.mtf	MM
+Patron-I LoaderMech .mtf	MM
+Patton Tank (Upgrade).blk	MWL
+Patton Tank SB.blk	MM
+Peacekeeper PKP-2K.mtf	MM
+Peacemaker PoliceMech PM6.mtf	MM
+Pegasus Scout Hover Tank (C3 master).blk	MWL
+Pegasus Scout Hover Tank (C3 reactive).blk	MWL
+Pegasus Scout Hover Tank (Intruder).blk	MWL
+Pegasus Scout Hover Tank (Missile).blk	MWL
+Pegasus Scout Hover Tank (Sensors).blk	MWL
+Pegasus Scout Hover Tank (Unarmed).blk	MWL
+Pegasus Scout Hover Tank X-Pulse.blk	MM
+Pegasus Scout Hover Tank.blk	MWL
+Pegasus Scout Hovertank (Missile).blk	MM
+Pegasus Scout Hovertank (Sensors).blk	MM
+Pegasus Scout Hovertank (Unarmed).blk	MM
+Pegasus Scout Hovertank.blk	MM
+Pendragon PDG-1R.mtf	MM
+Pendragon PDG-1X MUSE RED.mtf	MM
+Penetrator PTR-4DX.mtf	MWL
+Penetrator PTR-8S.mtf	MWL
+Percival (Type S).blk	MWL
+Percival.blk	MWL
+Peregrine (Horned Owl) 2.mtf	MM
+Peregrine (Horned Owl) 3.mtf	MM
+Peregrine (Horned Owl) 4.mtf	MM
+Peregrine (Horned Owl) 5.mtf	MM
+Peregrine (Horned Owl).mtf	MM
+Peregrine Attack VTOL (Cargo).blk	MM
+Peregrine Attack VTOL.blk	MM
+Perseus P1 F.mtf	MWL
+Perseus P1E.mtf	MM
+Perseus P1G.mtf	MWL
+Perseus P1H.mtf	MWL
+Perseus P1P.mtf	MM
+Perseus P1W.mtf	MM
+Pershing.blk	MWL
+Phalanx (D).blk	MM
+Phalanx (WoB-A).blk	MM
+Phalanx (WoB-B).blk	MM
+Phalanx (WoB-C).blk	MM
+Phalanx Support Tank (Production).blk	MM
+Phalanx Support Tank .blk	MWL
+Phalanx Support Tank(Prototype).blk	MM
+Phoenix Hawk IIC .mtf	MM
+Phoenix Hawk IIC 8.mtf	MM
+Phoenix Hawk L PXH-11K.mtf	MM
+Phoenix Hawk L PXH-11K2.mtf	MM
+Phoenix Hawk LAM Mk I PHX-HK1.mtf	MM
+Phoenix Hawk LAM Mk I PHX-HK1R.mtf	MM
+Phoenix Hawk LAM PHX-HK1RB.mtf	MM
+Phoenix Hawk LAM PHX-HK2.mtf	MM
+Phoenix Hawk LAM PHX-HK2M.mtf	MM
+Phoenix Hawk PHK-2K.mtf	MWL
+Phoenix Hawk PHX-6L.mtf	MWL
+Phoenix Hawk PXH-1.mtf	MM
+Phoenix Hawk PXH-1D.mtf	MM
+Phoenix Hawk PXH-1K.mtf	MM
+Phoenix Hawk PXH-1Kk.mtf	MM
+Phoenix Hawk PXH-2.mtf	MM
+Phoenix Hawk PXH-3M Masters.mtf	MM
+Phoenix Hawk PXH-4L Sante.mtf	MM
+Phoenix Hawk PXH-5W.mtf	MWL
+Phoenix PX-1R.mtf	MM
+Phoenix PX-3R.mtf	MM
+Phoenix PX-4R.mtf	MM
+Pike Support Vehicle (3063).blk	MWL
+Pike Support Vehicle (RAC) Assault Pike.blk	MM
+Pike Support Vehicle (RAC).blk	MWL
+Pillager Anvil.mtf	MWL
+Pillager PLG-1N.mtf	MM
+Pillager PLG-3RK.mtf	MWL
+Pillager PLG-4x Anvil.mtf	MM
+Pillager PLG-4ZS Werewolf Hunter.mtf	MWL
+Pillager PLG-5Z2.mtf	MWL
+Pillager PLZ-5D.mtf	MWL
+Pinion 3.mtf	MM
+Pinion 5.mtf	MWL
+Piranha .mtf	MM
+Pixiu Heavy Tank (Standard).blk	MM
+Po Heavy Tank (Clan RA).blk	MWL
+Po Heavy Tank (LBX).blk	MWL
+Po Heavy Tank (OD).blk	MWL
+Po Heavy Tank (Ultra).blk	MWL
+Po Heavy Tank HV Prototype.blk	MM
+Po Heavy Tank HV.blk	MM
+Po Heavy Tank HVAC.blk	MWL
+Po II Heavy Tank (Gauss).blk	MM
+Po II Heavy Tank (Stealth).blk	MM
+Poignard PGD-L3.blk	MWL
+Poignard PGD-R3.blk	MWL
+Poignard PGD-Y3.blk	MWL
+Pollaxe PLX-1A.mtf	MWL
+Pollux ADA Heavy Tank.blk	MM
+Pompier GM-3A.mtf	MM
+Porcupine PRC-1N.mtf	MM
+Porcupine PRC-2N.mtf	MM
+Poseidon PSD-V2.mtf	MM
+Pouncer F.mtf	MM
+Pouncer S.mtf	MWL
+PowerLoader Exoskeleton P-5000.blk	MM
+Powerman LoaderMech SC XI (Laser).mtf	MM
+Powerman LoaderMech SC XI (SRM).mtf	MM
+Powerman LoaderMech SC XI.mtf	MM
+Powerman XV LoaderMech (Standard).mtf	MM
+Powerman XVI LoaderMech (Standard).mtf	MM
+Praetorian Mobile Strategic Command HQ (Standard).blk	MM
+Praetorian PRN4-A.mtf	MWL
+Praetorian PRN4-AP.mtf	MWL
+Predator .mtf	MM
+Predator Tank Destroyer (Original).blk	MM
+Predator Tank Destroyer (Standard).blk	MM
+Prefect PRF-1R Veronica.mtf	MM
+Prefect PRF-3R.mtf	MM
+Preta C-PRT-O Eminus II.mtf	MWL
+Preta C-PRT-O Eminus III.mtf	MWL
+Preta C-PRT-O Invictus.mtf	MM
+Preta C-PRT-O Kendali.mtf	MM
+Preta C-PRT-OA Dominus.mtf	MM
+Preta C-PRT-OB Infernus.mtf	MM
+Preta C-PRT-OC Comminus.mtf	MM
+Preta C-PRT-OD Luminos.mtf	MM
+Preta C-PRT-OE Eminus.mtf	MM
+Preta C-PRT-OS Caelestis.mtf	MM
+Preta C-PRT-OU Exanimus.mtf	MM
+Prey Seeker PY-SR10.mtf	MM
+Privateer PV-1K.mtf	MWL
+Privateer PV-2K.mtf	MWL
+Privateer PV-2L.mtf	MWL
+Privateer PV-3L.mtf	MWL
+Privateer PV-4K.mtf	MWL
+Prometheus Combat Support Bridgelayer .blk	MM
+Prometheus.mtf	MM
+Prowler Multi-Terrain Vehicle (3140 Upgrade).blk	MM
+Prowler Multi-Terrain Vehicle (Davion).blk	MWL
+Prowler Multi-Terrain Vehicle (FWLM).blk	MWL
+Prowler Multi-Terrain Vehicle (Kurita).blk	MWL
+Prowler Multi-Terrain Vehicle (LAAF).blk	MWL
+Prowler Multi-Terrain Vehicle (Security).blk	MM
+Prowler Multi-Terrain Vehicle (Terra).blk	MWL
+Prowler PWR-1X.mtf	MM
+Prowler PWR-1X1.mtf	MM
+Pulverizer PUL-2V.mtf	MM
+Puma (Adder)  Prime.mtf	MM
+Puma (Adder) A.mtf	MM
+Puma (Adder) B.mtf	MM
+Puma (Adder) C.mtf	MM
+Puma (Adder) D.mtf	MM
+Puma (Adder) E.mtf	MM
+Puma (Adder) H.mtf	MM
+Puma (Adder) J.mtf	MM
+Puma (Royal).blk	MWL
+Puma Assault Tank PAT-001.blk	MM
+Puma Assault Tank PAT-002.blk	MM
+Puma Assault Tank PAT-005.blk	MM
+Puma Assault Tank PAT-005b.blk	MM
+Puma Assault Tank PAT-007.blk	MM
+Puma Assault Tank PAT-008.blk	MM
+Purifier Adaptive Battle Armor [Laser] (RAF).blk	MM
+Purifier Adaptive Battle Armor [Laser].blk	MM
+Purifier Adaptive Battle Armor [Narc] (RAF).blk	MM
+Purifier Adaptive Battle Armor [Narc].blk	MM
+Purifier Adaptive Battle Armor [PPC] (RAF).blk	MM
+Purifier Adaptive Battle Armor [PPC].blk	MM
+Purifier Adaptive Battle Armor [TAG] (RAF).blk	MM
+Purifier Adaptive Battle Armor [TAG].blk	MM
+Purifier BA Terra AP Gauss(C).blk	MM
+Purifier BA Terra ER Small(C).blk	MM
+Purifier BA Terra Recoilless Rifle(C).blk	MM
+Purifier BA Terra Small Pulse(C).blk	MM
+Pwwka S-PW-1LAM.mtf	MM
+Quasimodo QSM-3D.mtf	MM
+Quasit MilitiaMech QUA-51M.mtf	MM
+Quasit MilitiaMech QUA-51P.mtf	MM
+Quasit Militiamech QUA-51T.mtf	MM
+Quiang-Ton (Export).blk	MWL
+Quiang-Ton (Jui-Jie-Bian).blk	MWL
+Quiang-Ton.blk	MWL
+Quickdraw QKD-4G.mtf	MM
+Quickdraw QKD-4H.mtf	MM
+Quickdraw QKD-5A.mtf	MM
+Quickdraw QKD-5K.mtf	MM
+Quickdraw QKD-5MS.mtf	MWL
+Quickdraw QKD-5Sb.mtf	MWL
+Quickdraw QKD-6VS.mtf	MWL
+Quickdraw QKD-8P.mtf	MM
+Quickdraw QKD-8X.mtf	MM
+Quickdraw QKD-9M.mtf	MM
+Quickdraw QKD-9W.mtf	MWL
+Quickdraw QKD-C.mtf	MM
+Quirinus BattleArmor (David LGR).blk	MM
+Quirinus BattleArmor (Grenade Launcher).blk	MM
+Quirinus BattleArmor (MG).blk	MM
+R10 Mechanized ICV (A).blk	MM
+R10 Mechanized ICV (B).blk	MM
+R10 Mechanized ICV (Coolant Truck).blk	MM
+R10 Mechanized ICV (Prime).blk	MM
+Rabid Coyote 2.mtf	MM
+Raiden Battle Armor (Anti-Infantry).blk	MM
+Raiden Battle Armor (Original).blk	MM
+Raiden Battle Armor [Flamer].blk	MM
+Raiden Battle Armor [Laser].blk	MM
+Raiden Battle Armor [MG].blk	MM
+Raiden Battle Armor [MRM].blk	MM
+Raiden Battle Armor [Tsunami].blk	MM
+Raiden Battle Armor II (Flamer).blk	MM
+Raiden Battle Armor II (HMG).blk	MM
+Raider JL-1.mtf	MM
+Raider Mk II JL-2.mtf	MM
+Raijin II RJN-200-A2.mtf	MWL
+Rakshasa MDG-SS.mtf	MWL
+Rampage RMP-2G.mtf	MM
+Rampage RMP-4G Benboudaoud.mtf	MM
+Rampage RMP-4G.mtf	MM
+Rampage RMP-5G.mtf	MM
+Randolph Support Vehicle.blk	MM
+Ranger Armored Fighting Vehicle VV1 (Interdictor).blk	MM
+Rapier RPR-100.blk	MWL
+Rapier RPR-100b.blk	MWL
+Rapier RPR-101.blk	MWL
+Rapier RPR-102.blk	MWL
+Rapier RPR-200.blk	MWL
+Rapier RPR-300.blk	MWL
+Raptor II RPT-2X2.mtf	MM
+Raptor RTX1-OR.mtf	MM
+Raptor RTX1-OU.mtf	MM
+Ravager Assault Battle Armor (Level I) .blk	MM
+Ravager Assault Battle Armor (LRM MH).blk	MM
+Ravager Assault Battle Armor (LRM).blk	MM
+Ravager Assault Battle Armor (MH).blk	MM
+Ravager Assault Battle Armor.blk	MM
+Raven II RVN-5X.mtf	MM
+Raven RVN-1X.mtf	MM
+Raven RVN-2X.mtf	MM
+Raven RVN-3M.mtf	MM
+Raven RVN-3X.mtf	MM
+Raven RVN-4X.mtf	MM
+Raven RVN-5L.mtf	MWL
+Raven RVN-5LV.mtf	MWL
+Raven RVN-5LX.mtf	MWL
+Raven X RVN-3X.mtf	MM
+Raven X.mtf	MWL
+Red Kite Attack VTOL (Standard).blk	MM
+Regulator Hovertank (Alan).blk	MWL
+Regulator Hovertank Alan.blk	MM
+Reptar MilitiaMech EPT-C-1.mtf	MM
+Resgate PA(L) (Standard).blk	MM
+Revenant (Bis).blk	MWL
+Revenant (Cell).blk	MWL
+Revenant.blk	MWL
+Rhino Fire Support Tank (CS-RK).blk	MWL
+Rhino Fire Support Tank (Flamer).blk	MM
+Rhino Fire Support Tank (Hagar).blk	MM
+Rhino Fire Support Tank (MG).blk	MM
+Rhino Fire Support Tank (ML).blk	MM
+Rhino Fire Support Tank (Royal).blk	MM
+Rhino Fire Support Tank (SL).blk	MM
+Rhino Fire Support Tank (WoB).blk	MWL
+Rhino Fire Support Tank.blk	MM
+Rhino.blk	MWL
+Riever F-100.blk	MWL
+Riever F-100a.blk	MWL
+Riever F-100b.blk	MWL
+Riever F-700.blk	MWL
+Riever F-700a.blk	MWL
+Riever F-700b.blk	MWL
+Rifleman C 2.mtf	MM
+Rifleman C.mtf	MM
+Rifleman II RFL-3N-2 Kataga.mtf	MM
+Rifleman II RFL-3N-2CS.mtf	MWL
+Rifleman II RFL-3N-CS3.mtf	MWL
+Rifleman IIC .mtf	MM
+Rifleman III RF2-A.mtf	MM
+Rifleman RFL-3C.mtf	MM
+Rifleman RFL-3N.mtf	MM
+Rifleman RFL-4D.mtf	MM
+Rifleman RFL-4K.mtf	MWL
+Rifleman RFL-4N.mtf	MWL
+Rifleman RFL-5R.mtf	MWL
+Rifleman RFL-5S.mtf	MWL
+Rifleman RFL-6M.mtf	MWL
+Rifleman RFL-6XE.mtf	MWL
+Rifleman RFL-8M.mtf	MWL
+Rifleman RFL-9X.mtf	MWL
+Rifleman RFL-JF.mtf	MWL
+Rifleman RFL-X3 MUSE WIND.mtf	MM
+Ripper Infantry Transport (ERML).blk	MM
+Ripper Infantry Transport (Infantry).blk	MM
+Ripper Infantry Transport (LPPC).blk	MM
+Ripper Infantry Transport (MG).blk	MM
+Ripper Infantry Transport (Royal).blk	MM
+Ripper Infantry Transport (SPL).blk	MM
+Ripper Infantry Transport.blk	MM
+Rock Hound ProspectorMech AM-PRM-RH7 Rock Possum.mtf	MM
+Rock Hound ProspectorMech AM-PRM-RH7.mtf	MM
+Rock Hound ProspectorMech AM-PRM-RH7A Rock Otter.mtf	MM
+Rogue Bear Elite.blk	MWL
+Rogue Bear Heavy Battle Armor (Upgrade).blk	MM
+Rogue Bear Heavy Battle Armor HR.blk	MM
+Rogue Bear Heavy Battle Armor Hybrid.blk	MM
+Rogue Bear Heavy Battle Armor.blk	MM
+Rogue RGU-133E.blk	MWL
+Rogue RGU-133Eb.blk	MWL
+Rogue RGU-133F.blk	MWL
+Rogue RGU-133L.blk	MWL
+Rogue RGU-133LP.blk	MWL
+Rogue RGU-133P.blk	MWL
+Rokurokubi RK-4K.mtf	MM
+Rokurokubi RK-4T.mtf	MM
+Rokurokubi RK-4X.mtf	MM
+Roland (A).blk	MWL
+Roland (B).blk	MWL
+Roland (C).blk	MWL
+Roland (Prime).blk	MWL
+Rommel Tank (Clan).blk	MWL
+Rommel Tank (Howitzer) Production.blk	MM
+Rommel Tank (Howitzer) Prototype.blk	MM
+Ronin SA-RN.mtf	MM
+Ronin SA-RN7.mtf	MM
+Rook NH-1A.mtf	MM
+Rook NH-1B.mtf	MM
+Rook-X NH-1B.mtf	MM
+Rottweiler Battle Armor (Close Combat).blk	MM
+Rottweiler Battle Armor (Firedrake).blk	MM
+Rottweiler Battle Armor (Upgrade).blk	MM
+Rottweiler Battle Armor.blk	MM
+Rotunda Scout Vehicle (LRM).blk	MM
+Rotunda Scout Vehicle (RL).blk	MM
+Rotunda Scout Vehicle (SRM).blk	MM
+Rotunda Scout Vehicle.blk	MM
+Rusalka S-RSL-0 Comminus.blk	MWL
+Rusalka S-RSL-0 Dominus.blk	MWL
+Rusalka S-RSL-0 Eminus.blk	MWL
+Rusalka S-RSL-0 Infernus.blk	MWL
+Rusalka S-RSL-0 Invictus.blk	MWL
+Rusalka S-RSL-0 Luminos.blk	MWL
+Ryoken (Stormcrow) (Kotare).mtf	MM
+Ryoken (Stormcrow) A.mtf	MM
+Ryoken (Stormcrow) B.mtf	MM
+Ryoken (Stormcrow) C.mtf	MM
+Ryoken (Stormcrow) D.mtf	MM
+Ryoken (Stormcrow) E.mtf	MM
+Ryoken (Stormcrow) F.mtf	MM
+Ryoken (Stormcrow) G.mtf	MM
+Ryoken (Stormcrow) H.mtf	MM
+Ryoken (Stormcrow) I.mtf	MM
+Ryoken (Stormcrow) Prime.mtf	MM
+Ryoken (Stormcrow) Z.mtf	MM
+Ryoken II .mtf	MM
+Ryoken II Tassa.mtf	MM
+S-3 Sai.blk	MWL
+S-4 Sai.blk	MWL
+S-4C Sai.blk	MWL
+S-4X Sai.blk	MWL
+S-7 Sai.blk	MWL
+S-8 Sai.blk	MWL
+Saber SB-27.blk	MWL
+Saber SB-27b.blk	MWL
+Saber SB-28.blk	MWL
+Saber SB-29.blk	MWL
+Sabra XIII.blk	MWL
+Sabre Defense Special.blk	MWL
+Sabre SB-27.blk	MWL
+Sabre SB-27b.blk	MWL
+Sabutai A.blk	MWL
+Sabutai B.blk	MWL
+Sabutai C.blk	MWL
+Sabutai D.blk	MWL
+Sabutai J.blk	MWL
+Sabutai Prime.blk	MWL
+Sagittaire SGT-14D.mtf	MM
+Sagittaire SGT-8DM.mtf	MWL
+Sagittaire SGT-8RV.mtf	MWL
+Sagittarii SGT-2R.blk	MWL
+Sagittarii SGT-3R.blk	MWL
+Sai S-3.blk	MWL
+Sai S-4.blk	MWL
+Sai S-4C.blk	MWL
+Sai S-4X.blk	MWL
+Sai S-7.blk	MWL
+Sai S-8.blk	MWL
+Saladin Assault Hover Tank (C3).blk	MWL
+Saladin Assault Hover Tank (Clan Cargo).blk	MM
+Saladin Assault Hover Tank (LBX).blk	MWL
+Saladin Assault Hover Tank Ifrit.blk	MM
+Saladin Mk II HCV (BC3).blk	MM
+Saladin Mk II HCV (Standard).blk	MM
+Salamander (HMG) Elite.blk	MWL
+Salamander (Laser) Elite.blk	MWL
+Salamander Battle Armor (Anti-Infantry).blk	MM
+Salamander Battle Armor (Laser).blk	MM
+Salamander Battle Armor.blk	MM
+Salamander Elite.blk	MWL
+Salamander PPR-5SS.mtf	MWL
+Salamander PPR-6TT.mtf	MWL
+Salamander PPR-7S.mtf	MM
+Salamander PPR-8T.mtf	MWL
+Salrilla Exoskeleton PEX-2F.blk	MM
+Samurai SL-25.blk	MWL
+Samurai SL-26.blk	MWL
+Samurai SL-27.blk	MWL
+San Ku Chu (Mk I).blk	MWL
+San Ku Chu (Mk IB).blk	MWL
+San Ku Chu (Mk III).blk	MWL
+Sand Devil Hover Tank.blk	MM
+Sangine Shrike-Thrush Nanook.blk	MWL
+Saracen Medium Hover Tank (C3).blk	MWL
+Saracen Mk II HCV (BC3).blk	MM
+Saracen Mk II HCV (Standard).blk	MM
+Sarath SRTH-1O.mtf	MM
+Sarath SRTH-1OA.mtf	MM
+Sarath SRTH-1OB.mtf	MM
+Sarissa MN1-D.mtf	MM
+Sarissa SecurityMech MN2-A.mtf	MM
+Sarpedon (Glaukos).blk	MWL
+Sarpedon (Model A).blk	MWL
+Sarpedon.blk	MWL
+Sasquatch SQS-TH-001.mtf	MM
+Sasquatch SQS-TH-002.mtf	MM
+Sasquatch SQS-TH-003.mtf	MM
+Savage Coyote J.mtf	MM
+Savage Coyote W.mtf	MM
+Savage Coyote Z.mtf	MM
+Savannah Master Hovercraft (Interdictor).blk	MM
+Savannah Master Hovercraft (SL).blk	MM
+Savannah Master Hovercraft.blk	MM
+Savior Repair Vehicle (Standard).blk	MM
+Saxon APC Laser.blk	MWL
+Scapha Hovertank (A).blk	MM
+Scapha Hovertank (B).blk	MM
+Scapha Hovertank (C).blk	MM
+Scapha Hovertank (D).blk	MM
+Scapha Hovertank (E).blk	MM
+Scapha Hovertank (F).blk	MM
+Scapha Hovertank (G).blk	MM
+Scapha Hovertank (H).blk	MM
+Scapha Hovertank (I).blk	MM
+Scapha Hovertank (J).blk	MM
+Scapha Hovertank (Primary).blk	MM
+Scarecrow UCU-F4 Hobbled Scarecrow.mtf	MM
+Scarecrow UCU-F4.mtf	MM
+Schildkrote Line Tank (HPPC).blk	MM
+Schildkrote Line Tank (Standard).blk	MM
+Schiltron Mobile Fire-Support Platform A.blk	MM
+Schiltron Mobile Fire-Support Platform B.blk	MM
+Schiltron Mobile Fire-Support Platform C.blk	MM
+Schiltron Mobile Fire-Support Platform D.blk	MM
+Schiltron Mobile Fire-Support Platform E.blk	MM
+Schiltron Mobile Fire-Support Platform F.blk	MM
+Schiltron Mobile Fire-Support Platform Prime.blk	MM
+Schrek IIX PPC Carrier.blk	MM
+Schrek PPC Carrier (C3S).blk	MWL
+Scimitar Medium Hover Tank (C3 master).blk	MWL
+Scimitar Medium Hover Tank (LBX).blk	MWL
+Scimitar Mk II HCV (3136 Upgrade).blk	MM
+Scimitar Mk II HCV (BC3).blk	MM
+Scimitar Mk II HCV (Standard).blk	MM
+Scimitar Mk II Hover Combat Vehicle.blk	MWL
+Scorpion II SCR-3K.mtf	MWL
+Scorpion II SCR-4K.mtf	MWL
+Scorpion Light Tank (Clan).blk	MWL
+Scorpion Light Tank (FC LL).blk	MWL
+Scorpion Light Tank (FC RAC).blk	MWL
+Scorpion Light Tank (FC UAC).blk	MWL
+Scorpion Light Tank (LAC).blk	MM
+Scorpion Light Tank (Laser).blk	MWL
+Scorpion Light Tank (LBX).blk	MWL
+Scorpion Light Tank Minesweeper.blk	MM
+Scorpion SCO-11L.mtf	MWL
+Scorpion SCP-10M-X.mtf	MWL
+Scorpion SCP-13W.mtf	MWL
+Scorpion SCP-15.mtf	MWL
+Scorpion SCP-1N (Wednall).mtf	MM
+Scorpion SCP-1N.mtf	MM
+Scorpion SCP-2O.mtf	MWL
+Scorpion SCP-4M.mtf	MWL
+Scourge SCG-WD1.mtf	MM
+Scourge SCG-WF1.mtf	MM
+Scylla 2.mtf	MM
+Scytha A.blk	MWL
+Scytha B.blk	MWL
+Scytha C.blk	MWL
+Scytha D.blk	MWL
+Scytha J.blk	MWL
+Scytha K.blk	MWL
+Scytha Prime.blk	MWL
+Sea Fox Amphibious Armor.blk	MM
+Sea Hunter Maritime Tank .blk	MM
+Sea Skimmer Hydrofoil (SRM2).blk	MM
+Sea Skimmer Hydrofoil (SRM6).blk	MM
+Sea Skimmer Hydrofoil ELRM.blk	MM
+Sea Skimmer Hydrofoil Sniper.blk	MM
+Sea Skimmer Hydrofoil.blk	MM
+Se'irim Medium Battle Armor (Anti Infantry).blk	MM
+Se'irim Medium Battle Armor (Capture Team).blk	MM
+Se'irim Medium Battle Armor.blk	MM
+Sekhmet Assault Vehicle (Standard).blk	MM
+Sentinel IIC.mtf	MWL
+Sentinel STN-1S.mtf	MM
+Sentinel STN-3CS.mtf	MWL
+Sentinel STN-3K.mtf	MM
+Sentinel STN-3KA.mtf	MM
+Sentinel STN-3KB.mtf	MM
+Sentinel STN-3L.mtf	MM
+Sentinel STN-3RK.mtf	MWL
+Sentinel STN-3W.mtf	MWL
+Sentinel STN-4K.mtf	MWL
+Sentinel STN-5D.mtf	MWL
+Sentinel STN-6EX.mtf	MWL
+Sentinel STN-6K.mtf	MWL
+Sentinel STN-7K.mtf	MWL
+Sentry SNT-1D.mtf	MWL
+Seraph C-SRP-O Caelestis.mtf	MM
+Seraph C-SRP-O Havalah.mtf	MM
+Seraph C-SRP-O Invictus.mtf	MM
+Seraph C-SRP-O Ravana.mtf	MM
+Seraph C-SRP-OA Dominus.mtf	MM
+Seraph C-SRP-OB Infernus.mtf	MM
+Seraph C-SRP-OC Comminus.mtf	MM
+Seraph C-SRP-OD Luminos.mtf	MM
+Seraph C-SRP-OE Eminus.mtf	MM
+Seydiltz SYD Z1.blk	MWL
+Seydiltz SYD-Z2.blk	MWL
+Seydiltz SYD-Z2A.blk	MWL
+Seydiltz SYD-Z2B-Dev.blk	MWL
+Seydiltz SYD-Z3.blk	MWL
+Seydiltz SYD-Z3A.blk	MWL
+Seydiltz SYD-Z4.blk	MWL
+Seydlitz SYD-21.blk	MWL
+Seydlitz SYD-Z1.blk	MWL
+Seydlitz SYD-Z2.blk	MWL
+Seydlitz SYD-Z2A.blk	MWL
+Seydlitz SYD-Z2B.blk	MWL
+Seydlitz SYD-Z3.blk	MWL
+Seydlitz SYD-Z3A.blk	MWL
+Seydlitz SYD-Z4.blk	MWL
+Sha Yu SYU-8B.mtf	MWL
+Shackleton AESV .blk	MM
+Shade S-HA-0 Comminus.blk	MWL
+Shade S-HA-0 Dominus.blk	MWL
+Shade S-HA-0 Eminus.blk	MWL
+Shade S-HA-0 Infernus.blk	MWL
+Shade S-HA-0 Invictus.blk	MWL
+Shade S-HA-0 Luminos.blk	MWL
+Shadow Cat E.mtf	MM
+Shadow Cat F.mtf	MM
+Shadow Cat G.mtf	MWL
+Shadow Cat II .mtf	MM
+Shadow Cat II 2.mtf	MM
+Shadow Cat II 3.mtf	MM
+Shadow Cat II 4.mtf	MM
+Shadow Hawk IIC .mtf	MM
+Shadow Hawk IIC 7.mtf	MM
+Shadow Hawk SHD-10M.mtf	MWL
+Shadow Hawk SHD-11CZ.mtf	MWL
+Shadow Hawk SHD-11M.mtf	MWL
+Shadow Hawk SHD-1R.mtf	MM
+Shadow Hawk SHD-2D.mtf	MM
+Shadow Hawk SHD-2D2.mtf	MM
+Shadow Hawk SHD-2H.mtf	MM
+Shadow Hawk SHD-2K.mtf	MM
+Shadow Hawk SHD-5D (Sandy).mtf	MM
+Shadow Hawk SHD-5MC.mtf	MWL
+Shadow Hawk SHD-7DM.mtf	MWL
+Shadow Hawk SHD-7Mc.mtf	MWL
+Shadow Hawk SHD-7M-X.mtf	MWL
+Shadow Hawk SHD-8M.mtf	MWL
+Shadow Hawk SHD-X1.mtf	MM
+Shadow Hawk SHD-X2.mtf	MM
+Shamash Reconnaissance Vehicle (Flamer).blk	MM
+Shandra Advanced Scout Vehicle (Original).blk	MM
+Shandra Advanced Scout Vehicle (Standard).blk	MM
+Shandra Advanced Scout Vehicle.blk	MWL
+Shedu Assault Battle Armor (Capture Team).blk	MM
+Shedu Assault Battle Armor (PPC).blk	MM
+Shedu Assault Battle Armor (Recon).blk	MM
+Shedu Assault Battle Armor (Support).blk	MM
+Shedu Assault Battle Armor.blk	MM
+Shen Long BattleArmor David.blk	MM
+Shen Long BattleArmor Interdictor.blk	MM
+Shen Long BattleArmor MG.blk	MM
+Shen Long BattleArmor MRM.blk	MM
+Shen Long BattleArmor Pop Up Mine.blk	MM
+Shen Long BattleArmor SRM.blk	MM
+Shen Yi SHY-5B.mtf	MM
+Sher Khan (Apollo).blk	MWL
+Sher Khan (CASE).blk	MWL
+Sher Khan (Thunderbolt).blk	MWL
+Sher Khan (Transport).blk	MWL
+Sher Khan.blk	MWL
+Sheriff Infantry Support Tank (Standard).blk	MM
+Shillelagh Missile Tank (Original).blk	MM
+Shillelagh Missile Tank (Standard).blk	MM
+Shilone SL-17.blk	MWL
+Shilone SL-17AC.blk	MWL
+Shilone SL-17R.blk	MWL
+Shilone SL-18.blk	MWL
+Shiro SH-1V.mtf	MM
+Shiro SH-2P.mtf	MM
+Shiva SHV-O.blk	MWL
+Shiva SHV-OA.blk	MWL
+Shiva SHV-OB.blk	MWL
+Shiva SHV-OC.blk	MWL
+Shiva SHV-S.blk	MWL
+Shockwave SKW-6H.mtf	MM
+Shockwave SKW-8X.mtf	MM
+Shoden Assault Vehicle LB-X.blk	MM
+Shogun SHG-2E.mtf	MM
+Shogun SHG-2F (Trisha).mtf	MM
+Shogun SHG-2F.mtf	MM
+Shogun SHG-2KC.mtf	MWL
+Shogun SHG-2WB.mtf	MWL
+Shogun SHG-3F.mtf	MWL
+Shogun SHG-3HM.mtf	MWL
+Shogun SHG-4N.mtf	MWL
+Sholagar SL-21.blk	MWL
+Sholagar SL-21L.blk	MWL
+Sholagar SL-22.blk	MWL
+Sholagar SL-27X.blk	MWL
+Shootist ST-10S.mtf	MWL
+Shootist ST-11C.mtf	MWL
+Shootist ST-9E.mtf	MWL
+Shrike (Standard).mtf	MM
+Shrike 2.mtf	MM
+Shrike 3.mtf	MM
+Shugenja SJA-8D.mtf	MWL
+Shun Transport VTOL (Standard).blk	MM
+Silver Fox SVR-5X.mtf	MM
+Silver Fox SVR-5Y.mtf	MM
+Simian BattleArmor (Flamer).blk	MM
+Simian BattleArmor (HMG).blk	MM
+Simian BattleArmor (LRR).blk	MM
+Simian BattleArmor (Small Laser).blk	MM
+Sirocco SRC-4C.mtf	MWL
+Sirocco SRC-6ME.mtf	MWL
+Sirocco SRC-7C.mtf	MWL
+Skadi Swift Attack VTOL (Standard).blk	MM
+Skanda Light Tank (Standard).blk	MM
+Skimmer.blk	MM
+Skulker Wheeled Scout Tank (C3M).blk	MM
+Skulker Wheeled Scout Tank (MG).blk	MM
+Skulker Wheeled Scout Tank MK II.blk	MM
+Skulker Wheeled Scout Tank X-5.blk	MM
+Skulker Wheeled Scout Tank.blk	MM
+Skulker X-5.blk	MWL
+Slagmaiden SLG-X.mtf	MM
+Slayer CX 1.blk	MWL
+Slayer SL-15.blk	MWL
+Slayer SL-15A.blk	MWL
+Slayer SL-15B.blk	MWL
+Slayer SL-15C.blk	MWL
+Slayer SL-15K.blk	MWL
+Slayer SL-15R.blk	MWL
+Slayer SL-CX1.blk	MWL
+Sling SL-1G.mtf	MM
+Sling SL-1H.mtf	MM
+Sloth Battle Armor (Hunter).blk	MM
+Sloth Battle Armor (Interdictor).blk	MM
+Sloth Battle Armor (Interdictor).BLK	MWL
+Sloth Battle Armor .blk	MM
+Sloth.blk	MWL
+SM1 Tank Destroyer Telos.blk	MM
+SM2 Heavy Artilley Vehicle (LTC).blk	MM
+SM2 Heavy Artilley Vehicle (Standard).blk	MM
+Smoothdavid PA(L) II.blk	MM
+Smoothgoliath PA(L) II.blk	MM
+Snake Alexi.mtf	MM
+Sniper Artillery (Standard).blk	MM
+Snow Fox .mtf	MM
+Snow Fox 4.mtf	MWL
+Soarece Super Heavy MBT.blk	MM
+Sokar Urban Combat Unit .blk	MM
+Sokuryou SKU-181 SurveyMech.mtf	MM
+Sokuryou SKU-197 SurveyMech.mtf	MM
+Sokuryou SKU-198 SurveyMech.mtf	MM
+Sortek Assault Craft (Interdictor).blk	MM
+Sortek Assault Craft (Standard).blk	MM
+Space Hound ProspectorMech AM-PRM-SH1.mtf	MM
+Spad SPD-502.blk	MWL
+Spad SPD-503.blk	MWL
+Spad SPD-504.blk	MWL
+Sparrowhawk SPR-6D.blk	MWL
+Sparrowhawk SPR-7D.blk	MWL
+Sparrowhawk SPR-8H.blk	MWL
+Sparrowhawk SPR-H5.blk	MWL
+Sparrowhawk SPR-H5K.blk	MWL
+Sparrowhawk SPR-H8.blk	MWL
+Spartan SPT-3W.mtf	MWL
+Spartan SPT-5LN.mtf	MWL
+Spartan SPT-N4.mtf	MWL
+Spatha SP1-X.mtf	MM
+Spatha SP2-X Warlord.mtf	MM
+Spector SPR-5H.mtf	MWL
+Spector SPR-7L.mtf	MWL
+Spector SPR-SS.mtf	MWL
+Spectre Stealth Battle Armor RA.blk	MM
+Spectre Stealth Battle Armor.blk	MM
+Speeder.blk	MM
+Sphinx 3.mtf	MM
+Sphinx 4.mtf	MM
+Spider SDR-10K.mtf	MM
+Spider SDR-5D.mtf	MM
+Spider SDR-5K.mtf	MM
+Spider SDR-5V.mtf	MM
+Spider SDR-8HK.mtf	MWL
+Spider SDR-8Xr.mtf	MM
+Spindrift Aquatic SecurityMech SDT-1.mtf	MM
+Spindrift Aquatic SecurityMech SDT-1A.mtf	MM
+Spirit (Hunter).mtf	MWL
+Sprint Scout Helicopter (C3).blk	MM
+Sprint Scout Helicopter (C3i).blk	MM
+Sprint Scout Helicopter (Interdictor).blk	MM
+Sprint Scout Helicopter (Laser).blk	MM
+Sprint Scout Helicopter (Troop Transport).blk	MM
+Sprint Scout Helicopter.blk	MM
+SRM Carrier (MRM).blk	MWL
+SRM Carrier Primitive.blk	MM
+Stag II ST-24G.mtf	MM
+Stag ST-14G.mtf	MM
+Stalker II STK-9A.mtf	MM
+Stalker STK-10M.mtf	MWL
+Stalker STK-3F (Jamison).mtf	MM
+Stalker STK-3F Jagawen.mtf	MM
+Stalker STK-3F.mtf	MM
+Stalker STK-3Fk.mtf	MM
+Stalker STK-3H.mtf	MM
+Stalker STK-3MAF.mtf	MWL
+Stalker STK-4N.mtf	MM
+Stalker STK-4P.mtf	MM
+Stalker STK-5CM.mtf	MWL
+Stalker STK-5MAF.mtf	MWL
+Stalker STK-6ME.mtf	MWL
+Stalker STK-7M.mtf	MWL
+Stalker STK-8M.mtf	MWL
+Stalking Spider .mtf	MM
+Stalking Spider 3P.mtf	MWL
+Stalking Spider II.mtf	MM
+Standard (CS-Flamer).blk	MWL
+Standard (CS-Laser).blk	MWL
+Standard (CS-MG).blk	MWL
+Standard (CS-SRM).blk	MWL
+Starfire SF-1X.blk	MWL
+Starslayer STY-2C.mtf	MM
+Starslayer STY-3RR.mtf	MWL
+Stealth Anna.mtf	MM
+Stealth STH-5X.mtf	MM
+Stiletto STO-4BS.mtf	MWL
+Stiletto STO-6S.mtf	MM
+Stinger IIC 2.mtf	MM
+Stinger IIC.mtf	MM
+Stinger LAM Mk I STG-A1.mtf	MM
+Stinger LAM STG-A10.mtf	MM
+Stinger LAM STG-A5.mtf	MM
+Stinger STG-3G.mtf	MM
+Stinger STG-3R.mtf	MM
+Stinger STG-4R.mtf	MWL
+Stinger STG-4RV.mtf	MWL
+Stinger STG-5M.mtf	MM
+Stinger STG-6P.mtf	MWL
+Stinger STG-RA.mtf	MWL
+Stingray (Dirty Dozen).blk	MWL
+Stingray (Manta Ray).blk	MWL
+Stingray F-90.blk	MWL
+Stingray F-90S.blk	MWL
+Stingray F-92.blk	MWL
+Stingray F-94.blk	MWL
+Stingray F-95.blk	MWL
+Stingray.blk	MWL
+Stoat Scout Car.blk	MM
+Stone Rhino 2.mtf	MWL
+Stone Rhino.mtf	MWL
+Stooping Hawk H.mtf	MWL
+Stork Combat Transport .blk	MWL
+Storm Raider STM-R1.mtf	MM
+Storm Raider STM-R2.mtf	MM
+Storm Raider STM-R3.mtf	MM
+Storm Raider STM-R4.mtf	MM
+Stormcrow A.mtf*	MWL
+Stormcrow B.mtf*	MWL
+Stormcrow BF.mtf	MWL
+Stormcrow BG.mtf	MWL
+Stormcrow BR.mtf	MWL
+Stormcrow BW.mtf	MWL
+Stormcrow C.mtf*	MWL
+Stormcrow D.mtf*	MWL
+Stormcrow E.mtf*	MWL
+Stormcrow F.mtf*	MWL
+Stormcrow G.mtf*	MWL
+Stormcrow H.mtf*	MWL
+Stormcrow I.mtf*	MWL
+Stormcrow Prime.mtf*	MWL
+Strider SR1-O I.mtf	MWL
+Strider SR1-O K.mtf	MWL
+Strider SR1-O L.mtf	MWL
+Strider SR1-O X2.mtf	MWL
+Strider SR1-O X3.mtf	MWL
+Strider SR1-OH.mtf	MM
+Strider SR1-OM.mtf	MM
+Strider SR1-OR.mtf	MM
+Striga S-STR-0 Comminus.blk	MWL
+Striga S-STR-0 Dominus.blk	MWL
+Striga S-STR-0 Eminus.blk	MWL
+Striga S-STR-0 Infernus.blk	MWL
+Striga S-STR-0 Invictus.blk	MWL
+Striga S-STR-0 Luminos.blk	MWL
+Strike Falcon Attack VTOL.blk	MM
+Striker Light Tank (MML).blk	MWL
+Striker Mk II.blk	MWL
+Striker STC-2S.mtf	MM
+Striker STC-2VC.mtf	MWL
+Striker STC-3W.mtf	MWL
+Stuka STU-D6.blk	MWL
+Stuka STU-D7.blk	MWL
+Stuka STU-K10.blk	MWL
+Stuka STU-K15.blk	MWL
+Stuka STU-K5.blk	MWL
+Stuka STU-K5b.blk	MWL
+SturmFeur Heavy Tank (Upgrade).blk	MWL
+Sturmfeur Heavy Tank (WoB).blk	MM
+SturmFeur Kalki Cruise Missile Launcher.blk	MM
+Sulla A.blk	MWL
+Sulla B.blk	MWL
+Sulla C.blk	MWL
+Sulla D.blk	MWL
+Sulla F.blk	MWL
+Sulla G.blk	MWL
+Sulla Prime.blk	MWL
+Summoner A.mtf*	MWL
+Summoner B.mtf*	MWL
+Summoner C.mtf*	MWL
+Summoner D.mtf*	MWL
+Summoner E.mtf*	MWL
+Summoner G.mtf*	MWL
+Summoner H.mtf*	MWL
+Summoner HH.mtf	MWL
+Summoner I.mtf*	MWL
+Summoner M.mtf*	MWL
+Summoner Prime.mtf*	MWL
+Summoner Q.mtf	MWL
+Summoner V.mtf	MWL
+Sun Cobra .mtf	MM
+Sun Cobra 2.mtf	MM
+Sunder SD1-O Samual.mtf	MM
+Sunder SD1-OF.mtf	MM
+Sunder SD1-OG.mtf	MM
+Sunder SD1-OK.mtf	MWL
+Sunder SD1-OR.mtf	MM
+Sunder SD1-OW.mtf	MWL
+Super Griffin GRF-2N-X.mtf	MM
+Super Wasp WSP-2A-X.mtf	MM
+Supernova .mtf	MM
+Supernova 4.mtf	MM
+Svantovit Infantry Fighting Vehicle (ATM) Masada.blk	MWL
+Svantovit Infantry Fighting Vehicle (SSRM).blk	MWL
+Swallow Attack WIGE (Original).blk	MM
+Swallow Attack WIGE (Standard).blk	MM
+Swift C.blk	MWL
+Swift SW-606.blk	MWL
+Swift Wind Scout Car (ICE - Cargo).blk	MM
+Swift Wind Scout Car (ICE - Speed).blk	MM
+Swift Wind Scout Car (ICE).blk	MM
+Swift Wind Scout Car.blk	MM
+SYD-45X Starling.blk	MWL
+Sylph (Upgrade) Elite.blk	MWL
+Sylph Battle Armor (Upgrade).blk	MM
+Sylph Battle Armor Enhanced.blk	MM
+Sylph Battle Armor.blk	MM
+Sylph Elite.blk	MWL
+Sylph XR.blk	MM
+Tai-Sho TSH-7KC.mtf	MWL
+Tai-Sho TSH-8S2.mtf	MWL
+Tai-Sho TSH-9X.mtf	MWL
+Talon TLN-5K.mtf	MWL
+Talon TLN-5V.mtf	MM
+Talos TLS-1B.mtf	MM
+Taranis Battle Armor.blk	MM
+Tarantula ZPH-5A.mtf	MM
+Targe TRG-3M.mtf	MM
+Tatsu MIK-O.blk	MWL
+Tatsu MIK-OA.blk	MWL
+Tatsu MIK-OB.blk	MWL
+Tatsu MIK-OC.blk	MWL
+Tempest TMP-3G.mtf	MM
+Tempest TMP-3M2_Storm_Tempest.mtf	MM
+Tempest TMP-3M4.mtf	MWL
+Tempest TMP-3MA.mtf	MM
+Tempest TMP-TPL2 Home Guard.mtf	MWL
+Templar  TLR1-OE.mtf	MWL
+Templar III TLR2-O.mtf	MM
+Templar III TLR2-OA.mtf	MM
+Templar III TLR2-OB.mtf	MM
+Templar III TLR2-OC.mtf	MM
+Templar III TLR2-OD.mtf	MM
+Templar TLR1-BB.mtf	MWL
+Templar TLR1-O (Grayson).mtf	MM
+Templar TLR1-O (Tancred).mtf	MM
+Templar TLR1-OR.mtf	MM
+Templar TLR1-OU.mtf	MM
+Templar TLR1-OV.mtf	MWL
+Templar TLR1-SB.mtf	MWL
+Tengu (Support).blk	MWL
+Tengu Heavy Battle Armor (C3i).blk	MM
+Tengu Heavy Battle Armor (ML).blk	MM
+Tengu Heavy Battle Armor (RL).blk	MM
+Tengu Heavy Battle Armor (Support).blk	MM
+Tengu Heavy Battle Armor (VSP).blk	MM
+Tengu Heavy Battle Armor.blk	MM
+Tengu.blk	MWL
+Tenshi TN-10-O.mtf	MM
+Tenshi TN-10-OA.mtf	MM
+Tenshi TN-10-OB.mtf	MM
+Tenshi TN-10-OR.mtf	MM
+Tessen TSN-C3A.mtf	MWL
+Tessen TSN-X-4.mtf	MM
+Testudo Siege Tank Tank.blk	MM
+Thanatos THS-4S (Felix).mtf	MM
+Thanatos THS-4T.mtf	MM
+Thanatos THS-5D.mtf	MWL
+Thanatos THS-5S.mtf	MWL
+Thanatos THS-6S.mtf	MM
+Thanatos TNS-4T.mtf	MWL
+Thanatos TNS-6S.mtf	MWL
+Thang-Ta APC (Standard).blk	MM
+Theseus Medium Battle Armor (RL).blk	MM
+Theseus Medium Battle Armor (Support) Killshot.blk	MM
+Theseus Medium Battle Armor.blk	MM
+Thor (Summoner) A.mtf	MM
+Thor (Summoner) AA.mtf	MM
+Thor (Summoner) B.mtf	MM
+Thor (Summoner) C.mtf	MM
+Thor (Summoner) D.mtf	MM
+Thor (Summoner) E.mtf	MM
+Thor (Summoner) F.mtf	MM
+Thor (Summoner) G.mtf	MM
+Thor (Summoner) H.mtf	MM
+Thor (Summoner) HH.mtf	MM
+Thor (Summoner) M.mtf	MM
+Thor (Summoner) Prime.mtf	MM
+Thor (Summoner) Q.mtf	MM
+Thor (Summoner) U.mtf	MM
+Thor (Summoner) Z.mtf	MM
+Thor Artillery Vehicle (AC).blk	MM
+Thor Artillery Vehicle (C3i).blk	MM
+Thor Artillery Vehicle (Clan).blk	MM
+Thor Artillery Vehicle.blk	MM
+Thor Mk II (Grand Summoner) (Prime).mtf	MM
+Thor Mk II (Grand Summoner) A.mtf	MM
+Thor Mk II (Grand Summoner) B.mtf	MM
+Thor Mk II (Grand Summoner) C.mtf	MM
+Thor Mk II (Grand Summoner) D.mtf	MM
+Thorn IIC.mtf	MWL
+Thorn THE-F.mtf	MM
+Thorn THE-N.mtf	MM
+Thorn THE-S.mtf	MM
+Thorn THE-T.mtf	MM
+Thresher .mtf	MM
+Thresher 4.mtf	MWL
+Thresher Edward.mtf	MM
+Thrush TR-7.blk	MWL
+Thrush TR-7p.blk	MWL
+Thrush TR-8.blk	MWL
+Thug  THG-12P.mtf	MWL
+Thug  THG-12V.mtf	MWL
+Thug IIC.mtf	MWL
+Thug THG-10E.mtf	MM
+Thug THG-11E (Reich).mtf	MM
+Thug THG-11ECX (Jose).mtf	MM
+Thug THG-12D.mtf	MWL
+Thug THG-12KA.mtf	MWL
+Thug THG-12T.mtf	MWL
+Thug THG-12WS.mtf	MWL
+Thug THG-12Z.mtf	MWL
+Thug THG-13M.mtf	MWL
+Thug THG-14K.mtf	MWL
+Thug THG-14M.mtf	MWL
+Thug THG-14X.mtf	MWL
+Thumper Artillery Vehicle Angel.blk	MM
+Thumper Artillery Vehicle Maxwell.blk	MM
+Thumper Artillery Vehicle TAV-1.blk	MM
+Thumper Artillery Vehicle TAV-2.blk	MM
+Thumper Artillery Vehicle.blk	MM
+Thunder Fox TFT-F11.mtf	MM
+Thunder Hawk TDK-7M.mtf	MWL
+Thunder Hawk TDK-7SS.mtf	MWL
+Thunder Hawk TDK-9F.mtf	MWL
+Thunder Stallion .mtf	MM
+Thunder Stallion 4.mtf	MWL
+Thunder THR-2LV.mtf	MWL
+Thunder THR-4X.mtf	MWL
+Thunder THR-C4.mtf	MM
+Thunderbird Battle Armor [AP Gauss].blk	MM
+Thunderbird Battle Armor [ER Laser].blk	MM
+Thunderbird Battle Armor [Pulse Laser].blk	MM
+Thunderbird Battle Armor [Upgrade ER Laser].blk	MM
+Thunderbird Battle Armor [Upgrade LBX].blk	MM
+Thunderbird Battle Armor [Upgrade Pulse Laser].blk	MM
+Thunderbird TRB-D36.blk	MWL
+Thunderbird TRB-D36b.blk	MWL
+Thunderbird TRB-D46.blk	MWL
+Thunderbird TRB-D50.blk	MWL
+Thunderbird TRB-D56.blk	MWL
+Thunderbolt  TDR-CJF.mtf	MWL
+Thunderbolt C.mtf	MM
+Thunderbolt IIC.mtf	MM
+Thunderbolt TDR-10M Ilyena.mtf	MM
+Thunderbolt TDR-10M Salazar.mtf	MM
+Thunderbolt TDR-10S.mtf	MM
+Thunderbolt TDR-1C.mtf	MM
+Thunderbolt TDR-20Sa.mtf	MWL
+Thunderbolt TDR-5S.mtf	MM
+Thunderbolt TDR-5Sd.mtf	MM
+Thunderbolt TDR-5SE.mtf	MM
+Thunderbolt TDR-5SS.mtf	MM
+Thunderbolt TDR-5S-T Tallman.mtf	MM
+Thunderbolt TDR-5T.mtf	MWL
+Thunderbolt TDR-9MS.mtf	MWL
+Thunderbolt TDR-9RK.mtf	MWL
+Ti Ts'ang DDC TSG9-DDC.mtf	MM
+Ti Ts'ang TSG-10L.mtf	MM
+Ti Tsang TSG-9 China Doll.mtf	MM
+Ti Tsang TSG-9C.mtf	MWL
+Ti Tsang TSG-9L.mtf	MWL
+Tian-Zong TNZ-N1.mtf	MM
+Tian-Zong TNZ-N2.mtf	MM
+Tian-Zong TNZ-N3.mtf	MM
+Tiburon (Standard).mtf	MM
+Tiger Medium Tank T-12.blk	MM
+Timber Wolf A.mtf*	MWL
+Timber Wolf B.mtf	MWL
+Timber Wolf Bounty Hunter.mtf	MM
+Timber Wolf C.mtf*	MWL
+Timber Wolf D.mtf	MWL
+Timber Wolf E.mtf*	MWL
+Timber Wolf F.mtf*	MWL
+Timber Wolf G.mtf	MWL
+Timber Wolf H.mtf*	MWL
+Timber Wolf J.mtf	MWL
+Timber Wolf O.mtf	MWL
+Timber Wolf Prime.mtf*	MWL
+Timber Wolf S.mtf*	MWL
+Timber Wolf W.mtf	MWL
+Titan TI-1A.mtf	MM
+Titan TI-1Aj.mtf	MM
+Titan TI-1Ar.mtf	MM
+Tokugawa Heavy Tank (Laser reflective).blk	MWL
+Tokugawa Heavy Tank SD2.blk	MM
+Tomahawk (Militia).blk	MWL
+Tomahawk (Prime).mtf	MM
+Tomahawk A.mtf	MM
+Tomahawk B.mtf	MM
+Tomahawk C.blk	MWL
+Tomahawk C.mtf	MM
+Tomahawk CH.blk	MWL
+Tomahawk II (Prime).mtf	MM
+Tomahawk II A.mtf	MM
+Tomahawk II B.mtf	MM
+Tomahawk II C.mtf	MM
+Tomahawk II MBT.blk	MWL
+Tomahawk MBT (Cell II).blk	MWL
+Tomahawk MBT (Cell LPPC).blk	MWL
+Tomahawk MBT (Cell).blk	MWL
+Tomahawk MBT (Upgrade).blk	MWL
+Tomahawk MBT.blk	MWL
+Tomahawk THK-33.blk	MWL
+Tomahawk THK-43.blk	MWL
+Tomahawk THK-53.blk	MWL
+Tomahawk THK-63.blk	MWL
+Tomahawk THK-63b.blk	MWL
+Tomahawk THK-63CS.blk	MWL
+Tomahawk.blk	MWL
+Tonbo Superheavy Transport.blk	MM
+Tonbo VTOL .blk	MWL
+Tornado PA(L) G12.blk	MM
+Tornado PA(L) G13 [David Light Gauss].blk	MM
+Tornado PA(L) G13 [Flamer].blk	MM
+Tornado PA(L) G13 [Grenade Launcher].blk	MM
+Tornado PA(L) G13 [Machine Gun].blk	MM
+Tornado PA(L) G13 [Small Laser].blk	MM
+Tornado PA(L) G14.blk	MM
+Tornado PA(L) G17.blk	MM
+Tornado PA(L) P12.blk	MM
+Toro TR-A-1.mtf	MM
+Toro TR-A-4.mtf	MWL
+Toro TR-A-5.mtf	MWL
+Toro TR-A-6.mtf	MM
+Toro TR-B-2.mtf	MWL
+Toyama TYM-1D.mtf	MWL
+Toyama TYM-3U.mtf	MWL
+Trajan Assault Infantry Fighting Vehicle (WoB).blk	MWL
+Transgressor TR-13.blk	MWL
+Transgressor TR-13A.blk	MWL
+Transgressor TR-14 AC.blk	MWL
+Transgressor TR-14.blk	MWL
+Transgressor TR-15.blk	MWL
+Transgressor TR-16.blk	MWL
+Transit TR-10.blk	MWL
+Transit TR-11.blk	MWL
+Transit TR-12.blk	MWL
+Transportable Field Repair Unit JI-100.blk	MM
+Transportable Field Repair Unit Nifty.blk	MM
+Trebaruna TR-XH.mtf	MM
+Trebuchet TBT-5J.mtf	MM
+Trebuchet TBT-5N.mtf	MM
+Trebuchet TBT-5S.mtf	MM
+Trebuchet TBT-6S.mtf	MWL
+Trebuchet TBT-7C.mtf	MWL
+Trebuchet TBT-8K.mtf	MWL
+Trebuchet TBT-8KL.mtf	MWL
+Trebuchet TBT-9CM.mtf	MWL
+Trebuchet TBT-9L.mtf	MWL
+Trebuchet TBT-9M.mtf	MWL
+Trebuchet TBT-9R.mtf	MM
+Trebuchet TBT-K7R.mtf	MM
+Trebuchet TBT-XK7.mtf	MM
+Tribune Mobile Tactical Command HQ (Standard).blk	MM
+Trident TRN-3T.blk	MWL
+Trident TRN-3Tb.blk	MWL
+Trireme Infantry Transport.blk	MM
+Troika CMT-3T.blk	MWL
+Troika CMT-4U.blk	MWL
+Tsunami TS-P1.mtf	MM
+Tsunami TS-P1D.mtf	MM
+Tundra Wolf 4P.mtf	MWL
+Tundra Wolf 5.mtf	MM
+Tundra Wolf 6.mtf	MWL
+Tunnel Rat Mining Exoskeleton I.blk	MM
+Tunnel Rat Mining Exoskeleton II.blk	MM
+Tunnel Rat Mining Exoskeleton III.blk	MM
+Turhan C3.blk	MWL
+Turhan Urban Combat Vehicle (Standard Armor).blk	MM
+Turhan Urban Combat Vehicle (Standard FF 2583).blk	MM
+Turhan Urban Combat Vehicle.blk	MWL
+Turhan.blk	MWL
+Turk A.blk	MWL
+Turk B.blk	MWL
+Turk C.blk	MWL
+Turk D.blk	MWL
+Turk G.blk	MWL
+Turk Prime.blk	MWL
+Turkina J.mtf	MWL
+Turkina U.mtf	MM
+Turkina Z.mtf	MM
+Typhoon TFN-2A.blk	MWL
+Typhoon Urban Assault Vehicle (LBX).blk	MWL
+Typhoon-A TFN-2A.blk	MWL
+Typhoon-A TFN-3A.blk	MWL
+Typhoon-H TFN-5H.blk	MWL
+Typhoon-M TFN-3M.blk	MWL
+Tyr Infantry Support Tank (Dominion).blk	MWL
+Tyr Infantry Support Tank (Fire Support).blk	MWL
+Tyr Infantry Support Tank (Kurita).blk	MM
+Tyre 2.blk	MWL
+Tyre 5.blk	MWL
+Tyre.blk	MWL
+Uller (Kit Fox) A.mtf	MM
+Uller (Kit Fox) B.mtf	MM
+Uller (Kit Fox) C.mtf	MM
+Uller (Kit Fox) D.mtf	MM
+Uller (Kit Fox) E.mtf	MM
+Uller (Kit Fox) F.mtf	MM
+Uller (Kit Fox) G.mtf	MM
+Uller (Kit Fox) H.mtf	MM
+Uller (Kit Fox) I.mtf	MM
+Uller (Kit Fox) Prime.mtf	MM
+Uller (Kit Fox) R.mtf	MM
+Uller (Kit Fox) S.mtf	MM
+Uller (Kit Fox) U.mtf	MM
+Uller (Kit Fox) W.mtf	MM
+Undine (Upgrade) Elite.blk	MWL
+Undine Battle Armor (Upgrade).blk	MM
+Undine Battle Armor.blk	MM
+Undine Elite.blk	MWL
+Uni CargoMech ATAE-70.mtf	MM
+Uni MilitiaMech ATAE-70.mtf	MM
+Uraeus UAE-7R.mtf	MM
+UrbanMech IIC .mtf	MM
+UrbanMech IIC 3.mtf	MWL
+UrbanMech UM-R60.mtf	MM
+UrbanMech UM-R60L.mtf	MM
+UrbanMech UM-R64.mtf	MWL
+UrbanMech UM-R64M.mtf	MWL
+Ursa URA-2A.mtf	MM
+Ursa URA-2C.mtf	MM
+Ursus .mtf	MM
+Ursus PR.mtf	MM
+Uziel UZL-2S Jacob II.mtf	MM
+Uziel UZL-2S Jacob.mtf	MM
+Uziel UZL-4S.mtf	MWL
+Vagabond VGB-ND4.mtf	MWL
+Vagabond VGB-ND5.mtf	MWL
+Vali Artillery Vehicle.blk	MM
+Valkyrie IIC.mtf	MWL
+Valkyrie VLK-QA.mtf	MM
+Valkyrie VLK-QD6.mtf	MWL
+Valkyrie VLK-QD7.mtf	MWL
+Valkyrie VLK-QD8.mtf	MM
+Valkyrie VLK-QDA.mtf	MWL
+Valkyrie VLK-QF.mtf	MM
+Vampyr ScavengerMech SC-V-1.mtf	MM
+Vandal A.blk	MWL
+Vandal B.blk	MWL
+Vandal C.blk	MWL
+Vandal D.blk	MWL
+Vandal G.blk	MWL
+Vandal LI-O.mtf	MM
+Vandal LI-OA.mtf	MM
+Vandal LI-OB.mtf	MM
+Vandal Prime.blk	MWL
+Vanquisher VQR-2BF.mtf	MWL
+Vanquisher VQR-4A.mtf	MWL
+Vanquisher VQR-5SB.mtf	MWL
+Vapor Eagle 2.mtf	MWL
+Vapor Eagle 4.mtf	MWL
+Vapor Eagle 5.mtf	MWL
+Vector (Attack).blk	MM
+Vector EW.blk	MM
+Vector Scout.blk	MM
+Vector Transport.blk	MM
+Vedette Medium Tank (3055).blk	MWL
+Vedette Medium Tank (Clan RA).blk	MWL
+Vedette Medium Tank (Laser).blk	MWL
+Vedette Medium Tank (LB-5).blk	MWL
+Vedette Medium Tank Doris' Delight.blk	MM
+Vedette Medium Tank V7.blk	MM
+Vedette Medium Tank V9.blk	MM
+Velite Heavy Infantry Carrier.blk	MWL
+Vendetta Medium Fighter.blk	MM
+Venom SDR-9KM.mtf	MWL
+Verfolger VR5-RR.mtf	MWL
+Verfolger VR6-R.mtf	MWL
+Victor C.mtf	MM
+Victor Li.mtf	MM
+Victor VTR-10Da.mtf	MWL
+Victor VTR-10Db.mtf	MWL
+Victor VTR-10Dc.mtf	MWL
+Victor VTR-10DF.mtf	MWL
+Victor VTR-10L1.mtf	MWL
+Victor VTR-9A.mtf	MM
+Victor VTR-9A1.mtf	MM
+Victor VTR-9B (Shoji).mtf	MM
+Victor VTR-9B.mtf	MM
+Victor VTR-9K2 St. James.mtf	MM
+Victor VTR-Cr.mtf	MM
+Victor VTR-KHP.mtf	MWL
+Vidar Heavy Defense Tank.blk	MM
+Viking IIC (Standard).mtf	MM
+Viking VKG-2CS.mtf	MWL
+Viking VKG-2GS.mtf	MWL
+Vindicator Dao.mtf	MM
+Vindicator VND-1AA Avenging Angel.mtf	MM
+Vindicator VND-1R Vong.mtf	MM
+Vindicator VND-1R.mtf	MM
+Vindicator VND-1SIC.mtf	MM
+Vindicator VND-1X.mtf	MM
+Vindicator VND-4LH.mtf	MWL
+Vindicator VND-6LW.mtf	MWL
+Vindicator VND-7L.mtf	MWL
+Vindicator VND-7LW.mtf	MWL
+Violator VT-U1.mtf	MM
+Violator VT-U3.mtf	MM
+Viper (Black Python) 2.mtf	MM
+Viper (Black Python) 3.mtf	MM
+Viper (Black Python) 4.mtf	MM
+Viper (Black Python).mtf	MM
+Viper A.mtf*	MWL
+Viper AP.mtf	MWL
+Viper B.mtf*	MWL
+Viper C.mtf*	MWL
+Viper D.mtf*	MWL
+Viper E.mtf*	MWL
+Viper F.mtf*	MWL
+Viper G.mtf	MWL
+Viper H.mtf*	MWL
+Viper I.mtf*	MWL
+Viper Prime.mtf*	MWL
+Viper S.mtf	MWL
+Visigoth A.blk	MWL
+Visigoth B.blk	MWL
+Visigoth C.blk	MWL
+Visigoth D.blk	MWL
+Visigoth J.blk	MWL
+Visigoth K.blk	MWL
+Visigoth Prime.blk	MWL
+Vixen (Incubus) 2.mtf	MM
+Vixen (Incubus) 3.mtf	MM
+Vixen (Incubus) 4.mtf	MM
+Vixen (Incubus) 5.mtf	MM
+Vixen (Incubus).mtf	MM
+Void Medium Battle Armor (DCA).blk	MM
+Void Medium Battle Armor (Nova Cat).blk	MM
+Void Medium Battle Armor Caltrop.blk	MM
+Void Medium Battle Armor Minelayer.blk	MM
+Void Medium Battle Armor.blk	MM
+Volkh VKH-1.mtf	MM
+Volkh VKH-7.mtf	MM
+Von Luckner Heavy Tank (C3i).blk	MWL
+Von Luckner Heavy Tank (LRM).blk	MWL
+Von Luckner Heavy Tank (Star League).blk	MM
+Von Rohrs (Hebi) VON 4RH-5.mtf	MM
+Von Rohrs (Hebi) VON 4RH-6.mtf	MM
+Vulcan II VLC-N2.mtf	MWL
+Vulcan II VLC-N3.mtf	MWL
+Vulcan VL-2T.mtf	MM
+Vulcan VL-5T.mtf	MM
+Vulcan VLC-5N.blk	MWL
+Vulcan VLC-6N.blk	MWL
+Vulcan VT-5S2.mtf	MWL
+Vulcan VT-6ME.mtf	MWL
+Vulcan VT-6X.mtf	MWL
+Vulcan VT-7M.mtf	MWL
+Vulcan VT-7S.mtf	MWL
+Vulpes VLP-1D.mtf	MM
+Vulture (Mad Dog) A.mtf	MM
+Vulture (Mad Dog) B.mtf	MM
+Vulture (Mad Dog) C.mtf	MM
+Vulture (Mad Dog) D.mtf	MM
+Vulture (Mad Dog) E.mtf	MM
+Vulture (Mad Dog) F.mtf	MM
+Vulture (Mad Dog) G.mtf	MM
+Vulture (Mad Dog) H.mtf	MM
+Vulture (Mad Dog) Mk III (Prime).mtf	MM
+Vulture (Mad Dog) Mk III B.mtf	MM
+Vulture (Mad Dog) Mk III C.mtf	MM
+Vulture (Mad Dog) Mk III D.mtf	MM
+Vulture (Mad Dog) Prime.mtf	MM
+Vulture (Mad Dog) U.mtf	MM
+Vulture Mk III (Mad Dog Mk III) A.mtf	MM
+Vulture Mk IV A.mtf	MM
+Vulture Mk IV B.mtf	MM
+Vulture Mk IV C.mtf	MM
+Vulture Mk IV D.mtf	MM
+Vulture Mk IV Prime.mtf	MM
+Wakazashi.mtf	MM
+Waneta S-WN-2LAM.mtf	MM
+War Dog WR-DG-02CS.mtf	MWL
+War Dog WR-DG-03CS.mtf	MWL
+War Dog WR-DG-04FC.mtf	MWL
+Warg Assault Battle Armor (Reactive).blk	MM
+Warg Assault Battle Armor Elite.BLK	MWL
+Warg Assault Battle Armor.blk	MM
+Warg Assault Battle Armor.BLK	MWL
+Warhammer C.mtf	MM
+Warhammer IIC .mtf	MM
+Warhammer IIC 10.mtf	MM
+Warhammer IIC 11.mtf	MM
+Warhammer IIC 12.mtf	MM
+Warhammer IICG.mtf	MWL
+Warhammer WHM-4LV.mtf	MWL
+Warhammer WHM-4T.mtf	MWL
+Warhammer WHM-5LS Short-Hammer.mtf	MWL
+Warhammer WHM-6D.mtf	MM
+Warhammer WHM-6K.mtf	MM
+Warhammer WHM-6L.mtf	MM
+Warhammer WHM-6R.mtf	MM
+Warhammer WHM-6Rk.mtf	MM
+Warhammer WHM-6RT.mtf	MWL
+Warhammer WHM-6TDF.mtf	MWL
+Warhammer WHM-7TC.mtf	MWL
+Warhammer WHM-8CM.mtf	MWL
+Warhammer WHM-8D2.mtf	MM
+Warhammer WHM-8DN.mtf	MWL
+Warhammer WHM-8W.mtf	MWL
+Warhammer WHM-9M.mtf	MWL
+Warhammer WHM-9TC.mtf	MWL
+Warhawk A.mtf*	MWL
+Warhawk B.mtf*	MWL
+Warhawk C.mtf*	MWL
+Warhawk D.mtf*	MWL
+Warhawk E.mtf*	MWL
+Warhawk H.mtf*	MWL
+Warhawk Prime.mtf*	MWL
+Warlord BLR-2XC.mtf	MM
+Warrior Attack Helicopter H-10.blk	MWL
+Warrior Attack Helicopter H-8M.blk	MWL
+Warrior H-10 Attack Helicopter.blk	MM
+Warrior H-7 Attack Helicopter.blk	MM
+Warrior H-7A Attack Helicopter.blk	MM
+Warrior H-7C Attack Helicopter.blk	MM
+Warrior H-7C.blk	MWL
+Warrior HX-9 Attack Helicopter.blk	MM
+Warrior S-9 Stealth Helicopter.blk	MM
+Warwolf (Prime).mtf	MM
+Warwolf A.mtf	MM
+Warwolf B.mtf	MM
+Warwolf C.mtf	MM
+Warwolf H.mtf	MM
+Wasp LAM Mk I WSP-100.mtf	MM
+Wasp LAM Mk I WSP-100A.mtf	MM
+Wasp LAM Mk I WSP-100b.mtf	MM
+Wasp LAM WSP-105.mtf	MM
+Wasp LAM WSP-105M.mtf	MM
+Wasp LAM WSP-110.mtf	MM
+Wasp WSP-1.mtf	MM
+Wasp WSP-1A.mtf	MM
+Wasp WSP-1D.mtf	MM
+Wasp WSP-1K.mtf	MM
+Wasp WSP-1L.mtf	MM
+Wasp WSP-1W.mtf	MM
+Wasp WSP-2D.mtf	MWL
+Wasp WSP-3K.mtf	MM
+Wasp WSP-3P.mtf	MM
+Wasp WSP-4L.mtf	MWL
+Wasp WSP-4S.mtf	MWL
+Wasp WSP-4X.mtf	MWL
+Wasp WSP-5A.mtf	MWL
+Wasp WSP-5K.mtf	MWL
+Wasp WSP-5L.mtf	MWL
+Wasp WSP-RA.mtf	MWL
+Watchman WTC-5DM.mtf	MWL
+Wayland Mobile Base.blk	MM
+Weapon Carrier, Tracked (AC20).blk	MM
+Weapon Carrier, Tracked (LB-10X).blk	MM
+Weapon Carrier, Tracked (Ultra5).blk	MM
+Weapons Carrier A (LL).blk	MM
+Wendigo (Prime).mtf	MM
+Wendigo A.mtf	MM
+Wendigo B.mtf	MM
+Wendigo C.mtf	MM
+Wendigo-VP (Prime).mtf	MM
+Wendigo-VP A.mtf	MM
+Werefox (AAV II).blk	MWL
+Werefox (AAV).blk	MWL
+Werefox (Charlemagne).blk	MWL
+Werefox (DArtagnan HA).blk	MWL
+Werefox (DArtagnan).blk	MWL
+Werefox (Martel ECM).blk	MWL
+Werefox (Martel).blk	MWL
+Werefox (Petain Prototype).blk	MWL
+Werefox (Petain).blk	MWL
+Werewolf (C3M).blk	MWL
+Werewolf (C3S).blk	MWL
+Werewolf WER-LF-004.mtf	MM
+Werewolf WER-LF-005.mtf	MM
+Wheeled Scout.blk	MM
+White Flame WHF-5B.mtf	MWL
+White Flame WHF-6W.mtf	MWL
+White Flame WHF-6W2 Hunter.mtf	MWL
+White Knight WH7-KNT (Star League).mtf	MWL
+White Knight WNT-3K.mtf	MWL
+White Knight WNT-3KM.mtf	MWL
+White Knight WNT-4K.mtf	MWL
+White Knight WNT-4KX.mtf	MWL
+White Tip Submarine.blk	MM
+Whitworth WTH-0.mtf	MM
+Whitworth WTH-1.mtf	MM
+Whitworth WTH-1H.mtf	MM
+Whitworth WTH-1S.mtf	MM
+Whitworth WTH-3TB.mtf	MWL
+Wight Dezgra WGT-4NC.mtf	MM
+Wildfire P1-WF.mtf	MM
+Winston Combat Vehicle (Support).blk	MM
+Winston Combat Vehicle (TSEMP).blk	MM
+Winston Combat Vehicle (XXL).blk	MM
+Winterhawk APC (Standard).blk	MM
+Wirbelwind Flakpanzer (Standard).blk	MWL
+Wolf Trap (Tora) WFT-1.mtf	MM
+Wolf Trap (Tora) WFT-2.mtf	MM
+Wolf Trap (Tora) WFT-2B.mtf	MM
+Wolf Trap (Tora) WFT-2X 'Bear Trap'.mtf	MM
+Wolf Trap (Tora) WFT-B.mtf	MM
+Wolf Trap (Tora) WFT-C.mtf	MM
+Wolf Trap Daitama.mtf	MM
+Wolf Trap WFT-1.mtf	MWL
+Wolf Trap WFT-2.mtf	MWL
+Wolf Trap WFT-2X 'Bear Trap'.mtf	MWL
+Wolf Trap WFT-4.mtf	MWL
+Wolf Trap WFT-B.mtf	MWL
+Wolf Trap WFT-C.mtf	MWL
+Wolf Trap WFT-R1.mtf	MWL
+Wolfhound  IIC.mtf	MM
+Wolfhound WLF-1 (Allard).mtf	MM
+Wolfhound WLF-1.mtf	MM
+Wolfhound WLF-1A.mtf	MM
+Wolfhound WLF-1B.mtf	MM
+Wolfhound WLF-2H.mtf	MM
+Wolfhound WLF-5DS.mtf	MWL
+Wolverine WVR-11M.mtf	MWL
+Wolverine WVR-6K.mtf	MM
+Wolverine WVR-6KLB.mtf	MWL
+Wolverine WVR-6M.mtf	MM
+Wolverine WVR-6R.mtf	MM
+Wolverine WVR-7De.mtf	MWL
+Woodsman A.mtf	MM
+Woodsman Prime.mtf	MM
+Wraith Battle Armor (Anti-Infantry).blk	MM
+Wraith Battle Armor (Standard).blk	MM
+Wraith TR2.mtf	MM
+Wraith TR2-X Alexander.mtf	MM
+Wulfen (Prime).mtf	MM
+Wulfen A.mtf	MM
+Wulfen B.mtf	MM
+Wulfen C.mtf	MM
+Wulfen D.mtf	MM
+Wulfen E.mtf	MM
+Wulfen H.mtf	MM
+Wusun A.blk	MWL
+Wusun B.blk	MWL
+Wusun C.blk	MWL
+Wusun Prime.blk	MWL
+Wyvern IIC .mtf	MM
+Wyvern WVE-5N.mtf	MM
+Wyvern WVE-5Nsl.mtf	MM
+Wyvern WVE-5UX City.mtf	MM
+Wyvern WVE-6N.mtf	MM
+Wyvern WVE-8RK.mtf	MWL
+Wyvern WVE-CF2.mtf	MWL
+Xanthos XNT-2O.mtf	MM
+Xanthos XNT-33O.mtf	MWL
+Xanthos XNT-3O.mtf	MM
+Xanthos XNT-4OS.mtf	MWL
+Xanthos XNT-6O.mtf	MM
+Xanthos XNT-7O.mtf	MM
+Xerxes 2.blk	MWL
+Xerxes.blk	MWL
+Xiphos Assault Battle Armor A.blk	MM
+Xiphos Assault Battle Armor B.blk	MM
+Xiphos Assault Battle Armor C.blk	MM
+Xuan Wu (ST-10).blk	MWL
+Xuan Wu (ST-11).blk	MWL
+Xue-diao (Ferret).blk	MWL
+Yao Lien YOL-4C.mtf	MM
+Yasha VTOL.blk	MM
+Yellow Jacket Gunship (Periphery).blk	MWL
+Yellow Jacket Gunship (PPC).blk	MM
+Yellow Jacket Gunship (UAC).blk	MWL
+Yeoman YEO-7Y.mtf	MWL
+Yeoman YMN-6A.mtf	MWL
+Yeoman YMN-6YE.mtf	MWL
+Yeoman YMN-8TN.mtf	MWL
+Yin Long.blk	MWL
+Ying Long Medium Battle Armor BC3 [David].blk	MM
+Ying Long Medium Battle Armor.blk	MM
+Yinghuochong YHC-3E.mtf	MM
+Yinghuochong YHC-3Y.mtf	MM
+Ymir BWP-2B.mtf	MM
+Ymir BWP-2E.mtf	MM
+Ymir BWP-3A.mtf	MM
+Ymir BWP-4WB.mtf	MWL
+Yu Huang Carson.mtf	MM
+Yu Huang Y-H10L.mtf	MWL
+Yu Huang Y-H9GF.mtf	MWL
+Yurei S-YR-1LAM.mtf	MM
+Zahn Heavy Transport (Standard).blk	MM
+Zephyr Hovertank (C3i).blk	MM
+Zephyr Hovertank (CS-RK).blk	MWL
+Zephyr Hovertank (LRM).blk	MM
+Zephyr Hovertank (Royal).blk	MM
+Zephyr Hovertank (SRM2).blk	MM
+Zephyr Hovertank.blk	MM
+Zephyr IIC.blk	MWL
+Zephyrus II (Field Refit).blk	MWL
+Zephyrus.blk	MWL
+Zero ZRO-114.blk	MWL
+Zero ZRO-115.blk	MWL
+Zero ZRO-116b.blk	MWL
+Zeus (Leonidas).mtf	MM
+Zeus X ZEU-9WD Stacy.mtf	MM
+Zeus X ZEU-9WD.mtf	MM
+Zeus X ZEU-X.mtf	MM
+Zeus X ZEU-X2.mtf	MM
+Zeus X ZEU-X3.mtf	MM
+Zeus X ZEU-X4.mtf	MM
+Zeus ZEU-10TZ.mtf	MWL
+Zeus ZEU-11X.mtf	MWL
+Zeus ZEU-13S.mtf	MWL
+Zeus ZEU-5S.mtf	MM
+Zeus ZEU-5T.mtf	MM
+Zeus ZEU-6T.mtf	MM
+Zeus ZEU-6Y.mtf	MM
+Zeus ZEU-9S-DC.mtf	MM
+Zeus ZEU-X.mtf	MWL
+Zeus ZEU-X2.mtf	MWL
+Zeus ZEU-X3.mtf	MWL
+Zeus-X ZEU-9WD.mtf	MWL
+Zhukov Heavy Tank (MML).blk	MWL
+Zhukov Heavy Tank (Plasma).blk	MWL
+Zhukov Mk II.blk	MWL
+Zibler Fast Strike Tank (A).blk	MM
+Zibler Fast Strike Tank (B).blk	MM
+Zibler Fast Strike Tank (C).blk	MM
+Zibler Fast Strike Tank (D).blk	MM
+Zibler Fast Strike Tank (Prime).blk	MM
+Zou Battlearmor C3.blk	MM
+Zou Battlearmor.blk	MM
+Zugvogel Omni Support Aircraft A.blk	MM
+Zugvogel Omni Support Aircraft B.blk	MM
+Zugvogel Omni Support Aircraft C.blk	MM
+Zugvogel Omni Support Aircraft D.blk	MM
+Zugvogel Omni Support Aircraft E.blk	MM
+Zugvogel Omni Support Aircraft F.blk	MM
+Zugvogel Omni Support Aircraft Prime.blk	MM
