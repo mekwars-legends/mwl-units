@@ -16,7 +16,6 @@ Achileus [Laser].blk	MM
 Achileus [MG].blk	MM
 Achileus [TAG].blk	MM
 Adder N.mtf	MWL
-Adder Prime.mtf*	MWL
 Adder R.mtf	MWL
 Aerie PA(L) (Salvage).blk	MM
 Aerie PA(L).blk	MM
@@ -153,7 +152,16 @@ Arcas 2A.mtf	MWL
 Arcas 3.mtf	MM
 Arcas.mtf	MM
 Archangel C-ANG-O Berith.mtf	MM
+Archangel C-ANG-O Comminus.mtf*	MWL
+Archangel C-ANG-O Dominus.mtf*	MWL
+Archangel C-ANG-O Eminus.mtf*	MWL
+Archangel C-ANG-O Infernus II.mtf	MWL
+Archangel C-ANG-O Infernus.mtf*	MWL
+Archangel C-ANG-O Invictus II.mtf	MWL
 Archangel C-ANG-O Invictus.mtf	MM
+Archangel C-ANG-O Invictus.mtf*	MWL
+Archangel C-ANG-O Luminos.mtf*	MWL
+Archangel C-ANG-O Zuriel.mtf	MWL
 Archangel C-ANG-OA Dominus.mtf	MM
 Archangel C-ANG-OB Infernus.mtf	MM
 Archangel C-ANG-OC Comminus.mtf	MM
@@ -591,12 +599,18 @@ Black Hawk (Nova) A.mtf	MM
 Black Hawk (Nova) B.mtf	MM
 Black Hawk (Nova) C.mtf	MM
 Black Hawk (Nova) D.mtf	MM
+Black Hawk (Nova) D.mtf*	MWL
 Black Hawk (Nova) E.mtf	MM
+Black Hawk (Nova) E.mtf*	MWL
 Black Hawk (Nova) F.mtf	MM
+Black Hawk (Nova) F.mtf*	MWL
 Black Hawk (Nova) H.mtf	MM
+Black Hawk (Nova) H.mtf*	MWL
 Black Hawk (Nova) I.mtf	MM
 Black Hawk (Nova) Prime.mtf	MM
+Black Hawk (Nova) Prime.mtf*	MWL
 Black Hawk (Nova) S.mtf	MM
+Black Hawk (Nova) S.mtf*	MWL
 Black Hawk (Nova) T.mtf	MM
 Black Hawk (Nova) U.mtf	MM
 Black Hawk 2.mtf	MM
@@ -818,15 +832,6 @@ Caesar CES-3S.mtf	MM
 Caesar CES-4R.mtf	MM
 Caesar CES-4S.mtf	MM
 Calliope CAL-1MAF.mtf	MM
-C-ANG-O Archangel Comminus.mtf*	MWL
-C-ANG-O Archangel Dominus.mtf*	MWL
-C-ANG-O Archangel Eminus.mtf*	MWL
-C-ANG-O Archangel Infernus II.mtf	MWL
-C-ANG-O Archangel Infernus.mtf*	MWL
-C-ANG-O Archangel Invictus II.mtf	MWL
-C-ANG-O Archangel Invictus.mtf*	MWL
-C-ANG-O Archangel Luminos.mtf*	MWL
-C-ANG-O Archangel Zuriel.mtf	MWL
 Canis .mtf	MM
 Canis 2.mtf	MM
 Caravan Heavy Transport.blk	MM
@@ -907,14 +912,6 @@ Cavalry Attack Helicopter (TAG).blk	MM
 Cavalry Attack Helicopter Cadence Rain.blk	MM
 Cavalry Attack Helicopter.blk	MM
 Cave Lion (Standard).mtf	MM
-C-DVA-O Deva Asmodaeus.mtf	MWL
-C-DVA-O Deva Comminus.mtf	MWL
-C-DVA-O Deva Dominus.mtf	MWL
-C-DVA-O Deva Eminus.mtf	MWL
-C-DVA-O Deva Exanimus.mtf	MWL
-C-DVA-O Deva Infernus.mtf	MWL
-C-DVA-O Deva Invictus.mtf	MWL
-C-DVA-O Deva Luminos.mtf	MWL
 Celerity CLR-02-X-D.mtf	MM
 Centaur BattleArmor (Standard).blk	MM
 Centipede Commando.blk	MM
@@ -975,15 +972,6 @@ Cestus CTS-7A.mtf	MM
 Cestus CTS-7CS.mtf	MWL
 Cestus CTS-7D.mtf	MWL
 Cestus CTS-7S.mtf	MWL
-C-GRG-O Grigori Asmodaeus.mtf	MWL
-C-GRG-O Grigori Caelestis.mtf	MWL
-C-GRG-O Grigori Comminus.mtf	MWL
-C-GRG-O Grigori Dominus.mtf	MWL
-C-GRG-O Grigori Eminus.mtf	MWL
-C-GRG-O Grigori Infernus V.mtf	MWL
-C-GRG-O Grigori Infernus.mtf	MWL
-C-GRG-O Grigori Invictus.mtf	MWL
-C-GRG-O Grigori Luminos.mtf	MWL
 Chaeronea 2.blk	MWL
 Chaeronea 3.blk	MWL
 Chaeronea.blk	MWL
@@ -1108,16 +1096,6 @@ Clint CLNT-6SS.mtf	MWL
 Clint IIC .mtf	MM
 Clint IIC 2.mtf	MM
 Clint IIC 2R.mtf	MWL
-C-MK-O Malak Alphon.mtf	MWL
-C-MK-O Malak Comminus.mtf	MWL
-C-MK-O Malak Dominus.mtf	MWL
-C-MK-O Malak Eminus.mtf	MWL
-C-MK-O Malak Exanimus.mtf	MWL
-C-MK-O Malak Infernus.mtf	MWL
-C-MK-O Malak Invictus.mtf	MWL
-C-MK-O Malak Luminos.mtf	MWL
-C-MK-O Malak Maion.mtf	MWL
-C-MK-O Malak Rashnu.mtf	MWL
 Cobra CBR-02.mtf	MM
 Cobra CBR-02W.mtf	MWL
 Cobra CBR-03.mtf	MM
@@ -1211,15 +1189,6 @@ Cougar Z.mtf	MWL
 Cougar-XR.mtf	MM
 Coyotl A.mtf	MM
 Coyotl Prime.mtf	MM
-C-PRT-O Preta Asmodaeus.mtf	MWL
-C-PRT-O Preta Caelestis.mtf	MWL
-C-PRT-O Preta Comminus.mtf	MWL
-C-PRT-O Preta Dominus.mtf	MWL
-C-PRT-O Preta Eminus.mtf	MWL
-C-PRT-O Preta Exanimus.mtf	MWL
-C-PRT-O Preta Infernus.mtf	MWL
-C-PRT-O Preta Invictus.mtf	MWL
-C-PRT-O Preta Luminos.mtf	MWL
 Crab CRB-20.mtf	MM
 Crab CRB-27.mtf	MM
 Crab CRB-27b.mtf	MM
@@ -1309,16 +1278,6 @@ Crusader CRD-8L.mtf	MM
 Crusader CRD-8S.mtf	MM
 Crusader CRD-9M.mtf	MWL
 Crusader CRD-9S.mtf	MWL
-C-SRP-O Seraph Comminus.mtf	MWL
-C-SRP-O Seraph Dominus.mtf	MWL
-C-SRP-O Seraph Eminus.mtf	MWL
-C-SRP-O Seraph Infernus.mtf	MWL
-C-SRP-O Seraph Invictus.mtf	MWL
-C-SRP-O Seraph Israfil.mtf	MWL
-C-SRP-O Seraph Luminos.mtf	MWL
-C-SRP-O Seraph Maion.mtf	MWL
-C-SRP-O Seraph Raguel.mtf	MWL
-C-SRP-O Seraph Ramiel.mtf	MWL
 Cuchulainn Support Armor (Clan).blk	MM
 Cuchulainn Support Armor (IS).blk	MM
 Cudgel CDG-1B.mtf	MM
@@ -1494,7 +1453,15 @@ Dervish DV-8D2 Lightbringer.mtf	MM
 Dervish DV-9D.mtf	MM
 Destrier Siege Vehicle (Standard).blk	MM
 Deva C-DVA-O Achilleus.mtf	MM
+Deva C-DVA-O Asmodaeus.mtf	MWL
+Deva C-DVA-O Comminus.mtf	MWL
+Deva C-DVA-O Dominus.mtf	MWL
+Deva C-DVA-O Eminus.mtf	MWL
+Deva C-DVA-O Exanimus.mtf	MWL
+Deva C-DVA-O Infernus.mtf	MWL
 Deva C-DVA-O Invictus.mtf	MM
+Deva C-DVA-O Invictus.mtf	MWL
+Deva C-DVA-O Luminos.mtf	MWL
 Deva C-DVA-OA Dominus.mtf	MM
 Deva C-DVA-OB Infernus.mtf	MM
 Deva C-DVA-OC Comminus.mtf	MM
@@ -1561,15 +1528,27 @@ Dragon Fire Kishi DGR-6FC2.mtf	MWL
 Dragon II DRG-11K.mtf	MM
 Dragon II DRG-11R.mtf	MM
 Dragonfly (Viper) A.mtf	MM
+Dragonfly (Viper) A.mtf*	MWL
+Dragonfly (Viper) AP.mtf	MWL
 Dragonfly (Viper) B.mtf	MM
+Dragonfly (Viper) B.mtf*	MWL
 Dragonfly (Viper) C.mtf	MM
+Dragonfly (Viper) C.mtf*	MWL
 Dragonfly (Viper) D.mtf	MM
+Dragonfly (Viper) D.mtf*	MWL
 Dragonfly (Viper) E.mtf	MM
+Dragonfly (Viper) E.mtf*	MWL
 Dragonfly (Viper) F.mtf	MM
+Dragonfly (Viper) F.mtf*	MWL
 Dragonfly (Viper) G.mtf	MM
+Dragonfly (Viper) G.mtf	MWL
 Dragonfly (Viper) H.mtf	MM
+Dragonfly (Viper) H.mtf*	MWL
 Dragonfly (Viper) I.mtf	MM
+Dragonfly (Viper) I.mtf*	MWL
 Dragonfly (Viper) Prime.mtf	MM
+Dragonfly (Viper) Prime.mtf*	MWL
+Dragonfly (Viper) S.mtf	MWL
 Dragonfly (Viper) U.mtf	MM
 Dragonfly (Viper) Z.mtf	MM
 Dragoon AEM-01.mtf	MM
@@ -1784,7 +1763,9 @@ Fenris (Ice Ferret) B.mtf	MM
 Fenris (Ice Ferret) C.mtf	MM
 Fenris (Ice Ferret) D.mtf	MM
 Fenris (Ice Ferret) E.mtf	MM
+Fenris (Ice Ferret) G.mtf	MWL
 Fenris (Ice Ferret) H.mtf	MM
+Fenris (Ice Ferret) HW.mtf	MWL
 Fenris (Ice Ferret) L.mtf	MM
 Fenris (Ice Ferret) Prime.mtf	MM
 Fenris (Ice Ferret) U.mtf	MM
@@ -1981,8 +1962,6 @@ Gallowglas GAL-7GLS.mtf	MWL
 Gallowglas WD.mtf	MM
 Gambit GBT-1G.mtf	MM
 Gambit GBT-1L.mtf	MM
-Gargoyle CR.mtf	MWL
-Gargoyle I.mtf	MWL
 Garm GRM-01A.mtf	MM
 Garm GRM-01A2.mtf	MM
 Garm GRM-01B.mtf	MM
@@ -2182,8 +2161,8 @@ Grendel (Mongrel) D.mtf	MM
 Grendel (Mongrel) E.mtf	MM
 Grendel (Mongrel) F.mtf	MM
 Grendel (Mongrel) H.mtf	MM
-Grendel Prime.mtf	MM
-Grendel S.mtf	MWL
+Grendel (Mongrel) Prime.mtf	MM
+Grendel (Mongrel) S.mtf	MWL
 Griffin GRF-1DS.mtf	MM
 Griffin GRF-1E Sparky.mtf	MM
 Griffin GRF-1E2 Sparky 2.0.mtf	MM
@@ -2220,7 +2199,16 @@ Griffin IIC 5.mtf	MM
 Griffin IIC 6.mtf	MM
 Griffin IIC 7.mtf	MM
 Griffin IIC 8.mtf	MM
+Grigori C-GRG-O Asmodaeus.mtf	MWL
+Grigori C-GRG-O Caelestis.mtf	MWL
+Grigori C-GRG-O Comminus.mtf	MWL
+Grigori C-GRG-O Dominus.mtf	MWL
+Grigori C-GRG-O Eminus.mtf	MWL
+Grigori C-GRG-O Infernus V.mtf	MWL
+Grigori C-GRG-O Infernus.mtf	MWL
 Grigori C-GRG-O Invictus.mtf	MM
+Grigori C-GRG-O Invictus.mtf	MWL
+Grigori C-GRG-O Luminos.mtf	MWL
 Grigori C-GRG-O Rufus.mtf	MM
 Grigori C-GRG-O Tamiel.mtf	MM
 Grigori C-GRG-OA Dominus.mtf	MM
@@ -2473,13 +2461,6 @@ Helios HEL-4F.mtf	MWL
 Helios HEL-5W.mtf	MWL
 Helios HEL-6X.mtf	MM
 Helios HEL-C.mtf	MM
-Hellbringer A.mtf*	MWL
-Hellbringer B.mtf*	MWL
-Hellbringer C.mtf*	MWL
-Hellbringer D.mtf*	MWL
-Hellbringer E.mtf*	MWL
-Hellbringer H.mtf*	MWL
-Hellbringer Prime.mtf*	MWL
 Hellcat HCT-213.blk	MWL
 Hellcat HCT-213D.blk	MWL
 Hellcat HCT-213R.blk	MWL
@@ -2729,8 +2710,6 @@ Hyena SalvageMech HYN-4A.mtf	MM
 Icarus ICR-1X.mtf	MM
 Icarus II ICR-1S.mtf	MM
 Icarus II ICR-2S.mtf	MM
-Ice Ferret G.mtf	MWL
-Ice Ferret HW.mtf	MWL
 Icestorm .mtf	MM
 Icestorm 2.mtf	MM
 Ignis (SRM).blk	MWL
@@ -2748,9 +2727,6 @@ Imp IMP-4E.mtf	MM
 Imp IMP-4P.mtf	MWL
 Imp IMP-4X.mtf	MWL
 Imp IMP-5E.mtf	MWL
-Incubus 3.mtf	MWL
-Incubus 4.mtf	MWL
-Incubus 5.mtf	MWL
 Incubus II.mtf	MM
 Indra Infantry Transport (BA).blk	MM
 Indra Infantry Transport.blk	MM
@@ -3052,18 +3028,6 @@ Kishi Ceremonial Armor.blk	MM
 Kiso Command Mech K-3N-KRHQ.mtf	MM
 Kiso K-3N-KR4.mtf	MM
 Kiso K-3N-KR5.mtf	MM
-Kit Fox A.mtf*	MWL
-Kit Fox B.mtf*	MWL
-Kit Fox C.mtf*	MWL
-Kit Fox D.mtf*	MWL
-Kit Fox E.mtf*	MWL
-Kit Fox F.mtf*	MWL
-Kit Fox G.mtf*	MWL
-Kit Fox H.mtf*	MWL
-Kit Fox M.mtf*	MWL
-Kit Fox Prime.mtf*	MWL
-Kit Fox S.mtf*	MWL
-Kit Fox W.mtf*	MWL
 Kite Reconnaissance Vehicle.blk	MM
 Kobold (Comstar).blk	MWL
 Kobold (Comstar-Flamer).blk	MWL
@@ -3120,15 +3084,26 @@ Koschei KSC-5MC.mtf	MM
 Koschei KSC-5X.mtf	MM
 Koschei KSC-6L.mtf	MM
 Koshi (Mist Lynx) A.mtf	MM
+Koshi (Mist Lynx) A.mtf*	MWL
 Koshi (Mist Lynx) B.mtf	MM
+Koshi (Mist Lynx) B.mtf*	MWL
 Koshi (Mist Lynx) C.mtf	MM
+Koshi (Mist Lynx) C.mtf*	MWL
 Koshi (Mist Lynx) D.mtf	MM
+Koshi (Mist Lynx) D.mtf*	MWL
 Koshi (Mist Lynx) E.mtf	MM
+Koshi (Mist Lynx) E.mtf*	MWL
 Koshi (Mist Lynx) F.mtf	MM
+Koshi (Mist Lynx) F.mtf*	MWL
 Koshi (Mist Lynx) G.mtf	MM
+Koshi (Mist Lynx) G.mtf*	MWL
 Koshi (Mist Lynx) H.mtf	MM
+Koshi (Mist Lynx) H.mtf*	MWL
 Koshi (Mist Lynx) P.mtf	MM
+Koshi (Mist Lynx) P.mtf*	MWL
 Koshi (Mist Lynx) Prime.mtf	MM
+Koshi (Mist Lynx) Prime.mtf*	MWL 
+Koshi (Mist Lynx) S.mtf*	MWL
 Koshi (Mist Lynx) Z.mtf	MM
 Koshi (Standard) 2.mtf	MM
 Koshi (Standard) 3.mtf	MM
@@ -3287,17 +3262,24 @@ Locust LCT-5X.mtf	MWL
 Locust LCT-6M.mtf	MM
 Locust LCT-6V.mtf	MWL
 Loki (Hellbringer) A.mtf	MM
+Loki (Hellbringer) A.mtf*	MWL
 Loki (Hellbringer) B.mtf	MM
+Loki (Hellbringer) B.mtf*	MWL
 Loki (Hellbringer) C.mtf	MM
+Loki (Hellbringer) C.mtf*	MWL
 Loki (Hellbringer) D.mtf	MM
+Loki (Hellbringer) D.mtf*	MWL
 Loki (Hellbringer) E.mtf	MM
+Loki (Hellbringer) E.mtf*	MWL
 Loki (Hellbringer) F.mtf	MM
 Loki (Hellbringer) G.mtf	MM
 Loki (Hellbringer) H.mtf	MM
+Loki (Hellbringer) H.mtf*	MWL
 Loki (Hellbringer) Mk II (Prime).mtf	MM
 Loki (Hellbringer) Mk II A.mtf	MM
 Loki (Hellbringer) Mk II B.mtf	MM
 Loki (Hellbringer) Prime.mtf	MM
+Loki (Hellbringer) Prime.mtf*	MWL
 Longbow LGB-0C.mtf	MM
 Longbow LGB-0W.mtf	MM
 Longbow LGB-12C.mtf	MM
@@ -3367,17 +3349,31 @@ Mackie MSK-8B.mtf	MM
 Mackie MSK-9H.mtf	MM
 Mackie MSK-9HKR Kill Roys Little Buddy.mtf	MM
 Mad Cat (Timber Wolf) A.mtf	MM
+Mad Cat (Timber Wolf) A.mtf*	MWL
 Mad Cat (Timber Wolf) B.mtf	MM
+Mad Cat (Timber Wolf) B.mtf	MWL
 Mad Cat (Timber Wolf) Bounty Hunter 2.mtf	MM
+Mad Cat (Timber Wolf) Bounty Hunter.mtf	MM
 Mad Cat (Timber Wolf) C.mtf	MM
+Mad Cat (Timber Wolf) C.mtf*	MWL
 Mad Cat (Timber Wolf) D.mtf	MM
+Mad Cat (Timber Wolf) D.mtf	MWL
 Mad Cat (Timber Wolf) E.mtf	MM
+Mad Cat (Timber Wolf) E.mtf*	MWL
 Mad Cat (Timber Wolf) F.mtf	MM
+Mad Cat (Timber Wolf) F.mtf*	MWL
+Mad Cat (Timber Wolf) G.mtf	MWL
 Mad Cat (Timber Wolf) H.mtf	MM
+Mad Cat (Timber Wolf) H.mtf*	MWL
+Mad Cat (Timber Wolf) J.mtf 	MWL
+Mad Cat (Timber Wolf) O.mtf	MWL
 Mad Cat (Timber Wolf) Prime.mtf	MM
+Mad Cat (Timber Wolf) Prime.mtf*	MWL
 Mad Cat (Timber Wolf) Pryde.mtf	MM
 Mad Cat (Timber Wolf) S.mtf	MM
+Mad Cat (Timber Wolf) S.mtf*	MWL
 Mad Cat (Timber Wolf) U.mtf	MM
+Mad Cat (Timber Wolf) W.mtf	MWL
 Mad Cat (Timber Wolf) Z.mtf	MM
 Mad Cat III (Eve).mtf	MM
 Mad Cat III (Standard).mtf	MM
@@ -3403,17 +3399,6 @@ Mad Cat Mk IV B.mtf	MM
 Mad Cat Mk IV C.mtf	MM
 Mad Cat Mk IV PR 2.mtf	MM
 Mad Cat Mk IV PR.mtf	MM
-Mad Dog A.mtf*	MWL
-Mad Dog B.mtf*	MWL
-Mad Dog C.mtf*	MWL
-Mad Dog D.mtf*	MWL
-Mad Dog E.mtf*	MWL
-Mad Dog F.mtf*	MWL
-Mad Dog GB.mtf	MWL
-Mad Dog H.mtf*	MWL
-Mad Dog Prime SR.mtf	MWL
-Mad Dog Prime.mtf*	MWL
-Mad Dog V.mtf	MWL
 Maelstrom MTR-5K.mtf	MM
 Maelstrom MTR-6E.mtf	MM
 Maelstrom MTR-6K.mtf	MM
@@ -3430,8 +3415,18 @@ Main Gauche Light Support Tank (XL).blk	MM
 Main Gauche Light Support Tank (XL-LB).blk	MWL
 Main Gauche Light Support Tank IFV.blk	MM
 Main Gauche Light Support Tank.blk	MM
+Malak C-MK-O Alphon.mtf	MWL
+Malak C-MK-O Comminus.mtf	MWL
+Malak C-MK-O Dominus.mtf	MWL
+Malak C-MK-O Eminus.mtf	MWL
+Malak C-MK-O Exanimus.mtf	MWL
+Malak C-MK-O Infernus.mtf	MWL
 Malak C-MK-O Invictus.mtf	MM
+Malak C-MK-O Invictus.mtf	MWL
+Malak C-MK-O Luminos.mtf	MWL
+Malak C-MK-O Maion.mtf	MWL
 Malak C-MK-O Mi.mtf	MM
+Malak C-MK-O Rashnu.mtf	MWL
 Malak C-MK-OA Dominus.mtf	MM
 Malak C-MK-OB Infernus.mtf	MM
 Malak C-MK-OC Comminus.mtf	MM
@@ -3447,10 +3442,12 @@ Man O' War (Gargoyle) (Conal).mtf	MM
 Man O' War (Gargoyle) A.mtf	MM
 Man O' War (Gargoyle) B.mtf	MM
 Man O' War (Gargoyle) C.mtf	MM
+Man O' War (Gargoyle) CR.mtf	MWL
 Man O' War (Gargoyle) D.mtf	MM
 Man O' War (Gargoyle) E.mtf	MM
 Man O' War (Gargoyle) G.mtf	MM
 Man O' War (Gargoyle) H.mtf	MM
+Man O' War (Gargoyle) I.mtf	MWL
 Man O' War (Gargoyle) M.mtf	MM
 Man O' War (Gargoyle) Prime.mtf	MM
 Man O' War (Gargoyle) T.mtf	MM
@@ -3588,13 +3585,20 @@ Marshal MHL-X1.mtf	MM
 Marten Scout VTOL (Infantry).blk	MM
 Marten Scout VTOL (Standard).blk	MM
 Masakari (Warhawk) A.mtf	MM
+Masakari (Warhawk) A.mtf	MWL
 Masakari (Warhawk) B.mtf	MM
+Masakari (Warhawk) B.mtf*	MWL
 Masakari (Warhawk) C.mtf	MM
+Masakari (Warhawk) C.mtf*	MWL
 Masakari (Warhawk) D.mtf	MM
+Masakari (Warhawk) D.mtf*	MWL
 Masakari (Warhawk) E.mtf	MM
+Masakari (Warhawk) E.mtf*	MWL
 Masakari (Warhawk) F.mtf	MM
 Masakari (Warhawk) H.mtf	MM
+Masakari (Warhawk) H.mtf*	MWL
 Masakari (Warhawk) Prime.mtf	MM
+Masakari (Warhawk) Prime.mtf*	MWL
 Matador .mtf	MM
 Matador 2.mtf	MM
 Matador 3.mtf	MWL
@@ -3642,7 +3646,7 @@ Maxim Mk II Transport (Infantry Support).blk	MM
 Maxim Mk II Transport.blk	MM
 Men Shen MS1-O J.mtf	MWL
 Men Shen MS1-O NV.mtf	MWL
-Men Shen MS1-O.mtf	MM
+Men Shen MS1-O.mtf 	MM
 Men Shen MS1-OA.mtf	MM
 Men Shen MS1-OB.mtf	MM
 Men Shen MS1-OC.mtf	MM
@@ -3682,17 +3686,6 @@ Minion Advanced Tactical Vehicle (Targeting Computer).blk	MM
 Minion Advanced Tactical Vehicle Magshot.blk	MM
 Minion Advanced Tactical Vehicle Silver Bullet.blk	MM
 Minion Advanced Tactical Vehicle.blk	MM
-Mist Lynx A.mtf*	MWL
-Mist Lynx B.mtf*	MWL
-Mist Lynx C.mtf*	MWL
-Mist Lynx D.mtf*	MWL
-Mist Lynx E.mtf*	MWL
-Mist Lynx F.mtf*	MWL
-Mist Lynx G.mtf*	MWL
-Mist Lynx H.mtf*	MWL
-Mist Lynx P.mtf*	MWL
-Mist Lynx Prime.mtf*	MWL
-Mist Lynx S.mtf*	MWL
 MIT23 MASH Vehicle.blk	MM
 MIT24 MASH Vehicle (Standard).blk	MM
 Mithras Light Tank (ERLL).blk	MM
@@ -3894,12 +3887,6 @@ Nova Cat G.mtf	MM
 Nova Cat H.mtf	MM
 Nova Cat I.mtf	MM
 Nova Cat Prime.mtf	MM
-Nova D.mtf*	MWL
-Nova E.mtf*	MWL
-Nova F.mtf*	MWL
-Nova H.mtf*	MWL
-Nova Prime.mtf*	MWL
-Nova S.mtf*	MWL
 Nuberu Anti Aircraft Tank 2 Numantia.blk	MM
 Nuberu Anti Aircraft Tank.blk	MM
 Nyx NX-100.mtf	MM
@@ -4219,8 +4206,8 @@ Phalanx (WoB-A).blk	MM
 Phalanx (WoB-B).blk	MM
 Phalanx (WoB-C).blk	MM
 Phalanx Support Tank (Production).blk	MM
+Phalanx Support Tank (Prototype).blk	MM
 Phalanx Support Tank .blk	MWL
-Phalanx Support Tank(Prototype).blk	MM
 Phantom A.mtf	MM
 Phantom B.mtf	MM
 Phantom C.mtf	MM
@@ -4356,10 +4343,19 @@ Prefect PRF-1R Veronica.mtf	MM
 Prefect PRF-1R.mtf	MM
 Prefect PRF-2R.mtf	MM
 Prefect PRF-3R.mtf	MM
+Preta C-PRT-O Asmodaeus.mtf	MWL
+Preta C-PRT-O Caelestis.mtf	MWL
+Preta C-PRT-O Comminus.mtf	MWL
+Preta C-PRT-O Dominus.mtf	MWL
 Preta C-PRT-O Eminus II.mtf	MWL
 Preta C-PRT-O Eminus III.mtf	MWL
+Preta C-PRT-O Eminus.mtf	MWL
+Preta C-PRT-O Exanimus.mtf	MWL
+Preta C-PRT-O Infernus.mtf	MWL
 Preta C-PRT-O Invictus.mtf	MM
+Preta C-PRT-O Invictus.mtf	MWL
 Preta C-PRT-O Kendali.mtf	MM
+Preta C-PRT-O Luminos.mtf	MWL
 Preta C-PRT-OA Dominus.mtf	MM
 Preta C-PRT-OB Infernus.mtf	MM
 Preta C-PRT-OC Comminus.mtf	MM
@@ -4400,6 +4396,7 @@ Puma (Adder) D.mtf	MM
 Puma (Adder) E.mtf	MM
 Puma (Adder) H.mtf	MM
 Puma (Adder) J.mtf	MM
+Puma (Adder) Prime.mtf*	MWL
 Puma (Royal).blk	MWL
 Puma Assault Tank PAT-001.blk	MM
 Puma Assault Tank PAT-002.blk	MM
@@ -4660,16 +4657,30 @@ Rusalka S-RSL-0 Invictus.blk	MWL
 Rusalka S-RSL-0 Luminos.blk	MWL
 Ryoken (Stormcrow) (Kotare).mtf	MM
 Ryoken (Stormcrow) A.mtf	MM
+Ryoken (Stormcrow) A.mtf*	MWL
 Ryoken (Stormcrow) B.mtf	MM
+Ryoken (Stormcrow) B.mtf*	MWL
+Ryoken (Stormcrow) BF.mtf	MWL
+Ryoken (Stormcrow) BG.mtf	MWL
+Ryoken (Stormcrow) BR.mtf	MWL
+Ryoken (Stormcrow) BW.mtf	MWL
 Ryoken (Stormcrow) C.mtf	MM
+Ryoken (Stormcrow) C.mtf*	MWL
 Ryoken (Stormcrow) D.mtf	MM
+Ryoken (Stormcrow) D.mtf*	MWL
 Ryoken (Stormcrow) E.mtf	MM
+Ryoken (Stormcrow) E.mtf*	MWL
 Ryoken (Stormcrow) F.mtf	MM
+Ryoken (Stormcrow) F.mtf*	MWL
 Ryoken (Stormcrow) G.mtf	MM
+Ryoken (Stormcrow) G.mtf*	MWL
 Ryoken (Stormcrow) H.mtf	MM
+Ryoken (Stormcrow) H.mtf*	MWL
 Ryoken (Stormcrow) I.mtf	MM
+Ryoken (Stormcrow) I.mtf*	MWL
 Ryoken (Stormcrow) Prime.mtf	MM
 Ryoken (Stormcrow) Z.mtf	MM
+Ryoken (Stormcrow)Prime.mtf*	MWL
 Ryoken II .mtf	MM
 Ryoken II 2.mtf	MM
 Ryoken II 3.mtf	MM
@@ -4891,8 +4902,18 @@ Sentry SNT-04.mtf	MM
 Sentry SNT-1D.mtf	MWL
 Sentry SNT-W5.mtf	MM
 Seraph C-SRP-O Caelestis.mtf	MM
+Seraph C-SRP-O Comminus.mtf	MWL
+Seraph C-SRP-O Dominus.mtf	MWL
+Seraph C-SRP-O Eminus.mtf	MWL
 Seraph C-SRP-O Havalah.mtf	MM
+Seraph C-SRP-O Infernus.mtf	MWL
 Seraph C-SRP-O Invictus.mtf	MM
+Seraph C-SRP-O Invictus.mtf	MWL
+Seraph C-SRP-O Israfil.mtf	MWL
+Seraph C-SRP-O Luminos.mtf	MWL
+Seraph C-SRP-O Maion.mtf	MWL
+Seraph C-SRP-O Raguel.mtf	MWL
+Seraph C-SRP-O Ramiel.mtf	MWL
 Seraph C-SRP-O Ravana.mtf	MM
 Seraph C-SRP-OA Dominus.mtf	MM
 Seraph C-SRP-OB Infernus.mtf	MM
@@ -5273,20 +5294,6 @@ Storm Raider STM-R1.mtf	MM
 Storm Raider STM-R2.mtf	MM
 Storm Raider STM-R3.mtf	MM
 Storm Raider STM-R4.mtf	MM
-Stormcrow A.mtf*	MWL
-Stormcrow B.mtf*	MWL
-Stormcrow BF.mtf	MWL
-Stormcrow BG.mtf	MWL
-Stormcrow BR.mtf	MWL
-Stormcrow BW.mtf	MWL
-Stormcrow C.mtf*	MWL
-Stormcrow D.mtf*	MWL
-Stormcrow E.mtf*	MWL
-Stormcrow F.mtf*	MWL
-Stormcrow G.mtf*	MWL
-Stormcrow H.mtf*	MWL
-Stormcrow I.mtf*	MWL
-Stormcrow Prime.mtf*	MWL
 Strider SR1-O I.mtf	MWL
 Strider SR1-O K.mtf	MWL
 Strider SR1-O L.mtf	MWL
@@ -5350,19 +5357,6 @@ Sulla D.blk	MWL
 Sulla F.blk	MWL
 Sulla G.blk	MWL
 Sulla Prime.blk	MWL
-Summoner A.mtf*	MWL
-Summoner B.mtf*	MWL
-Summoner C.mtf*	MWL
-Summoner D.mtf*	MWL
-Summoner E.mtf*	MWL
-Summoner G.mtf*	MWL
-Summoner H.mtf*	MWL
-Summoner HH.mtf	MWL
-Summoner I.mtf*	MWL
-Summoner M.mtf*	MWL
-Summoner Prime.mtf*	MWL
-Summoner Q.mtf	MWL
-Summoner V.mtf	MWL
 Sun Cobra .mtf	MM
 Sun Cobra 2.mtf	MM
 Sunder SD1-O Samual.mtf	MM
@@ -5493,19 +5487,32 @@ Theseus Medium Battle Armor (RL).blk	MM
 Theseus Medium Battle Armor (Support) Killshot.blk	MM
 Theseus Medium Battle Armor.blk	MM
 Thor (Summoner) A.mtf	MM
+Thor (Summoner) A.mtf*	MWL
 Thor (Summoner) AA.mtf	MM
 Thor (Summoner) B.mtf	MM
+Thor (Summoner) B.mtf*	MWL
 Thor (Summoner) C.mtf	MM
+Thor (Summoner) C.mtf*	MWL 
 Thor (Summoner) D.mtf	MM
+Thor (Summoner) D.mtf*	MWL
 Thor (Summoner) E.mtf	MM
+Thor (Summoner) E.mtf*	MWL
 Thor (Summoner) F.mtf	MM
 Thor (Summoner) G.mtf	MM
+Thor (Summoner) G.mtf*	MWL
 Thor (Summoner) H.mtf	MM
+Thor (Summoner) H.mtf*	MWL
 Thor (Summoner) HH.mtf	MM
+Thor (Summoner) HH.mtf	MWL 
+Thor (Summoner) I.mtf*	MWL
 Thor (Summoner) M.mtf	MM
+Thor (Summoner) M.mtf*	MWL
 Thor (Summoner) Prime.mtf	MM
+Thor (Summoner) Prime.mtf*	MWL
 Thor (Summoner) Q.mtf	MM
+Thor (Summoner) Q.mtf	MWL
 Thor (Summoner) U.mtf	MM
+Thor (Summoner) V.mtf	MWL
 Thor (Summoner) Z.mtf	MM
 Thor Artillery Vehicle (AC).blk	MM
 Thor Artillery Vehicle (C3i).blk	MM
@@ -5632,20 +5639,6 @@ Tian-Zong TNZ-N2.mtf	MM
 Tian-Zong TNZ-N3.mtf	MM
 Tiburon (Standard).mtf	MM
 Tiger Medium Tank T-12.blk	MM
-Timber Wolf A.mtf*	MWL
-Timber Wolf B.mtf	MWL
-Timber Wolf Bounty Hunter.mtf	MM
-Timber Wolf C.mtf*	MWL
-Timber Wolf D.mtf	MWL
-Timber Wolf E.mtf*	MWL
-Timber Wolf F.mtf*	MWL
-Timber Wolf G.mtf	MWL
-Timber Wolf H.mtf*	MWL
-Timber Wolf J.mtf	MWL
-Timber Wolf O.mtf	MWL
-Timber Wolf Prime.mtf*	MWL
-Timber Wolf S.mtf*	MWL
-Timber Wolf W.mtf	MWL
 Titan II TI-2P.mtf	MM
 Titan II TI-2PA.mtf	MM
 Titan TI-1A.mtf	MM
@@ -5802,19 +5795,31 @@ Tyr Infantry Support Tank.blk	MM
 Tyre 2.blk	MWL
 Tyre 5.blk	MWL
 Tyre.blk	MWL
+Uller (Kit Fox)  A.mtf            MWL
+Uller (Kit Fox)  C.mtf  	MWL
 Uller (Kit Fox) A.mtf	MM
+Uller (Kit Fox) B.mtf  	MWL
 Uller (Kit Fox) B.mtf	MM
 Uller (Kit Fox) C.mtf	MM
+Uller (Kit Fox) D.mtf  	MWL
 Uller (Kit Fox) D.mtf	MM
+Uller (Kit Fox) E.mtf  	MWL
 Uller (Kit Fox) E.mtf	MM
+Uller (Kit Fox) F.mtf  	            MWL
 Uller (Kit Fox) F.mtf	MM
+Uller (Kit Fox) G.mtf  	MWL
 Uller (Kit Fox) G.mtf	MM
+Uller (Kit Fox) H.mtf  	MWL
 Uller (Kit Fox) H.mtf	MM
 Uller (Kit Fox) I.mtf	MM
+Uller (Kit Fox) M.mtf 	MWL
+Uller (Kit Fox) Prime.mtf 	MWL
 Uller (Kit Fox) Prime.mtf	MM
 Uller (Kit Fox) R.mtf	MM
+Uller (Kit Fox) S.mtf    	MWL
 Uller (Kit Fox) S.mtf	MM
 Uller (Kit Fox) U.mtf	MM
+Uller (Kit Fox) W.mtf 	MWL
 Uller (Kit Fox) W.mtf	MM
 Undine (Upgrade) Elite.blk	MWL
 Undine Battle Armor (Upgrade).blk	MM
@@ -5977,18 +5982,6 @@ Viper (Black Python) 2.mtf	MM
 Viper (Black Python) 3.mtf	MM
 Viper (Black Python) 4.mtf	MM
 Viper (Black Python).mtf	MM
-Viper A.mtf*	MWL
-Viper AP.mtf	MWL
-Viper B.mtf*	MWL
-Viper C.mtf*	MWL
-Viper D.mtf*	MWL
-Viper E.mtf*	MWL
-Viper F.mtf*	MWL
-Viper G.mtf	MWL
-Viper H.mtf*	MWL
-Viper I.mtf*	MWL
-Viper Prime.mtf*	MWL
-Viper S.mtf	MWL
 Visigoth A.blk	MWL
 Visigoth B.blk	MWL
 Visigoth C.blk	MWL
@@ -5996,6 +5989,9 @@ Visigoth D.blk	MWL
 Visigoth J.blk	MWL
 Visigoth K.blk	MWL
 Visigoth Prime.blk	MWL
+Vixen (Incubus 3).mtf	MWL
+Vixen (Incubus 4).mtf	MWL
+Vixen (Incubus 5).mtf	MWL
 Vixen (Incubus) 2.mtf	MM
 Vixen (Incubus) 3.mtf	MM
 Vixen (Incubus) 4.mtf	MM
@@ -6035,20 +6031,31 @@ Vulcan VT-6X.mtf	MWL
 Vulcan VT-7M.mtf	MWL
 Vulcan VT-7S.mtf	MWL
 Vulpes VLP-1D.mtf	MM
+Vulture (Mad Dog)  B.mtf*	MWL
 Vulture (Mad Dog) A.mtf	MM
+Vulture (Mad Dog) A.mtf*	MWL
 Vulture (Mad Dog) B.mtf	MM
 Vulture (Mad Dog) C.mtf	MM
+Vulture (Mad Dog) C.mtf*	MWL
 Vulture (Mad Dog) D.mtf	MM
+Vulture (Mad Dog) D.mtf*	MWL
 Vulture (Mad Dog) E.mtf	MM
+Vulture (Mad Dog) E.mtf*	MWL
 Vulture (Mad Dog) F.mtf	MM
+Vulture (Mad Dog) F.mtf*	MWL
 Vulture (Mad Dog) G.mtf	MM
+Vulture (Mad Dog) GB.mtf	MWL
 Vulture (Mad Dog) H.mtf	MM
+Vulture (Mad Dog) H.mtf*	MWL
 Vulture (Mad Dog) Mk III (Prime).mtf	MM
 Vulture (Mad Dog) Mk III B.mtf	MM
 Vulture (Mad Dog) Mk III C.mtf	MM
 Vulture (Mad Dog) Mk III D.mtf	MM
+Vulture (Mad Dog) Prime SR.mtf	MWL
 Vulture (Mad Dog) Prime.mtf	MM
+Vulture (Mad Dog) Prime.mtf*	MWL
 Vulture (Mad Dog) U.mtf	MM
+Vulture (Mad Dog) V.mtf	MWL
 Vulture Mk III (Mad Dog Mk III) A.mtf	MM
 Vulture Mk IV A.mtf	MM
 Vulture Mk IV B.mtf	MM
@@ -6112,13 +6119,6 @@ Warhammer WHM-9D.mtf	MM
 Warhammer WHM-9M.mtf	MWL
 Warhammer WHM-9S.mtf	MM
 Warhammer WHM-9TC.mtf	MWL
-Warhawk A.mtf*	MWL
-Warhawk B.mtf*	MWL
-Warhawk C.mtf*	MWL
-Warhawk D.mtf*	MWL
-Warhawk E.mtf*	MWL
-Warhawk H.mtf*	MWL
-Warhawk Prime.mtf*	MWL
 Warlord BLR-2D.mtf	MM
 Warlord BLR-2Dr.mtf	MM
 Warlord BLR-2G.mtf	MM
