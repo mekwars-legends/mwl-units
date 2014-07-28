@@ -1,6 +1,6 @@
 Version:1.1
-Hellbringer
-E
+Loki (Hellbringer)
+A
 
 Config:Biped Omnimech
 TechBase:Clan
@@ -12,7 +12,7 @@ Engine:325 XL Fusion Engine
 Structure:Endo-Steel
 Myomer:Standard
 
-Heat Sinks:15 Double
+Heat Sinks:14 Double
 Base Chassis Heat Sinks: 13
 Walk MP:5
 Jump MP:0
@@ -30,35 +30,37 @@ RTL Armor:7
 RTR Armor:7
 RTC Armor:7
 
-Weapons:5
-1 CLERLargeLaser, Right Arm
-1 CLERLargeLaser, Right Arm
-1 CLLRM10, Right Torso, Ammo:12
-1 CLHAG30, Left Arm, Ammo:12
-1 CLERSmallLaser, Right Torso
+Weapons:7
+1 CLERLargeLaser, Left Arm
+1 CLERLargeLaser, Left Arm
+1 CLUltraAC5, Right Arm, Ammo:40
+1 CLLRM20, Right Torso, Ammo:12
+1 CLMGA, Left Torso, Ammo:200
+1 CLActiveProbe, Center Torso
+1 CLERMediumLaser, Center Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLHAG30
-CLHAG30
-CLHAG30
-CLHAG30
-CLHAG30
-CLHAG30
-CLHAG30
-CLHAG30
+CLERLargeLaser
+CLERLargeLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 Endo-Steel
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLERLargeLaser
-CLERLargeLaser
--Empty-
--Empty-
--Empty-
+CLUltraAC5
+CLUltraAC5
+CLUltraAC5
+CLUltraAC5 Ammo
+CLUltraAC5 Ammo
 -Empty-
 -Empty-
 -Empty-
@@ -68,13 +70,13 @@ Endo-Steel
 Left Torso:
 Engine
 Engine
-CLHAG30 Ammo
-CLHAG30 Ammo
-CLHAG30 Ammo
--Empty-
--Empty-
--Empty-
--Empty-
+CLMGA
+CLMG
+CLMG
+CLMG
+CLMG Ammo (200)
+CLDouble Heat Sink
+CLDouble Heat Sink
 -Empty-
 Endo-Steel
 Endo-Steel
@@ -82,13 +84,13 @@ Endo-Steel
 Right Torso:
 Engine
 Engine
-CLLRM10
-CLLRM10 Ammo
-CLERSmallLaser
--Empty-
--Empty-
--Empty-
--Empty-
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLArtemisIV
+CLLRM20 Ammo (Clan) Artemis-capable
+CLLRM20 Ammo (Clan) Artemis-capable
 -Empty-
 Endo-Steel
 Endo-Steel
@@ -104,8 +106,8 @@ Gyro
 Engine
 Engine
 Engine
--Empty-
--Empty-
+CLERMediumLaser
+CLActiveProbe
 
 Head:
 Life Support
@@ -120,13 +122,13 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDouble Heat Sink
-CLDouble Heat Sink
+-Empty-
+-Empty-
 
 Right Leg:
 Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDouble Heat Sink
-CLDouble Heat Sink
+-Empty-
+-Empty-

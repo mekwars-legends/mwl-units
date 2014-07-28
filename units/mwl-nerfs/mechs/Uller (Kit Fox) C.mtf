@@ -1,56 +1,57 @@
 Version:1.1
-Mist Lynx
-A
+Uller (Kit Fox)
+C
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:2926
+Era:3050
 Rules Level:2
 
-Mass:25
-Engine:175 XL Fusion Engine
+Mass:30
+Engine:180 XL Fusion Engine
 Structure:Endo-Steel
 Myomer:Standard
 
-Heat Sinks:10 Double
+Heat Sinks:11 Double
 Base Chassis Heat Sinks: 10
-Walk MP:7
-Jump MP:6
+Walk MP:6
+Jump MP:0
 
 Armor:Ferro-Fibrous
-LA Armor:4
-RA Armor:4
-LT Armor:7
-RT Armor:7
-CT Armor:10
+LA Armor:7
+RA Armor:7
+LT Armor:8
+RT Armor:8
+CT Armor:9
 HD Armor:9
-LL Armor:5
-RL Armor:5
-RTL Armor:5
-RTR Armor:5
-RTC Armor:6
+LL Armor:8
+RL Armor:8
+RTL Armor:4
+RTR Armor:4
+RTC Armor:4
 
-Weapons:8
-1 CLActiveProbe, Head
-1 CLTAG, Left Arm
-1 CLAntiMissileSystem, Left Arm
-1 CLAntiMissileSystem, Left Arm
-1 CLERMediumLaser, Right Arm
-1 CLERMediumLaser, Right Arm
-1 CLERMediumLaser, Right Arm
-1 CLAntiMissileSystem, Left Arm
+Weapons:9
+1 CLAntiMissileSystem, Right Arm
+1 CLAntiMissileSystem, Right Arm
+1 CLECMSuite, Right Arm
+1 CLTAG, Right Arm
+1 CLActiveProbe, Right Arm
+1 CLERPPC, Left Arm
+1 CLSmallPulseLaser, Right Torso
+1 CLSmallPulseLaser, Left Torso
+1 CLMediumPulseLaser, Left Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-Lower Arm Actuator
-Hand Actuator
-CLTAG
-CLAntiMissileSystem
-CLAntiMissileSystem
-CLAntiMissileSystem
-Clan AMS Ammo
-Clan AMS Ammo
+CLERPPC
+CLERPPC
+CLMediumPulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 Endo-Steel
 Ferro-Fibrous
 
@@ -59,12 +60,12 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
--Empty-
--Empty-
--Empty-
+CLAntiMissileSystem
+CLAntiMissileSystem
+Clan AMS Ammo
+CLECMSuite
+CLTAG
+CLActiveProbe
 Endo-Steel
 Ferro-Fibrous
 
@@ -75,9 +76,9 @@ CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
-Jump Jet
-Jump Jet
-Jump Jet
+CLSmallPulseLaser
+-Empty-
+Endo-Steel
 Endo-Steel
 Ferro-Fibrous
 Ferro-Fibrous
@@ -87,11 +88,11 @@ Engine
 Engine
 CLDouble Heat Sink
 CLDouble Heat Sink
-Jump Jet
-Jump Jet
-Jump Jet
+CLSmallPulseLaser
 -Empty-
 -Empty-
+Endo-Steel
+Endo-Steel
 Endo-Steel
 Ferro-Fibrous
 Ferro-Fibrous
@@ -107,14 +108,14 @@ Gyro
 Engine
 Engine
 Engine
-Endo-Steel
-Ferro-Fibrous
+CLDouble Heat Sink
+CLDouble Heat Sink
 
 Head:
 Life Support
 Sensors
 Cockpit
-CLActiveProbe
+Ferro-Fibrous
 Sensors
 Life Support
 
@@ -124,7 +125,7 @@ Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
 -Empty-
-Endo-Steel
+-Empty-
 
 Right Leg:
 Hip
@@ -132,4 +133,4 @@ Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
 -Empty-
-Endo-Steel
+-Empty-

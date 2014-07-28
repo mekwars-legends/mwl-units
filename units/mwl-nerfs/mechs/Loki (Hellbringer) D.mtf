@@ -1,6 +1,6 @@
 Version:1.1
-Hellbringer
-C
+Loki (Hellbringer)
+D
 
 Config:Biped Omnimech
 TechBase:Clan
@@ -12,7 +12,7 @@ Engine:325 XL Fusion Engine
 Structure:Endo-Steel
 Myomer:Standard
 
-Heat Sinks:13 Double
+Heat Sinks:15 Double
 Base Chassis Heat Sinks: 13
 Walk MP:5
 Jump MP:0
@@ -30,22 +30,27 @@ RTL Armor:7
 RTR Armor:7
 RTC Armor:7
 
-Weapons:7
-1 CLLBXAC20, Center Torso, Ammo:15
-1 CLERMediumLaser, Left Torso
-1 CLERLargeLaser, Left Arm
-1 CLERMediumLaser, Left Torso
-1 CLERSmallLaser, Left Arm
-1 CLERSmallLaser, Left Arm
-1 CLATM9, Right Arm, Ammo:21
+Weapons:12
+1 CLPlasmaCannon, Right Arm, Ammo:40
+1 CLPlasmaCannon, Right Arm
+1 CLPlasmaCannon, Left Arm
+1 CLPlasmaCannon, Left Arm
+1 CLMediumPulseLaser, Left Torso
+1 CLMediumPulseLaser, Right Torso
+1 CLMediumPulseLaser, Right Torso
+1 CLMediumPulseLaser, Left Torso
+1 CLAntiMissileSystem, Left Torso
+1 CLAntiMissileSystem, Right Torso
+1 CLECMSuite, Right Torso
+1 CLActiveProbe, Center Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLERLargeLaser
-CLERSmallLaser
-CLERSmallLaser
--Empty-
+CLPlasmaCannon
+CLPlasmaCannon
+CLPlasmaCannon Ammo
+CLPlasmaCannon Ammo
 -Empty-
 -Empty-
 -Empty-
@@ -56,13 +61,13 @@ Endo-Steel
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLATM9
-CLATM9
-CLATM9
-CLATM9
-CLATM9 ER Ammo
-CLATM9 Ammo
-CLATM9 HE Ammo
+CLPlasmaCannon
+CLPlasmaCannon
+CLPlasmaCannon Ammo
+CLPlasmaCannon Ammo
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 Endo-Steel
@@ -70,11 +75,11 @@ Endo-Steel
 Left Torso:
 Engine
 Engine
-CLLBXAC20 CL Ammo
-CLLBXAC20 CL Ammo
-CLLBXAC20 Ammo
-CLERMediumLaser
-CLERMediumLaser
+CLAntiMissileSystem
+CLMediumPulseLaser
+CLMediumPulseLaser
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -84,14 +89,14 @@ Endo-Steel
 Right Torso:
 Engine
 Engine
-CLLBXAC20
-CLLBXAC20
-CLLBXAC20
-CLLBXAC20
-CLLBXAC20
-CLLBXAC20
-CLLBXAC20
-CLLBXAC20
+CLAntiMissileSystem
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLECMSuite
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 Endo-Steel
 Endo-Steel
 
@@ -106,8 +111,8 @@ Gyro
 Engine
 Engine
 Engine
-CLLBXAC20
--Empty-
+Clan AMS Ammo
+CLActiveProbe
 
 Head:
 Life Support
@@ -122,13 +127,13 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
--Empty-
+CLDouble Heat Sink
+CLDouble Heat Sink
 
 Right Leg:
 Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
--Empty-
+CLDouble Heat Sink
+CLDouble Heat Sink

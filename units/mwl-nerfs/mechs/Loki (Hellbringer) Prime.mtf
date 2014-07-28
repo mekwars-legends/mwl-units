@@ -1,6 +1,6 @@
 Version:1.1
-Hellbringer
-D
+Loki (Hellbringer)
+Prime
 
 Config:Biped Omnimech
 TechBase:Clan
@@ -12,7 +12,7 @@ Engine:325 XL Fusion Engine
 Structure:Endo-Steel
 Myomer:Standard
 
-Heat Sinks:15 Double
+Heat Sinks:16 Double
 Base Chassis Heat Sinks: 13
 Walk MP:5
 Jump MP:0
@@ -30,28 +30,27 @@ RTL Armor:7
 RTR Armor:7
 RTC Armor:7
 
-Weapons:12
-1 CLPlasmaCannon, Right Arm, Ammo:40
-1 CLPlasmaCannon, Right Arm
-1 CLPlasmaCannon, Left Arm
-1 CLPlasmaCannon, Left Arm
-1 CLMediumPulseLaser, Left Torso
-1 CLMediumPulseLaser, Right Torso
-1 CLMediumPulseLaser, Right Torso
-1 CLMediumPulseLaser, Left Torso
-1 CLAntiMissileSystem, Left Torso
-1 CLAntiMissileSystem, Right Torso
-1 CLECMSuite, Right Torso
-1 CLActiveProbe, Center Torso
+Weapons:11
+1 CLERPPC, Left Arm
+1 CLERPPC, Right Arm
+1 CLStreakSRM6, Right Torso, Ammo:15
+1 CLTAG, Left Arm
+1 CLECMSuite, Left Torso
+1 CLActiveProbe, Left Torso
+1 CLAntiMissileSystem, Center Torso
+1 CLERSmallLaser, Left Torso
+1 CLERSmallLaser, Left Torso
+1 CLERSmallLaser, Left Torso
+1 CLMGA, Right Torso, Ammo:200
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLPlasmaCannon
-CLPlasmaCannon
-CLPlasmaCannon Ammo
-CLPlasmaCannon Ammo
--Empty-
+CLERPPC
+CLERPPC
+CLTAG
+CLDouble Heat Sink
+CLDouble Heat Sink
 -Empty-
 -Empty-
 -Empty-
@@ -61,10 +60,10 @@ Endo-Steel
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLPlasmaCannon
-CLPlasmaCannon
-CLPlasmaCannon Ammo
-CLPlasmaCannon Ammo
+CLERPPC
+CLERPPC
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -75,28 +74,28 @@ Endo-Steel
 Left Torso:
 Engine
 Engine
-CLAntiMissileSystem
-CLMediumPulseLaser
-CLMediumPulseLaser
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
+CLERSmallLaser
+CLERSmallLaser
+CLERSmallLaser
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLECMSuite
+CLActiveProbe
 Endo-Steel
 Endo-Steel
 
 Right Torso:
 Engine
 Engine
-CLAntiMissileSystem
-CLMediumPulseLaser
-CLMediumPulseLaser
-CLECMSuite
--Empty-
--Empty-
--Empty-
--Empty-
+CLStreakSRM6 Ammo
+CLMGA
+CLMG
+CLMG
+CLMG
+CLMG Ammo (200)
+CLStreakSRM6
+CLStreakSRM6
 Endo-Steel
 Endo-Steel
 
@@ -111,8 +110,8 @@ Gyro
 Engine
 Engine
 Engine
+CLAntiMissileSystem
 Clan AMS Ammo
-CLActiveProbe
 
 Head:
 Life Support

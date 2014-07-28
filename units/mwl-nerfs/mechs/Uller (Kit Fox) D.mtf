@@ -1,55 +1,50 @@
 Version:1.1
-Mist Lynx
-C
+Uller (Kit Fox)
+D
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:2926
+Era:2890
 Rules Level:2
 
-Mass:25
-Engine:175 XL Fusion Engine
+Mass:30
+Engine:180 XL Fusion Engine
 Structure:Endo-Steel
 Myomer:Standard
 
 Heat Sinks:10 Double
 Base Chassis Heat Sinks: 10
-Walk MP:7
-Jump MP:6
+Walk MP:6
+Jump MP:0
 
 Armor:Ferro-Fibrous
-LA Armor:4
-RA Armor:4
-LT Armor:7
-RT Armor:7
-CT Armor:10
+LA Armor:7
+RA Armor:7
+LT Armor:8
+RT Armor:8
+CT Armor:9
 HD Armor:9
-LL Armor:5
-RL Armor:5
-RTL Armor:5
-RTR Armor:5
-RTC Armor:6
+LL Armor:8
+RL Armor:8
+RTL Armor:4
+RTR Armor:4
+RTC Armor:4
 
-Weapons:7
-1 CLActiveProbe, Head
-1 CLECMSuite, Left Arm
-1 CLAntiMissileSystem, Left Arm
-1 CLERMediumLaser, Right Arm
-1 CLERMediumLaser, Right Arm
-1 CLMediumPulseLaser, Left Arm
-1 CLSmallPulseLaser, Left Arm
+Weapons:2
+1 CLLRM20, Left Arm, Ammo:36
+1 CLLRM20, Right Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLECMSuite
-CLAntiMissileSystem
-Clan AMS Ammo
-CLMediumPulseLaser
-CLSmallPulseLaser
--Empty-
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20 Ammo
+CLLRM20 Ammo
 Endo-Steel
 Ferro-Fibrous
 
@@ -58,12 +53,12 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLERMediumLaser
-CLERMediumLaser
--Empty-
--Empty-
--Empty-
--Empty-
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20 Ammo
+CLLRM20 Ammo
 Endo-Steel
 Ferro-Fibrous
 
@@ -74,9 +69,9 @@ CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
-Jump Jet
-Jump Jet
-Jump Jet
+CLLRM20 Ammo
+CLLRM20 Ammo
+Endo-Steel
 Endo-Steel
 Ferro-Fibrous
 Ferro-Fibrous
@@ -84,13 +79,13 @@ Ferro-Fibrous
 Right Torso:
 Engine
 Engine
-CLDouble Heat Sink
-CLDouble Heat Sink
-Jump Jet
-Jump Jet
-Jump Jet
 -Empty-
 -Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
 Endo-Steel
 Ferro-Fibrous
 Ferro-Fibrous
@@ -106,14 +101,14 @@ Gyro
 Engine
 Engine
 Engine
-Endo-Steel
-Ferro-Fibrous
+CLDouble Heat Sink
+CLDouble Heat Sink
 
 Head:
 Life Support
 Sensors
 Cockpit
-CLActiveProbe
+Ferro-Fibrous
 Sensors
 Life Support
 
@@ -123,7 +118,7 @@ Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
 -Empty-
-Endo-Steel
+-Empty-
 
 Right Leg:
 Hip
@@ -131,4 +126,4 @@ Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
 -Empty-
-Endo-Steel
+-Empty-

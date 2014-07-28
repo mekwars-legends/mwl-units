@@ -1,6 +1,6 @@
 Version:1.1
-Mist Lynx
-D
+Koshi (Mist Lynx)
+A
 
 Config:Biped Omnimech
 TechBase:Clan
@@ -30,22 +30,27 @@ RTL Armor:5
 RTR Armor:5
 RTC Armor:6
 
-Weapons:3
+Weapons:8
 1 CLActiveProbe, Head
+1 CLTAG, Left Arm
+1 CLAntiMissileSystem, Left Arm
+1 CLAntiMissileSystem, Left Arm
 1 CLERMediumLaser, Right Arm
-1 CLLRM15, Left Arm, Ammo:16
+1 CLERMediumLaser, Right Arm
+1 CLERMediumLaser, Right Arm
+1 CLAntiMissileSystem, Left Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLLRM15
-CLLRM15
-CLArtemisIV
-CLLRM15 Ammo (Clan) Artemis-capable
-CLLRM15 Ammo (Clan) Artemis-capable
--Empty-
--Empty-
--Empty-
+Lower Arm Actuator
+Hand Actuator
+CLTAG
+CLAntiMissileSystem
+CLAntiMissileSystem
+CLAntiMissileSystem
+Clan AMS Ammo
+Clan AMS Ammo
 Endo-Steel
 Ferro-Fibrous
 
@@ -55,8 +60,8 @@ Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
 CLERMediumLaser
--Empty-
--Empty-
+CLERMediumLaser
+CLERMediumLaser
 -Empty-
 -Empty-
 -Empty-

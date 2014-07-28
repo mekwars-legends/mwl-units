@@ -1,6 +1,6 @@
 Version:1.1
-Hellbringer
-B
+Loki (Hellbringer)
+C
 
 Config:Biped Omnimech
 TechBase:Clan
@@ -30,21 +30,23 @@ RTL Armor:7
 RTR Armor:7
 RTC Armor:7
 
-Weapons:5
-1 CLGaussRifle, Right Arm, Ammo:16
-1 CLLBXAC5, Left Arm, Ammo:20
-1 CLSRM6, Right Torso, Ammo:30
-1 CLSRM6, Right Torso
-1 CLHeavyMediumLaser, Left Torso
+Weapons:7
+1 CLLBXAC20, Center Torso, Ammo:15
+1 CLERMediumLaser, Left Torso
+1 CLERLargeLaser, Left Arm
+1 CLERMediumLaser, Left Torso
+1 CLERSmallLaser, Left Arm
+1 CLERSmallLaser, Left Arm
+1 CLATM9, Right Arm, Ammo:21
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLLBXAC5
-CLLBXAC5
-CLLBXAC5
-CLLBXAC5
-CLLBXAC5 CL Ammo
+CLERLargeLaser
+CLERSmallLaser
+CLERSmallLaser
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -54,25 +56,25 @@ Endo-Steel
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGauss Ammo
-CLGauss Ammo
+CLATM9
+CLATM9
+CLATM9
+CLATM9
+CLATM9 ER Ammo
+CLATM9 Ammo
+CLATM9 HE Ammo
+-Empty-
 -Empty-
 Endo-Steel
 
 Left Torso:
 Engine
 Engine
-CLHeavyMediumLaser
-CLHeavyMediumLaser
--Empty-
--Empty-
--Empty-
+CLLBXAC20 CL Ammo
+CLLBXAC20 CL Ammo
+CLLBXAC20 Ammo
+CLERMediumLaser
+CLERMediumLaser
 -Empty-
 -Empty-
 -Empty-
@@ -82,14 +84,14 @@ Endo-Steel
 Right Torso:
 Engine
 Engine
-CLSRM6
-CLArtemisIV
-CLSRM6
-CLArtemisIV
-CLSRM6 Ammo
-CLSRM6 Ammo
--Empty-
--Empty-
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
 Endo-Steel
 Endo-Steel
 
@@ -104,7 +106,7 @@ Gyro
 Engine
 Engine
 Engine
--Empty-
+CLLBXAC20
 -Empty-
 
 Head:
