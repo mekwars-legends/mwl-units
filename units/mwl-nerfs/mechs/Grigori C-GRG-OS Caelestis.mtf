@@ -1,23 +1,22 @@
-Version:1.1
-C-GRG-O Grigori
-Comminus
+Version:1.0
+Grigori C-GRG-OS
+Caelestis
 
-Config:Biped Omnimech
+Config:Biped Omni
 TechBase:Inner Sphere
-Era:3069
-Rules Level:2
+Era:3075
+Rules Level:4
 
 Mass:60
-Engine:240 Light Fusion Engine
+Engine:240 Light Engine
 Structure:Standard
+Myomer:Standard
 Gyro:XL Gyro
 Cockpit:Small Cockpit
-Myomer:Standard
 
 Heat Sinks:10 Double
-Base Chassis Heat Sinks: 10
 Walk MP:4
-Jump MP:4
+Jump MP:0
 
 Armor:Light Ferro-Fibrous
 LA Armor:19
@@ -32,24 +31,21 @@ RTL Armor:6
 RTR Armor:6
 RTC Armor:9
 
-Weapons:8
+Weapons:5
 1 ISImprovedC3CPU, Left Torso
-1 ISStreakSRM6, Right Arm, Ammo:15
-1 ISStreakSRM6, Right Arm
-1 ISERMediumLaser, Left Torso
-1 ISERMediumLaser, Right Torso
-1 ISGuardianECM, Head
-1 ISImprovedNarc, Left Arm, Ammo:12
-1 ISMediumPulseLaser, Left Arm
+1 ISSBGR, Right Arm, Ammo:16
+1 ISMediumXPulseLaser, Head
+1 ISMediumXPulseLaser, Head
+1 ISLRM10, Right Torso, Ammo:12
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-ISImprovedNarc
-ISImprovedNarc
-ISImprovedNarc
-ISMediumPulseLaser
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 ISDouble Heat Sink
@@ -59,13 +55,13 @@ ISDouble Heat Sink
 Right Arm:
 Shoulder
 Upper Arm Actuator
-Lower Arm Actuator
-Hand Actuator
-ISStreakSRM6
-ISStreakSRM6
-ISStreakSRM6
-ISStreakSRM6
--Empty-
+ISSBGR
+ISSBGR
+ISSBGR
+ISSBGR
+ISSBGR
+ISSBGR
+ISSBGR
 Light Ferro-Fibrous
 Light Ferro-Fibrous
 Light Ferro-Fibrous
@@ -75,22 +71,22 @@ Engine
 Engine
 ISImprovedC3CPU
 ISImprovedC3CPU
-Jump Jet
-Jump Jet
-ISERMediumLaser
-ISStreakSRM6 Ammo
-IS Ammo iNarc
-IS Ammo iNarc
-IS Ammo iNarc
-ISCASE
+ISSBGauss Ammo
+ISSBGauss Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 
 Right Torso:
 Engine
 Engine
-Jump Jet
-Jump Jet
-ISERMediumLaser
--Empty-
+ISCASEII
+ISLRM10
+ISLRM10
+ISLRM10 Ammo
 -Empty-
 -Empty-
 -Empty-
@@ -117,8 +113,8 @@ Life Support
 Sensors
 Cockpit
 Sensors
-ISGuardianECM
-ISGuardianECM
+ISMediumXPulseLaser
+ISMediumXPulseLaser
 
 Left Leg:
 Hip

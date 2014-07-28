@@ -1,10 +1,10 @@
 Version:1.1
-Adder
-J
+Puma (Adder)
+D
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:3070
+Era:3010
 Rules Level:2
 
 Mass:35
@@ -12,7 +12,7 @@ Engine:210 XL Fusion Engine
 Structure:Endo-Steel
 Myomer:Standard
 
-Heat Sinks:10 Double
+Heat Sinks:11 Double
 Base Chassis Heat Sinks: 10
 Walk MP:6
 Jump MP:0
@@ -30,20 +30,21 @@ RTL Armor:4
 RTR Armor:4
 RTC Armor:6
 
-Weapons:4
+Weapons:5
 1 CLFlamer, Center Torso
-1 CLHAG20, Right Arm, Ammo:18
+1 CLUltraAC10, Right Arm, Ammo:20
 1 CLERMediumLaser, Left Arm
-1 CLMediumPulseLaser, Left Arm
+1 CLERMediumLaser, Left Arm
+1 CLERMediumLaser, Left Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLMediumPulseLaser
+Lower Arm Actuator
+Hand Actuator
 CLERMediumLaser
--Empty-
--Empty-
--Empty-
+CLERMediumLaser
+CLERMediumLaser
 -Empty-
 -Empty-
 -Empty-
@@ -53,15 +54,15 @@ Ferro-Fibrous
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLHAG20
-CLHAG20
-CLHAG20
-CLHAG20
-CLHAG20
-CLHAG20
-CLHAG20 Ammo
-CLHAG20 Ammo
-CLHAG20 Ammo
+CLUltraAC10
+CLUltraAC10
+CLUltraAC10
+CLUltraAC10
+CLUltraAC10 Ammo
+CLUltraAC10 Ammo
+-Empty-
+-Empty-
+-Empty-
 Ferro-Fibrous
 
 Left Torso:
@@ -83,8 +84,8 @@ Engine
 Engine
 CLDouble Heat Sink
 CLDouble Heat Sink
--Empty-
--Empty-
+CLDouble Heat Sink
+CLDouble Heat Sink
 -Empty-
 -Empty-
 -Empty-

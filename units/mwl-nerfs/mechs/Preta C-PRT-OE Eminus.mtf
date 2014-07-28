@@ -1,45 +1,43 @@
-Version:1.0
-C-DVA-O Deva
-Exanimus
+Version:1.1
+Preta C-PRT-OE
+Eminus
 
-Config:Biped Omni
+Config:Biped Omnimech
 TechBase:Inner Sphere
-Era:3075
-Rules Level:4
+Era:3072
+Rules Level:3
 
-Mass:70
-Engine:280 Light Engine
+Mass:45
+Engine:270 Light Fusion Engine
 Structure:Endo-Steel
-Myomer:Standard
-Gyro:Heavy Duty Gyro
 Cockpit:Small Cockpit
+Myomer:Standard
 
-Heat Sinks:11 Double
-Walk MP:4
-Jump MP:4
+Heat Sinks:10 Double
+Base Chassis Heat Sinks: 10
+Walk MP:6
+Jump MP:6
 
 Armor:Standard Armor
-LA Armor:22
-RA Armor:22
-LT Armor:20
-RT Armor:20
-CT Armor:33
+LA Armor:13
+RA Armor:13
+LT Armor:16
+RT Armor:16
+CT Armor:20
 HD Armor:9
-LL Armor:30
-RL Armor:30
-RTL Armor:10
-RTR Armor:10
-RTC Armor:10
+LL Armor:20
+RL Armor:20
+RTL Armor:5
+RTR Armor:5
+RTC Armor:7
 
-Weapons:8
-1 ISImprovedC3CPU, Right Torso
-1 ISERSmallLaser (R), Left Torso (R)
+Weapons:6
+1 ISImprovedC3CPU, Center Torso
+1 ISImprovedNarc, Right Arm, Ammo:8
 1 ISERMediumLaser, Left Arm
 1 ISERMediumLaser, Left Arm
 1 ISERMediumLaser, Left Arm
-1 ISGuardianECM, Head
-1 ISLRM15, Right Arm, Ammo:48
-1 ISLRM15, Right Arm
+1 ISERSmallLaser, Head
 
 Left Arm:
 Shoulder
@@ -51,21 +49,21 @@ ISERMediumLaser
 ISERMediumLaser
 -Empty-
 -Empty-
--Empty-
+Endo-Steel
 Endo-Steel
 Endo-Steel
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISLRM15
-ISLRM15
-ISLRM15
-ISLRM15
-ISLRM15
-ISLRM15
-ISLRM15 Ammo
-ISLRM15 Ammo
+Lower Arm Actuator
+ISImprovedNarc
+ISImprovedNarc
+ISImprovedNarc
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
 Endo-Steel
 Endo-Steel
 
@@ -73,27 +71,27 @@ Left Torso:
 Engine
 Engine
 Jump Jet
-ISERSmallLaser (R)
+Jump Jet
+Jump Jet
 -Empty-
 -Empty-
 -Empty-
 -Empty-
-Endo-Steel
-Endo-Steel
+-Empty-
 Endo-Steel
 Endo-Steel
 
 Right Torso:
 Engine
 Engine
-ISImprovedC3CPU
-ISImprovedC3CPU
-Jump Jet
-ISLRM15 Ammo
-ISLRM15 Ammo
-ISLRM15 Ammo
-ISLRM15 Ammo
+IS Ammo iNarc
+IS Ammo iNarc
 ISCASE
+Jump Jet
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
 Endo-Steel
 Endo-Steel
 
@@ -108,16 +106,16 @@ Gyro
 Engine
 Engine
 Engine
-Jump Jet
-Jump Jet
+ISImprovedC3CPU
+ISImprovedC3CPU
 
 Head:
 Life Support
 Sensors
 Cockpit
 Sensors
-ISGuardianECM
-ISGuardianECM
+ISERSmallLaser
+ISTargeting Computer
 
 Left Leg:
 Hip

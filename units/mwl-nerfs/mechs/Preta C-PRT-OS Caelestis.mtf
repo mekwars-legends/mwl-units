@@ -1,44 +1,45 @@
 Version:1.1
-C-DVA-O Deva
-Invictus
+Preta C-PRT-OS
+Caelestis
 
 Config:Biped Omnimech
 TechBase:Inner Sphere
 Era:3069
 Rules Level:2
 
-Mass:70
-Engine:280 Light Fusion Engine
+Mass:45
+Engine:270 Light Fusion Engine
 Structure:Endo-Steel
-Gyro:Heavy Duty Gyro
 Cockpit:Small Cockpit
 Myomer:Standard
 
-Heat Sinks:11 Double
-Base Chassis Heat Sinks: 11
-Walk MP:4
+Heat Sinks:10 Double
+Base Chassis Heat Sinks: 10
+Walk MP:6
 Jump MP:0
 
 Armor:Standard Armor
-LA Armor:22
-RA Armor:22
-LT Armor:20
-RT Armor:20
-CT Armor:33
+LA Armor:13
+RA Armor:13
+LT Armor:16
+RT Armor:16
+CT Armor:20
 HD Armor:9
-LL Armor:30
-RL Armor:30
-RTL Armor:10
-RTR Armor:10
-RTC Armor:10
+LL Armor:20
+RL Armor:20
+RTL Armor:5
+RTR Armor:5
+RTC Armor:7
 
-Weapons:6
-1 ISImprovedC3CPU, Right Torso
+Weapons:8
+1 ISImprovedC3CPU, Center Torso
+1 ISGuardianECM, Head
+1 ISERMediumLaser, Right Torso
+1 ISERMediumLaser, Left Torso
+1 ISImprovedNarc, Left Torso, Ammo:8
+1 ISERSmallLaser, Right Arm
+1 ISERSmallLaser, Right Arm
 1 Retractable Blade, Left Arm
-1 ISLightPPC, Right Torso
-1 ISLightPPC, Left Torso
-1 ISLightPPC, Head
-1 ISUltraAC10, Right Arm, Ammo:30
 
 Left Arm:
 Shoulder
@@ -49,50 +50,50 @@ Retractable Blade
 Retractable Blade
 Retractable Blade
 Retractable Blade
-Retractable Blade
 -Empty-
+Endo-Steel
 Endo-Steel
 Endo-Steel
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISUltraAC10
-ISUltraAC10
-ISUltraAC10
-ISUltraAC10
-ISUltraAC10
-ISUltraAC10
-ISUltraAC10
+Lower Arm Actuator
+Hand Actuator
+ISERSmallLaser
+ISERSmallLaser
 -Empty-
+-Empty-
+-Empty-
+Endo-Steel
 Endo-Steel
 Endo-Steel
 
 Left Torso:
 Engine
 Engine
-ISLightPPC
-ISLightPPC
+ISERMediumLaser
+ISImprovedNarc
+ISImprovedNarc
+ISImprovedNarc
+IS Ammo iNarc
+IS Ammo iNarc
 -Empty-
--Empty-
--Empty-
--Empty-
-Endo-Steel
-Endo-Steel
+ISCASE
 Endo-Steel
 Endo-Steel
 
 Right Torso:
 Engine
 Engine
-ISImprovedC3CPU
-ISImprovedC3CPU
-ISLightPPC
-ISLightPPC
-ISUltraAC10 Ammo
-ISUltraAC10 Ammo
-ISUltraAC10 Ammo
-ISCASE
+ISERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 Endo-Steel
 Endo-Steel
 
@@ -107,16 +108,16 @@ Gyro
 Engine
 Engine
 Engine
--Empty-
--Empty-
+ISImprovedC3CPU
+ISImprovedC3CPU
 
 Head:
 Life Support
 Sensors
 Cockpit
 Sensors
-ISLightPPC
-ISLightPPC
+ISGuardianECM
+ISGuardianECM
 
 Left Leg:
 Hip
