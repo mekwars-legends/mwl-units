@@ -1,42 +1,45 @@
 Version:1.1
-Fire Moth
-E
+Puma (Adder)
+Prime
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:3070
-Rules Level:3
+Era:3010
+Rules Level:2
 
-Mass:20
-Engine:200 XL Fusion Engine
+Mass:35
+Engine:210 XL Fusion Engine
 Structure:Endo-Steel
 Myomer:Standard
 
-Heat Sinks:10 Double
+Heat Sinks:14 Double
 Base Chassis Heat Sinks: 10
-Walk MP:10
+Walk MP:6
 Jump MP:0
 
 Armor:Ferro-Fibrous
-LA Armor:4
-RA Armor:4
-LT Armor:6
-RT Armor:6
-CT Armor:9
-HD Armor:8
-LL Armor:7
-RL Armor:7
-RTL Armor:2
-RTR Armor:2
-RTC Armor:2
+LA Armor:12
+RA Armor:12
+LT Armor:12
+RT Armor:12
+CT Armor:16
+HD Armor:9
+LL Armor:14
+RL Armor:14
+RTL Armor:4
+RTR Armor:4
+RTC Armor:6
 
-Weapons:1
-1 CLATM6, Right Arm, Ammo:30
+Weapons:3
+1 CLFlamer, Center Torso
+1 CLLargePulseLaser, Right Arm
+1 CLERPPC, Left Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
--Empty-
+CLERPPC
+CLERPPC
 -Empty-
 -Empty-
 -Empty-
@@ -45,49 +48,48 @@ Upper Arm Actuator
 -Empty-
 -Empty-
 Ferro-Fibrous
-Endo-Steel
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-Lower Arm Actuator
-Hand Actuator
-CLATM6
-CLATM6
-CLATM6
-CLATM6 Ammo
-CLATM6 ER Ammo
-CLATM6 HE Ammo
+CLLargePulseLaser
+CLLargePulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 Ferro-Fibrous
-Endo-Steel
 
 Left Torso:
 Engine
 Engine
 CLDouble Heat Sink
 CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
 -Empty-
--Empty-
--Empty-
--Empty-
--Empty-
-Ferro-Fibrous
-Ferro-Fibrous
 Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
 
 Right Torso:
 Engine
 Engine
 CLDouble Heat Sink
 CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
 -Empty-
--Empty-
--Empty-
--Empty-
--Empty-
-Ferro-Fibrous
-Ferro-Fibrous
 Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
 
 Center Torso:
 Engine
@@ -100,7 +102,7 @@ Gyro
 Engine
 Engine
 Engine
--Empty-
+CLFlamer
 Endo-Steel
 
 Head:
@@ -116,7 +118,7 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
+Endo-Steel
 Endo-Steel
 
 Right Leg:
@@ -124,5 +126,5 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
+Endo-Steel
 Endo-Steel

@@ -1,20 +1,21 @@
-Version:1.0
-C-GRG-O Grigori
-Caelestis
+Version:1.1
+Grigori C-GRG-O
+Invictus
 
-Config:Biped Omni
+Config:Biped Omnimech
 TechBase:Inner Sphere
-Era:3075
-Rules Level:4
+Era:3069
+Rules Level:2
 
 Mass:60
-Engine:240 Light Engine
+Engine:240 Light Fusion Engine
 Structure:Standard
-Myomer:Standard
 Gyro:XL Gyro
 Cockpit:Small Cockpit
+Myomer:Standard
 
 Heat Sinks:10 Double
+Base Chassis Heat Sinks: 10
 Walk MP:4
 Jump MP:0
 
@@ -31,22 +32,23 @@ RTL Armor:6
 RTR Armor:6
 RTC Armor:9
 
-Weapons:5
+Weapons:6
 1 ISImprovedC3CPU, Left Torso
-1 ISSBGR, Right Arm, Ammo:16
-1 ISMediumXPulseLaser, Head
-1 ISMediumXPulseLaser, Head
-1 ISLRM10, Right Torso, Ammo:12
+1 Retractable Blade, Left Arm
+1 ISLRM15, Left Torso, Ammo:16
+1 ISLightPPC, Head
+1 ISMML7, Left Torso, Ammo:51
+1 ISMML7, Right Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
--Empty-
--Empty-
--Empty-
--Empty-
+Retractable Blade
+Retractable Blade
+Retractable Blade
+Retractable Blade
 -Empty-
 ISDouble Heat Sink
 ISDouble Heat Sink
@@ -55,13 +57,13 @@ ISDouble Heat Sink
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISSBGR
-ISSBGR
-ISSBGR
-ISSBGR
-ISSBGR
-ISSBGR
-ISSBGR
+Lower Arm Actuator
+ISMML7
+ISMML7
+ISMML7
+ISMML7
+-Empty-
+-Empty-
 Light Ferro-Fibrous
 Light Ferro-Fibrous
 Light Ferro-Fibrous
@@ -71,24 +73,24 @@ Engine
 Engine
 ISImprovedC3CPU
 ISImprovedC3CPU
-ISSBGauss Ammo
-ISSBGauss Ammo
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
+ISLRM15
+ISLRM15
+ISLRM15
+ISMML7
+ISMML7
+ISMML7
+ISMML7
 -Empty-
 
 Right Torso:
 Engine
 Engine
-ISCASEII
-ISLRM10
-ISLRM10
-ISLRM10 Ammo
--Empty-
--Empty-
+ISLRM15 Ammo
+ISLRM15 Ammo
+ISMML7 LRM Ammo
+ISMML7 SRM Ammo
+ISMML7 SRM Ammo
+ISCASE
 -Empty-
 -Empty-
 -Empty-
@@ -113,8 +115,8 @@ Life Support
 Sensors
 Cockpit
 Sensors
-ISMediumXPulseLaser
-ISMediumXPulseLaser
+ISLightPPC
+ISLightPPC
 
 Left Leg:
 Hip

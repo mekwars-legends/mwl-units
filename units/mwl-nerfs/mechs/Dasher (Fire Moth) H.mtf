@@ -1,69 +1,73 @@
 Version:1.1
-Adder
-D
+Dasher (Fire Moth)
+H
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:3010
-Rules Level:2
+Era:3070
+Rules Level:3
 
-Mass:35
-Engine:210 XL Fusion Engine
+Mass:20
+Engine:200 XL Fusion Engine
 Structure:Endo-Steel
 Myomer:Standard
 
 Heat Sinks:11 Double
 Base Chassis Heat Sinks: 10
-Walk MP:6
+Walk MP:10
 Jump MP:0
 
 Armor:Ferro-Fibrous
-LA Armor:12
-RA Armor:12
-LT Armor:12
-RT Armor:12
-CT Armor:16
-HD Armor:9
-LL Armor:14
-RL Armor:14
-RTL Armor:4
-RTR Armor:4
-RTC Armor:6
+LA Armor:4
+RA Armor:4
+LT Armor:6
+RT Armor:6
+CT Armor:9
+HD Armor:8
+LL Armor:7
+RL Armor:7
+RTL Armor:2
+RTR Armor:2
+RTC Armor:2
 
-Weapons:5
-1 CLFlamer, Center Torso
-1 CLUltraAC10, Right Arm, Ammo:20
-1 CLERMediumLaser, Left Arm
-1 CLERMediumLaser, Left Arm
-1 CLERMediumLaser, Left Arm
+Weapons:9
+1 CLHeavySmallLaser, Left Arm
+1 CLHeavySmallLaser, Left Arm
+1 CLHeavySmallLaser, Left Arm
+1 CLHeavySmallLaser, Left Arm
+1 CLHeavySmallLaser, Right Arm
+1 CLHeavySmallLaser, Right Arm
+1 CLHeavySmallLaser, Right Arm
+1 CLHeavySmallLaser, Right Arm
+1 CLHeavySmallLaser, Right Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
--Empty-
--Empty-
+CLHeavySmallLaser
+CLHeavySmallLaser
+CLHeavySmallLaser
+CLHeavySmallLaser
 -Empty-
 -Empty-
 Ferro-Fibrous
+Endo-Steel
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLUltraAC10
-CLUltraAC10
-CLUltraAC10
-CLUltraAC10
-CLUltraAC10 Ammo
-CLUltraAC10 Ammo
--Empty-
--Empty-
+Lower Arm Actuator
+Hand Actuator
+CLHeavySmallLaser
+CLHeavySmallLaser
+CLHeavySmallLaser
+CLHeavySmallLaser
+CLHeavySmallLaser
 -Empty-
 Ferro-Fibrous
+Endo-Steel
 
 Left Torso:
 Engine
@@ -75,9 +79,9 @@ CLDouble Heat Sink
 -Empty-
 -Empty-
 -Empty-
+Ferro-Fibrous
+Ferro-Fibrous
 Endo-Steel
-Ferro-Fibrous
-Ferro-Fibrous
 
 Right Torso:
 Engine
@@ -86,12 +90,12 @@ CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
+CLTargeting Computer
 -Empty-
 -Empty-
--Empty-
+Ferro-Fibrous
+Ferro-Fibrous
 Endo-Steel
-Ferro-Fibrous
-Ferro-Fibrous
 
 Center Torso:
 Engine
@@ -104,7 +108,7 @@ Gyro
 Engine
 Engine
 Engine
-CLFlamer
+-Empty-
 Endo-Steel
 
 Head:
@@ -120,7 +124,7 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Endo-Steel
+-Empty-
 Endo-Steel
 
 Right Leg:
@@ -128,5 +132,5 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Endo-Steel
+-Empty-
 Endo-Steel

@@ -1,6 +1,6 @@
 Version:1.1
-Executioner
-Prime
+Gladiator (Executioner)
+E
 
 Config:Biped Omnimech
 TechBase:Clan
@@ -12,7 +12,7 @@ Engine:380 XL Fusion Engine
 Structure:Endo-Steel
 Myomer:Standard
 
-Heat Sinks:18 Double
+Heat Sinks:17 Double
 Base Chassis Heat Sinks: 15
 Walk MP:4
 Jump MP:4
@@ -30,27 +30,30 @@ RTL Armor:10
 RTR Armor:10
 RTC Armor:15
 
-Weapons:6
+Weapons:9
+1 CLATM9, Left Arm, Ammo:42
+1 CLATM9, Left Arm
 1 CLERLargeLaser, Right Arm
 1 CLERLargeLaser, Right Arm
-1 CLERLargeLaser, Right Arm
-1 CLGaussRifle, Left Arm, Ammo:16
-1 CLMGA, Left Torso, Ammo:200
-1 CLMGA, Right Torso
+1 CLHeavyMediumLaser, Right Torso
+1 CLHeavyMediumLaser, Right Torso
+1 CLHeavyMediumLaser, Right Torso
+1 CLMGA, Right Arm, Ammo:200
+1 CLERMediumLaser, Right Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGauss Ammo
-CLGauss Ammo
-CLMG Ammo (100)
--Empty-
+Lower Arm Actuator
+Hand Actuator
+CLATM9
+CLATM9
+CLATM9
+CLATM9
+CLATM9
+CLATM9
+CLATM9
+CLATM9
 
 Right Arm:
 Shoulder
@@ -59,38 +62,38 @@ Lower Arm Actuator
 Hand Actuator
 CLERLargeLaser
 CLERLargeLaser
-CLERLargeLaser
-CLDouble Heat Sink
-CLDouble Heat Sink
--Empty-
--Empty-
--Empty-
-
-Left Torso:
-Engine
-Engine
 CLMGA
 CLMG
 CLMG
 CLMG
+CLMG Ammo (100)
+CLERMediumLaser
+
+Left Torso:
+Engine
+Engine
+CLATM9 Ammo
+CLATM9 Ammo
+CLATM9 Ammo
+CLATM9 Ammo
+CLATM9 Ammo
+CLATM9 Ammo
 CLDouble Heat Sink
 CLDouble Heat Sink
--Empty-
--Empty-
 Endo-Steel
 Endo-Steel
 
 Right Torso:
 Engine
 Engine
-CLMGA
-CLMG
-CLMG
-CLMG
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLHeavyMediumLaser
 CLDouble Heat Sink
 CLDouble Heat Sink
--Empty-
--Empty-
 Endo-Steel
 Endo-Steel
 

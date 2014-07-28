@@ -1,6 +1,6 @@
 Version:1.1
-Fire Moth
-D
+Dasher (Fire Moth)
+K
 
 Config:Biped Omnimech
 TechBase:Clan
@@ -12,7 +12,7 @@ Engine:200 XL Fusion Engine
 Structure:Endo-Steel
 Myomer:Standard
 
-Heat Sinks:11 Double
+Heat Sinks:10 Double
 Base Chassis Heat Sinks: 10
 Walk MP:10
 Jump MP:0
@@ -30,24 +30,25 @@ RTL Armor:2
 RTR Armor:2
 RTC Armor:2
 
-Weapons:5
-1 CLERMediumLaser, Left Arm
-1 CLERMediumLaser, Left Arm
-1 CLERMediumLaser, Right Arm
-1 CLERMediumLaser, Right Arm
-1 CLFlamer, Right Torso
+Weapons:6
+1 CLHeavyMediumLaser, Left Arm
+1 CLHeavyMediumLaser, Right Arm
+1 CLLMGA, Left Arm, Ammo:200
+1 CLLMGA, Right Arm
+1 CLBPod, Left Leg
+1 CLBPod, Right Leg
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLERMediumLaser
-CLERMediumLaser
--Empty-
--Empty-
--Empty-
--Empty-
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLLMGA
+CLLightMG
+CLLightMG
+CLLightMG
 Ferro-Fibrous
 Endo-Steel
 
@@ -56,12 +57,12 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLERMediumLaser
-CLERMediumLaser
--Empty-
--Empty-
--Empty-
--Empty-
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLLMGA
+CLLightMG
+CLLightMG
+CLLightMG
 Ferro-Fibrous
 Endo-Steel
 
@@ -70,8 +71,8 @@ Engine
 Engine
 CLDouble Heat Sink
 CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
+CLLightMG Ammo (100)
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -84,7 +85,7 @@ Engine
 Engine
 CLDouble Heat Sink
 CLDouble Heat Sink
-CLFlamer
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -104,7 +105,7 @@ Gyro
 Engine
 Engine
 Engine
-CLTargeting Computer
+-Empty-
 Endo-Steel
 
 Head:
@@ -120,7 +121,7 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
+CLBPod
 Endo-Steel
 
 Right Leg:
@@ -128,5 +129,5 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
+CLBPod
 Endo-Steel
