@@ -1,6 +1,6 @@
 Version:1.1
-Fire Moth
-D
+Dasher (Fire Moth)
+H
 
 Config:Biped Omnimech
 TechBase:Clan
@@ -30,22 +30,26 @@ RTL Armor:2
 RTR Armor:2
 RTC Armor:2
 
-Weapons:5
-1 CLERMediumLaser, Left Arm
-1 CLERMediumLaser, Left Arm
-1 CLERMediumLaser, Right Arm
-1 CLERMediumLaser, Right Arm
-1 CLFlamer, Right Torso
+Weapons:9
+1 CLHeavySmallLaser, Left Arm
+1 CLHeavySmallLaser, Left Arm
+1 CLHeavySmallLaser, Left Arm
+1 CLHeavySmallLaser, Left Arm
+1 CLHeavySmallLaser, Right Arm
+1 CLHeavySmallLaser, Right Arm
+1 CLHeavySmallLaser, Right Arm
+1 CLHeavySmallLaser, Right Arm
+1 CLHeavySmallLaser, Right Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLERMediumLaser
-CLERMediumLaser
--Empty-
--Empty-
+CLHeavySmallLaser
+CLHeavySmallLaser
+CLHeavySmallLaser
+CLHeavySmallLaser
 -Empty-
 -Empty-
 Ferro-Fibrous
@@ -56,11 +60,11 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLERMediumLaser
-CLERMediumLaser
--Empty-
--Empty-
--Empty-
+CLHeavySmallLaser
+CLHeavySmallLaser
+CLHeavySmallLaser
+CLHeavySmallLaser
+CLHeavySmallLaser
 -Empty-
 Ferro-Fibrous
 Endo-Steel
@@ -70,8 +74,8 @@ Engine
 Engine
 CLDouble Heat Sink
 CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -84,9 +88,9 @@ Engine
 Engine
 CLDouble Heat Sink
 CLDouble Heat Sink
-CLFlamer
--Empty-
--Empty-
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLTargeting Computer
 -Empty-
 -Empty-
 Ferro-Fibrous
@@ -104,7 +108,7 @@ Gyro
 Engine
 Engine
 Engine
-CLTargeting Computer
+-Empty-
 Endo-Steel
 
 Head:

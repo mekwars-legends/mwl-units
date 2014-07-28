@@ -1,6 +1,6 @@
 Version:1.1
-Fire Moth
-F
+Dasher (Fire Moth)
+K
 
 Config:Biped Omnimech
 TechBase:Clan
@@ -30,40 +30,39 @@ RTL Armor:2
 RTR Armor:2
 RTC Armor:2
 
-Weapons:7
-1 CLERMediumLaser, Left Arm
-1 CLERMediumLaser, Left Arm
-1 CLERMediumLaser, Left Arm
-1 CLAPGaussRifle, Right Arm, Ammo:40
-1 CLAPGaussRifle, Right Arm
-1 CLAPGaussRifle, Right Arm
-1 CLActiveProbe, Left Torso
+Weapons:6
+1 CLHeavyMediumLaser, Left Arm
+1 CLHeavyMediumLaser, Right Arm
+1 CLLMGA, Left Arm, Ammo:200
+1 CLLMGA, Right Arm
+1 CLBPod, Left Leg
+1 CLBPod, Right Leg
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
--Empty-
--Empty-
--Empty-
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLLMGA
+CLLightMG
+CLLightMG
+CLLightMG
 Ferro-Fibrous
 Endo-Steel
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLAPGaussRifle
-CLAPGaussRifle
-CLAPGaussRifle
-Clan AP Gauss Rifle Ammo
--Empty-
--Empty-
--Empty-
--Empty-
+Lower Arm Actuator
+Hand Actuator
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLLMGA
+CLLightMG
+CLLightMG
+CLLightMG
 Ferro-Fibrous
 Endo-Steel
 
@@ -72,7 +71,7 @@ Engine
 Engine
 CLDouble Heat Sink
 CLDouble Heat Sink
-CLActiveProbe
+CLLightMG Ammo (100)
 -Empty-
 -Empty-
 -Empty-
@@ -122,7 +121,7 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
+CLBPod
 Endo-Steel
 
 Right Leg:
@@ -130,5 +129,5 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
+CLBPod
 Endo-Steel

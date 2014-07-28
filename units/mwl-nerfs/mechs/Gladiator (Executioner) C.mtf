@@ -1,6 +1,6 @@
 Version:1.1
-Executioner
-H
+Gladiator (Executioner)
+C
 
 Config:Biped Omnimech
 TechBase:Clan
@@ -12,7 +12,7 @@ Engine:380 XL Fusion Engine
 Structure:Endo-Steel
 Myomer:Standard
 
-Heat Sinks:20 Double
+Heat Sinks:15 Double
 Base Chassis Heat Sinks: 15
 Walk MP:4
 Jump MP:4
@@ -30,41 +30,39 @@ RTL Armor:10
 RTR Armor:10
 RTC Armor:15
 
-Weapons:6
-1 CLHeavyLargeLaser, Left Arm
-1 CLUltraAC20, Right Arm, Ammo:15
-1 CLLightTAG, Left Arm
-1 CLHeavyMediumLaser, Left Torso
-1 CLHeavyMediumLaser, Left Arm
-1 CLHeavyMediumLaser, Right Torso
+Weapons:4
+1 CLUltraAC20, Left Arm, Ammo:15
+1 CLLRM15, Right Arm, Ammo:32
+1 CLLRM15, Right Arm
+1 CLERSmallLaser, Right Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLHeavyLargeLaser
-CLHeavyLargeLaser
-CLHeavyLargeLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLLightTAG
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+-Empty-
+-Empty-
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLUltraAC20
-CLUltraAC20
-CLUltraAC20
-CLUltraAC20
-CLUltraAC20
-CLUltraAC20
-CLUltraAC20
-CLUltraAC20
-CLDouble Heat Sink
-CLDouble Heat Sink
+CLLRM15
+CLLRM15
+CLArtemisIV
+CLLRM15
+CLLRM15
+CLArtemisIV
+CLLRM15 Ammo
+CLLRM15 Ammo
+CLLRM15 Ammo
+CLLRM15 Ammo
 
 Left Torso:
 Engine
@@ -72,24 +70,24 @@ Engine
 CLTargeting Computer
 CLTargeting Computer
 CLTargeting Computer
-CLTargeting Computer
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLDouble Heat Sink
-CLDouble Heat Sink
+CLUltraAC20 Ammo
+CLUltraAC20 Ammo
+CLUltraAC20 Ammo
+-Empty-
+-Empty-
 Endo-Steel
 Endo-Steel
 
 Right Torso:
 Engine
 Engine
-CLUltraAC20 Ammo
-CLUltraAC20 Ammo
-CLUltraAC20 Ammo
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLHeavyMediumLaser
-CLHeavyMediumLaser
+CLERSmallLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 Endo-Steel
 Endo-Steel

@@ -1,6 +1,6 @@
 Version:1.1
-Fire Moth
-Prime
+Dasher (Fire Moth)
+E
 
 Config:Biped Omnimech
 TechBase:Clan
@@ -30,19 +30,16 @@ RTL Armor:2
 RTR Armor:2
 RTC Armor:2
 
-Weapons:4
-1 CLERMediumLaser, Left Arm
-1 CLERMediumLaser, Left Arm
-1 CLSRM6, Right Arm, Ammo:15
-1 CLSRM4, Right Torso, Ammo:25
+Weapons:1
+1 CLATM6, Right Arm, Ammo:30
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-Lower Arm Actuator
-Hand Actuator
-CLERMediumLaser
-CLERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -55,12 +52,12 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLSRM6
-CLSRM6 Ammo
--Empty-
--Empty-
--Empty-
--Empty-
+CLATM6
+CLATM6
+CLATM6
+CLATM6 Ammo
+CLATM6 ER Ammo
+CLATM6 HE Ammo
 Ferro-Fibrous
 Endo-Steel
 
@@ -83,8 +80,8 @@ Engine
 Engine
 CLDouble Heat Sink
 CLDouble Heat Sink
-CLSRM4
-CLSRM4 Ammo
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 -Empty-
