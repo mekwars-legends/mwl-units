@@ -152,14 +152,14 @@ Arcas 2A.mtf	MWL
 Arcas 3.mtf	MM
 Arcas.mtf	MM
 Archangel C-ANG-O Berith.mtf	MM
-Archangel C-ANG-O Comminus.mtf*	MWL
-Archangel C-ANG-O Dominus.mtf*	MWL
-Archangel C-ANG-O Eminus.mtf*	MWL
+Archangel C-ANG-O Comminus.mtf	MWL
+Archangel C-ANG-O Dominus.mtf	MWL
+Archangel C-ANG-O Eminus.mtf	MWL
 Archangel C-ANG-O Infernus II.mtf	MWL
-Archangel C-ANG-O Infernus.mtf*	MWL
+Archangel C-ANG-O Infernus.mtf	MWL
 Archangel C-ANG-O Invictus II.mtf	MWL
 Archangel C-ANG-O Invictus.mtf	MM
-Archangel C-ANG-O Luminos.mtf*	MWL
+Archangel C-ANG-O Luminos.mtf	MWL
 Archangel C-ANG-O Zuriel.mtf	MWL
 Archangel C-ANG-OA Dominus.mtf	MM
 Archangel C-ANG-OB Infernus.mtf	MM
@@ -1769,16 +1769,16 @@ Fire Falcon H.mtf	MM
 Fire Falcon Prime.mtf	MM
 Fire Falcon V.mtf	MWL
 Fire Javelin JVN-11N.mtf	MWL
-Fire Moth A.mtf*	MWL
-Fire Moth B.mtf*	MWL
-Fire Moth C.mtf*	MWL
-Fire Moth D.mtf*	MWL
-Fire Moth E.mtf*	MWL
-Fire Moth F.mtf*	MWL
-Fire Moth G.mtf*	MWL
-Fire Moth H.mtf*	MWL
-Fire Moth K.mtf*	MWL
-Fire Moth Prime.mtf*	MWL
+Fire Moth A.mtf	MWL
+Fire Moth B.mtf	MWL
+Fire Moth C.mtf	MWL
+Fire Moth D.mtf	MWL
+Fire Moth E.mtf	MWL
+Fire Moth F.mtf	MWL
+Fire Moth G.mtf	MWL
+Fire Moth H.mtf	MWL
+Fire Moth K.mtf	MWL
+Fire Moth Prime.mtf	MWL
 Fire Scorpion .mtf	MM
 Fire Scorpion 2.mtf	MM
 Fire Scorpion 3.mtf	MM
@@ -3076,7 +3076,7 @@ Koshi (Mist Lynx) G.mtf	MM
 Koshi (Mist Lynx) H.mtf	MM
 Koshi (Mist Lynx) P.mtf	MM
 Koshi (Mist Lynx) Prime.mtf	MM
-Koshi (Mist Lynx) S.mtf*	MWL
+Koshi (Mist Lynx) S.mtf	MWL
 Koshi (Mist Lynx) Z.mtf	MM
 Koshi (Standard) 2.mtf	MM
 Koshi (Standard) 3.mtf	MM
@@ -3825,9 +3825,9 @@ No-Dachi NDA-2KO.mtf	MM
 No-Dachi NDA-3K.mtf	MWL
 No-Dachi NDA-3S.mtf	MM
 No-Dachi NDA-4X.mtf	MWL
-Nova A.mtf*	MWL
-Nova B.mtf*	MWL
-Nova C.mtf*	MWL
+Nova A.mtf	MWL
+Nova B.mtf	MWL
+Nova C.mtf	MWL
 Nova Cat A.mtf	MM
 Nova Cat B.mtf	MM
 Nova Cat C.mtf	MM
