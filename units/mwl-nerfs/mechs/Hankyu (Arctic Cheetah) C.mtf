@@ -1,6 +1,6 @@
 Version:1.1
-Hankyu
-E
+Hankyu (Arctic Cheetah)
+C
 
 Config:Biped Omnimech
 TechBase:Clan
@@ -12,10 +12,10 @@ Engine:240 XL Fusion Engine
 Structure:Endo-Steel
 Myomer:Standard
 
-Heat Sinks:10 Double
+Heat Sinks:11 Double
 Base Chassis Heat Sinks: 10
 Walk MP:8
-Jump MP:6
+Jump MP:8
 
 Armor:Ferro-Fibrous
 LA Armor:7
@@ -31,12 +31,12 @@ RTR Armor:4
 RTC Armor:5
 
 Weapons:6
-1 CLLMGA, Left Arm, Ammo:400
-1 CLLMGA, Right Arm
-1 CLMediumPulseLaser, Left Torso
-1 CLMediumPulseLaser, Right Torso
-1 CLSmallPulseLaser, Right Torso
-1 CLSmallPulseLaser, Left Torso
+1 CLERMediumLaser, Left Arm
+1 CLERMediumLaser, Right Arm
+1 CLMediumPulseLaser, Left Arm
+1 CLMediumPulseLaser, Right Arm
+1 CLActiveProbe, Left Torso
+1 CLLightTAG, Left Torso
 
 Left Arm:
 Shoulder
@@ -45,12 +45,12 @@ Lower Arm Actuator
 Hand Actuator
 Endo-Steel
 Ferro-Fibrous
-CLLMGA
-CLLightMG
-CLLightMG
-CLLightMG
-CLLightMG
-CLLightMG Ammo (100)
+CLMediumPulseLaser
+CLERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 
 Right Arm:
 Shoulder
@@ -59,12 +59,12 @@ Lower Arm Actuator
 Hand Actuator
 Endo-Steel
 Ferro-Fibrous
-CLLMGA
-CLLightMG
-CLLightMG
-CLLightMG
-CLLightMG
-CLLightMG Ammo (100)
+CLMediumPulseLaser
+CLERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 
 Left Torso:
 Engine
@@ -74,9 +74,9 @@ Endo-Steel
 Endo-Steel
 Ferro-Fibrous
 Ferro-Fibrous
-CLMediumPulseLaser
-CLSmallPulseLaser
--Empty-
+Jump Jet
+CLActiveProbe
+CLLightTAG
 -Empty-
 -Empty-
 
@@ -89,9 +89,9 @@ Endo-Steel
 Endo-Steel
 Ferro-Fibrous
 Ferro-Fibrous
-CLMediumPulseLaser
-CLSmallPulseLaser
--Empty-
+Jump Jet
+CLDouble Heat Sink
+CLDouble Heat Sink
 -Empty-
 
 Center Torso:

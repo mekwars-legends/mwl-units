@@ -1,6 +1,6 @@
 Version:1.1
-Grendel
-D
+Grendel (Mongrel)
+Prime
 
 Config:Biped Omnimech
 TechBase:Clan
@@ -12,7 +12,7 @@ Engine:315 XL Fusion Engine
 Structure:Endo-Steel
 Myomer:Standard
 
-Heat Sinks:13 Double
+Heat Sinks:12 Double
 Base Chassis Heat Sinks: 10
 Walk MP:7
 Jump MP:7
@@ -30,12 +30,13 @@ RTL Armor:6
 RTR Armor:6
 RTC Armor:9
 
-Weapons:5
-1 CLMediumPulseLaser, Left Arm
+Weapons:6
 1 CLERMediumLaser, Left Arm
-1 CLHeavyLargeLaser, Right Torso
-1 CLERMediumLaser, Right Arm
-1 CLERSmallLaser, Right Arm
+1 CLERMediumLaser, Left Arm
+1 CLERMediumLaser, Head
+1 CLStreakSRM6, Right Torso, Ammo:30
+1 CLStreakSRM6, Right Arm
+1 CLFlamer, Center Torso
 
 Left Arm:
 Shoulder
@@ -43,7 +44,7 @@ Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
 CLERMediumLaser
-CLMediumPulseLaser
+CLERMediumLaser
 -Empty-
 -Empty-
 Ferro-Fibrous
@@ -54,10 +55,10 @@ Ferro-Fibrous
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLERMediumLaser
-CLERSmallLaser
-CLDouble Heat Sink
-CLDouble Heat Sink
+CLStreakSRM6
+CLStreakSRM6
+CLStreakSRM6 Ammo
+-Empty-
 -Empty-
 -Empty-
 Endo-Steel
@@ -71,8 +72,8 @@ Engine
 Jump Jet
 CLDouble Heat Sink
 CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 Endo-Steel
@@ -83,11 +84,11 @@ Right Torso:
 Engine
 Engine
 Jump Jet
-CLHeavyLargeLaser
-CLHeavyLargeLaser
-CLHeavyLargeLaser
-CLTargeting Computer
-CLTargeting Computer
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLStreakSRM6
+CLStreakSRM6
+CLStreakSRM6 Ammo
 -Empty-
 Endo-Steel
 Endo-Steel
@@ -105,13 +106,13 @@ Engine
 Engine
 Engine
 Jump Jet
--Empty-
+CLFlamer
 
 Head:
 Life Support
 Sensors
 Cockpit
--Empty-
+CLERMediumLaser
 Sensors
 Life Support
 

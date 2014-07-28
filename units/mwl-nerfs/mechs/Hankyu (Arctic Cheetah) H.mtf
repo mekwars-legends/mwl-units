@@ -1,6 +1,6 @@
 Version:1.1
-Hankyu
-B
+Hankyu (Arctic Cheetah)
+H
 
 Config:Biped Omnimech
 TechBase:Clan
@@ -12,7 +12,7 @@ Engine:240 XL Fusion Engine
 Structure:Endo-Steel
 Myomer:Standard
 
-Heat Sinks:10 Double
+Heat Sinks:13 Double
 Base Chassis Heat Sinks: 10
 Walk MP:8
 Jump MP:6
@@ -30,10 +30,12 @@ RTL Armor:4
 RTR Armor:4
 RTC Armor:5
 
-Weapons:3
-1 CLERMediumLaser, Left Arm
-1 CLMediumPulseLaser, Left Arm
-1 CLLRM15, Right Arm, Ammo:16
+Weapons:5
+1 CLHeavyMediumLaser, Right Arm
+1 CLHeavySmallLaser, Left Torso
+1 CLHeavySmallLaser, Left Torso
+1 CLHeavyLargeLaser, Left Arm
+1 CLFlamer, Right Torso
 
 Left Arm:
 Shoulder
@@ -42,11 +44,11 @@ Lower Arm Actuator
 Hand Actuator
 Endo-Steel
 Ferro-Fibrous
-CLERMediumLaser
-CLMediumPulseLaser
--Empty-
--Empty-
--Empty-
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
 -Empty-
 
 Right Arm:
@@ -56,11 +58,11 @@ Lower Arm Actuator
 Hand Actuator
 Endo-Steel
 Ferro-Fibrous
-CLLRM15
-CLLRM15
-CLArtemisIV
-CLLRM15 Ammo (Clan) Artemis-capable
-CLLRM15 Ammo (Clan) Artemis-capable
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 
 Left Torso:
@@ -71,10 +73,10 @@ Endo-Steel
 Endo-Steel
 Ferro-Fibrous
 Ferro-Fibrous
--Empty-
--Empty-
--Empty-
--Empty-
+CLHeavySmallLaser
+CLHeavySmallLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
 -Empty-
 
 Right Torso:
@@ -86,9 +88,9 @@ Endo-Steel
 Endo-Steel
 Ferro-Fibrous
 Ferro-Fibrous
--Empty-
--Empty-
--Empty-
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLFlamer
 -Empty-
 
 Center Torso:

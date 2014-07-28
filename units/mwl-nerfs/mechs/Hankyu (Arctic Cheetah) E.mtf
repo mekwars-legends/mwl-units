@@ -1,98 +1,98 @@
 Version:1.1
-Grendal
-Prime
+Hankyu (Arctic Cheetah)
+E
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:3053
+Era:3070
 Rules Level:2
 
-Mass:45
-Engine:315 XL Fusion Engine
+Mass:30
+Engine:240 XL Fusion Engine
 Structure:Endo-Steel
 Myomer:Standard
 
-Heat Sinks:12 Double
+Heat Sinks:10 Double
 Base Chassis Heat Sinks: 10
-Walk MP:7
-Jump MP:7
+Walk MP:8
+Jump MP:6
 
 Armor:Ferro-Fibrous
-LA Armor:12
-RA Armor:12
-LT Armor:16
-RT Armor:16
-CT Armor:18
+LA Armor:7
+RA Armor:7
+LT Armor:8
+RT Armor:8
+CT Armor:8
 HD Armor:9
-LL Armor:20
-RL Armor:20
-RTL Armor:6
-RTR Armor:6
-RTC Armor:9
+LL Armor:8
+RL Armor:8
+RTL Armor:4
+RTR Armor:4
+RTC Armor:5
 
 Weapons:6
-1 CLERMediumLaser, Left Arm
-1 CLERMediumLaser, Left Arm
-1 CLERMediumLaser, Head
-1 CLStreakSRM6, Right Torso, Ammo:30
-1 CLStreakSRM6, Right Arm
-1 CLFlamer, Center Torso
+1 CLLMGA, Left Arm, Ammo:400
+1 CLLMGA, Right Arm
+1 CLMediumPulseLaser, Left Torso
+1 CLMediumPulseLaser, Right Torso
+1 CLSmallPulseLaser, Right Torso
+1 CLSmallPulseLaser, Left Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLERMediumLaser
-CLERMediumLaser
--Empty-
--Empty-
+Endo-Steel
 Ferro-Fibrous
-Ferro-Fibrous
-Ferro-Fibrous
-Ferro-Fibrous
+CLLMGA
+CLLightMG
+CLLightMG
+CLLightMG
+CLLightMG
+CLLightMG Ammo (100)
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLStreakSRM6
-CLStreakSRM6
-CLStreakSRM6 Ammo
--Empty-
--Empty-
--Empty-
+Lower Arm Actuator
+Hand Actuator
 Endo-Steel
 Ferro-Fibrous
-Ferro-Fibrous
-Ferro-Fibrous
+CLLMGA
+CLLightMG
+CLLightMG
+CLLightMG
+CLLightMG
+CLLightMG Ammo (100)
 
 Left Torso:
 Engine
 Engine
-Jump Jet
-CLDouble Heat Sink
-CLDouble Heat Sink
--Empty-
--Empty-
--Empty-
--Empty-
 Endo-Steel
 Endo-Steel
 Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+CLMediumPulseLaser
+CLSmallPulseLaser
+-Empty-
+-Empty-
+-Empty-
 
 Right Torso:
 Engine
 Engine
-Jump Jet
 CLDouble Heat Sink
 CLDouble Heat Sink
-CLStreakSRM6
-CLStreakSRM6
-CLStreakSRM6 Ammo
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+CLMediumPulseLaser
+CLSmallPulseLaser
 -Empty-
-Endo-Steel
-Endo-Steel
-Endo-Steel
+-Empty-
 
 Center Torso:
 Engine
@@ -106,13 +106,13 @@ Engine
 Engine
 Engine
 Jump Jet
-CLFlamer
+Jump Jet
 
 Head:
 Life Support
 Sensors
 Cockpit
-CLERMediumLaser
+Ferro-Fibrous
 Sensors
 Life Support
 
